@@ -495,7 +495,7 @@ Para desligar esta funcionalidade, vá a Configurações &gt; Sons e vibração 
   <string name="sdcard_not_mounted_dialog_title">Não foi detectado nenhum cartão SD</string>
   <string name="search_hint_header_text">Pesquisa rápida</string>
   <string name="search_menu_title">Pesquisa</string>
-  <string name="selected_resource_file_invalid">Não é possível utilizar o ficheiro de recurso seleccionado</string>
+  <string name="selected_resource_file_invalid">Não é possível utilizar o arquivo de recurso seleccionado</string>
   <string name="server_internal_error">Ocorreu um erro de servidor. Tente novamente</string>
   <string name="set_color_ring_back_tone">Definir um toque personalizado</string>
   <string name="set_home_wallpaper_failed">%s. Não é possível aplicar o papel de parede</string>

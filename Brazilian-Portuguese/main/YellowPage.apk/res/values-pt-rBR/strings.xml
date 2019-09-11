@@ -44,7 +44,7 @@
   <string name="callrecordview_item_op_time_short_incoming">"Recebida: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Efectuada: "</string>
   <string name="check_network">Configurações de rede</string>
-  <string name="choose_upload">Escolher ficheiro para enviar</string>
+  <string name="choose_upload">Escolher arquivo para enviar</string>
   <string name="colon">": "</string>
   <string name="confirm_delete_all_call_log_title">excluir registos de chamadas?</string>
   <string name="confirm_delete_call_log_title">excluir registos de chamadas?</string>
@@ -66,8 +66,8 @@
   <string name="download_failed">Não foi possível transferir</string>
   <string name="download_failed_blocked">Não é possível ligar à rede</string>
   <string name="download_failed_cannot_resume">Não é possível transferir</string>
-  <string name="download_failed_file_exists">O ficheiro já existe</string>
-  <string name="download_failed_gone">O ficheiro não existe</string>
+  <string name="download_failed_file_exists">O arquivo já existe</string>
+  <string name="download_failed_gone">O arquivo não existe</string>
   <string name="download_failed_network">Não é possível ligar à rede</string>
   <string name="download_failed_server">Não foi possível transferir</string>
   <string name="download_failed_space">Sem espaço suficiente</string>

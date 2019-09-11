@@ -101,7 +101,7 @@
   <string name="delete_download">excluir</string>
   <string name="delete_file_as_well">excluir esta música permanentemente</string>
   <string name="delete_file_end">excluir permanentemente</string>
-  <string name="delete_file_error">Não foi possível excluir o ficheiro</string>
+  <string name="delete_file_error">Não foi possível excluir o arquivo</string>
   <string name="delete_file_start">excluir os arquivos seleccionados</string>
   <string name="deselect_all">Desmarcar tudo</string>
   <string name="desktop_lyric_button_close">Fechar</string>
@@ -118,11 +118,11 @@
   <string name="device_not_connected">Não ligado</string>
   <string name="dialog_cannot_resume">Transferência interrompida. Não pode ser transferida</string>
   <string name="dialog_clear_history">Limpar a lista de recentes?</string>
-  <string name="dialog_confirm_delete_checkbox_message">excluir ficheiro(s) do dispositivo</string>
-  <string name="dialog_failed_body">Quer voltar a transferir o ficheiro mais tarde ou eliminá-lo das transferências pendentes?</string>
-  <string name="dialog_file_already_exists">Não é possível transferir. O ficheiro de destino já existe</string>
-  <string name="dialog_file_missing_body">O ficheiro transferido não foi encontrado</string>
-  <string name="dialog_file_missing_title">Erro ao abrir ficheiro</string>
+  <string name="dialog_confirm_delete_checkbox_message">excluir arquivo(s) do dispositivo</string>
+  <string name="dialog_failed_body">Quer voltar a transferir o arquivo mais tarde ou eliminá-lo das transferências pendentes?</string>
+  <string name="dialog_file_already_exists">Não é possível transferir. O arquivo de destino já existe</string>
+  <string name="dialog_file_missing_body">O arquivo transferido não foi encontrado</string>
+  <string name="dialog_file_missing_title">Erro ao abrir arquivo</string>
   <string name="dialog_insufficient_space_on_cache">Sem espaço suficiente no armazenamento interno</string>
   <string name="dialog_insufficient_space_on_external">Sem espaço suficiente no armazenamento externo</string>
   <string name="dialog_media_not_found">Não é possível transferir. O dispositivo externo não está disponível</string>
@@ -130,7 +130,7 @@
   <string name="dialog_my_playlist_online_changed_message">A lista foi alterada. Pode substitui-la com a nova versão ou manter a antiga</string>
   <string name="dialog_my_playlist_online_changed_replace">Substituir</string>
   <string name="dialog_my_playlist_set_to_public">Compartilhar esta lista para Música</string>
-  <string name="dialog_queued_body">Este ficheiro foi adicionado à lista de transferências pendentes</string>
+  <string name="dialog_queued_body">Este arquivo foi adicionado à lista de transferências pendentes</string>
   <string name="dialog_song_sort_type">Ordenar por</string>
   <string name="dialog_song_sort_type_name">Nome</string>
   <string name="dialog_song_sort_type_playing_times">Número de vezes reproduzida</string>
@@ -175,7 +175,7 @@
   <string name="download_manage">Transferências</string>
   <string name="download_manage_item_complete">Concluídos</string>
   <string name="download_method">Transferir</string>
-  <string name="download_no_application_title">Não é possível abrir o ficheiro</string>
+  <string name="download_no_application_title">Não é possível abrir o arquivo</string>
   <string name="download_paused_in_power_save_mode">As transferências actuais estão em pausa devido à poupança de bateria</string>
   <string name="download_processing">A transferindo…</string>
   <string name="download_quality">Transferir qualidade</string>
@@ -256,7 +256,7 @@
   <string name="follow">Seguir</string>
   <string name="followed">A seguir</string>
   <string name="format_not_support">Este formato não é suportado</string>
-  <string name="format_unsupported_or_corrupted">Este formato não é suportado ou o ficheiro está corrompido</string>
+  <string name="format_unsupported_or_corrupted">Este formato não é suportado ou o arquivo está corrompido</string>
   <string name="fragment_title_artist_album">Álbuns</string>
   <string name="gcm_fallback_notification_channel_label">Diversos</string>
   <string name="go_to_settings">Ir para configurações</string>
@@ -463,8 +463,8 @@
   <string name="ready_to_play">A seguir</string>
   <string name="recently_played">Recentes</string>
   <string name="recently_played_songs">Recentes</string>
-  <string name="recommended_file_size_download_in_mobile">Utilizar %s de dados móveis para transferir este ficheiro?</string>
-  <string name="recommended_no_file_size_download_in_mobile">Utilizar ligação de dados móveis para transferir este ficheiro?</string>
+  <string name="recommended_file_size_download_in_mobile">Utilizar %s de dados móveis para transferir este arquivo?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Utilizar ligação de dados móveis para transferir este arquivo?</string>
   <string name="remove">Remover</string>
   <string name="remove_download">Remover</string>
   <string name="repeat_all_notif">A repetir todas as músicas</string>
@@ -527,8 +527,8 @@
   <string name="set_album_successful">O álbum foi definido com sucesso</string>
   <string name="set_as_ring">Definir como toque</string>
   <string name="set_id3_failed">Não é possível salvar informação</string>
-  <string name="set_id3_not_have_read_or_write_permission">Não tem permissão para editar este ficheiro</string>
-  <string name="set_id3_not_support_format">Não é possível editar o formato deste ficheiro</string>
+  <string name="set_id3_not_have_read_or_write_permission">Não tem permissão para editar este arquivo</string>
+  <string name="set_id3_not_support_format">Não é possível editar o formato deste arquivo</string>
   <string name="set_id3_successful">Informações da música guardadas</string>
   <string name="set_lyric_successful">A letra foi guardada</string>
   <string name="set_now">Ir para as Configurações</string>

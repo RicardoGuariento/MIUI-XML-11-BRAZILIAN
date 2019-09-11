@@ -6,10 +6,10 @@
     </plurals>
     <plurals name="notif_summary_active">
         <item quantity="other">%d arquivos transferidos</item>
-        <item quantity="one">1 ficheiro transferido</item>
+        <item quantity="one">1 arquivo transferido</item>
     </plurals>
     <plurals name="notif_summary_waiting">
         <item quantity="other">%d arquivos a aguardar</item>
-        <item quantity="one">1 ficheiro a aguardar</item>
+        <item quantity="one">1 arquivo a aguardar</item>
     </plurals>
 </resources>

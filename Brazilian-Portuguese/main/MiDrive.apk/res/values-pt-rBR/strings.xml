@@ -12,7 +12,7 @@
   <string name="cancel">Cancelar</string>
   <string name="category_midrive">Mi Drive</string>
   <string name="category_transport">Ver transferências</string>
-  <string name="change_mobile_network_message">Alterado para dados móveis. Continuar a transferir o ficheiro vai consumir dados. Pretende continuar?</string>
+  <string name="change_mobile_network_message">Alterado para dados móveis. Continuar a transferir o arquivo vai consumir dados. Pretende continuar?</string>
   <string name="confirm">OK</string>
   <string name="consumption_alert">Ligação à Internet</string>
   <string name="consumption_message">O Mi Drive necessita de ligar à Internet para funcionar normalmente</string>
@@ -33,14 +33,14 @@
   <string name="empty_file_download">Não é possível transferir arquivos vazios</string>
   <string name="empty_file_upload">Não é possível carregar arquivos vazios</string>
   <string name="file_already_downlaoded">Ficheiro guardado em \"%1$s\"</string>
-  <string name="file_change_btn_download">Transferir ficheiro</string>
-  <string name="file_change_btn_upload">Carregar ficheiro</string>
+  <string name="file_change_btn_download">Transferir arquivo</string>
+  <string name="file_change_btn_upload">Carregar arquivo</string>
   <string name="file_loading">Aguarde…</string>
   <string name="file_name_empty">Tem de introduzir um nome</string>
   <string name="file_name_invalid">"Os nomes dos arquivos não podem conter: /\\:*?&lt;&gt;"</string>
-  <string name="file_name_too_long">O nome de ficheiro introduzido é muito longo</string>
-  <string name="file_not_exist">O ficheiro não existe</string>
-  <string name="file_too_large">O ficheiro é muito grande para enviar</string>
+  <string name="file_name_too_long">O nome de arquivo introduzido é muito longo</string>
+  <string name="file_not_exist">O arquivo não existe</string>
+  <string name="file_too_large">O arquivo é muito grande para enviar</string>
   <string name="files">Arquivos</string>
   <string name="finished">Concluído</string>
   <string name="folder_exist">A pasta já existe</string>
@@ -64,8 +64,8 @@
   <string name="no_more_space">Sem espaço de armazenamento suficiente</string>
   <string name="no_network">Não foi possível ligar à rede. Verifique a sua ligação e tente novamente</string>
   <string name="no_tasks">Sem transferências</string>
-  <string name="open_changed_file_message">"O ficheiro que está a tentar abrir foi alterado.
-1. Faça novamente a transferência do ficheiro para o actualizar
+  <string name="open_changed_file_message">"O arquivo que está a tentar abrir foi alterado.
+1. Faça novamente a transferência do arquivo para o actualizar
 2. Carregue-a para a sua conta"</string>
   <string name="open_changed_file_title">Alteração aplicada</string>
   <string name="operating">A processar…</string>
@@ -104,13 +104,13 @@
   <string name="petabyteShort">PB</string>
   <string name="pick_from_fileexplor_failed">Actualize o Explorador primeiro</string>
   <string name="quota_info">Mi Drive: Disponível: %1$s | Total: %2$s</string>
-  <string name="rename_alert">Se mudar a extensão deste ficheiro pode não conseguir abri-lo</string>
-  <string name="rename_failed">Já existe um ficheiro com o mesmo nome</string>
+  <string name="rename_alert">Se mudar a extensão deste arquivo pode não conseguir abri-lo</string>
+  <string name="rename_failed">Já existe um arquivo com o mesmo nome</string>
   <string name="request_permission_msg">Permita que o Mi Drive aceda às suas informações de conta e armazenamento para funcionar normalmente</string>
   <string name="request_permission_title">Permissões necessárias</string>
   <string name="sd_full">O cartão SD está cheio</string>
   <string name="sd_invalid">O cartão SD está corrompido</string>
-  <string name="send_to_midrive_failed">Este tipo de ficheiro não é suportado</string>
+  <string name="send_to_midrive_failed">Este tipo de arquivo não é suportado</string>
   <string name="slashes">/</string>
   <string name="source_file_missing">Ficheiro em falta</string>
   <string name="space_full">Sem espaço suficiente</string>

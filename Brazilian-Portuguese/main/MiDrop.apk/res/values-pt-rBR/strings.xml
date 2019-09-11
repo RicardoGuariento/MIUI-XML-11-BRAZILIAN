@@ -19,7 +19,7 @@
   <string name="cancel_stop">Continuar a enviar</string>
   <string name="description_content">O Mi Drop permite enviar e receber arquivos de pessoas próximas. Certifique-se que consegue fazer isso antes de desinstalar o Mi Drop</string>
   <string name="description_title">Sobre de Mi Drop</string>
-  <string name="file_not_support">Este tipo de ficheiro não é suportado</string>
+  <string name="file_not_support">Este tipo de arquivo não é suportado</string>
   <string name="help">Ajuda</string>
   <string name="i_know">Percebi</string>
   <string name="intro_midrop">Mi Drop</string>
@@ -37,7 +37,7 @@
   <string name="receiver_accept">Aceitar</string>
   <string name="receiver_cancel">Cancelar</string>
   <string name="receiver_clean">Libertar espaço</string>
-  <string name="receiver_file_cancel">Transferência de ficheiro de %1$s interrompida</string>
+  <string name="receiver_file_cancel">Transferência de arquivo de %1$s interrompida</string>
   <string name="receiver_in_progress_summary">Aguarde até a transferência actual terminar para enviar novos arquivos</string>
   <string name="receiver_in_progress_title">A enviar…</string>
   <string name="receiver_insufficient_storage">Sem espaço suficiente</string>
@@ -48,7 +48,7 @@
   <string name="receiver_notification_turn_on_help">Ligar para pesquisar dispositivos e enviar arquivos</string>
   <string name="receiver_reject">Rejeitar</string>
   <string name="receiver_succeed_ok">OK</string>
-  <string name="receiver_succeed_view">Ver ficheiro</string>
+  <string name="receiver_succeed_view">Ver arquivo</string>
   <string name="receiver_transfer_interrupt">Transferência interrompida. Não desligue o Ponto de Acesso durante a transferência</string>
   <string name="request_permission_msg">O Mi Drop necessita das permissões: %s. Permitir?</string>
   <string name="request_permission_title">Permissões necessárias</string>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Transferências</string>
-  <string name="auto_restart_under_wifi">Este ficheiro vai ser transferido automaticamente por Wi-Fi</string>
+  <string name="auto_restart_under_wifi">Este arquivo vai ser transferido automaticamente por Wi-Fi</string>
   <string name="button_cancel_download">Cancelar</string>
   <string name="button_download_now">Transferir agora</string>
   <string name="button_queue_for_wifi">Em espera</string>
@@ -30,7 +30,7 @@
   <string name="download_apk_desktop_pending">Pendente</string>
   <string name="download_apk_desktop_running">A transferir</string>
   <string name="download_error">Sem sucesso</string>
-  <string name="download_no_application_title">Não é possível abrir o ficheiro</string>
+  <string name="download_no_application_title">Não é possível abrir o arquivo</string>
   <string name="download_percent">%d%%</string>
   <string name="download_queued">Em espera</string>
   <string name="download_remaining">%s restantes</string>
@@ -75,8 +75,8 @@
   <string name="privacy_tip_content">Optimizar a velocidade das transferências com o acelerador Xunlei? O URL do servidor de transferências vai ser carregado para os servidores do Xunlei. Os seus detalhes da Conta Mi também vão ser enviados para verificar se tem assinaturas activas para este serviço</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Utilizar o acelerador de transferências Xunlei?</string>
-  <string name="recommended_file_size_download_in_mobile">Utilizar %s de dados móveis para transferir este ficheiro?</string>
-  <string name="recommended_no_file_size_download_in_mobile">Utilizar ligação de dados móveis para transferir este ficheiro?</string>
+  <string name="recommended_file_size_download_in_mobile">Utilizar %s de dados móveis para transferir este arquivo?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Utilizar ligação de dados móveis para transferir este arquivo?</string>
   <string name="root_downloads">Transferências</string>
   <string name="task_already_exist">A transferência já existe</string>
   <string name="warning_tip_cancel">Transferir</string>

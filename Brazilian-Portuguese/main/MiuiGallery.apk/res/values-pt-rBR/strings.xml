@@ -432,7 +432,7 @@
   <string name="editor_export">Guardar</string>
   <string name="editor_talkback_redo">Refazer</string>
   <string name="editor_talkback_undo">Anular</string>
-  <string name="editphoto_datetime_needdownload_origin_subtitle">Transferir o ficheiro original da Xiaomi Cloud para poder alterar a hora</string>
+  <string name="editphoto_datetime_needdownload_origin_subtitle">Transferir o arquivo original da Xiaomi Cloud para poder alterar a hora</string>
   <string name="editphoto_datetime_needdownload_origin_title">Transferir original</string>
   <string name="email_picker_title">Adicionar email partilhado</string>
   <string name="empty_album_cloud_list_title">Sem álbuns para sincronizar</string>
@@ -455,8 +455,8 @@
   <string name="eras_ad">DC</string>
   <string name="eras_bc">AC</string>
   <string name="error_album_not_exist">O álbum não existe</string>
-  <string name="error_build_thumbnail_action">Transferir ficheiro original</string>
-  <string name="error_build_thumbnail_msg">Não foi possível transferir miniatura. Tente transferir o ficheiro original</string>
+  <string name="error_build_thumbnail_action">Transferir arquivo original</string>
+  <string name="error_build_thumbnail_msg">Não foi possível transferir miniatura. Tente transferir o arquivo original</string>
   <string name="error_build_thumbnail_tip">Não foi possível transferir miniatura</string>
   <string name="error_change_storage_action">Trocar armazenamento</string>
   <string name="error_change_storage_msg">Vá a Configurações &gt; Armazenamento, troque de armazenamento e tente novamente</string>
@@ -464,7 +464,7 @@
   <string name="error_connect_timeout_action">Seleccionar rede</string>
   <string name="error_connect_timeout_msg">Ligue a uma rede diferente e tente novamente</string>
   <string name="error_connect_timeout_tip">A ligação expirou</string>
-  <string name="error_decode_tip">O formato do ficheiro não é suportado ou o ficheiro está corrompido</string>
+  <string name="error_decode_tip">O formato do arquivo não é suportado ou o arquivo está corrompido</string>
   <string name="error_download_tip">Não foi possível transferir</string>
   <string name="error_internal_sdcard_write_tip">Ocorreu um erro. Reinicie o seu dispositivo e tente novamente</string>
   <string name="error_external_sdcard_write_action">Trocar armazenamento</string>
@@ -684,7 +684,7 @@ efeitos de fotos"</string>
   <string name="ignore_face">Ignorar esta pessoa</string>
   <string name="ignore_faces_title">Ignorada</string>
   <string name="image_decode_failed">Não foi possível decifrar imagem</string>
-  <string name="image_download_item_title">Transferir ficheiro original (%s)</string>
+  <string name="image_download_item_title">Transferir arquivo original (%s)</string>
   <string name="image_invalid_path">Caminho inválido</string>
   <string name="image_not_found">Não foi possível localizar imagem</string>
   <string name="image_quota_fulfiled">Demasiadas imagens. Elimine algumas imagens e tente novamente</string>
@@ -1245,7 +1245,7 @@ para personalizar a galeria"</string>
   <string name="secret_album_set_pc_password_dialog_title">Definir padrão</string>
   <string name="secret_reason_space_full">Os álbuns na Xiaomi Cloud estão cheios</string>
   <string name="secret_reason_too_large">Ficheiro demasiado grande</string>
-  <string name="secret_reason_type_not_support">Este tipo de ficheiro não é suportado</string>
+  <string name="secret_reason_type_not_support">Este tipo de arquivo não é suportado</string>
   <string name="secret_reason_unknow_reasons">Erro desconhecido</string>
   <string name="secret_reason_video_not_support">Não é possível adicionar vídeos a álbuns ocultos</string>
   <string name="see_ignore_faces">Ver as pessoas que ignorou</string>
@@ -1400,7 +1400,7 @@ para personalizar a galeria"</string>
   <string name="tip_capture_location">Localização:</string>
   <string name="tip_capture_params">Dados EXIF:</string>
   <string name="tip_capture_time">Tirada em:</string>
-  <string name="tip_file_info">Info. do ficheiro:</string>
+  <string name="tip_file_info">Info. do arquivo:</string>
   <string name="tip_file_path">Caminho:</string>
   <string name="tip_not_download">Não está no dispositivo. Vai transferir automaticamente da Xiaomi Cloud durante a reprodução</string>
   <string name="title_set_name">Introduzir nome</string>

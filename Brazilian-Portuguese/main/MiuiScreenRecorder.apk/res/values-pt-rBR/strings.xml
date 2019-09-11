@@ -22,7 +22,7 @@
   <string name="description_content">O gravador de tela fornece capacidades de gravação ao nível do sistema. Certifique-se que não quer estas funcionalidades antes de desinstalar o aplicativo</string>
   <string name="description_title">Sobre de Gravador de Tela</string>
   <string name="deselect_all">Desmarcar tudo</string>
-  <string name="error_open_file_failed_no_app_found">Não foi possível localizar uma aplicação para abrir este ficheiro</string>
+  <string name="error_open_file_failed_no_app_found">Não foi possível localizar uma aplicação para abrir este arquivo</string>
   <string name="first_using_mic_dialog_message">O Gravador de Tela necessita de acesso ao microfone para gravar áudio. Permitir?</string>
   <string name="first_using_mic_dialog_title">Permissões necessárias</string>
   <string name="fixed_frame_rate">Frame rate fixo</string>

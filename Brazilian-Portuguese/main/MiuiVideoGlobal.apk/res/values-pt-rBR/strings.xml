@@ -105,7 +105,7 @@
   <string name="lv_auto_update">Actualizar mais tarde</string>
   <string name="lv_brightness">Brilho</string>
   <string name="lv_check_delete_file">Seleccione itens para excluir</string>
-  <string name="lv_check_send_file">Apenas pode enviar 1 ficheiro de cada vez</string>
+  <string name="lv_check_send_file">Apenas pode enviar 1 arquivo de cada vez</string>
   <string name="lv_confirm_delete_history">excluir itens seleccionados?</string>
   <string name="lv_confirm_delete_videos">excluir itens?</string>
   <string name="lv_confirm_hide_videos">Ocultar vídeos?</string>
@@ -155,7 +155,7 @@
   <string name="lv_storage_external_sdcard">Armazenamento externo</string>
   <string name="lv_storage_internal_sdcard">Armazenamento interno</string>
   <string name="lv_storage_root_dir">Já está na pasta raiz</string>
-  <string name="lv_subtitle_add_subtitle_failed">Não foi possível adicionar legendas. Certifique-se que o ficheiro não está corrompido</string>
+  <string name="lv_subtitle_add_subtitle_failed">Não foi possível adicionar legendas. Certifique-se que o arquivo não está corrompido</string>
   <string name="lv_subtitle_changed">Novas legendas</string>
   <string name="lv_subtitle_current_dir">Pasta actual</string>
   <string name="lv_subtitle_folder_up">Pasta anterior</string>

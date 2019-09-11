@@ -15,7 +15,7 @@
     <plurals name="clean_long_msg_p1">
         <item quantity="other">"A limpar %1$d arquivos: %2$d concluídos 
 "</item>
-        <item quantity="one">"A limpar %1$d ficheiro: %2$d concluído 
+        <item quantity="one">"A limpar %1$d arquivo: %2$d concluído 
 "</item>
     </plurals>
     <plurals name="clean_long_msg_p2">
@@ -48,7 +48,7 @@
     </plurals>
     <plurals name="deepclean_large_summary">
         <item quantity="other">Encontrou %d arquivos grandes. Pode excluir os arquivos desnecessários</item>
-        <item quantity="one">Encontrou %d ficheiro grande. Pode excluir este ficheiro</item>
+        <item quantity="one">Encontrou %d arquivo grande. Pode excluir este arquivo</item>
     </plurals>
     <plurals name="deepclean_similar_summary">
         <item quantity="other">Encontrou %d fotos. Pode excluir as fotos desnecessárias</item>
@@ -122,7 +122,7 @@
     </plurals>
     <plurals name="wechat_empty_files">
         <item quantity="other">(%1$d arquivos vazios)</item>
-        <item quantity="one">(%1$d ficheiro vazio)</item>
+        <item quantity="one">(%1$d arquivo vazio)</item>
     </plurals>
     <plurals name="whatsapp_delete_files">
         <item quantity="other">excluir %1$d itens?</item>

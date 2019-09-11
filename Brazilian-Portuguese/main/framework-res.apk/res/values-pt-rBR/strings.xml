@@ -390,8 +390,8 @@ utilizando %s"</string>
   <string name="httpErrorBadUrl">Não foi possível abrir a página porque o URL é inválido</string>
   <string name="httpErrorConnect">Não foi possível ligar ao servidor</string>
   <string name="httpErrorFailedSslHandshake">Não foi possível estabelecer uma ligação segura</string>
-  <string name="httpErrorFile">Não foi possível acessaro ficheiro</string>
-  <string name="httpErrorFileNotFound">Não foi possível localizar o ficheiro solicitado</string>
+  <string name="httpErrorFile">Não foi possível acessaro arquivo</string>
+  <string name="httpErrorFileNotFound">Não foi possível localizar o arquivo solicitado</string>
   <string name="httpErrorIO">Não foi possível comunicar com o servidor. Tente novamente mais tarde</string>
   <string name="httpErrorLookup">Não foi possível localizar URL</string>
   <string name="httpErrorOk">OK</string>
@@ -658,7 +658,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="next_button_label">Seguinte</string>
   <string name="no">Cancelar</string>
   <string name="noApplications">Nenhuma aplicação pode efectuar esta acção</string>
-  <string name="no_file_chosen">Não foi escolhido nenhum ficheiro</string>
+  <string name="no_file_chosen">Não foi escolhido nenhum arquivo</string>
   <string name="no_matches">Sem correspondências</string>
   <string name="no_permissions">Não é necessário nenhuma permissão</string>
   <string name="no_recent_tasks">Sem aplicativos recentes</string>
@@ -1232,7 +1232,7 @@ Ouvir níveis elevados de volume durante longos períodos pode ser prejudicial p
   <string name="tutorial_double_tap_to_zoom_message_short">Toque duas vezes para controlar o zoom</string>
   <string name="unknownName">(Desconhecido)</string>
   <string name="untitled">&lt;Sem nome&gt;</string>
-  <string name="upload_file">Escolher ficheiro</string>
+  <string name="upload_file">Escolher arquivo</string>
   <string name="usb_accessory_notification_title">Ligado a um acessório USB</string>
   <string name="usb_cd_installer_notification_title">Ligado como um instalador</string>
   <string name="usb_charging_notification_title">Ligado em modo carregamento</string>

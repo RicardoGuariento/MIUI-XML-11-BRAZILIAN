@@ -581,9 +581,9 @@ Esta mensagem pode não ser solicitada"</string>
   <string name="restored_to_phone_memory">Restaurada</string>
   <string name="rms_audio_file_duration_too_long">Não é possível enviar áudio maior que 180 segundos</string>
   <string name="rms_audio_file_length_too_large">Não é possível enviar áudio maior que %1$dMB</string>
-  <string name="rms_file_not_exist">O ficheiro não existe</string>
-  <string name="rms_file_not_exist_to_view">Este ficheiro foi movido ou eliminado</string>
-  <string name="rms_illegal_extension">Formato de ficheiro inválido</string>
+  <string name="rms_file_not_exist">O arquivo não existe</string>
+  <string name="rms_file_not_exist_to_view">Este arquivo foi movido ou eliminado</string>
+  <string name="rms_illegal_extension">Formato de arquivo inválido</string>
   <string name="rms_normal_file_length_too_large">Não é possível enviar arquivos maiores que %1$dMB</string>
   <string name="rms_original_image_length_too_large">Não é possível enviar imagens maiores que %1$dMB"</string>
   <string name="rms_original_image_size_too_large">A imagem original é demasiado grande</string>

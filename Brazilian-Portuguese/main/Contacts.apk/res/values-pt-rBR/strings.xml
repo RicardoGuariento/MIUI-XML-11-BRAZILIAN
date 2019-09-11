@@ -196,7 +196,7 @@
   <string name="confirm_delete_contact_all_call_logs">excluir registos de chamadas?</string>
   <string name="confirm_delete_selected_all_call_logs">excluir registos de chamadas?</string>
   <string name="confirm_delete_sim_entry_miui_title">excluir</string>
-  <string name="confirm_export_message">A sua lista de contatos vai ser exportada para o ficheiro: %s</string>
+  <string name="confirm_export_message">A sua lista de contatos vai ser exportada para o arquivo: %s</string>
   <string name="confirm_export_title">Exportar contatos</string>
   <string name="connections">Ligações</string>
   <string name="contactDetailAbout">Informação do contacto</string>
@@ -272,7 +272,7 @@
   <string name="contacts_setting_title">Configurações dos contatos</string>
   <string name="contacts_unavailable_add_account">Iniciar sessão numa conta</string>
   <string name="contacts_unavailable_create_contact">Criar novo contacto</string>
-  <string name="contacts_unavailable_import_contacts">Importar dum ficheiro</string>
+  <string name="contacts_unavailable_import_contacts">Importar dum arquivo</string>
   <string name="contacts_unavailable_import_from_old_device">Importar dum dispositivo antigo</string>
   <string name="contacts_unavailable_import_sim_contacts">Importar contatos do SIM</string>
   <string name="convenient_service">Serviços</string>
@@ -470,10 +470,10 @@ Motivo: \"%s\""</string>
   <string name="fail_reason_could_not_initialize_exporter">Não foi possível iniciar a exportação: \"%s\"</string>
   <string name="fail_reason_could_not_open_file" formatted="false">Não foi possível abrir \"%s\": %s</string>
   <string name="fail_reason_error_occurred_during_export">Ocorreu um erro durante a exportação: \"%s\"</string>
-  <string name="fail_reason_failed_to_collect_vcard_meta_info">Não foi possível recolher informações meta de determinado ficheiro vCard</string>
+  <string name="fail_reason_failed_to_collect_vcard_meta_info">Não foi possível recolher informações meta de determinado arquivo vCard</string>
   <string name="fail_reason_failed_to_read_files">Um ou mais arquivos não puderam ser importados (%s)</string>
   <string name="fail_reason_io_error">Erro I/O</string>
-  <string name="fail_reason_low_memory_during_import">Memória insuficiente. O ficheiro pode ser muito grande</string>
+  <string name="fail_reason_low_memory_during_import">Memória insuficiente. O arquivo pode ser muito grande</string>
   <string name="fail_reason_no_exportable_contact">Não existem contatos para serem exportados</string>
   <string name="fail_reason_not_supported">Formato não suportado</string>
   <string name="fail_reason_too_long_filename">O nome introduzido é demasiado longo (\"%s\")</string>
@@ -542,7 +542,7 @@ Motivo: \"%s\""</string>
   <string name="import_from_sim2">Importar do cartão SIM 2</string>
   <string name="import_multiple_vcard_string">Importar vários arquivos vCard</string>
   <string name="import_name">Nome</string>
-  <string name="import_one_vcard_string">Importar um ficheiro vCard</string>
+  <string name="import_one_vcard_string">Importar um arquivo vCard</string>
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Importar contatos seleccionados</string>
   <string name="import_sim_contacts_hint_title">Importar contatos do SIM</string>
@@ -1027,7 +1027,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="select_groups">Seleccionar grupos</string>
   <string name="select_none">Sem itens seleccionados</string>
   <string name="select_show_contacts">Lista de contatos</string>
-  <string name="select_vcard_title">Escolher ficheiro vCard</string>
+  <string name="select_vcard_title">Escolher arquivo vCard</string>
   <string name="send_contact_shortcut_todesktop_success">Adicionado ao tela inicial</string>
   <string name="send_to_voicemail_checkbox">Enviar chamadas diretamente para o Voice Mail</string>
   <string name="separatorJoinAggregateAll">Todos os contatos</string>
@@ -1190,7 +1190,7 @@ Escolher uma das seguintes opções:"</string>
   <string name="vcard_import_failed">Não foi possível importar vCard %s</string>
   <string name="vcard_import_request_rejected_message">O pedido de importação do vCard foi rejeitado. Tente mais tarde</string>
   <string name="vcard_import_will_start_message">%s vai ser importado em breve</string>
-  <string name="vcard_import_will_start_message_with_default_name">O ficheiro vai ser importado em breve</string>
+  <string name="vcard_import_will_start_message_with_default_name">O arquivo vai ser importado em breve</string>
   <string name="vcard_unknown_filename">Contacto</string>
   <string name="video_call">Videochamada</string>
   <string name="video_chat">Conversa de vídeo</string>

@@ -11,7 +11,7 @@
   <string name="cta_notice">Abra o Calendário e dê-lhe permissão para ligar à Internet primeiro</string>
   <string name="debug_tool_delete_button">excluir</string>
   <string name="debug_tool_email_body">Anexado à minha base de dados do calendário com todos os meus compromissos e informações pessoais. Manusear com cuidado</string>
-  <string name="debug_tool_email_sender_picker">Escolher uma aplicação para enviar o seu ficheiro</string>
+  <string name="debug_tool_email_sender_picker">Escolher uma aplicação para enviar o seu arquivo</string>
   <string name="debug_tool_email_subject">Ferramenta de depuração do calendário anexada</string>
   <string name="debug_tool_message">Está prestes a copiar a base de dados do seu calendário para o cartão SD/armazenamento USB que pode ser lida por qualquer aplicação e enviar a base de dados por email. Lembre-se de excluir a cópia assim que o email que está prestes a enviar for recebido</string>
   <string name="debug_tool_start_button">Iniciar</string>

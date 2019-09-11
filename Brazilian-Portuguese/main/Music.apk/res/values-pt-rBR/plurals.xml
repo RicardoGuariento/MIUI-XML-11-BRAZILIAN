@@ -72,7 +72,7 @@ Total músicas: %2$d"</item>
     </plurals>
     <plurals name="notif_title_multiple_downloading">
         <item quantity="other">A transferir %1$d arquivos</item>
-        <item quantity="one">A transferir %1$d ficheiro</item>
+        <item quantity="one">A transferir %1$d arquivo</item>
     </plurals>
     <plurals name="notification_download_failed_more">
         <item quantity="other">Não foi possível transferir %1$d itens</item>

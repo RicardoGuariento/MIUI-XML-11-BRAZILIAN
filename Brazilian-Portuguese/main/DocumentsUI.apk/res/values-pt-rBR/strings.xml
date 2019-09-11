@@ -58,8 +58,8 @@
   <string name="menu_copy_to_clipboard">Copiar</string>
   <string name="menu_create_dir">Nova pasta</string>
   <string name="menu_delete">excluir</string>
-  <string name="menu_file_size_hide">Ocultar tamanho de ficheiro</string>
-  <string name="menu_file_size_show">Mostrar tamanho de ficheiro</string>
+  <string name="menu_file_size_hide">Ocultar tamanho de arquivo</string>
+  <string name="menu_file_size_show">Mostrar tamanho de arquivo</string>
   <string name="menu_grid">Vista em grelha</string>
   <string name="menu_list">Vista em lista</string>
   <string name="menu_move">Mover para…</string>
@@ -107,7 +107,7 @@
   <string name="title_open">Abrir de</string>
   <string name="title_save">Guardar para</string>
   <string name="toast_failed_delete">Não foi possível excluir alguns documentos</string>
-  <string name="toast_no_application">Não é possível abrir o ficheiro</string>
+  <string name="toast_no_application">Não é possível abrir o arquivo</string>
   <string name="too_many_in_select_all">Apenas pode seleccionar 1000 itens</string>
   <string name="too_many_selected">Apenas pode seleccionar 1000 itens duma vez</string>
   <string name="undo">Anular</string>

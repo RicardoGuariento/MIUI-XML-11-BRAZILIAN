@@ -799,7 +799,7 @@ O seu Administrador pode monitorar e gerir configurações, acessos, aplicativos
   <string name="bluetooth_profile_headset">Áudio do telefone</string>
   <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
   <string name="bluetooth_profile_map">Acesso às mensagens</string>
-  <string name="bluetooth_profile_opp">Transferência de ficheiro</string>
+  <string name="bluetooth_profile_opp">Transferência de arquivo</string>
   <string name="bluetooth_profile_pan">Acesso à Internet</string>
   <string name="bluetooth_profile_pan_nap">Partilha de ligação à Internet</string>
   <string name="bluetooth_profile_pbap">Partilha de contatos</string>
@@ -935,7 +935,7 @@ Se já fez alguma das opções acima, adicione a sua Conta Mi novamente senão n
   <string name="brightness_title">Brilho</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Activar registo de monitorização Bluetooth HCI</string>
-  <string name="bt_hci_snoop_log_summary">Capturar todos os pacotes Bluetooth HCI num ficheiro</string>
+  <string name="bt_hci_snoop_log_summary">Capturar todos os pacotes Bluetooth HCI num arquivo</string>
   <string name="bt_ldac_declaration">Quando um dispositivo Bluetooth suporta LDAC, vai ser ligado por defeito. O LDAC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria</string>
   <string name="bt_ldac_dialog_summary">"O LDAC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria
 Esta funcionalidade pode ser desligada nas [Settings]"</string>
@@ -3799,7 +3799,7 @@ Não vai perder quaisquer dados os aplicativos"</string>
   <string name="ringtone_title">Toque do telefone</string>
   <string name="ringtone_uniform_setting_title">Configurações do segundo cartão</string>
   <string name="ringtones_category_preference_title">Toques</string>
-  <string name="ringtones_install_custom_sound_content">Este ficheiro vai ser copiado para a pasta %s</string>
+  <string name="ringtones_install_custom_sound_content">Este arquivo vai ser copiado para a pasta %s</string>
   <string name="ringtones_install_custom_sound_title">Adicionar som personalizado?</string>
   <string name="roaming">Dados em roaming</string>
   <string name="roaming_disable">Utilizar dados móveis em roaming</string>

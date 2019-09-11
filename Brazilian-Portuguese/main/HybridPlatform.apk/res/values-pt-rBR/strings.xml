@@ -28,7 +28,7 @@
   <string name="app_manager_app_info_install_time">Tempo de instalação</string>
   <string name="app_manager_app_info_label">Informações</string>
   <string name="app_manager_app_info_name">Nome da aplicação</string>
-  <string name="app_manager_app_info_pkg">Nome do ficheiro</string>
+  <string name="app_manager_app_info_pkg">Nome do arquivo</string>
   <string name="app_manager_app_info_upgrade_time">Última actualização</string>
   <string name="app_manager_app_info_version">Versão da aplicação</string>
   <string name="app_manager_app_version_name">"Versão: "</string>

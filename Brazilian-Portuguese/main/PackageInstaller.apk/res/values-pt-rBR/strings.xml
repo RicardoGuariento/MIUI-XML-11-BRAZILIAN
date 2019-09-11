@@ -79,7 +79,7 @@
   <string name="bluetooth_profile_headset">Áudio do telefone</string>
   <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
   <string name="bluetooth_profile_map">Acesso às mensagens</string>
-  <string name="bluetooth_profile_opp">Transferência de ficheiro</string>
+  <string name="bluetooth_profile_opp">Transferência de arquivo</string>
   <string name="bluetooth_profile_pan">Acesso à Internet</string>
   <string name="bluetooth_profile_pan_nap">Partilha de ligação à Internet</string>
   <string name="bluetooth_profile_pbap">Partilha de contatos</string>

@@ -129,7 +129,7 @@
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Deslize para baixo para fechar</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Este é o último separador</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Deslize para cima para fechar</string>
-    <string name="browserFrameFileErrorLabel">Erro do ficheiro</string>
+    <string name="browserFrameFileErrorLabel">Erro do arquivo</string>
     <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">A página que está a tentar ver contêm dados que já foram submetidos. Se reenviar os dados, as ações anteriores (p.e. pesquisas ou compras) serão repetidas.</string>
     <string name="browserFrameNetworkErrorLabel">Erro de ligação</string>
@@ -205,7 +205,7 @@
     <string name="contextmenu_sharelink">Compartilhar ligação</string>
     <string name="contextmenu_view_image">Ver imagem</string>
     <string name="contextmenu_webpage_capture">Guardar como captura de tela</string>
-    <string name="contextmenu_webpage_html">Guardar como ficheiro HTML</string>
+    <string name="contextmenu_webpage_html">Guardar como arquivo HTML</string>
     <string name="contextmenu_webpage_snapshot">Guardar página</string>
     <string name="copy_url">Copiar URL</string>
     <string name="could_not_load_data">Não foi possível carregar dados, atualize e tente novamente</string>
@@ -233,16 +233,16 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="delete_download">excluir</string>
     <string name="detail_guide_tips">Deslize para cima para mais itens relacionados</string>
     <string name="dialog_cannot_resume">Transferência foi interrompida</string>
-    <string name="dialog_confirm_delete_checkbox_message">excluir ficheiro no armazenamento interno</string>
+    <string name="dialog_confirm_delete_checkbox_message">excluir arquivo no armazenamento interno</string>
     <string name="dialog_confirm_delete_the_download_item_message">excluir esta tarefa?</string>
-    <string name="dialog_failed_body">Quer voltar a transferir o ficheiro mais tarde ou removê-lo das transferências pendentes?</string>
-    <string name="dialog_file_already_exists">Já transferiu este ficheiro</string>
-    <string name="dialog_file_missing_body">Não foi possível localizar o ficheiro. Moveu-o ou eliminou-o?</string>
-    <string name="dialog_file_missing_title">Não foi possível abrir ficheiro</string>
+    <string name="dialog_failed_body">Quer voltar a transferir o arquivo mais tarde ou removê-lo das transferências pendentes?</string>
+    <string name="dialog_file_already_exists">Já transferiu este arquivo</string>
+    <string name="dialog_file_missing_body">Não foi possível localizar o arquivo. Moveu-o ou eliminou-o?</string>
+    <string name="dialog_file_missing_title">Não foi possível abrir arquivo</string>
     <string name="dialog_insufficient_space_on_cache">Não foi possível transferir</string>
     <string name="dialog_insufficient_space_on_external">Não existe espaço suficiente no armazenamento amovível</string>
     <string name="dialog_media_not_found">Não é possível transferir: nenhum armazenamento amovível detectado</string>
-    <string name="dialog_queued_body">Este ficheiro foi adicionado à lista de transferências pendentes.</string>
+    <string name="dialog_queued_body">Este arquivo foi adicionado à lista de transferências pendentes.</string>
     <string name="dialog_title_not_available">Não foi possível transferir</string>
     <string name="dialog_title_queued_body">Ficheiro ainda não disponível</string>
     <string name="document_download_background_btn">Transferir em segundo plano</string>
@@ -263,7 +263,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="download_completed">Transferido</string>
     <string name="download_default_path_txt">Lembrar esta escolha</string>
     <string name="download_dialog_default_path_invalid">O caminho da transferência escolhido é inválido. A gravar no caminho predefinido…</string>
-    <string name="download_dialog_file_length_hint_txt">"Tamanho do ficheiro: "</string>
+    <string name="download_dialog_file_length_hint_txt">"Tamanho do arquivo: "</string>
     <string name="download_dialog_file_length_lessthan1kb">Menos de 1KB</string>
     <string name="download_dialog_file_length_nolength_error_txt">Não foi possível transferir</string>
     <string name="download_dialog_file_length_nolength_txt">Um momento…</string>
@@ -281,7 +281,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="download_list_open_xl_ok">OK</string>
     <string name="download_memory_info_avai">" disponível %s|"</string>
     <string name="download_memory_info_total">" total ​%s"</string>
-    <string name="download_no_application_title">Não foi possível localizar o ficheiro. Moveu-o ou eliminou-o?</string>
+    <string name="download_no_application_title">Não foi possível localizar o arquivo. Moveu-o ou eliminou-o?</string>
     <string name="download_no_sdcard_dlg_msg">É necessário um cartão SD para transferir %s.</string>
     <string name="download_no_sdcard_dlg_title">Sem Cartão SD</string>
     <string name="download_pending">A iniciar transferência…</string>
@@ -329,8 +329,8 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="file_dir">Alterar pasta</string>
     <string name="file_name">"Nome: "</string>
     <string name="file_picker">Selecionar caminho</string>
-    <string name="filename_empty_alert_message">Introduzir nome do ficheiro</string>
-    <string name="filename_illegal_alert_message">Um caractere inválido foi retirado do nome do ficheiro</string>
+    <string name="filename_empty_alert_message">Introduzir nome do arquivo</string>
+    <string name="filename_illegal_alert_message">Um caractere inválido foi retirado do nome do arquivo</string>
     <string name="find_new_version">NOVA ATUALIZAÇÃO DISPONÍVEL</string>
     <string name="find_on_page_cancel">Cancelar</string>
     <string name="find_on_page_hint">Localizar na página</string>
@@ -374,7 +374,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="in_incognito">Está em anónimo! Páginas acedidas neste separador não vão aparecer no histórico de navegação.</string>
     <string name="in_secureaccess">Navegador alterado para o Modo seguro</string>
     <string name="into_info_flow_guide">Ver mais artigos</string>
-    <string name="isReplacePage">O ficheiro já existe, substituir?</string>
+    <string name="isReplacePage">O arquivo já existe, substituir?</string>
     <string name="is_first_history_item">É a primeira página do histórico</string>
     <string name="is_first_tab">Esta é a primeira janela</string>
     <string name="is_last_history_item">É a última página do histórico</string>
@@ -581,8 +581,8 @@ Sair desta página agora?"</string>
     <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_unsafe_port">O site não pode ser alcançado. %s0 está utilizando um número de porta inseguro.</string>
     <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">A ligação foi interrompida quando seu dispositivo entrou em modo de suspensão.</string>
     <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">A ligação foi interrompida devido a uma alteração na rede.</string>
-    <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">Não foi possível encontrar o ficheiro. Pode ter sido movido ou eliminado.</string>
-    <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">Não foi possível ler o ficheiro. Permissões do ficheiro podem estar impedindo o acesso.</string>
+    <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">Não foi possível encontrar o arquivo. Pode ter sido movido ou eliminado.</string>
+    <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">Não foi possível ler o arquivo. Permissões do arquivo podem estar impedindo o acesso.</string>
     <string name="mw_miuichromium_error_page_problem_gateway_timed_out">Demorou muito tempo para %s0 responder.</string>
     <string name="mw_miuichromium_error_page_problem_network_access_denied">O acesso à rede é restrito.</string>
     <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">Não foi possível ligar-se à internet. Algo está errado com o servidor de proxy, ou o endereço de proxy está incorreto.</string>
@@ -645,7 +645,7 @@ Sair desta página agora?"</string>
     <string name="mw_notification_hidden_text">Conteúdo oculto</string>
     <string name="mw_ntp_title_no_suggestions">Isto é tudo por agora</string>
     <string name="mw_older">Mais antigo</string>
-    <string name="mw_opening_file_error">Falha ao abrir o ficheiro selecionado</string>
+    <string name="mw_opening_file_error">Falha ao abrir o arquivo selecionado</string>
     <string name="mw_page_info_permission_ads_subtitle">O site tende a mostrar anúncios intrusivos</string>
     <string name="mw_password_generation_popup_content_description">A exibir o pop-up de geração de palavra-passe</string>
     <string name="mw_payments_accepted_cards_label">Cartões aceites</string>
@@ -1000,7 +1000,7 @@ Sair desta página agora?"</string>
     <string name="return_to_homepage">Voltar à página inicial</string>
     <string name="rlz_access_point">Y1</string>
     <string name="root_folder_lable">Nenhum</string>
-    <string name="router_download_exist">Este ficheiro já existe</string>
+    <string name="router_download_exist">Este arquivo já existe</string>
     <string name="router_download_failed">Não foi possível transferir</string>
     <string name="router_download_success">Transferido com êxito</string>
     <string name="same_bookmarks_warning">Já marcou esta página</string>
@@ -1008,8 +1008,8 @@ Sair desta página agora?"</string>
     <string name="save_button_text">Guardar</string>
     <string name="save_dialog_title">Guardar</string>
     <string name="save_file">"Guardar "</string>
-    <string name="save_file_already_exist_alert_message">Um ficheiro com o mesmo nome já existe, substituir?</string>
-    <string name="save_file_already_exist_alert_title">Substituir ficheiro?</string>
+    <string name="save_file_already_exist_alert_message">Um arquivo com o mesmo nome já existe, substituir?</string>
+    <string name="save_file_already_exist_alert_title">Substituir arquivo?</string>
     <string name="save_form_data_confirm_message">Desligar este recurso pode afetar a utilização.</string>
     <string name="save_image_failed">Não foi possível salvar a imagem</string>
     <string name="save_image_success">Imagem guardada</string>
@@ -1160,7 +1160,7 @@ Sair desta página agora?"</string>
     <string name="video_download_complete">Transferido com êxito</string>
     <string name="video_download_empty">Sem vídeos</string>
     <string name="video_download_error">Erro</string>
-    <string name="video_download_error_http_gone">Não foi possível encontrar o ficheiro</string>
+    <string name="video_download_error_http_gone">Não foi possível encontrar o arquivo</string>
     <string name="video_download_exists">A transferência já existe.</string>
     <string name="video_download_fail">Não foi possível transferir</string>
     <string name="video_download_failed">Não foi possível transferir</string>

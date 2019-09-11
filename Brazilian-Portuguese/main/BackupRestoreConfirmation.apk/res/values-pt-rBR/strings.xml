@@ -12,7 +12,7 @@ Se não pediu esta cópia de segurança, não autorize a operação"</string>
   <string name="current_password_text">Por favor, insira a sua palavra-passe actual da cópia de segurança abaixo:</string>
   <string name="deny_backup_button_label">Não fazer uma cópia de dados</string>
   <string name="deny_restore_button_label">Não restaurar</string>
-  <string name="device_encryption_backup_text">Por favor, insira a sua palavra-passe de encriptação do dispositivo em baixo. Esta também vai ser utilizada para encriptar o ficheiro da cópia de segurança de dados</string>
+  <string name="device_encryption_backup_text">Por favor, insira a sua palavra-passe de encriptação do dispositivo em baixo. Esta também vai ser utilizada para encriptar o arquivo da cópia de segurança de dados</string>
   <string name="device_encryption_restore_text">Por favor, insira a sua palavra-passe de encriptação do dispositivo em baixo</string>
   <string name="restore_confirm_text">"Foi solicitado por um computador ligado um restauro completo de todos os dados. Quer autorizar o pedido?
 

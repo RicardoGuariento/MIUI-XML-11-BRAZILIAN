@@ -132,7 +132,7 @@
   <string name="download_add_success">Adicionado à lista de transferências</string>
   <string name="download_error">Erro offline</string>
   <string name="download_fail">Erro ao transferir</string>
-  <string name="download_file_fail">Erro no acesso ao ficheiro local, talvez não haja espaço no cartão SD</string>
+  <string name="download_file_fail">Erro no acesso ao arquivo local, talvez não haja espaço no cartão SD</string>
   <string name="download_finished">Concluído</string>
   <string name="download_geturl_fail">Não foi possível obter o URL</string>
   <string name="download_insufficient_space">Espaço insuficiente</string>
@@ -164,8 +164,8 @@
   <string name="expired_buy_vip">VIP expirado</string>
   <string name="favorite">Favorito</string>
   <string name="fenghuang">iFeng</string>
-  <string name="file_error">Erro de ficheiro</string>
-  <string name="file_not_exist">O ficheiro não existe</string>
+  <string name="file_error">Erro de arquivo</string>
+  <string name="file_not_exist">O arquivo não existe</string>
   <string name="filter">Filtrar</string>
   <string name="finish_install">Instalado com sucesso</string>
   <string name="forecast">Previsão</string>
@@ -668,7 +668,7 @@ Para activar a sua conta siga o
   <string name="vp_video_plugin_installation">A instalar %1$s…</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">Não é possível ligar à rede</string>
-  <string name="vp_VideoView_error_text_invalid_progressive_playback">Este tipo de ficheiro não é suportado</string>
+  <string name="vp_VideoView_error_text_invalid_progressive_playback">Este tipo de arquivo não é suportado</string>
   <string name="vp_VideoView_error_text_unknown">Ocorreu um erro desconhecido</string>
   <string name="vp_VideoView_error_title">Erro desconhecido</string>
   <string name="waiting_to_download">A aguardar</string>

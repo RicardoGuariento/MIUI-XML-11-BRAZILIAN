@@ -193,7 +193,7 @@
   <string name="att_mgr_title_order_name">Nome</string>
   <string name="att_mgr_title_order_rev_date">Data</string>
   <string name="att_mgr_title_order_sender">Remetente</string>
-  <string name="att_mgr_title_order_size">Tamanho do ficheiro</string>
+  <string name="att_mgr_title_order_size">Tamanho do arquivo</string>
   <string name="attached_message">Mensagem anexada</string>
   <string name="attachment_application_msword">Documento</string>
   <string name="attachment_application_pdf">PDF</string>
@@ -207,8 +207,8 @@
   <string name="attachment_list_search_hint">Pesquisar anexos</string>
   <string name="attachment_mgr_name">Anexos</string>
   <string name="attachment_not_exists">O anexo não está disponível!</string>
-  <string name="attachment_open_SecurityException_hint">Pode não ter permissões para abrir este ficheiro ou o ficheiro pode estar danificado</string>
-  <string name="attachment_open_SecurityException_title">Não é possível abrir o ficheiro</string>
+  <string name="attachment_open_SecurityException_hint">Pode não ter permissões para abrir este arquivo ou o arquivo pode estar danificado</string>
+  <string name="attachment_open_SecurityException_title">Não é possível abrir o arquivo</string>
   <string name="attachment_opening_mode">Aplicativos para anexos</string>
   <string name="attachment_size_exceed_limit">O tamanho excede o limite do servidor</string>
   <string name="attachment_stop_all">Parar</string>
@@ -410,7 +410,7 @@
   <string name="email_setting_keywords">Contas;Adicionar conta;contas de email;adicionar conta de email;confirmar antes de enviar;excluir confirmação;confirmar antes de enviar;confirmação de envio;excluir fluxo de mensagens;excluir redireccionamento;vista de conversa;conversas de email;poupança de bateria;bateria do email;enviar comentários;enviar registos</string>
   <string name="email_sina">Email Sina</string>
   <string name="email_sync_failed">Erro na sincronização</string>
-  <string name="eml_parse_message">A abrir ficheiro EML…</string>
+  <string name="eml_parse_message">A abrir arquivo EML…</string>
   <string name="empty_account_tip">Não foi possível encontrar a conta</string>
   <string name="empty_email_tip">Não é possível enviar uma mensagem em branco</string>
   <string name="empty_spam">Esvaziar spam</string>
@@ -427,7 +427,7 @@
   <string name="expand_recipient_details">Expandir detalhes do destinatário</string>
   <string name="fail_get_email_message">Erro na obtenção da mensagem</string>
   <string name="failed">Não foi possível carregar a imagem</string>
-  <string name="failed_parse_eml_file">Não foi possível abrir o ficheiro EML. Tente novamente</string>
+  <string name="failed_parse_eml_file">Não foi possível abrir o arquivo EML. Tente novamente</string>
   <string name="failed_read_phone_state_permission">Não tem permissões para acessaro estado do telefone</string>
   <string name="failed_read_write_calendar_permission">Não tem permissões para acessaro calendário</string>
   <string name="failed_read_write_contacts_permission">Não tem permissões para acessar contatos</string>
@@ -440,8 +440,8 @@
   <string name="file_defailt_save_path">Os anexos vão ser guardados na pasta %s por defeito. Pode alterar a pasta nas Configurações</string>
   <string name="file_default_save_path_title">Localização predefinida dos anexos</string>
   <string name="file_deleted_success">Ficheiro eliminado</string>
-  <string name="file_not_found">Não foi possível encontrar o ficheiro</string>
-  <string name="file_not_found_redownload">Não foi possível encontrar o ficheiro</string>
+  <string name="file_not_found">Não foi possível encontrar o arquivo</string>
+  <string name="file_not_found_redownload">Não foi possível encontrar o arquivo</string>
   <string name="file_rar_not_support">Não é possível abrir arquivos RAR encriptados</string>
   <string name="file_save_path_dialog_cancel">Percebi</string>
   <string name="file_save_path_dialog_ok">Alterar agora</string>
@@ -508,7 +508,7 @@
   <string name="general_preference_text_zoom_normal">Normal</string>
   <string name="general_preference_text_zoom_small">Pequeno</string>
   <string name="general_preference_text_zoom_tiny">Muito pequeno</string>
-  <string name="generic_attachment_problem">Não é possível anexar o ficheiro</string>
+  <string name="generic_attachment_problem">Não é possível anexar o arquivo</string>
   <string name="get_database_exception">Limpar os dados desta aplicação nas Configurações &gt; Aplicativos de Sistema e tente novamente</string>
   <string name="get_oauth_code">Obter código</string>
   <string name="gmail_acceleration">Utilizar um servidor proxy para acessar à conta do Gmail?</string>
@@ -741,7 +741,7 @@
   <string name="output_all_log">Enviar todos os registos</string>
   <string name="output_db_summary">Vai enviar a sua base de dados</string>
   <string name="output_db_title">Envio de base dados</string>
-  <string name="output_to_disk">Guardar registos num ficheiro</string>
+  <string name="output_to_disk">Guardar registos num arquivo</string>
   <string name="overlays_fail_tip">A sua caixa de entrada não foi configurada. Abra as permissões das janelas flutuantes e tente novamente</string>
   <string name="overlays_ok">Abrir permissões</string>
   <string name="overlays_tip">Abra as permissões das janelas flutuantes e disfrute da caixa de entrada configurada automaticamente</string>
@@ -903,8 +903,8 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="reply_attribution">Em %1$s, %2$s escreveu:</string>
   <string name="report_phishing">Denunciar phishing</string>
   <string name="report_spam">Denunciar spam</string>
-  <string name="request_copy_db_to_disk">O Email necessita de copiar a sua bd para um ficheiro</string>
-  <string name="request_entity_large">O ficheiro é muito grande</string>
+  <string name="request_copy_db_to_disk">O Email necessita de copiar a sua bd para um arquivo</string>
+  <string name="request_entity_large">O arquivo é muito grande</string>
   <string name="request_permission_activity">Pedido de permissão</string>
   <string name="respond_inline">"   Responder inline"</string>
   <string name="retry_login">Inicie sessão novamente</string>
@@ -964,7 +964,7 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="service_protocol_title">Termos de Serviço</string>
   <string name="set_network">Definir rede</string>
   <string name="settings_activity_title">Configurações</string>
-  <string name="share_choose">Escolher ficheiro para compartilhar</string>
+  <string name="share_choose">Escolher arquivo para compartilhar</string>
   <string name="sharing">Compartilhar</string>
   <string name="shortcut_name_title">Nome do atalho da pasta</string>
   <string name="show_elided">▶ Mostrar citação</string>
@@ -1029,7 +1029,7 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="toastbar_local_calendar_sync_switch_close">Ligue a sincronização do calendário  para receber alertas</string>
   <string name="toastbar_local_contacts_sync_swtich_close">Ligue a sincronização de contatos para adicionar contatos</string>
   <string name="today_text">Hoje</string>
-  <string name="too_large_to_attach_additional">O tamanho do ficheiro não pode exceder %1$s</string>
+  <string name="too_large_to_attach_additional">O tamanho do arquivo não pode exceder %1$s</string>
   <string name="too_large_to_attach_multiple">Um ou mais arquivos não foram anexados. O tamanho não pode exceder %1$s</string>
   <string name="too_large_to_attach_single">Não é possível anexar arquivos maiores que %1$s</string>
   <string name="topic_merge">Configurações de visualização</string>
@@ -1052,7 +1052,7 @@ Remover conta?"</string>
   <string name="undo">Anular</string>
   <string name="unknow">Desconhecido</string>
   <string name="unread_string">conversa não lida</string>
-  <string name="unzip_file_failed">Não foi possível descompactar ficheiro</string>
+  <string name="unzip_file_failed">Não foi possível descompactar arquivo</string>
   <string name="update_date_format_templete">HH:mm \'do dia\' d \'de\' MMMM</string>
   <string name="update_domain_summary">Actualizar configurações e lista de domínios</string>
   <string name="update_domain_title">Actualizar configurações de domínios</string>

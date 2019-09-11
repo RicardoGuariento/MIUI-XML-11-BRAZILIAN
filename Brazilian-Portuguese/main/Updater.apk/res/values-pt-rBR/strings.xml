@@ -28,7 +28,7 @@
   <string name="download_fail_desc">O MD5 não corresponde…</string>
   <string name="downloading">A transferir…</string>
   <string name="downloading_desc">Transferência em curso. Verifique o estado na área de notificações</string>
-  <string name="install_desc">"O dispositivo vai reiniciar para o modo restauro e instalar o ficheiro: <b>%1$s</b>.
+  <string name="install_desc">"O dispositivo vai reiniciar para o modo restauro e instalar o arquivo: <b>%1$s</b>.
 Os dados não vão ser eliminados"</string>
   <string name="install_title">Tem a certeza que quer continuar?</string>
   <string name="menu_title_current_version_log">O que há de novo?</string>

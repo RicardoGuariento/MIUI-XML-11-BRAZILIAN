@@ -10,7 +10,7 @@
     </plurals>
     <plurals name="restoring_file_tile">
         <item quantity="other">A restaurar %d arquivos</item>
-        <item quantity="one">A restaurar %d ficheiro</item>
+        <item quantity="one">A restaurar %d arquivo</item>
     </plurals>
     <plurals name="restore_app_order_prior">
         <item quantity="other">Prioridade alta: %d itens</item>

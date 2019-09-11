@@ -156,7 +156,7 @@
   <string name="desc_image">Imagem</string>
   <string name="dialog_content_checkbox_delete_cloud_image">excluir também as fotos da Xiaomi Cloud</string>
   <string name="dialog_content_select_all_confirm">Manter uma cópia desta foto?</string>
-  <string name="dialog_msg_add_white_list_error">Não é possível adicionar este ficheiro às excepções</string>
+  <string name="dialog_msg_add_white_list_error">Não é possível adicionar este arquivo às excepções</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Copiar e desinstalar as aplicativos seleccionadas?</string>
   <string name="dialog_msg_check_all">Confirme para seleccionar %1$s que contém %2$d itens</string>
   <string name="dialog_msg_esc_cleanmaster">Parar a limpeza e sair?</string>
@@ -286,7 +286,7 @@
   <string name="label_preserve_the_best_image">Guardar as fotos mais nítidas</string>
   <string name="last_check_canceled">A verificação anterior foi cancelada</string>
   <string name="load_only_under_wlan">Carregar utilizando apenas Wi-Fi</string>
-  <string name="location_not_found">Não foi possível encontrar o ficheiro</string>
+  <string name="location_not_found">Não foi possível encontrar o arquivo</string>
   <string name="login_immediately">Iniciar sessão</string>
   <string name="long_click_dialog_summary">Prima e segure para adicionar às excepções</string>
   <string name="long_click_dialog_title">Aviso</string>
@@ -343,7 +343,7 @@
   <string name="open">Ligar</string>
   <string name="open_app">Abrir</string>
   <string name="open_browser">Abrir no navegador</string>
-  <string name="open_file_error">Não foi possível encontrar o aplicativo que abre este ficheiro</string>
+  <string name="open_file_error">Não foi possível encontrar o aplicativo que abre este arquivo</string>
   <string name="optimizecenter_data_support_cm">Produzido por Clean Master</string>
   <string name="optimizecenter_data_support_tc">Produzido por Tencent</string>
   <string name="output_videos">Exportar vídeos</string>
@@ -378,7 +378,7 @@
   <string name="pref_title_garbage_cleanup_check_time">Programar limpeza</string>
   <string name="pref_title_garbage_cleanup_size">Limite do tamanho de lixo</string>
   <string name="pref_title_manual_check_cleanup_db_update">Verificar actualizações</string>
-  <string name="pref_title_open_optimizer_cloud_scan">Enviar nomes de ficheiro</string>
+  <string name="pref_title_open_optimizer_cloud_scan">Enviar nomes de arquivo</string>
   <string name="pref_title_open_optimizer_memory_scan">Verificar memória os aplicativos</string>
   <string name="privacy_app_desc">Conta e palavra-passe</string>
   <string name="privacy_app_desc_message">Conta, palavras-passe e mensagens</string>
@@ -461,7 +461,7 @@
   <string name="title_optimizer">Termos e Condições</string>
   <string name="title_share_link">Compartilhar URL</string>
   <string name="toast_add_white_list_success">Adicionado às excepções</string>
-  <string name="toast_app_no_residual_on_sdcard">A aplicativos não tem nenhum ficheiro armazenado no cartão SD</string>
+  <string name="toast_app_no_residual_on_sdcard">A aplicativos não tem nenhum arquivo armazenado no cartão SD</string>
   <string name="toast_backup_is_running">A cópia está em execução</string>
   <string name="toast_backup_uninstall_failed">Não foi possível fazer cópia de %d aplicativos</string>
   <string name="toast_backup_uninstall_failed2">Não foi possível fazer cópia</string>

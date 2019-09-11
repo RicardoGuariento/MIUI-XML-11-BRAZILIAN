@@ -6,7 +6,7 @@
   <string name="debug_dump_database_message">Está prestes a 1) fazer uma cópia de segurança da sua base de dados, que inclui todos os contatos e informações relacionadas com todos registos de chamadas para o armazenamento interno, e 2) enviar um email. Lembre-se de excluir a cópia de segurança que fez do dispositivo ou o email recebido</string>
   <string name="debug_dump_delete_button">excluir agora</string>
   <string name="debug_dump_email_body">Em anexo está a minha base dados de contatos com todas as minhas informações de contatos. Utilizar com cuidado</string>
-  <string name="debug_dump_email_sender_picker">Escolher um programa para enviar o ficheiro</string>
+  <string name="debug_dump_email_sender_picker">Escolher um programa para enviar o arquivo</string>
   <string name="debug_dump_email_subject">Base de dados de contatos anexada</string>
   <string name="debug_dump_start_button">Iniciar</string>
   <string name="debug_dump_title">Copiar base de dados de contatos</string>

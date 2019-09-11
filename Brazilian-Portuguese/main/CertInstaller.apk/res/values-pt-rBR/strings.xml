@@ -2,9 +2,9 @@
 <resources>
   <string name="app_name">Instalador do certificado</string>
   <string name="cert_is_added">O %s está instalado</string>
-  <string name="cert_missing_error">Não foi possível instalar, porque não foi possível localizar o ficheiro do certificado</string>
+  <string name="cert_missing_error">Não foi possível instalar, porque não foi possível localizar o arquivo do certificado</string>
   <string name="cert_not_saved">O certificado não está instalado</string>
-  <string name="cert_read_error">Não foi possível instalar, porque não foi possível ler o ficheiro do certificado</string>
+  <string name="cert_read_error">Não foi possível instalar, porque não foi possível ler o arquivo do certificado</string>
   <string name="cert_too_large_error">Não foi possível instalar porque o tamanho do certificado é demasiado grande</string>
   <string name="credential_info">O pacote contém:</string>
   <string name="credential_name">Nome do certificado:</string>
@@ -19,7 +19,7 @@
   <string name="name_char_error">Escreva um nome que contenha apenas letras e números</string>
   <string name="name_credential_dialog_title">Atribua um nome ao certificado</string>
   <string name="name_empty_error">Introduza um nome</string>
-  <string name="no_cert_file_found">Não foi encontrado qualquer ficheiro de certificado no armazenamento USB</string>
+  <string name="no_cert_file_found">Não foi encontrado qualquer arquivo de certificado no armazenamento USB</string>
   <string name="no_cert_to_saved">Não há certificado para instalar</string>
   <string name="one_cacrt">um certificado da AC</string>
   <string name="one_usercrt">certificado para um utilizador</string>
@@ -46,8 +46,8 @@ Método de autorização: EAP-%5$s
   <string name="wifi_dismiss_label">Ignorar</string>
   <string name="wifi_install_label">Instalar</string>
   <string name="wifi_installer_detail">Instale as credenciais de Wi-Fi para estabelecer ligação às redes disponíveis através do %1$s</string>
-  <string name="wifi_installer_download_error">O ficheiro transferido tem problemas e não pode ser instalado. Certifique-se de que transferiu o ficheiro da origem correcta</string>
-  <string name="wifi_installer_fail">Não é possível instalar as credenciais de Wi-Fi. Tente transferir o ficheiro novamente</string>
+  <string name="wifi_installer_download_error">O arquivo transferido tem problemas e não pode ser instalado. Certifique-se de que transferiu o arquivo da origem correcta</string>
+  <string name="wifi_installer_fail">Não é possível instalar as credenciais de Wi-Fi. Tente transferir o arquivo novamente</string>
   <string name="wifi_installer_fail_no_wifi">Ligue o Wi-Fi e tente novamente</string>
   <string name="wifi_installer_fail_no_wifi_title">Instalação cancelada</string>
   <string name="wifi_installer_fail_title">Não é possível instalar</string>

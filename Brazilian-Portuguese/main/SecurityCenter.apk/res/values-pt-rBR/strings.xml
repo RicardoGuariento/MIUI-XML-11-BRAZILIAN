@@ -141,7 +141,7 @@
   <string name="app_manager_app_ifno_version">"Versão "</string>
   <string name="app_manager_app_info_label">Informações</string>
   <string name="app_manager_app_info_name">Nome da aplicação</string>
-  <string name="app_manager_app_info_pkg">Nome do ficheiro</string>
+  <string name="app_manager_app_info_pkg">Nome do arquivo</string>
   <string name="app_manager_app_power">"Utilização de bateria: "</string>
   <string name="app_manager_app_storage">"Armazenamento: "</string>
   <string name="app_manager_app_traffic">"Utilização de dados: "</string>

@@ -3,7 +3,7 @@
   <plurals name="delete_files_confirm">
     <item quantity="other">excluir %1$d arquivos</item>
     <item quantity="zero">excluir %1$d arquivos</item>
-    <item quantity="one">excluir %1$d ficheiro</item>
+    <item quantity="one">excluir %1$d arquivo</item>
     <item quantity="two">excluir %1$d arquivos</item>
     <item quantity="few">excluir %1$d arquivos</item>
     <item quantity="many">excluir %1$d arquivos</item>
@@ -19,7 +19,7 @@
   <plurals name="directory_item_count">
     <item quantity="other">%d arquivos</item>
     <item quantity="zero">%d arquivos</item>
-    <item quantity="one">%d ficheiro</item>
+    <item quantity="one">%d arquivo</item>
     <item quantity="two">%d arquivos</item>
     <item quantity="few">%d arquivos</item>
     <item quantity="many">%d arquivos</item>
@@ -35,7 +35,7 @@
   <plurals name="items_picture">
     <item quantity="other"> (%1$d arquivos)</item>
     <item quantity="zero"> (%1$d arquivos)</item>
-    <item quantity="one"> (%1$d ficheiro)</item>
+    <item quantity="one"> (%1$d arquivo)</item>
     <item quantity="two"> (%1$d arquivos)</item>
     <item quantity="few"> (%1$d arquivos)</item>
     <item quantity="many"> (%1$d arquivos)</item>
@@ -67,7 +67,7 @@
   <plurals name="search_head_hint_tag">
     <item quantity="other">Etiquetar arquivos relacionados com %1$s (%2$d itens)</item>
     <item quantity="zero">Etiquetar arquivos relacionados com %1$s (%2$d itens)</item>
-    <item quantity="one">Etiquetar ficheiro relacionado com %1$s (%2$d item)</item>
+    <item quantity="one">Etiquetar arquivo relacionado com %1$s (%2$d item)</item>
     <item quantity="two">Etiquetar arquivos relacionados com %1$s (%2$d itens)</item>
     <item quantity="few">Etiquetar arquivos relacionados com %1$s (%2$d itens)</item>
     <item quantity="many">Etiquetar arquivos relacionados com %1$s (%2$d itens)</item>
@@ -104,7 +104,7 @@
   <plurals name="found_new_files">
     <item quantity="other">Encontrados %1$d arquivos novos</item>
     <item quantity="zero">Encontrados %1$d arquivos novos</item>
-    <item quantity="one">Encontrado %1$d ficheiro novo</item>
+    <item quantity="one">Encontrado %1$d arquivo novo</item>
     <item quantity="two">Encontrados %1$d arquivos novos</item>
     <item quantity="few">Encontrados %1$d arquivos novos</item>
     <item quantity="many">Encontrados %1$d arquivos novos</item>
@@ -112,7 +112,7 @@
   <plurals name="file_notify_title">
     <item quantity="other">Recebeu %1$d arquivos de %2$s</item>
     <item quantity="zero">Recebeu %1$d arquivos de %2$s</item>
-    <item quantity="one">Recebeu %1$d ficheiro de %2$s</item>
+    <item quantity="one">Recebeu %1$d arquivo de %2$s</item>
     <item quantity="two">Recebeu %1$d arquivos de %2$s</item>
     <item quantity="few">Recebeu %1$d arquivos de %2$s</item>
     <item quantity="many">Recebeu %1$d arquivos de %2$s</item>
@@ -120,7 +120,7 @@
   <plurals name="file_notify_title_wechat_video">
     <item quantity="other">Recebeu %1$d arquivos do WeChat</item>
     <item quantity="zero">Recebeu %1$d arquivos do WeChat</item>
-    <item quantity="one">Recebeu %1$d ficheiro do WeChat</item>
+    <item quantity="one">Recebeu %1$d arquivo do WeChat</item>
     <item quantity="two">Recebeu %1$d arquivos do WeChat</item>
     <item quantity="few">Recebeu %1$d arquivos do WeChat</item>
     <item quantity="many">Recebeu %1$d arquivos do WeChat</item>
@@ -128,7 +128,7 @@
   <plurals name="file_notify_title_wechat_video_expire">
     <item quantity="other">%1$d arquivos do WeChat Vídeo vão expirar</item>
     <item quantity="zero">%1$d arquivos do WeChat Vídeo vão expirar</item>
-    <item quantity="one">%1$d ficheiro do WeChat Vídeo vai expirar</item>
+    <item quantity="one">%1$d arquivo do WeChat Vídeo vai expirar</item>
     <item quantity="two">%1$d arquivos do WeChat Vídeo vão expirar</item>
     <item quantity="few">%1$d arquivos do WeChat Vídeo vão expirar</item>
     <item quantity="many">%1$d arquivos do WeChat Vídeo vão expirar</item>
