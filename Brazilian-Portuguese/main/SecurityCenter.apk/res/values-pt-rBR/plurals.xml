@@ -14,7 +14,7 @@
     </plurals>
     <plurals name="marked_by_others">
         <item quantity="other">%d outros utilizadores marcaram-no como</item>
-        <item quantity="one">%d outro utilizador marcou-o como</item>
+        <item quantity="one">%d outro usuário marcou-o como</item>
     </plurals>
     <plurals name="st_show_num_keyword">
         <item quantity="other">%d palavras-chave</item>

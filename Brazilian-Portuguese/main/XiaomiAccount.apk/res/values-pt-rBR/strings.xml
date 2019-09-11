@@ -10,7 +10,7 @@
   <string name="account_bind_secure_phone_title">Adicionar número de telefone</string>
   <string name="account_bind_settings">Contas</string>
   <string name="account_crop_user_avatar">Cortar foto</string>
-  <string name="account_empty_user_name">Introduzir o nome de utilizador da Conta Mi</string>
+  <string name="account_empty_user_name">Introduzir o nome de usuário da Conta Mi</string>
   <string name="account_error_all_space_user_name">O nome não pode conter apenas espaços</string>
   <string name="account_error_invalid_user_name">"O nome não pode conter &lt;, &gt;, /"</string>
   <string name="account_error_longer_user_name">O nome não pode exceder 20 caracteres</string>
@@ -46,7 +46,7 @@
   <string name="account_user_gender">Género</string>
   <string name="account_user_id">ID Conta Mi</string>
   <string name="account_user_name">Nome</string>
-  <string name="account_user_name_dialog_title">Introduzir utilizador</string>
+  <string name="account_user_name_dialog_title">Introduzir usuário</string>
   <string name="account_user_other_info">Outras informações</string>
   <string name="account_user_phone">Telefone de recuperação</string>
   <string name="account_user_region">Região</string>
@@ -168,7 +168,7 @@ Envie este código ao supervisor"</string>
   <string name="no_network_title">Não é possível ligar à rede</string>
   <string name="no_phone">Sem número de telefone</string>
   <string name="no_response_retry">Sem resposta. Tente novamente</string>
-  <string name="no_sim_card_or_unactivated">Sem cartão SIM ou não activado</string>
+  <string name="no_sim_card_or_unactivated">Sem cartão SIM ou não ativado</string>
   <string name="nobind">Não associada</string>
   <string name="notify_network_restricted_content_bg_network">O acesso à Internet da Conta Mi está restringido. Toque para permitir</string>
   <string name="notify_network_restricted_content_hidden_state">As atividades em segundo plano da Conta Mi estão restringidas. Toque para permitir</string>
@@ -186,8 +186,8 @@ Envie este código ao supervisor"</string>
   <string name="passport_account_label">Conta Mi</string>
   <string name="passport_account_identity_title">Verificar a sua identidade</string>
   <string name="passport_account_name">Conta: %1$s</string>
-  <string name="passport_account_not_activated">A conta não foi activada</string>
-  <string name="passport_account_not_actived">A sua conta não foi activada</string>
+  <string name="passport_account_not_activated">A conta não foi ativada</string>
+  <string name="passport_account_not_actived">A sua conta não foi ativada</string>
   <string name="passport_account_set_password">Definir palavra-passe</string>
   <string name="passport_account_set_password_prompt">Definir palavra-passe para a sua conta para o próximo início de sessão</string>
   <string name="passport_account_set_password_title">Definir palavra-passe</string>
@@ -243,8 +243,8 @@ Para activar a sua conta siga o
   <string name="passport_error_sim_not_ready">Não é possível localizar cartão SIM</string>
   <string name="passport_error_ssl_hand_shake">Não é possível ligar ao servidor</string>
   <string name="passport_error_unknown">Não é possível iniciar sessão</string>
-  <string name="passport_error_user_name">O nome de utilizador que introduziu é inválido</string>
-  <string name="passport_error_verify_activator_phone_message">Certifique-se que o serviço do seu cartão SIM está activado e o dispositivo ligado à rede</string>
+  <string name="passport_error_user_name">O nome de usuário que introduziu é inválido</string>
+  <string name="passport_error_verify_activator_phone_message">Certifique-se que o serviço do seu cartão SIM está ativado e o dispositivo ligado à rede</string>
   <string name="passport_error_verify_activator_phone_title">Não foi possível verificar o número de telefone</string>
   <string name="passport_extra_gdpr_license">Criar a sua Conta Mi significa que concordou que a Xiaomi vai obter, processar, utilizar os seus dados pessoais e outros dados específicos na nossa Política de Privacidade. Consulte a nossa Política de Privacidade para saber como processamos e utilizamos os dados pessoais</string>
   <string name="passport_failed_to_send_activate_email">Não foi possível enviar email de activação</string>
@@ -260,7 +260,7 @@ Para activar a sua conta siga o
   <string name="passport_get_verify_code">Obter código</string>
   <string name="passport_getting_activator_phone">A obter informação do SIM…</string>
   <string name="passport_getting_verify_code">A obter</string>
-  <string name="passport_i_know">Percebi</string>
+  <string name="passport_i_know">Entendido</string>
   <string name="passport_identification_expired">Código de verificação expirado</string>
   <string name="passport_imei_permission_denied_message">Estamos a pedir permissão para obter o IMEI do seu dispositivo. A Conta Mi utiliza o IMEI para identificar o dispositivo onde iniciou a sessão para ajudá-lo a manter a sua Conta Mi segura</string>
   <string name="passport_imei_permission_denied_title">Pedido de permissão de IMEI</string>
@@ -335,13 +335,13 @@ Para activar a sua conta siga o
   <string name="passport_register_restricted_title">Não é possível utilizar este número de telefone</string>
   <string name="passport_register_using_other_ways">Outros métodos de criação de conta</string>
   <string name="passport_registered_phone_num">Telefone: %s</string>
-  <string name="passport_registered_phone_user_ID">ID do utilizador:%s</string>
-  <string name="passport_registered_phone_user_name">Nome do utilizador:%s</string>
+  <string name="passport_registered_phone_user_ID">ID do usuário:%s</string>
+  <string name="passport_registered_phone_user_name">Nome do usuário:%s</string>
   <string name="passport_reject_recycle_account">Não</string>
   <string name="passport_relogin">Iniciar sessão novamente</string>
   <string name="passport_relogin_notice">Tem que iniciar sessão novamente</string>
   <string name="passport_remove_confirm">Terminar sessão</string>
-  <string name="passport_remove_unactivated_account_notice">A sua conta não foi activada</string>
+  <string name="passport_remove_unactivated_account_notice">A sua conta não foi ativada</string>
   <string name="passport_resend_active_email">Reenviar email</string>
   <string name="passport_reset_fail_title">Não foi possível repor</string>
   <string name="passport_reset_password_prompt">Palavra-passe está incorrecta</string>
@@ -352,8 +352,8 @@ Para activar a sua conta siga o
   <string name="passport_retry">Tentar novamente</string>
   <string name="passport_select_reg_ways_title">Outros métodos de registo</string>
   <string name="passport_select_the_login_account">Seleccionar a conta para iniciar sessão</string>
-  <string name="passport_select_the_recycle_phone_login">Seleccione a sua conta</string>
-  <string name="passport_select_the_register_phone">Seleccione o número de telefone para criar uma conta</string>
+  <string name="passport_select_the_recycle_phone_login">Selecione a sua conta</string>
+  <string name="passport_select_the_register_phone">Selecione o número de telefone para criar uma conta</string>
   <string name="passport_send_too_many_code">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
   <string name="passport_send_vcode_failed">Não foi possível enviar código</string>
   <string name="passport_sending_vcode">A enviar código…</string>
@@ -438,7 +438,7 @@ Para activar a sua conta siga o
   <string name="search_user_detail_bottom_key_words">Alterar telefone,Alterar email,Alterar salário,Alterar graduação,Alterar localização,Alterar região</string>
   <string name="search_user_detail_desc">Informações pessoais</string>
   <string name="search_user_detail_path">Configurações/Conta Mi/Informações pessoais</string>
-  <string name="search_user_detail_top_key_words">Informações pessoais,Alterar foto de perfil,Alterar utilizador,Alterar alcunha,Alterar data de nascimento,Alterar sexo</string>
+  <string name="search_user_detail_top_key_words">Informações pessoais,Alterar foto de perfil,Alterar usuário,Alterar alcunha,Alterar data de nascimento,Alterar sexo</string>
   <string name="send_diagnosis_log">Enviar registo de diagnóstico</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="send_email_activate_message">Email de verificação enviado</string>

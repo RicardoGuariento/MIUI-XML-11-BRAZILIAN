@@ -83,7 +83,7 @@ Nota: Os dados os aplicativos que instalou não vão ser copiados para a Xiaomi 
   <string name="cloud_backup_in_cancel">Cancelar</string>
   <string name="cloud_backup_in_process">A copiar…</string>
   <string name="cloud_backup_select_recover">Escolher cópia da Xiaomi Cloud</string>
-  <string name="cloud_restore_from_other_device">Parar o restauro de %s e excluir esta cópia de segurança? Não é possível reverter esta acção</string>
+  <string name="cloud_restore_from_other_device">Parar a restauração de %s e excluir esta cópia de segurança? Não é possível reverter esta acção</string>
   <string name="cloud_restore_task">A restaurar…</string>
   <string name="cloud_task_in_process">Parar %s e excluir esta cópia de segurança? Não é possível reverter esta acção</string>
   <string name="confirm_cancel_restore_negative">Cancelar</string>

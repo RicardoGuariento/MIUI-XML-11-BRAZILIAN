@@ -26,8 +26,8 @@
   <string name="activate_phone_cancel_notif_title_msim">Activação de cartão SIM %d cancelada</string>
   <string name="activate_phone_failed_notif_title">Não é possível activar o cartão SIM</string>
   <string name="activate_phone_failed_notif_title_msim">Não é possível activar o cartão SIM %d</string>
-  <string name="activate_phone_success_notif_title">Cartão SIM activado</string>
-  <string name="activate_phone_success_notif_title_msim">Cartão SIM %d activado</string>
+  <string name="activate_phone_success_notif_title">Cartão SIM ativado</string>
+  <string name="activate_phone_success_notif_title_msim">Cartão SIM %d ativado</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Tentar novamente</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">Tentar novamente</string>
   <string name="activate_popup_confirm_error_device_id">Tentar novamente</string>
@@ -38,15 +38,15 @@
   <string name="activate_popup_confirm_failed_server">Tentar novamente</string>
   <string name="activate_popup_desc_2_intl_sim_cards">2 mensagens de texto internacionais vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora</string>
   <string name="activate_popup_desc_2_sim_cards">2 mensagens de texto vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora</string>
-  <string name="activate_popup_desc_all_gateway_failed_query_info">"Não foi possível encontrar o seu número de telefone. Certifique-se que o seu cartão SIM foi activado.
+  <string name="activate_popup_desc_all_gateway_failed_query_info">"Não foi possível encontrar o seu número de telefone. Certifique-se que o seu cartão SIM foi ativado.
 Introduza o número de telefone associado com o seu novo cartão SIM para reactivar %s"</string>
-  <string name="activate_popup_desc_all_gateway_failed_send_sms">"Não foi possível enviar mensagem de activação. Certifique-se que o seu cartão SIM foi activado.
+  <string name="activate_popup_desc_all_gateway_failed_send_sms">"Não foi possível enviar mensagem de activação. Certifique-se que o seu cartão SIM foi ativado.
 Introduza o número de telefone associado com o seu novo cartão SIM para reactivar %s"</string>
   <string name="activate_popup_desc_error_device_id">Marcar *#06# para verificar IMEI</string>
   <string name="activate_popup_desc_failed_phone_error">O número que introduziu é inválido</string>
-  <string name="activate_popup_desc_failed_query_info">Não é possível localizar o seu número de telefone. Certifique-se que o seu cartão SIM foi activado</string>
-  <string name="activate_popup_desc_failed_receive_sms">Certifique-se que o número introduzido está correcto e que o seu cartão SIM foi activado</string>
-  <string name="activate_popup_desc_failed_send_sms">Não é possível enviar mensagem de activação. Certifique-se que o seu cartão SIM foi activado</string>
+  <string name="activate_popup_desc_failed_query_info">Não é possível localizar o seu número de telefone. Certifique-se que o seu cartão SIM foi ativado</string>
+  <string name="activate_popup_desc_failed_receive_sms">Certifique-se que o número introduzido está correcto e que o seu cartão SIM foi ativado</string>
+  <string name="activate_popup_desc_failed_send_sms">Não é possível enviar mensagem de activação. Certifique-se que o seu cartão SIM foi ativado</string>
   <string name="activate_popup_desc_failed_server">Verifique a sua ligação de rede e tente novamente</string>
   <string name="activate_popup_desc_find_device_postfix">Uma SMS de activação vai ser enviada depois de trocar os cartões SIM</string>
   <string name="activate_popup_desc_intl_sim_card">Uma mensagem de texto internacional vai ser enviada para activar %s. Vai ser cobrado um valor adicional pela sua operadora</string>
@@ -119,6 +119,6 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="phone_verify_title">Permitir que %1$s verifique o seu número de telefone</string>
   <string name="privacy_revoke_failed_msg">AA activação necessita de autorização para que as Mensagens possam obter o seu número de telefone</string>
   <string name="privacy_revoke_tips">Após revogar a autorização, o aplicativo vai parar de reunir dados e excluir todos os seus dados dos servidores. Revogar a autorização mesmo assim?</string>
-  <string name="sim_unactivated_title">O seu cartão SIM não está activado</string>
+  <string name="sim_unactivated_title">O seu cartão SIM não está ativado</string>
   <string name="waiting_sim_in_service">A aguardar pela activação do SIM</string>
 </resources>

@@ -899,7 +899,7 @@
     <string-array name="msd_pc_system_retry_linux">
         <item>Instalar ferramenta: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>Criar a directoria: mkdir /media/mtp</item>
-        <item>Confirme as permissões de grupos de utilizadores no grupo de utilizador actual</item>
+        <item>Confirme as permissões de grupos de utilizadores no grupo de usuário actual</item>
         <item>Iniciar sessão novamente</item>
         <item>Acesso montado no dispositivo: mtpfs /media/mtp via explorador de arquivos; mesmo que o directório local</item>
         <item>"Desinstalar dispositivo: fusermount -u /media/mtp

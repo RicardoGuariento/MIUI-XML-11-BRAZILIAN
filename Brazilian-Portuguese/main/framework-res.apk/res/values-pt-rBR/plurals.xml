@@ -89,7 +89,7 @@
         <item quantity="one">Tente novamente em 1 segundo</item>
     </plurals>
     <plurals name="selected_count">
-        <item quantity="other">%1$d seleccionados</item>
+        <item quantity="other">%1$d selecionados</item>
         <item quantity="one">%1$d seleccionado</item>
     </plurals>
     <plurals name="ssl_ca_cert_warning">

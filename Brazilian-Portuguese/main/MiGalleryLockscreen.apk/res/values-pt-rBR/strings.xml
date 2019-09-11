@@ -85,7 +85,7 @@
   <string name="cw_local_pic">Galeria</string>
   <string name="cw_my_fav">Favoritos</string>
   <string name="cw_permission_tip">Permitir que os papéis de parede aleatórios possam acessaro armazenamento em Configurações &gt; Gestão de aplicativos</string>
-  <string name="cw_wallpaper_empty_dlg_btn">Percebi</string>
+  <string name="cw_wallpaper_empty_dlg_btn">Entendido</string>
   <string name="cw_wallpaper_empty_dlg_content">Ainda não adicionou itens aos diapositivos. Trocado para recomendações</string>
   <string name="cw_wallpaper_empty_dlg_title">Sem itens</string>
   <string name="cw_wallpaper_manager">Gerir paéis de parede</string>
@@ -154,7 +154,7 @@
   <string name="llks_pop_btm_des_backup">Tenha um ótimo começo de dia</string>
   <string name="llks_pop_btm_title">Bom dia</string>
   <string name="llks_pop_btm_title_backup">Saudações matinais</string>
-  <string name="llks_pop_i_know">Percebi</string>
+  <string name="llks_pop_i_know">Entendido</string>
   <string name="llks_pop_top_des">Receba novas imagens regularmente</string>
   <string name="llks_pop_top_des_backup">Entregues no seu tela diariamente</string>
   <string name="llks_pop_top_title">Novos papéis de parede</string>
@@ -267,7 +267,7 @@
   <string name="sst_prov_enable_desc">Obtenha novos papéis de parede regularmente</string>
   <string name="sst_prov_enable_title">Ligar papéis de parede aleatórios</string>
   <string name="sst_recomm">Recomendações</string>
-  <string name="sst_require_one_category_hint">Seleccione pelo menos uma categoria</string>
+  <string name="sst_require_one_category_hint">Selecione pelo menos uma categoria</string>
   <string name="sst_selected_tip">Actual</string>
   <string name="sst_show_lockscreen_entry_desc">Mostrar atalho na tela de bloqueio</string>
   <string name="sst_show_lockscreen_entry_title">Atalho na tela de bloqueio</string>

@@ -2,7 +2,7 @@
 <resources>
   <string name="add_frequent_phrases">Adicionar frases frequentes</string>
   <string name="delete_frequent_phrases">excluir frases frequentes</string>
-  <string name="delete_frequent_phrases_confirm">excluir as frases frequentes seleccionadas?</string>
+  <string name="delete_frequent_phrases_confirm">excluir as frases frequentes selecionadas?</string>
   <string name="edit_frequent_phrases">Editar frases frequentes</string>
   <string name="frequent_phrases_des">Introduza frases frequentes com apenas alguns toques enquanto edita o texto</string>
   <string name="frequent_phrases_size_exceeded">Pode adicionar até %1$d frases frequentes. Elimine as desnecessárias para adicionar mais</string>

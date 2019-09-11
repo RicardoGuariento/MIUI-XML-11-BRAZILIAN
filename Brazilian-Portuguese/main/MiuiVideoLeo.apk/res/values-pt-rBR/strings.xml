@@ -105,7 +105,7 @@
   <string name="declaration">Termos de Utilização</string>
   <string name="declaration_allow">Concordar</string>
   <string name="declaration_content">1. Ao utilizar este serviço, incluindo Sohu Vídeo, iQiyi e outros fornecedores de serviços, está a concordar com <a href="http://www.miui.com/res/doc/eula.html">Termos de Utilização</a> e <a href="http://www.miui.com/res/doc/privacy.html">Política de Privacidade</a>".
-2. Para melhorar a experiência do utilizador, vamos obter alguns dados sobre o seu dispositivo e o conteúdo visto. Sohu e iQiyi vão também obter o IMEI do seu dispositivo.&amp;#8203;
+2. Para melhorar a experiência do usuário, vamos obter alguns dados sobre o seu dispositivo e o conteúdo visto. Sohu e iQiyi vão também obter o IMEI do seu dispositivo.&amp;#8203;
 3. O nosso plugin HD Vídeo vai ser instalado automaticamente.
 4. Este serviço necessita de uma ligação à Internet para funcionar normalmente"</string>
   <string name="declaration_content_td_custom">Este aplicativo necessita de uma ligação à Internet para funcionar normalmente</string>
@@ -285,8 +285,8 @@
   <string name="passport_account_identity_title">Verificar a sua identidade</string>
   <string name="passport_account_label">Conta Mi</string>
   <string name="passport_account_name">Conta: %1$s</string>
-  <string name="passport_account_not_activated">A conta não foi activada</string>
-  <string name="passport_account_not_actived">A sua conta não foi activada</string>
+  <string name="passport_account_not_activated">A conta não foi ativada</string>
+  <string name="passport_account_not_actived">A sua conta não foi ativada</string>
   <string name="passport_active_email_visit">Verifique o seu email em %s</string>
   <string name="passport_activing_account">A activar…</string>
   <string name="passport_area_code_hot">Utilizado frequentemente</string>
@@ -331,7 +331,7 @@ Para activar a sua conta siga o
   <string name="passport_error_sim_not_ready">Não é possível localizar cartão SIM</string>
   <string name="passport_error_ssl_hand_shake">Não é possível ligar ao servidor</string>
   <string name="passport_error_unknown">Não é possível iniciar sessão</string>
-  <string name="passport_error_user_name">O nome de utilizador que introduziu é inválido</string>
+  <string name="passport_error_user_name">O nome de usuário que introduziu é inválido</string>
   <string name="passport_failed_to_send_activate_email">Não foi possível enviar email de activação</string>
   <string name="passport_find_password_on_web_msg">Visite account.mi.com para repor a sua palavra-passe</string>
   <string name="passport_forget_password"><u>Esqueceu a palavra-passe?</u></string>
@@ -339,7 +339,7 @@ Para activar a sua conta siga o
   <string name="passport_get_back_pwd">Recuperar palavra-passe da conta</string>
   <string name="passport_get_verify_code">Obter código</string>
   <string name="passport_getting_verify_code">A obter</string>
-  <string name="passport_i_know">Percebi</string>
+  <string name="passport_i_know">Entendido</string>
   <string name="passport_identitfication_expired">Código de verificação expirado</string>
   <string name="passport_imei_permission_denied_message">Estamos a pedir permissão para obter o IMEI do seu dispositivo. A Conta Mi utiliza o IMEI para identificar o dispositivo onde iniciou a sessão para ajudá-lo a manter a sua Conta Mi segura</string>
   <string name="passport_imei_permission_denied_title">Pedido de permissão de IMEI</string>
@@ -390,13 +390,13 @@ Para activar a sua conta siga o
   <string name="passport_register_by_email"><u>Criar uma conta utilizando um endereço de email</u></string>
   <string name="passport_register_restricted">Foram associadas demasiadas contas com este número, tente um diferente</string>
   <string name="passport_register_restricted_title">Não é possível utilizar este número de telefone</string>
-  <string name="passport_registered_phone_user_ID">ID do utilizador:%s</string>
-  <string name="passport_registered_phone_user_name">Nome do utilizador:%s</string>
+  <string name="passport_registered_phone_user_ID">ID do usuário:%s</string>
+  <string name="passport_registered_phone_user_name">Nome do usuário:%s</string>
   <string name="passport_reject_recycle_account">Não</string>
   <string name="passport_relogin">Iniciar sessão novamente</string>
   <string name="passport_relogin_notice">Tem que iniciar sessão novamente</string>
   <string name="passport_remove_confirm">Terminar sessão</string>
-  <string name="passport_remove_unactivated_account_notice">A sua conta não foi activada</string>
+  <string name="passport_remove_unactivated_account_notice">A sua conta não foi ativada</string>
   <string name="passport_resend_active_email">Reenviar email</string>
   <string name="passport_reset_fail_title">Não foi possível repor</string>
   <string name="passport_reset_password_prompt">Palavra-passe está incorrecta</string>
@@ -489,7 +489,7 @@ Para activar a sua conta siga o
   <string name="second">Segundo</string>
   <string name="see_all_count_comment">%d mais comentários</string>
   <string name="select_all">Seleccionar tudo</string>
-  <string name="select_count_xiang">%d seleccionados</string>
+  <string name="select_count_xiang">%d selecionados</string>
   <string name="select_none">Desmarcar tudo</string>
   <string name="select_tv">Canais</string>
   <string name="select_tv_empty_hint">Sem canais</string>

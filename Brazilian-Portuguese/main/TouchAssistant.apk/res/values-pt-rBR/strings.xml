@@ -11,7 +11,7 @@
   <string name="function_settings">Configurações do atalho</string>
   <string name="handy_mode_default_to_close_whether_open">O Modo Uma Mão está desligado por defeito Ligar Modo Uma Mão?</string>
   <string name="hide_touch_assistant">Ocultar automaticamente</string>
-  <string name="hide_touch_assistant_intro">Ocultar o menu flutuante nas aplicativos seleccionadas</string>
+  <string name="hide_touch_assistant_intro">Ocultar o menu flutuante nas aplicativos selecionadas</string>
   <string name="hide_when_fullscreen">Mover para o lado em tela inteiro</string>
   <string name="hide_when_fullscreen_intro">Mover para o lado quando entrar em modo tela inteiro</string>
   <string name="motion_behavior">Gesto preferido</string>
@@ -35,7 +35,7 @@
   <string name="name_trans_cards">Cartões de transporte</string>
   <string name="name_wechat_payment_code">Pagamento WeChat</string>
   <string name="name_wechat_scan">Digitalizador WeChat</string>
-  <string name="nfc_all_mipay_card_not_in_use">Mi Pay não está activado</string>
+  <string name="nfc_all_mipay_card_not_in_use">Mi Pay não está ativado</string>
   <string name="nfc_trans_card_not_in_use">Os cartões de transporte não estão activados</string>
   <string name="not_working">%s (Não funciona)</string>
   <string name="open">Ligar</string>

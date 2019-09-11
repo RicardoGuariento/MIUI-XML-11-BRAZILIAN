@@ -12,7 +12,7 @@
   <string name="additional_gsm_call_settings">Configurações adicionais</string>
   <string name="additional_gsm_call_settings_with_label">Configurações adicionais (%s)</string>
   <string name="administrative_disable">Administrador desactivado</string>
-  <string name="administrative_enable">Administrador activado</string>
+  <string name="administrative_enable">Administrador ativado</string>
   <string name="advanced_settings">Configurações opcionais</string>
   <string name="advanced_settings_hide">▽ Toque para ocultar tudo</string>
   <string name="advanced_settings_show">▷ Toque para mostrar tudo</string>
@@ -126,7 +126,7 @@
   <string name="call_record_off_summary">Desligada</string>
   <string name="call_record_on_summary">Ligada</string>
   <string name="call_record_setting">Gravação de chamadas</string>
-  <string name="call_record_whitelist_custom">Números seleccionados</string>
+  <string name="call_record_whitelist_custom">Números selecionados</string>
   <string name="call_recording_notification_message">Toque para ouvir</string>
   <string name="call_recording_notification_message_low_storage">O cartão SD está cheio</string>
   <string name="call_recording_notification_message_sd_unmounted">O cartão SD foi removido</string>
@@ -136,7 +136,7 @@
   <string name="call_recording_notification_toggle_title">Notificação de gravação de chamada</string>
   <string name="call_recording_setting">Gravação de chamadas</string>
   <string name="call_settings">Telefone</string>
-  <string name="call_settings_primary_user_only">As configurações de chamadas só podem ser alteradas pelo utilizador principal</string>
+  <string name="call_settings_primary_user_only">As configurações de chamadas só podem ser alteradas pelo usuário principal</string>
   <string name="call_settings_with_label">Configurações adicionais (%s)</string>
   <string name="call_waiting_summary">Notificar-me sobre chamadas recebidas durante uma chamada</string>
   <string name="call_waiting_title">Chamada em espera</string>
@@ -358,7 +358,7 @@
   <string name="disable_pin_ok">PIN limpo</string>
   <string name="disable_sim_pin">Limpar PIN do SIM</string>
   <string name="disabled_by_admin">Desactivado pelo administrador</string>
-  <string name="display_name_summary">&lt;O mesmo que o utilizador&gt;</string>
+  <string name="display_name_summary">&lt;O mesmo que o usuário&gt;</string>
   <string name="display_name_title">Mostrar nome</string>
   <string name="do_not_show_again">Não mostrar novamente</string>
   <string name="domain_address_title">Servidor</string>
@@ -376,7 +376,7 @@
   <string name="emergencyDialerIconLabel">Chamada de emergência</string>
   <string name="emergency_action_launch_hint">Tocar novamente para abrir</string>
   <string name="emergency_broadcast_disable">Difusão móvel de emergência desactivado</string>
-  <string name="emergency_broadcast_enable">Difusão móvel de emergência activado</string>
+  <string name="emergency_broadcast_enable">Difusão móvel de emergência ativado</string>
   <string name="emergency_call_area_code_edit_dialog_button">Chamada</string>
   <string name="emergency_call_area_code_edit_dialog_hint">Introduzir código de área</string>
   <string name="emergency_enable_radio_dialog_message">A ligar o rádio…</string>
@@ -621,7 +621,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="miui_notification_network_selection_title_by_sim">SIM %s: Sem serviço</string>
   <string name="mmiCancelled">Código MMI cancelado</string>
   <string name="mmiStarted">Código MMI iniciado</string>
-  <string name="mobile_network_settings_not_available">As configurações de rede móvel não estão disponíveis para este utilizador</string>
+  <string name="mobile_network_settings_not_available">As configurações de rede móvel não estão disponíveis para este usuário</string>
   <string name="mobile_networks">Configurações de redes móveis</string>
   <string name="modem_dialog_body">A rede móvel está instável e a causar interrupções ou problemas de rede. Enviar o relatório do erro para a Mi para análise?</string>
   <string name="modem_dialog_title">Rede móvel instável</string>
@@ -753,15 +753,15 @@ Este processo pode demorar até 5 minutos"</string>
   <string name="ota_skip_activation_dialog_title">Ignorar activação?</string>
   <string name="ota_spc_failure">FALHAS SPC EXCESSIVAS</string>
   <string name="ota_speaker">Altifalante</string>
-  <string name="ota_successful">O seu telefone está activado. Pode demorar cerca de 15 minutos para o serviço iniciar</string>
+  <string name="ota_successful">O seu telefone está ativado. Pode demorar cerca de 15 minutos para o serviço iniciar</string>
   <string name="ota_title_activate">Activar o seu telefone</string>
-  <string name="ota_title_activate_success">Telefone activado com sucesso</string>
+  <string name="ota_title_activate_success">Telefone ativado com sucesso</string>
   <string name="ota_title_problem_with_activation">Não é possível activar</string>
   <string name="ota_touch_activate">"É necessário fazer uma chamada específica para activar o serviço do seu telefone. 
 
 Depois de premir “Activar”, ouvir as instruções fornecidas pela sua operadora para activar o seu telefone"</string>
   <string name="ota_try_again">Repetir</string>
-  <string name="ota_unsuccessful">"O seu telefone não ficou activado.
+  <string name="ota_unsuccessful">"O seu telefone não ficou ativado.
 Precisa de encontrar uma zona com melhor cobertura (perto de uma janela, ou no exterior). 
 
 Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções"</string>
@@ -932,7 +932,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="progress_dialog_exiting_ecm">A sair do Modo de Emergência</string>
   <string name="prompt_to_turnoff_volte_when_failed">Os serviços VoLTE não estão disponíveis. Desligue o VoLTE para fazer uma chamada</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">O serviço não está disponível. Desligue o VoLTE nas configurações</string>
-  <string name="prompt_when_turnon_volte_on_3g_prefered">Seleccione 4G como rede preferida antes de ligar o VoLTE</string>
+  <string name="prompt_when_turnon_volte_on_3g_prefered">Selecione 4G como rede preferida antes de ligar o VoLTE</string>
   <string name="prompt_when_turnon_volte_without_lte">As redes VoLTE não estão disponíveis. Se ligar o VoLTE não vai conseguir fazer chamadas</string>
   <string name="proxy_address">Endereço proxy</string>
   <string name="proxy_address_title">Endereço de proxy de saída</string>
@@ -964,7 +964,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="registration_status_checking_status">A verificar…</string>
   <string name="registration_status_done">A receber chamadas</string>
   <string name="registration_status_failed_try_later">Não é possível registar a conta (%s)</string>
-  <string name="registration_status_invalid_credentials">O utilizador ou palavra-passe que introduziu está incorrecto</string>
+  <string name="registration_status_invalid_credentials">O usuário ou palavra-passe que introduziu está incorrecto</string>
   <string name="registration_status_no_data">Não existe nenhuma ligação à rede</string>
   <string name="registration_status_no_wifi_data">Não está ligado a nenhuma rede Wi-Fi</string>
   <string name="registration_status_not_receiving">Não está a receber chamadas</string>
@@ -1020,7 +1020,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="roaming_disable">Ligar dados móveis quando em roaming</string>
   <string name="roaming_enable">Ligar dados móveis quando em roaming</string>
   <string name="roaming_notification_content">Pode adicionar códigos de país automaticamente para marcar mais facilmente</string>
-  <string name="roaming_notification_title">O roaming está activado</string>
+  <string name="roaming_notification_title">O roaming está ativado</string>
   <string name="roaming_reenable_message">Tente utilizar o roaming para ligar novamente</string>
   <string name="roaming_warning">Podem surgir custos de roaming significativos</string>
   <string name="rsp_unlock_failed">O pedido de desbloqueio do serviço da operadora do cartão RUIM falhou</string>
@@ -1225,8 +1225,8 @@ Se vir _ na sua barra de estado, as chamadas VoLTE não estão disponíveis. Se 
 
 Este tablet não tem fones de ouvido. Pode mudar para o modo mãos-livres ou utilizar auriculares para fazer chamadas"</string>
   <string name="voice_service_warning_dialog_cancel">Cancelar</string>
-  <string name="voice_service_warning_dialog_ok">Percebi</string>
-  <string name="voice_service_warning_dialog_ok_timer">Percebi (%d)</string>
+  <string name="voice_service_warning_dialog_ok">Entendido</string>
+  <string name="voice_service_warning_dialog_ok_timer">Entendido (%d)</string>
   <string name="voice_service_warning_dialog_title">Chamadas VoLTE</string>
   <string name="voicemail">Voice Mail</string>
   <string name="voicemail_abbreviated">VM:</string>

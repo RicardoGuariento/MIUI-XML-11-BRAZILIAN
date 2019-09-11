@@ -190,7 +190,7 @@
   <string name="app_manager_find_apps">Procurar aplicativos</string>
   <string name="app_manager_force_stop_dlg_text">Se forçar a paragem desta aplicação, ela pode funcionar mal</string>
   <string name="app_manager_force_stop_dlg_title">Forçar paragem</string>
-  <string name="app_manager_full_screen_summary">Permitir que as aplicativos seleccionadas funcionem em modo tela inteiro</string>
+  <string name="app_manager_full_screen_summary">Permitir que as aplicativos selecionadas funcionem em modo tela inteiro</string>
   <string name="app_manager_full_screen_title">Modo tela inteiro</string>
   <string name="app_manager_globel_other_perm_title">Outras permissões</string>
   <string name="app_manager_globel_perm_summary">Gerir permissões relacionadas com localização, armazenamento, telefone, mensagens e contatos</string>
@@ -249,7 +249,7 @@
   <string name="app_manager_uninstall_xspace_app_dlg_title">Desinstalar aplicação clonada?</string>
   <string name="app_manager_unstall_application">Desinstalar</string>
   <string name="app_manager_wake_path_card_title">Histórico de início sequencial (2 dias)</string>
-  <string name="app_manager_wakepath_dialog_buttontext">Percebi</string>
+  <string name="app_manager_wakepath_dialog_buttontext">Entendido</string>
   <string name="app_manager_wakepath_dialog_summary">O início sequencial acontece quando uma aplicação executa outra em segundo plano. Pode gastar mais bateria e reduzir o desempenho do sistema. A MIUI normalmente bloqueia o início sequencial</string>
   <string name="app_manager_wakepath_dialog_title">Sobre de início sequencial</string>
   <string name="app_managere_not_have_app">Vazio</string>
@@ -356,7 +356,7 @@
   <string name="auto_task_edit_task_name">Nome</string>
   <string name="auto_task_main_title">Tarefas automáticas</string>
   <string name="auto_task_mamange_activity_title">Configurações</string>
-  <string name="auto_task_manage_delete_prompt">excluir tarefas seleccionadas?</string>
+  <string name="auto_task_manage_delete_prompt">excluir tarefas selecionadas?</string>
   <string name="auto_task_manage_new_task">Nova tarefa automática</string>
   <string name="auto_task_manager_group_title">As minhas tarefas automáticas</string>
   <string name="auto_task_notify_do_task_title">Início da tarefa automática</string>
@@ -511,7 +511,7 @@
   <string name="button_text_ignore">Ignorar</string>
   <string name="button_text_ignore_alert_title">Ignorar este alerta?</string>
   <string name="button_text_known">OK</string>
-  <string name="button_text_let_me_select">Percebi</string>
+  <string name="button_text_let_me_select">Entendido</string>
   <string name="button_text_next_step">Seguinte</string>
   <string name="button_text_next_step_timer">Passo seguinte (%d)</string>
   <string name="button_text_open_now">Abrir</string>
@@ -537,7 +537,7 @@
   <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="card_main_applock_action">Ligar</string>
-  <string name="card_main_applock_summary">Proteger aplicativos seleccionadas com uma palavra-passe</string>
+  <string name="card_main_applock_summary">Proteger aplicativos selecionadas com uma palavra-passe</string>
   <string name="card_main_applock_title">Bloqueio de aplicativos</string>
   <string name="card_main_deepclean_action">Limpar</string>
   <string name="card_main_deepclean_facebook_title">Limpeza do Facebook</string>
@@ -614,7 +614,7 @@
   <string name="daily_card_setting_fragment_daily_card_brand">Operadora</string>
   <string name="daily_card_setting_fragment_daily_card_brand_value">Seleccionar operadora</string>
   <string name="daily_card_setting_fragment_daily_card_setting">Configurações do plano de dados diário</string>
-  <string name="daily_card_setting_fragment_daily_card_summary">A MIUI vai definir limites de dados e aplicativos com dados ilimitados mediante a operadora que seleccionar. Se a sua operador não estiver listada, seleccione \"Outras\" e defina o seu plano de dados diário manualmente</string>
+  <string name="daily_card_setting_fragment_daily_card_summary">A MIUI vai definir limites de dados e aplicativos com dados ilimitados mediante a operadora que seleccionar. Se a sua operador não estiver listada, selecione \"Outras\" e defina o seu plano de dados diário manualmente</string>
   <string name="daily_card_setting_fragment_daily_package">Limite de dados diário</string>
   <string name="daily_card_setting_fragment_month_package">Pacote de dados mensal</string>
   <string name="daily_card_setting_fragment_package_summary">Se o seu plano de dados diário contém um pacote de dados mensal, vai ser utilizado antes do pacote diário</string>
@@ -674,7 +674,7 @@ Todos os dados no seu dispositivo podem ser eliminados e a sua palavra-passe do 
   <string name="device_manager_apply_step_3">Certifique-se que compreende todos os riscos antes de avançar. Activar o administrador de dispositivo para esta aplicação agora?</string>
   <string name="diagnostic_attention_dialog_message">O diagnóstico para %1$s está em curso. Aguarde até estar concluído e tente novamente</string>
   <string name="dialog_app_roaming_message">%1$s não pode utilizar dados móveis em roaming. Apenas as aplicativos adicionadas nas excepções podem utilizar dados móveis</string>
-  <string name="dialog_app_roaming_title">O roaming não está activado para %1$s</string>
+  <string name="dialog_app_roaming_title">O roaming não está ativado para %1$s</string>
   <string name="dialog_change_package_type_summary">Alterar o tipo de plano de dados vai repor todas as configurações de utilização de dados para os valores predefinidos. Alterar tipo de plano de dados agora?</string>
   <string name="dialog_change_package_type_title">Alteração de tipo de plano de dados</string>
   <string name="dialog_msg_auto_start_declare">Algumas aplicativos podem indicar incorrectamente que foram impedidas de iniciar. Para verificar as permissões que foram concedidas a cada aplicação individualmente, vá a Configurações &gt; Aplicativos</string>
@@ -698,7 +698,7 @@ Todos os dados no seu dispositivo podem ser eliminados e a sua palavra-passe do 
   <string name="dlg_add_blacklist">Bloquear este número?</string>
   <string name="dlg_add_blacklist_title">Adicionar à lista de bloqueio</string>
   <string name="dlg_add_keyword">Adicionar palavras-chave</string>
-  <string name="dlg_add_white">Apenas as novas chamadas e mensagens de números adicionados às excepções vão ser mostradas no registo de chamadas e mensagens. Adicionar os números seleccionados às excepções?</string>
+  <string name="dlg_add_white">Apenas as novas chamadas e mensagens de números adicionados às excepções vão ser mostradas no registo de chamadas e mensagens. Adicionar os números selecionados às excepções?</string>
   <string name="dlg_add_manual_hint">Introduzir número de telefone</string>
   <string name="dlg_add_manual_ok">Adicionar</string>
   <string name="dlg_antispam_mode_delete_message">Não é possível recuperar regras depois de terem sido eliminadas</string>
@@ -717,7 +717,7 @@ Todos os dados no seu dispositivo podem ser eliminados e a sua palavra-passe do 
   <string name="dlg_clear_current_call">Limpar todas as chamadas bloqueadas deste número?</string>
   <string name="dlg_clear_current_ok">Limpar</string>
   <string name="dlg_clear_current_sms">excluir todas as mensagens bloqueadas enviadas por este número?</string>
-  <string name="dlg_delete_keyword">Limpar as palavras-chave seleccionadas?</string>
+  <string name="dlg_delete_keyword">Limpar as palavras-chave selecionadas?</string>
   <string name="dlg_edit_keyword">Editar palavras-chave</string>
   <string name="dlg_import_blacklist">A adicionar…</string>
   <string name="dlg_import_whitelist">A adicionar…</string>
@@ -727,8 +727,8 @@ Todos os dados no seu dispositivo podem ser eliminados e a sua palavra-passe do 
   <string name="dlg_no_block">"Desbloquear este número de telefone?
 Vai ser adicionado às excepções mas os itens bloqueados anteriormente não vão aparecer"</string>
   <string name="dlg_no_block_ok">Desbloquear</string>
-  <string name="dlg_not_block_call">Desbloquear números seleccionados? Vão ser adicionados às excepções mas os itens bloqueados anteriormente não vão aparecer</string>
-  <string name="dlg_not_block_sms">Desbloquear números seleccionados? Vão ser adicionados às excepções mas os itens bloqueados anteriormente não vão aparecer"</string>
+  <string name="dlg_not_block_call">Desbloquear números selecionados? Vão ser adicionados às excepções mas os itens bloqueados anteriormente não vão aparecer</string>
+  <string name="dlg_not_block_sms">Desbloquear números selecionados? Vão ser adicionados às excepções mas os itens bloqueados anteriormente não vão aparecer"</string>
   <string name="dlg_remove_address_blacklist">Remover esta localização da lista de bloqueio?</string>
   <string name="dlg_remove_address_whitelist">Remover esta localização das excepções?</string>
   <string name="dlg_remove_blacklist">Remover estes números da lista de bloqueio?</string>
@@ -991,7 +991,7 @@ medical card"</string>
   <string name="function_shield_eye_shield">Desligar Modo de Leitura</string>
   <string name="function_shield_pull_notification_bar">Não abrir a área de notificações</string>
   <string name="function_shield_settings_title">Restringir funcionalidades a jogar</string>
-  <string name="function_shield_summary">Restringir as funcionalidades seleccionadas quando estiver a jogar</string>
+  <string name="function_shield_summary">Restringir as funcionalidades selecionadas quando estiver a jogar</string>
   <string name="function_shield_three_finger">Restringir os gestos de capturas de tela</string>
   <string name="function_shield_title">Experiência melhorada</string>
   <string name="function_shield_voice_trigger">Não ligar Mi AI através da voz</string>
@@ -1126,7 +1126,7 @@ medical card"</string>
   <string name="gs_auto_clean_memory">Limpar cache</string>
   <string name="gs_auto_clean_memory_detail">Limpar cache automaticamente para optimizar os jogos</string>
   <string name="gs_autobooster">Aumentar automaticamente</string>
-  <string name="gs_autobooster_detail">Aumentar velocidade automaticamente para os jogos seleccionados</string>
+  <string name="gs_autobooster_detail">Aumentar velocidade automaticamente para os jogos selecionados</string>
   <string name="gs_call_handsfree">Mãos livres</string>
   <string name="gs_call_handsfree_mute">Modo silêncio</string>
   <string name="gs_dialog_confirm_close_msg">O atalho vai ser removido do tela inicial. Vá a Segurança &gt; Configurações para o restaurar</string>
@@ -1187,7 +1187,7 @@ medical card"</string>
   <string name="hints_virus_lib_update_default_summary">Última actualização desconhecida</string>
   <string name="hot">Em destaque</string>
   <string name="hot_today">Em destaque hoje</string>
-  <string name="i_know">Percebi</string>
+  <string name="i_know">Entendido</string>
   <string name="im">IM</string>
   <string name="info_and_call">Chamadas e mensagens</string>
   <string name="info_antispam_close">A lista de bloqueio está desligada</string>
@@ -1233,7 +1233,7 @@ Pode ter custos adicionais se utilizar a ligação de dados móveis novamente"</
   <string name="list_empty_text">Vazio</string>
   <string name="load_only_under_wlan">Carregar apenas quando ligado ao Wi-Fi</string>
   <string name="loading">Aguarde…</string>
-  <string name="local_ip_exception_summary">Não foi possível obter o endereço IP local. Para reportar este problema para a MIUI, seleccione o relatório de erros e envie um registo do seu dispositivo</string>
+  <string name="local_ip_exception_summary">Não foi possível obter o endereço IP local. Para reportar este problema para a MIUI, selecione o relatório de erros e envie um registo do seu dispositivo</string>
   <string name="lock_mode_title">Configurações de bloqueio</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s utilizados na tela de bloqueio</string>
   <string name="lock_screen_traffic_guide_notification_title">Toque para gerir a utilização de dados</string>
@@ -1322,7 +1322,7 @@ da operadora"</string>
   <string name="managed_user_title">Todas as aplicativos de trabalho</string>
   <string name="manual_input_free_traffic">Definir a utilização de dados no período de menor tráfego</string>
   <string name="manual_input_traffic">Definir utilização de dados</string>
-  <string name="manual_item_white_list_summary">Impedir que os itens seleccionados sejam optimizados</string>
+  <string name="manual_item_white_list_summary">Impedir que os itens selecionados sejam optimizados</string>
   <string name="manual_item_white_list_title">Excepções</string>
   <string name="mark_agent">Bloquear agências reportadas</string>
   <string name="mark_agent_block">Reportado como agência</string>
@@ -1471,7 +1471,7 @@ da operadora"</string>
 2. Se acabou de carregar o saldo do seu telefone, reinicie o telefone e tente novamente
 
 3. O sinal de rede da sua operadora pode ser fraco na sua localização actual"</string>
-  <string name="network_operator_exception_summary">Não foi possível activar o cartão SIM. Verifique se o seu cartão SIM está inserido correctamente e que o seu plano móvel foi activado pela sua operadora</string>
+  <string name="network_operator_exception_summary">Não foi possível activar o cartão SIM. Verifique se o seu cartão SIM está inserido correctamente e que o seu plano móvel foi ativado pela sua operadora</string>
   <string name="network_permission_exception_tips">Não é possível utilizar dados móveis para ligar à rede</string>
   <string name="network_roaming_exception_tips">Não é possível utilizar dados móveis em roaming para ligar à rede</string>
   <string name="network_route_exception_detail">"Pode existir um problema com o router a que está ligado:
@@ -1607,7 +1607,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="optimize_result_title_sucurity_risk">Encontrados riscos de segurança</string>
   <string name="optimize_result_title_system_default_settings">As configurações predefinidas foram alteradas</string>
   <string name="optimize_result_toast_system_default_settings">As configurações predefinidas foram repostas</string>
-  <string name="optimize_result_toast_system_no_item_selected">Sem itens seleccionados</string>
+  <string name="optimize_result_toast_system_no_item_selected">Sem itens selecionados</string>
   <string name="optmizingbar_optimize_done">Optimizado</string>
   <string name="optmizingbar_ready">A optimizar…</string>
   <string name="optmizingbar_stop_optmize">Parar</string>
@@ -1626,7 +1626,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="package_setted_error_notification_titile">Não foi possível definir plano de dados</string>
   <string name="packages_subtitle">Pacotes incluídos</string>
   <string name="passwordIncorrect">Utilizador ou palavra-passe incorrecto</string>
-  <string name="password_forget_pattern_confirm">Percebi</string>
+  <string name="password_forget_pattern_confirm">Entendido</string>
   <string name="password_forget_pattern_message">Devido a motivos de segurança, apenas pode repor a sua palavra-passe após uma reposição de fábrica. Toque para repor</string>
   <string name="password_forget_pattern_message_none">As aplicativos não estão bloqueadas. Pode repor a sua palavra-passe</string>
   <string name="password_forget_pattern_reset">Repor</string>
@@ -1851,7 +1851,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pref_daily_adjust">Definir utilização de dados</string>
   <string name="pref_daily_traffic">Limite de dados mensal</string>
   <string name="pref_data_usage_ignore_settings">Ignorar utilização de dados</string>
-  <string name="pref_data_usage_ignore_settings_summary">Não controlar utilização de dados os aplicativos seleccionadas</string>
+  <string name="pref_data_usage_ignore_settings_summary">Não controlar utilização de dados os aplicativos selecionadas</string>
   <string name="pref_data_usage_not_set">Plano de dados desconhecido</string>
   <string name="pref_free_adjust">Definir utilização de dados</string>
   <string name="pref_key_daily_package_summary">Ligar para repor o plano de dados diário</string>
@@ -1906,7 +1906,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="preferred_app_entries_music">Música</string>
   <string name="privacy_apps">Aplicativos ocultas</string>
   <string name="privacy_apps_begin_use">Começar</string>
-  <string name="privacy_apps_button_know">Percebi</string>
+  <string name="privacy_apps_button_know">Entendido</string>
   <string name="privacy_apps_category_title">Aplicativos ocultas</string>
   <string name="privacy_apps_checkbox_remind_choice">Não mostrar novamente</string>
   <string name="privacy_apps_close">Fechar</string>
@@ -1934,8 +1934,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="prompt_all">Perguntar para todas</string>
   <string name="prompt_input_time_illegal">Não é possível definir esta hora. Altere-a e tente novamente</string>
   <string name="protocol_exception_title">Diagnósticos de protocolo de rede</string>
-  <string name="protocol_loop_back_exception_summary">O teste local falhou. Para reportar este problema à MIUI, seleccione o aplicativo reportar erros para enviar um registo a partir o seu dispositivo</string>
-  <string name="qucick_replay_instrument">Utilizar respostas rápidas nas notificações os aplicativos seleccionadas</string>
+  <string name="protocol_loop_back_exception_summary">O teste local falhou. Para reportar este problema à MIUI, selecione o aplicativo reportar erros para enviar um registo a partir o seu dispositivo</string>
+  <string name="qucick_replay_instrument">Utilizar respostas rápidas nas notificações os aplicativos selecionadas</string>
   <string name="quick_optimize_checking">A verificar</string>
   <string name="quick_optimize_no_fix_issue_subtitle">Não foi possível estender a vida da bateria</string>
   <string name="quick_optimize_no_fix_issue_title">Não foi possível corrigir os problemas de bateria</string>
@@ -2003,7 +2003,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="root">Acesso root</string>
   <string name="root_apply_step_1">Conceder acesso root a %s?</string>
   <string name="root_apply_step_2">Ao conceder acesso root às aplicativos pode causar instabilidade no dispositivo</string>
-  <string name="root_apply_step_3">A segurança dos seus dados de utilizador (contas, palavras-passe e mensagens) podem ser comprometidas</string>
+  <string name="root_apply_step_3">A segurança dos seus dados de usuário (contas, palavras-passe e mensagens) podem ser comprometidas</string>
   <string name="root_apply_step_4">Ao conceder acesso root às aplicativos faça-o por sua conta e risco</string>
   <string name="root_apply_step_5">Conceder acesso root a %s?</string>
   <string name="root_apply_title">Aviso importante</string>
@@ -2216,7 +2216,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="st_title_addblacklist">Adicionar à lista de bloqueio</string>
   <string name="st_title_addwhitelist">Adicionar às excepções</string>
   <string name="st_title_adress">Adicionar localizações</string>
-  <string name="st_title_adress_num">%d seleccionados</string>
+  <string name="st_title_adress_num">%d selecionados</string>
   <string name="st_title_anticomintcall_backsound_setting">Mensagem adicionada à lista de bloqueio</string>
   <string name="st_title_antispam_mode">Regras</string>
   <string name="st_title_back_sound_busy">Ocupado</string>
@@ -2327,7 +2327,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="superpower_savemode_limit1">Tema Escuro</string>
   <string name="superpower_savemode_limit2">Restringir actividade em segundo plano</string>
   <string name="superpower_savemode_limit3">Restringir atividades (Sincronização, GPS, vibração,etc.)</string>
-  <string name="superpower_savemode_limit4">Permitir que as aplicativos seleccionadas funcionem normalmente</string>
+  <string name="superpower_savemode_limit4">Permitir que as aplicativos selecionadas funcionem normalmente</string>
   <string name="superpower_settings">Poupança de bateria extrema</string>
   <string name="superpower_settins_autoenter_summary">Ligar a poupança de bateria extrema automaticamente quando a bateria estiver a 10%</string>
   <string name="superpower_settins_autoenter_title">Ligar automaticamente</string>
@@ -2464,7 +2464,7 @@ Nós respeitamos e protegemos a sua privacidade"</string>
   <string name="thermal_tips_title">Atenção</string>
   <string name="third_application">Aplicativos instaladas</string>
   <string name="third_desktop_dialog_content">Como os launchers de terceiros podem ter vários problemas, apenas os launchers verificados pela MIUI pode ser definidos como predefinidos</string>
-  <string name="third_desktop_dialog_ok">Percebi</string>
+  <string name="third_desktop_dialog_ok">Entendido</string>
   <string name="third_desktop_dialog_title">Erro</string>
   <string name="three_percent_total_pkg">%s (3%% dos dados mensais)</string>
   <string name="tips_dialog_title">Não sabe o seu limite</string>
@@ -2512,7 +2512,7 @@ Nós respeitamos e protegemos a sua privacidade"</string>
   <string name="title_miui_update">Actualização disponível</string>
   <string name="title_miui_update_latest">A MIUI está actualizada</string>
   <string name="title_mms_no">Filtro de mensagens desactivado</string>
-  <string name="title_mms_yes">Filtro de mensagens activado</string>
+  <string name="title_mms_yes">Filtro de mensagens ativado</string>
   <string name="title_network_switch">Ligação de rede</string>
   <string name="title_of_app_manage">Aplicativos</string>
   <string name="title_of_auto_launch_manage">Iniciar automaticamente</string>

@@ -77,11 +77,11 @@
         <item quantity="one">%d foto</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_message">
-        <item quantity="other">Guardar %d fotos seleccionadas e excluir as restantes?</item>
+        <item quantity="other">Guardar %d fotos selecionadas e excluir as restantes?</item>
         <item quantity="one">Guardar %d foto seleccionada e excluir as restantes?</item>
     </plurals>
     <plurals name="burst_save_selected">
-        <item quantity="other">Guardar %d fotos seleccionadas</item>
+        <item quantity="other">Guardar %d fotos selecionadas</item>
         <item quantity="one">Guardar %d foto seleccionada</item>
     </plurals>
     <plurals name="cloud_storage_photo_num">
@@ -97,11 +97,11 @@
         <item quantity="one">Colagens podem conter 1-%d foto</item>
     </plurals>
     <plurals name="creation_max_image">
-        <item quantity="other">Seleccione até %d fotos</item>
-        <item quantity="one">Seleccione até %d foto</item>
+        <item quantity="other">Selecione até %d fotos</item>
+        <item quantity="one">Selecione até %d foto</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
-        <item quantity="other">%d itens seleccionados</item>
+        <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item seleccionado</item>
     </plurals>
     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
@@ -217,15 +217,15 @@
         <item quantity="one">%1$d item no total</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
-        <item quantity="other">As fotos seleccionadas não estão no dispositivo. Transferir utilizando os dados móveis?</item>
+        <item quantity="other">As fotos selecionadas não estão no dispositivo. Transferir utilizando os dados móveis?</item>
         <item quantity="one">A foto seleccionada não está no dispositivo. Transferir utilizando os dados móveis?</item>
     </plurals>
     <plurals name="picker_all_image_will_download">
-        <item quantity="other">As fotos seleccionadas não estão no dispositivo. Vão ser transferidas</item>
+        <item quantity="other">As fotos selecionadas não estão no dispositivo. Vão ser transferidas</item>
         <item quantity="one">A foto seleccionada não está no dispositivo. Vai ser transferida</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">As fotos seleccionadas (%dMB) não estão no dispositivo. Transferir utilizando os dados móveis?</item>
+        <item quantity="other">As fotos selecionadas (%dMB) não estão no dispositivo. Transferir utilizando os dados móveis?</item>
         <item quantity="one">A foto seleccionada (%dMB) não está no dispositivo. Transferir utilizando os dados móveis?</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">

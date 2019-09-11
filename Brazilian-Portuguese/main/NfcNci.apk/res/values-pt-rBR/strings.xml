@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_nfc_enabled">NFC activado</string>
+  <string name="accessibility_nfc_enabled">NFC ativado</string>
   <string name="android_beam">Android Beam</string>
   <string name="app_name">Serviço NFC</string>
   <string name="ask_nfc_tap">Toque noutro dispositivo para concluir</string>

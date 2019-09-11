@@ -63,7 +63,7 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="unlock">Activar</string>
   <string name="unlock_access_denied">Acesso negado</string>
   <string name="unlock_bad_authentication">Utilizador ou palavra-passe inválido</string>
-  <string name="unlock_error_abort">Cancelado pelo utilizador</string>
+  <string name="unlock_error_abort">Cancelado pelo usuário</string>
   <string name="unlock_error_device_id">Não é possível obter o ID do dispositivo</string>
   <string name="unlock_error_interrupted">Interrompido</string>
   <string name="unlock_error_network">Não é possível ligar à rede</string>
@@ -71,7 +71,7 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="unlock_error_server">Erro de servidor</string>
   <string name="unlock_error_ssl_hand_shake">Não foi possível ligar ao servidor. Tente definir a data e hora manualmente</string>
   <string name="unlock_error_unknown">Não é possível iniciar sessão</string>
-  <string name="unlock_error_user_name">O nome de utilizador que introduziu é inválido</string>
+  <string name="unlock_error_user_name">O nome de usuário que introduziu é inválido</string>
   <string name="unlock_error_wrong_vcode">O código que introduziu é inválido</string>
   <string name="unlock_help">"Mantenha-se ligado à rede.
 Certifique-se que inseriu um cartão SIM válido e que o seu dispositivo está ligado a uma rede Wi-Fi.

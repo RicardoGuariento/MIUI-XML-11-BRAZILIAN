@@ -176,7 +176,7 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_main_camera_check_summary">"Instruções do teste:
 
 1.Toque no botão da câmara em baixo para entrar na interface da câmara traseira
-2.Certifique-se de que o flash está activado
+2.Certifique-se de que o flash está ativado
 3.Toque no botão de disparo
 4.Toque no ícone Verificar. O sistema vai salvar a foto automaticamente.
 5.A foto que tirou vai ser mostrada em baixo. Toque em excluir para concluir o teste"</string>
@@ -246,7 +246,7 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_tool_bluetooth_le_tx_ch19">Teste de frequência Bluetooth LE 2.440GHz</string>
   <string name="cit_tool_bluetooth_le_tx_h">Teste de frequência Bluetooth LE 2.480GHz</string>
   <string name="cit_tool_bluetooth_le_tx_l">Teste de frequência Bluetooth LE 2.402GHz</string>
-  <string name="cit_tool_bluetooth_not_on">O Bluetooth não está activado</string>
+  <string name="cit_tool_bluetooth_not_on">O Bluetooth não está ativado</string>
   <string name="cit_tool_bluetooth_off">Desactivar Bluetooth</string>
   <string name="cit_tool_bluetooth_on">Activar Bluetooth</string>
   <string name="cit_tool_bluetooth_tx_h">Teste de frequência Bluetooth BR/EDR 2.480GHz</string>
@@ -336,7 +336,7 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_vibrator_show_advanced">Mostrar opções avançadas</string>
   <string name="cit_wifi_address_check_summary">Em baixo encontra-se o endereço da rede Wi-Fi a que o telefone está ligado. Confirme se a informação destacada em verde está correcta</string>
   <string name="cit_wifi_address_check_title">Endereço Wi-Fi</string>
-  <string name="cit_wifi_address_error">Erro ao obter o endereço Wi-Fi. Certifique-se de que o Wi-Fi está activado</string>
+  <string name="cit_wifi_address_error">Erro ao obter o endereço Wi-Fi. Certifique-se de que o Wi-Fi está ativado</string>
   <string name="cit_wifi_ap_scan_check_summary">Em baixo encontra-se a informação dos PAs detectados. Confirme se a informação destacada em verde está correcta</string>
   <string name="cit_wifi_ap_scan_check_title">Pesquisar PA Wi-Fi</string>
   <string name="cit_wifi_ap_scan_retry">A pesquisar novamente…</string>

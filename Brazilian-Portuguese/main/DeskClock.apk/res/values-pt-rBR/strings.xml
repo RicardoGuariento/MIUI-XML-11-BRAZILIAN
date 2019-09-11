@@ -123,7 +123,7 @@
   <string name="menu_item_sort_by_gmt_offset">Ordenar por data</string>
   <string name="menu_item_sort_by_name">Ordenar por nome</string>
   <string name="module_dialog_negative">Não concordar</string>
-  <string name="module_dialog_neutral">Percebi</string>
+  <string name="module_dialog_neutral">Entendido</string>
   <string name="module_dialog_positive">Concordar</string>
   <string name="module_download_cancel">Não, obrigado</string>
   <string name="module_download_data_msg">O Relógio necessita de transferir arquivos de áudio para os alarmes inteligentes. São necessários ≈20MB de dados móveis. Transferir agora?</string>
@@ -141,7 +141,7 @@
   <string name="module_download_title">Necessário áudios adicionais</string>
   <string name="module_downloading">A transferir áudios adicionais…</string>
   <string name="module_update_success">Os áudios actualizados para os alarmes inteligentes da MIUI foram transferidos. Pode definir alarmes inteligentes nas configurações do Relógio</string>
-  <string name="module_update_success_control">Percebi</string>
+  <string name="module_update_success_control">Entendido</string>
   <string name="monday_to_friday">Segunda a sexta</string>
   <string name="more_setting">Mais configurações</string>
   <string name="more_settings">Configurações</string>

@@ -13,7 +13,7 @@
   <string name="category_etws_settings_title">Configurações de ETWS</string>
   <string name="category_india_settings_title">Configurações para a Índia</string>
   <string name="cb_other_message_identifiers">Mensagens de alerta</string>
-  <string name="cell_broadcast_settings_not_available">As configurações de difusão móvel não estão disponíveis para este utilizador</string>
+  <string name="cell_broadcast_settings_not_available">As configurações de difusão móvel não estão disponíveis para este usuário</string>
   <string name="cmas_amber_alert">Alerta de emergência</string>
   <string name="cmas_category_cbrne">Químico/Biológico/Nuclear/Explosivo</string>
   <string name="cmas_category_env">Ambiental</string>

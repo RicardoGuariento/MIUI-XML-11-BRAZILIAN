@@ -5,7 +5,7 @@
         <item quantity="one">excluir %1$s mensagem?</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">excluir %1$s conversas seleccionadas?</item>
+        <item quantity="other">excluir %1$s conversas selecionadas?</item>
         <item quantity="one">excluir esta conversa?</item>
     </plurals>
     <plurals name="cloud_sms_count">
@@ -73,7 +73,7 @@
         <item quantity="one">%1$s mensagem</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
-        <item quantity="other">%d seleccionados</item>
+        <item quantity="other">%d selecionados</item>
         <item quantity="zero">Seleccionar itens</item>
         <item quantity="one">%d seleccionado</item>
     </plurals>

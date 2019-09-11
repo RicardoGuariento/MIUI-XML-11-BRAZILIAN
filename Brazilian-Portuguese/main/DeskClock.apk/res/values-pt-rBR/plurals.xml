@@ -5,7 +5,7 @@
        <item quantity="one">Suspender por %d minuto</item>
     </plurals>
     <plurals name="delete_alarm_confirm">
-       <item quantity="other">excluir os alarmes seleccionados?</item>
+       <item quantity="other">excluir os alarmes selecionados?</item>
        <item quantity="one">excluir este alarme?</item>
     </plurals>
     <plurals name="day">
@@ -13,7 +13,7 @@
         <item quantity="one">%d dia</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
-        <item quantity="other">excluir os fusos horários seleccionados?</item>
+        <item quantity="other">excluir os fusos horários selecionados?</item>
         <item quantity="one">excluir este fuso horário?</item>
     </plurals>
     <plurals name="hour">

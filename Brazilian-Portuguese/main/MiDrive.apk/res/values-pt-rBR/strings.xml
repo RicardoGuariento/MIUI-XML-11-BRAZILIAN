@@ -78,7 +78,7 @@
   <string name="operation_creating_folder">A criar pasta…</string>
   <string name="operation_delete">excluir</string>
   <string name="operation_delete_message_folder">Todos os conteúdos da pasta vão ser eliminados</string>
-  <string name="operation_delete_selected_tasks">excluir transferências seleccionadas?</string>
+  <string name="operation_delete_selected_tasks">excluir transferências selecionadas?</string>
   <string name="operation_delete_title">excluir?</string>
   <string name="operation_deleting">A excluir…</string>
   <string name="operation_deleting_detail">A excluir (%1$d/%2$d)</string>

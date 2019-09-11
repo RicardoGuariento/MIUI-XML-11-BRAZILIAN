@@ -2,7 +2,7 @@
 <resources>
   <string name="access_denied">Acesso negado</string>
   <string name="account_related">O seu dispositivo está associado a uma Conta Mi existente (%s). Ligue-se à rede para verificar o dispositivo</string>
-  <string name="activate_find_device_success">O Localizar Dispositivo foi activado</string>
+  <string name="activate_find_device_success">O Localizar Dispositivo foi ativado</string>
   <string name="activate_finddevice">Ligar à rede para activar dispositivo</string>
   <string name="activating">A activar…</string>
   <string name="add_short_cut">Adic.</string>
@@ -247,7 +247,7 @@ Localize e bloqueie o seu dispositivo no caso de estar perdido"</string>
   <string name="micloud_privacy_warning_content">Não é possível ligar a Xiaomi Cloud. Tente novamente mais tarde</string>
   <string name="micloud_privacy_warning_title">Atenção</string>
   <string name="micloud_proceed">Continuar</string>
-  <string name="micloud_request_permission_confirm">Percebi</string>
+  <string name="micloud_request_permission_confirm">Entendido</string>
   <string name="micloud_request_permission_content">A Xiaomi Cloud necessita de permissões para sincronizar dados. Permitir que a Xiaomi Cloud aceda ao Calendário, Contatos, Conta Mi, estado do cartão SIM, registos de chamadas e mensagens?</string>
   <string name="micloud_request_permission_title">A Xiaomi Cloud necessita de permissões</string>
   <string name="micloud_request_sync_too_frequent">Demasiados pedidos. Aguarde um momento e tente novamente</string>

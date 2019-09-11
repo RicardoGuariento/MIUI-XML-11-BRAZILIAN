@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="backup_items_sysdata_tailer">
-        <item quantity="other">%d arquivos de sistema</item>
-        <item quantity="one">%d arquivo de sistema</item>
+        <item quantity="other">%d arquivos do sistema</item>
+        <item quantity="one">%d arquivo do sistema</item>
     </plurals>
     <plurals name="backup_items_app_tailer">
         <item quantity="other">%d arquivos de aplicativos</item>
@@ -57,7 +57,7 @@
         <item quantity="one">"%d item importado "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
-        <item quantity="other">%d itens necessitam de ser importados novamente</item>
-        <item quantity="one">%d item necessita de ser importado novamente</item>
+        <item quantity="other">Importe %d itens novamente.</item>
+        <item quantity="one">Importe %d item novamente.</item>
     </plurals>
 </resources>

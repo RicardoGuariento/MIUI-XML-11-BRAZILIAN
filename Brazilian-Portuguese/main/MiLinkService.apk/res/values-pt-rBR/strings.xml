@@ -4,7 +4,7 @@
     <string name="service_name">Serviço UniPlay</string>
     <string name="tile_label">Transmitir</string>
     <string name="dialog_can_not_find_device">Não foi possível localizar dispositivos</string>
-    <string name="dialog_please_make_sure_tv_ok_or_help">Verifique se o dispositivo de destino tem a função de transmissão sem fios activada.
+    <string name="dialog_please_make_sure_tv_ok_or_help">Verifique se o dispositivo de destino tem a função de transmissão sem fios ativada.
 Para mais questões, veja a ajuda"</string>
     <string name="dialog_please_make_sure_tv_ok">O dispositivo de destino tem de ligar a transmissão sem fios</string>
     <string name="dialog_select_tv">Seleccionar dispositivo para ligar</string>
@@ -34,7 +34,7 @@ Para mais questões, veja a ajuda"</string>
     <string name="help_page_text_09">Toque no botão \"Transmitir\" na área de notificações. Ligue o Wi-Fi e o Bluetooth para uma ligação estável.</string>
     <string name="help_page_text_10">Se quiser transmitir da Galeria ou Vídeos, pode utilizar a função de transmissão nestas aplicativos</string>
     <string name="help_page_text_11">Passo 3</string>
-    <string name="help_page_text_12">Seleccione um dispositivo da lista de dispositivos disponíveis para começar a transmitir</string>
+    <string name="help_page_text_12">Selecione um dispositivo da lista de dispositivos disponíveis para começar a transmitir</string>
     <string name="help_page_text_13">Não consegue ligar a um dispositivo externo?</string>
     <string name="help_page_text_14">"1. Transmissão de tela Mi TV: Actualize o aplicativo Visualização sem fios para a versão mais recente
 2. Tente ligar o seu telefone à sua TV na mesma rede para aumentar a taxa de sucesso de ligação. Alguns routers podem não conseguir fornecer uma ligação estável o que pode resultar em interrupções do sinal
@@ -89,7 +89,7 @@ Se necessitar de abrir a funcionalidade Miracast function, pode premir o botão 
     <string name="console_guide_subtitle_hang_up">Não interromper a transmissão quando o tela estiver desligado. Esta funcionalidade pode aumentar o consumo de bateria</string>
     <string name="private_protect">Protecção de privacidade</string>
     <string name="console_guide_subtitle_private">Não transmitimos notificações flutuantes, notificações de chamadas recebidas ou outros itens que possam conter informações pessoais</string>
-    <string name="console_guide_btn_got_it">Percebi</string>
+    <string name="console_guide_btn_got_it">Entendido</string>
     <string name="toast_guide_title">Novas funcionalidades</string>
     <string name="toast_guide_show_more">Saber mais</string>
     <string name="notification_show_more">Ver mais funcionalidades</string>

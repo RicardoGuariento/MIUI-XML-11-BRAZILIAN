@@ -105,7 +105,7 @@
   <string name="delete_files">excluir %1$d arquivos?</string>
   <string name="delete_folder">excluir esta pasta?</string>
   <string name="delete_folders">excluir %1$d pastas?</string>
-  <string name="delete_selected_tasks">excluir transferências seleccionadas?</string>
+  <string name="delete_selected_tasks">excluir transferências selecionadas?</string>
   <string name="delete_success">Ficheiro eliminado</string>
   <string name="dialog_select_type">Escolher tipo</string>
   <string name="dialog_type_audio">Áudio</string>

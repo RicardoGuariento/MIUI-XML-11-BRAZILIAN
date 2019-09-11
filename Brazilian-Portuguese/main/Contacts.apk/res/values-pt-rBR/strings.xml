@@ -297,7 +297,7 @@
   <string name="deleteConfirmationDetail">excluir \"%s\"?</string>
   <string name="deleteConfirmation_title">excluir</string>
   <string name="delete_call_log_message">excluir registo de chamadas?</string>
-  <string name="delete_call_log_selected_title">excluir registos de chamadas seleccionados?</string>
+  <string name="delete_call_log_selected_title">excluir registos de chamadas selecionados?</string>
   <string name="delete_call_log_title">Registos de chamadas</string>
   <string name="delete_contact_calllog_title">excluir registo de chamadas?</string>
   <string name="delete_dial_input">excluir</string>
@@ -305,7 +305,7 @@
   <string name="delete_duplicate_message">"A unir contatos… "</string>
   <string name="delete_group_dialog_message">excluir o grupo \"%1$s\"? Os contatos não vão ser eliminados</string>
   <string name="delete_group_dialog_title">excluir grupo</string>
-  <string name="delete_selected_sim_entry_miui">excluir contatos seleccionados</string>
+  <string name="delete_selected_sim_entry_miui">excluir contatos selecionados</string>
   <string name="delete_sim_entries_finish">Contatos do cartão SIM eliminados</string>
   <string name="delete_sim_entry_miui">excluir</string>
   <string name="delete_unknown_contact_calllog_title">excluir registo de chamadas?</string>
@@ -544,7 +544,7 @@ Motivo: \"%s\""</string>
   <string name="import_name">Nome</string>
   <string name="import_one_vcard_string">Importar um arquivo vCard</string>
   <string name="import_percent">0%</string>
-  <string name="import_selected_sim_entries_miui">Importar contatos seleccionados</string>
+  <string name="import_selected_sim_entries_miui">Importar contatos selecionados</string>
   <string name="import_sim_contacts_hint_title">Importar contatos do SIM</string>
   <string name="import_sim_entries_finish">Contatos importados do cartão SIM</string>
   <string name="import_sim_entry_miui">Importar</string>
@@ -628,7 +628,7 @@ Motivo: \"%s\""</string>
   <string name="menu_dialpad_text">Teclado</string>
   <string name="menu_discard">Rejeitar</string>
   <string name="menu_display_all">Mostrar tudo</string>
-  <string name="menu_display_selected">Mostrar seleccionados</string>
+  <string name="menu_display_selected">Mostrar selecionados</string>
   <string name="menu_doNotSave">Cancelar</string>
   <string name="menu_done">OK</string>
   <string name="menu_editContact">Editar</string>
@@ -773,7 +773,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="no_contact_in_other_phone">Não foram encontrados contatos</string>
   <string name="no_contacts_dialog_message">"Podem estar contatos armazenados no seu cartão SIM. Tente importá-los do seu cartão SIM para o armazenamento interno do dispositivo e depois tente novamente "</string>
   <string name="no_contacts_dialog_title">Não foi possível encontrar contatos</string>
-  <string name="no_contacts_selected">Sem contatos seleccionados</string>
+  <string name="no_contacts_selected">Sem contatos selecionados</string>
   <string name="no_sdcard_message">Cartão SD não encontrado</string>
   <string name="no_setting_menu">Sem opções de menu disponíveis</string>
   <string name="non_phone_add_to_contacts">Adicionar a contacto</string>
@@ -1025,7 +1025,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="searching_vcard_message">A procurar por dados vCard no dispositivo…</string>
   <string name="select_all">Seleccionar todos</string>
   <string name="select_groups">Seleccionar grupos</string>
-  <string name="select_none">Sem itens seleccionados</string>
+  <string name="select_none">Sem itens selecionados</string>
   <string name="select_show_contacts">Lista de contatos</string>
   <string name="select_vcard_title">Escolher arquivo vCard</string>
   <string name="send_contact_shortcut_todesktop_success">Adicionado ao tela inicial</string>

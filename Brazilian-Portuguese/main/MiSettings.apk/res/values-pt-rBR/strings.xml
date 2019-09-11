@@ -19,13 +19,13 @@
   <string name="sms_delivered_sound_title">Mensagem entregue</string>
   <string name="sms_received_sound_title">Mensagem recebida</string>
   <string name="thememanager_not_found">Não foi possível abrir Temas. Certifique-se que o aplicativo está instalada no seu dispositivo</string>
-  <string name="usage_app_get_it">Percebi</string>
+  <string name="usage_app_get_it">Entendido</string>
   <string name="usage_app_limit_alter_summary">Parece que o tempo limite é menor do que o tempo que já utilizou esta aplicação hoje. Definir o limite mesmo assim?</string>
   <string name="usage_app_limit_alter_title">Verificar limite de tempo de tela</string>
   <string name="usage_app_limit_prelong">Estender tempo</string>
   <string name="usage_app_limit_reach_summay">%s restantes</string>
   <string name="usage_app_limit_reach_title">%s está a chegar ao limite de tempo de tela</string>
-  <string name="usage_app_limit_summary">As aplicativos seleccionadas não vão estar disponíveis depois de atingir o limite</string>
+  <string name="usage_app_limit_summary">As aplicativos selecionadas não vão estar disponíveis depois de atingir o limite</string>
   <string name="usage_app_limit_title">Limites de tempo de tela</string>
   <string name="usage_app_other_settings">Configurações adicionais</string>
   <string name="usage_app_over_content">Já utilizou esta aplicação por %s hoje</string>
@@ -117,6 +117,6 @@
   <string name="usagestats_device_notification_title">Alerta de tempo de tela</string>
   <string name="usagestats_device_timeout_des">Está a utilizar o seu dispositivo há %1$dh %2$dm hoje. Descanse um pouco!</string>
   <string name="usagestats_device_timeout_negative">Lembrar-me em 1 hora</string>
-  <string name="usagestats_device_timeout_positive">Percebi</string>
+  <string name="usagestats_device_timeout_positive">Entendido</string>
   <string name="usagestats_device_timeout_title">Alerta de tempo de tela</string>
 </resources>

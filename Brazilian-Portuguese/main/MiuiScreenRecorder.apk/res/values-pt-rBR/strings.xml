@@ -83,7 +83,7 @@
   <string name="stop_record_while_locking_summary">Terminar gravação e salvar o vídeo quando o tela estiver bloqueado</string>
   <string name="stop_recording">Parar gravação</string>
   <string name="storage_location">Armazenamento</string>
-  <string name="storage_location_summary">Seleccione a opção de armazenamento</string>
+  <string name="storage_location_summary">Selecione a opção de armazenamento</string>
   <string name="timer_format">%s</string>
   <string name="unchecked">Não seleccionado</string>
   <string name="using_record_confirm_cancel">Restringir</string>

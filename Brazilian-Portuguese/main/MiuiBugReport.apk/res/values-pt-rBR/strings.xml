@@ -307,7 +307,7 @@
   <string name="title_nonsystem_app">Outras aplicativos</string>
   <string name="title_same_question_feedback_main">Questões parecidas no fórum MIUI</string>
   <string name="title_system_app">Aplicativos MIUI</string>
-  <string name="title_user_guide">Guia do utilizador</string>
+  <string name="title_user_guide">Guia do usuário</string>
   <string name="toast_app_tag_required">Seleccionar problema</string>
   <string name="toast_catch_full_log_catching">Apenas pode gerar um registo ao mesmo tempo</string>
   <string name="toast_catch_full_log_open_failed">Não foi possível gravar registo</string>
@@ -337,5 +337,5 @@
   <string name="try_again">Tente novamente</string>
   <string name="upload_log_failed">Não foi possível enviar registos</string>
   <string name="warning_field_empty">Introduza %1$s</string>
-  <string name="warning_field_invalid">Seleccione um %1$s válido</string>
+  <string name="warning_field_invalid">Selecione um %1$s válido</string>
 </resources>

@@ -49,12 +49,12 @@
         <item quantity="many">%1$d arquivos que faltam transmitir</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">%1$d seleccionados</item>
-        <item quantity="zero">%1$d seleccionados</item>
+        <item quantity="other">%1$d selecionados</item>
+        <item quantity="zero">%1$d selecionados</item>
         <item quantity="one">%1$d seleccionado</item>
-        <item quantity="two">%1$d seleccionados</item>
-        <item quantity="few">%1$d seleccionados</item>
-        <item quantity="many">%1$d seleccionados</item>
+        <item quantity="two">%1$d selecionados</item>
+        <item quantity="few">%1$d selecionados</item>
+        <item quantity="many">%1$d selecionados</item>
     </plurals>
     <plurals name="items_file">
         <item quantity="other"> (%1$d itens)</item>

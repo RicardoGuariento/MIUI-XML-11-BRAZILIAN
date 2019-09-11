@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alert_message_clear_records">excluir as gravações seleccionadas?</string>
+  <string name="alert_message_clear_records">excluir as gravações selecionadas?</string>
   <string name="alert_message_delete_local_record">excluir esta gravação?</string>
   <string name="alert_message_delete_record">excluir a gravação do seu dispositivo vai também excluir da Xiaomi Cloud. excluir?</string>
   <string name="alert_message_delete_record_title">excluir gravações</string>
@@ -43,7 +43,7 @@
   <string name="error_sdcard_unmounted">Inserir cartão SD agora</string>
   <string name="export_to_note">Exportar</string>
   <string name="head_set_tip_dialog_msg">Desligue os auriculares para poder gravar som com predefinições específicas (p.e. Música, Voz)</string>
-  <string name="head_set_tip_dialog_ok">Percebi</string>
+  <string name="head_set_tip_dialog_ok">Entendido</string>
   <string name="head_set_tip_dialog_title">Utilizar microfone interno</string>
   <string name="invalid_argument">Argumento inválido</string>
   <string name="keywords_search_call_record">Gravar chamadas;Gravar chamada;Gravação de chamada;Gravações de chamadas</string>

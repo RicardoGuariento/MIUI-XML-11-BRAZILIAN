@@ -37,12 +37,12 @@
         <item quantity="one">excluir %1$d rascunho?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">%d seleccionados</item>
-        <item quantity="zero">%d seleccionados</item>
+        <item quantity="other">%d selecionados</item>
+        <item quantity="zero">%d selecionados</item>
         <item quantity="one">%d seleccionado</item>
-        <item quantity="two">%d seleccionados</item>
-        <item quantity="few">%d seleccionados</item>
-        <item quantity="many">%d seleccionados</item>
+        <item quantity="two">%d selecionados</item>
+        <item quantity="few">%d selecionados</item>
+        <item quantity="many">%d selecionados</item>
     </plurals>
     <plurals name="conversation_archived">
         <item quantity="other"><b>%1$d</b> arquivadas</item>
@@ -129,19 +129,19 @@
         <item quantity="many">Mover %1$d conversas</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
-        <item quantity="other">%d seleccionados</item>
-        <item quantity="zero">%d seleccionados</item>
+        <item quantity="other">%d selecionados</item>
+        <item quantity="zero">%d selecionados</item>
         <item quantity="one">%d seleccionado</item>
-        <item quantity="two">%d seleccionados</item>
-        <item quantity="few">%d seleccionados</item>
-        <item quantity="many">%d seleccionados</item>
+        <item quantity="two">%d selecionados</item>
+        <item quantity="few">%d selecionados</item>
+        <item quantity="many">%d selecionados</item>
     </plurals>
     <plurals name="new_messages">
         <item quantity="other">%1$d novas mensagens</item>
         <item quantity="one">%1$d nova mensagem</item>
     </plurals>
     <plurals name="num_selected">
-        <item quantity="other">%d itens seleccionados</item>
+        <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item seleccionado</item>
     </plurals>
     <plurals name="quick_reply_hint">

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_call_muted">Chamada silenciada</string>
-  <string name="accessibility_speakerphone_enabled">Altifalante activado</string>
+  <string name="accessibility_speakerphone_enabled">Altifalante ativado</string>
   <string name="add_vm_number_str">Adicionar número</string>
   <string name="callFailed_simError">Erro de cartão SIM</string>
   <string name="can_not_dial_vt_while_voice_prompt">Não é possível efectuar uma videochamada enquanto estiver uma chamada em curso</string>

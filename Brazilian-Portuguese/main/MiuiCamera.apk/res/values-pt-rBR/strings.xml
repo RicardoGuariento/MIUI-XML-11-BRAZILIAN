@@ -49,7 +49,7 @@
   <string name="accessibility_protrait">Retrato</string>
   <string name="accessibility_pull_down_to_open_camera">Puxar para abrir a câmara</string>
   <string name="accessibility_review_thumbnail">Foto mais recente</string>
-  <string name="accessibility_selected">Itens seleccionados</string>
+  <string name="accessibility_selected">Itens selecionados</string>
   <string name="accessibility_setting">Configurações</string>
   <string name="accessibility_setting_button">Botão de configurações adicionais</string>
   <string name="accessibility_shutter_button">Botão de disparo</string>
@@ -338,7 +338,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_asd_night_title">Melhorar fotos com pouca luz automaticamente</string>
   <string name="pref_camera_asd_popup_title">Notificar quando o flash for necessário</string>
   <string name="pref_camera_audio_capture_title">Áudio</string>
-  <string name="pref_camera_auto_capture_when_stable_title">Capturar objectos seleccionados quando estiverem parados</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Capturar objectos selecionados quando estiverem parados</string>
   <string name="pref_camera_auto_capture_when_stable_summary">Para seleccionar um objecto, toque nas duas diagonais à volta do seu limite. Quando o objecto estiver parado, a câmara vai tirar uma foto automaticamente</string>
   <string name="pref_camera_auto_chroma_flash_title">Flash chroma</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Centralizado</string>

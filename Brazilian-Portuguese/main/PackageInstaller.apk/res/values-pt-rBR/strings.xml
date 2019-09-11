@@ -295,7 +295,7 @@ Todos os dados existentes da aplicação vão ser guardados"</string>
   <string name="uninstall_all_blocked_profile_owner">Este aplicativo é necessária para alguns utilizadores ou perfis e foi desinstalada para outros</string>
   <string name="uninstall_application_text">Pretende desinstalar esta aplicação?</string>
   <string name="uninstall_application_text_all_users">Pretende desinstalar esta aplicação para "<b>"todos"</b>" os utilizadores? A aplicação e os respectivos dados vão ser removidos de "<b>"todos"</b>" os utilizadores do dispositivo</string>
-  <string name="uninstall_application_text_user">Pretende desinstalar esta aplicação para o utilizador %1$s?</string>
+  <string name="uninstall_application_text_user">Pretende desinstalar esta aplicação para o usuário %1$s?</string>
   <string name="uninstall_application_title">Desinstalar o aplicativo</string>
   <string name="uninstall_blocked_device_owner">Este aplicativo é exigida pelo administrador do disp. e não pode ser desinstalada</string>
   <string name="uninstall_blocked_profile_owner">Este aplicativo é necessária para o seu perfil e não pode desinstalá-la</string>
@@ -303,7 +303,7 @@ Todos os dados existentes da aplicação vão ser guardados"</string>
   <string name="uninstall_done">Desinstalada com sucesso</string>
   <string name="uninstall_failed">Não foi possível desinstalar</string>
   <string name="uninstall_failed_device_policy_manager">Não é possível desinstalar porque este pacote é um admin. de aparelho activo</string>
-  <string name="uninstall_failed_device_policy_manager_of_user">Não é possível desinstalar porque este pacote é um admin. de disp. activo para o utilizador %1$s</string>
+  <string name="uninstall_failed_device_policy_manager_of_user">Não é possível desinstalar porque este pacote é um admin. de disp. activo para o usuário %1$s</string>
   <string name="uninstall_failed_msg">Não foi possível desinstalar %1$s</string>
   <string name="uninstall_failed_retained_app_msg">Este aplicativo foi modifica e não pode ser desinstalada</string>
   <string name="uninstall_update_text">Substituir esta aplicação pela versão de fábrica? Todos os dados vão ser removidos</string>

@@ -31,7 +31,7 @@
   <string name="mibi_button_cancel">Cancelar</string>
   <string name="mibi_button_confirm">Confirmar</string>
   <string name="mibi_button_count_down_finish">OK (%1$s)</string>
-  <string name="mibi_button_custom_service_phone">Percebi</string>
+  <string name="mibi_button_custom_service_phone">Entendido</string>
   <string name="mibi_button_next">Seguinte</string>
   <string name="mibi_button_pay">Confirmar</string>
   <string name="mibi_button_reget">Reenviar</string>
@@ -45,7 +45,7 @@
   <string name="mibi_deduct_pay_group_title">Seleccionar método de dedução</string>
   <string name="mibi_deduct_payment_title">Deduções automáticas</string>
   <string name="mibi_deduct_query_error">Não foi possível assinar a renovação. Aguarde uns minutos e tente novamente</string>
-  <string name="mibi_deduct_success">Protocolo de pagamento automático activado</string>
+  <string name="mibi_deduct_success">Protocolo de pagamento automático ativado</string>
   <string name="mibi_deduct_success_sub">Método de dedução: %1$s</string>
   <string name="mibi_deduct_type">Método de pagamento</string>
   <string name="mibi_denomination_mibi_unit">MI</string>
@@ -210,7 +210,7 @@ Contacte o serviço de clientes da Xiaomi"</string>
   <string name="mibi_prepaid_picker_hint_1_2">Apenas suporta um carregamento;</string>
   <string name="mibi_prepaid_picker_hint_2_1">2.</string>
   <string name="mibi_prepaid_picker_hint_2_2_a">O valor seleccionado tem de ser igual ao do cartão pré-pago. Escolher outro valor vai anular o cartão. Esta acção não pode ser revertida</string>
-  <string name="mibi_prepaid_picker_hint_2_2_b">Se o valor do cartão pré-pago não for &lt;font color=red&gt;￥%1$s&lt;/font&gt;, o cartão vai ser anulado. A Xiaomi não é responsável por qualquer perda monetária que possa ocorrer dos erros do utilizador</string>
+  <string name="mibi_prepaid_picker_hint_2_2_b">Se o valor do cartão pré-pago não for &lt;font color=red&gt;￥%1$s&lt;/font&gt;, o cartão vai ser anulado. A Xiaomi não é responsável por qualquer perda monetária que possa ocorrer dos erros do usuário</string>
   <string name="mibi_prepaid_picker_title_selected">valor</string>
   <string name="mibi_privacy_license_name">Política de Privacidade</string>
   <string name="mibi_privacy_policy">Política de Privacidade</string>
@@ -303,8 +303,8 @@ Centro do serviço de clientes：400-100-5678"</string>
   <string name="passport_account_identity_title">Verificar a sua identidade</string>
   <string name="passport_account_label">Conta Mi</string>
   <string name="passport_account_name">Conta: %1$s</string>
-  <string name="passport_account_not_activated">A conta não foi activada</string>
-  <string name="passport_account_not_actived">A sua conta não foi activada</string>
+  <string name="passport_account_not_activated">A conta não foi ativada</string>
+  <string name="passport_account_not_actived">A sua conta não foi ativada</string>
   <string name="passport_active_email_visit">Verifique o seu email em %s</string>
   <string name="passport_activing_account">A activar…</string>
   <string name="passport_area_code_hot">Utilizado frequentemente</string>
@@ -349,7 +349,7 @@ link que enviámos para o seu email"</string>
   <string name="passport_error_sim_not_ready">Não é possível localizar cartão SIM</string>
   <string name="passport_error_ssl_hand_shake">Não é possível ligar ao servidor</string>
   <string name="passport_error_unknown">Não é possível iniciar sessão</string>
-  <string name="passport_error_user_name">O nome de utilizador que introduziu é inválido</string>
+  <string name="passport_error_user_name">O nome de usuário que introduziu é inválido</string>
   <string name="passport_failed_to_send_activate_email">Não foi possível enviar email de activação</string>
   <string name="passport_find_password_on_web_msg">Visite account.mi.com para repor a sua palavra-passe</string>
   <string name="passport_forget_password"><u>Esqueceu a palavra-passe?</u></string>
@@ -357,7 +357,7 @@ link que enviámos para o seu email"</string>
   <string name="passport_get_back_pwd">Recuperar palavra-passe da conta</string>
   <string name="passport_get_verify_code">Obter código</string>
   <string name="passport_getting_verify_code">A obter</string>
-  <string name="passport_i_know">Percebi</string>
+  <string name="passport_i_know">Entendido</string>
   <string name="passport_identitfication_expired">Código de verificação expirado</string>
   <string name="passport_imei_permission_denied_message">Estamos a pedir permissão para obter o IMEI do seu dispositivo. A Conta Mi utiliza o IMEI para identificar o dispositivo onde iniciou a sessão para ajudá-lo a manter a sua Conta Mi segura</string>
   <string name="passport_imei_permission_denied_title">Pedido de permissão de IMEI</string>
@@ -408,13 +408,13 @@ link que enviámos para o seu email"</string>
   <string name="passport_register_by_email"><u>Criar uma conta utilizando um endereço de email</u></string>
   <string name="passport_register_restricted">Foram associadas demasiadas contas com este número, tente um diferente</string>
   <string name="passport_register_restricted_title">Não é possível utilizar este número de telefone</string>
-  <string name="passport_registered_phone_user_ID">ID do utilizador:%s</string>
-  <string name="passport_registered_phone_user_name">Nome do utilizador:%s</string>
+  <string name="passport_registered_phone_user_ID">ID do usuário:%s</string>
+  <string name="passport_registered_phone_user_name">Nome do usuário:%s</string>
   <string name="passport_reject_recycle_account">Não</string>
   <string name="passport_relogin">Iniciar sessão novamente</string>
   <string name="passport_relogin_notice">Tem que iniciar sessão novamente</string>
   <string name="passport_remove_confirm">Terminar sessão</string>
-  <string name="passport_remove_unactivated_account_notice">A sua conta não foi activada</string>
+  <string name="passport_remove_unactivated_account_notice">A sua conta não foi ativada</string>
   <string name="passport_resend_active_email">Reenviar email</string>
   <string name="passport_reset_fail_title">Não foi possível repor</string>
   <string name="passport_reset_password_prompt">Palavra-passe está incorrecta</string>

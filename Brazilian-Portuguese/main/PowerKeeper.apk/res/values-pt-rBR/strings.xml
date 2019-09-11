@@ -40,7 +40,7 @@ A poupança de bateria vai monitorar as aplicativos mais importantes selectivame
   <string name="extreme_power_config_mode_desc">Altera para o modo poupança de bateria extrema para desligar a sincronização, Bluetooth, GPS, NFC e a luz dos botões e notificações</string>
   <string name="extreme_power_config_mode_title">Poupança de bateria extrema</string>
   <string name="failure">Erro</string>
-  <string name="hide_mode_desc">&lt;font color="#000000"&gt;Quando uma aplicação estiver em execução em segundo plano, as suas atividades vão ser monitorizadas para reduzir a utilização de bateria. Esta funcionalidade vai obter e utilizar os dados de utilizador segundo %s&lt;/font&gt;</string>
+  <string name="hide_mode_desc">&lt;font color="#000000"&gt;Quando uma aplicação estiver em execução em segundo plano, as suas atividades vão ser monitorizadas para reduzir a utilização de bateria. Esta funcionalidade vai obter e utilizar os dados de usuário segundo %s&lt;/font&gt;</string>
   <string name="hide_system_app">Ocultar aplicativos de sistema</string>
   <string name="high_temp_state">Sobreaquecimento</string>
   <string name="high_temp_state_message">Com temperaturas elevadas o PA Móvel, GPS e câmara vão ser restringidos</string>
@@ -48,7 +48,7 @@ A poupança de bateria vai monitorar as aplicativos mais importantes selectivame
   <string name="important_warning">Atenção</string>
   <string name="lasttime_applist_cloud">Aplicativos actualizadas:</string>
   <string name="lasttime_feature_cloud">Funcionalidades actualizadas:</string>
-  <string name="message_i_know">Percebi</string>
+  <string name="message_i_know">Entendido</string>
   <string name="nonui_mode_config_description">Não liga o tela para notificações, desliga a luz de notificações e os controlos de toque quando o não estiver a utilizar o dispositivo</string>
   <string name="nonui_mode_config_title">Modo Não-Interactivo</string>
   <string name="performance_category">Desempenho</string>

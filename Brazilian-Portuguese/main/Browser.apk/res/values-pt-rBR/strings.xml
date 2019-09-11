@@ -525,7 +525,7 @@ Sair desta página agora?"</string>
     <string name="mw_login_dialog_ok_button_label">Iniciar sessão</string>
     <string name="mw_login_dialog_password_field">Palavra-passe</string>
     <string name="mw_login_dialog_title">Autenticação necessária</string>
-    <string name="mw_login_dialog_username_field">Nome de utilizador</string>
+    <string name="mw_login_dialog_username_field">Nome de usuário</string>
     <string name="mw_low_memory_error">Não foi possível completar a operação anterior porque a memória está baixa</string>
     <string name="mw_media_player_error_button">OK</string>
     <string name="mw_media_player_error_text_invalid_progressive_playback">Este vídeo não é válido para transmissão neste dispositivo</string>
@@ -918,7 +918,7 @@ Sair desta página agora?"</string>
     <string name="pref_security_accept_cookies_summary">Permitir às páginas salvar e ler dados dos cookies</string>
     <string name="pref_security_passwords_title">Palavras-passe</string>
     <string name="pref_security_remember_passwords">Lembrar palavras-passe</string>
-    <string name="pref_security_remember_passwords_summary">Guardar nomes de utilizador e palavras-passe</string>
+    <string name="pref_security_remember_passwords_summary">Guardar nomes de usuário e palavras-passe</string>
     <string name="pref_security_save_form_data">Lembrar dados dos formulários</string>
     <string name="pref_security_save_form_data_summary">Lembrar dados dos formulários para uso posterior</string>
     <string name="pref_security_show_security_warning">Mostrar avisos de segurança</string>

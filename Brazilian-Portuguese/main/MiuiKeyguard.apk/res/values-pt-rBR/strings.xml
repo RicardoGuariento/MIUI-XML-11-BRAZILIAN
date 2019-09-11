@@ -126,7 +126,7 @@
   <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_charging_msg">A carregar</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, as configurações de origem do telefone vão ser repostas e todos os dados do utilizador vão ser eliminados</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, as configurações de origem do telefone vão ser repostas e todos os dados do usuário vão ser eliminados</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
 
 Tente novamente dentro de %d segundos"</string>
@@ -140,9 +140,9 @@ Tente novamente dentro de %d segundos"</string>
   <string name="phone_locked_foget_password_method">Esqueceu-se da palavra-passe?</string>
   <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Tem de &amp;lt;font color=#a5220e&amp;gt;excluir todos os dados&amp;lt;/font&amp;gt; no seu dispositivo, incluindo fotos e contatos e definir uma nova palavra-passe de tela de bloqueio&lt;/Data&gt;</string>
   <string name="phone_locked_foget_password_method_next">Seguinte</string>
-  <string name="phone_locked_foget_password_ok">Percebi</string>
+  <string name="phone_locked_foget_password_ok">Entendido</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Desligue o seu dispositivo, prima e segure os botões &amp;lt;font color=#a5220e&amp;gt;Ligar/Desligar&amp;lt;/font&amp;gt; e &amp;lt;font color=#a5220e&amp;gt;Volume mais&amp;lt;/font&amp;gt; até ver o logo Mi&lt;/Data&gt;</string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">Seleccione \"Formatar e repor\" e aguarde até o dispositivo reiniciar</string>
+  <string name="phone_locked_forget_password_suggesstion_two_content">Selecione \"Formatar e repor\" e aguarde até o dispositivo reiniciar</string>
   <string name="phone_locked_forget_password_suggesstions_title">Como excluir dados?</string>
   <string name="phone_locked_string">O dispositivo foi bloqueado</string>
   <string name="reset_device_detail_tip">Certifique-se que a posição do seu dispositivo na base de carregamento está correcta</string>
@@ -156,7 +156,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="unlockscreen_recharge_completed">Bateria carregada</string>
   <string name="unlockscreen_recharging_message">A carregar %d%%</string>
   <string name="wallpaper_global_des_drop_down_notify_text">Soltar para ver detalhes</string>
-  <string name="wireless_charge_dialog_cancel">Percebi</string>
+  <string name="wireless_charge_dialog_cancel">Entendido</string>
   <string name="wireless_charge_dialog_title">Coloque o seu dispositivo no centro da base de carregamento</string>
   <string name="wireless_charge_stop">Carregamento sem fios parou</string>
   <string name="wireless_current_charge">A carregar</string>

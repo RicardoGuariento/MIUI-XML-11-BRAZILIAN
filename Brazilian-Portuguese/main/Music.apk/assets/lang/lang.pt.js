@@ -276,7 +276,7 @@
   "delete": "excluir",
   "delete_file_as_well": "excluir esta música permanentemente",
   "delete_file_end": "excluir permanentemente",
-  "delete_file_start": "excluir os arquivos seleccionados",
+  "delete_file_start": "excluir os arquivos selecionados",
   "desc_online_personal_radio": "Apenas para si",
   "device_connected": "Ligado",
   "device_not_connected": "Não ligado",
@@ -352,7 +352,7 @@
   "eq_metal": "Metal",
   "eq_pop": "Pop",
   "eq_preset_create": "Criar",
-  "eq_preset_format": "Predefinição de utilizador %d",
+  "eq_preset_format": "Predefinição de usuário %d",
   "eq_preset_hint": "Nome da predefinição",
   "eq_preset_rename": "Mudar o nome",
   "eq_preset_select": "Seleccionar predefinição",
@@ -546,7 +546,7 @@
   "playlist_renamed_message": "Lista de reprodução alterada",
   "playlist_unavailable": "A lista de reprodução não está disponível. Para a excluir, toque e segure, depois escolha excluir",
   "please_download_first": "Tem que transferir esta música antes que a possa definir como toque",
-  "please_search_or_select": "Pesquise ou seleccione a letra",
+  "please_search_or_select": "Pesquise ou selecione a letra",
   "please_select_song": "Escolha uma música primeiro",
   "preset_music_playlist": "Lista de reprodução da Mi Música",
   "presonal_center": "Configurações da conta",
@@ -801,14 +801,14 @@
 			"one": "\"1 música vai ser enviada\""
 		 },
 		 "multichoice_title": {
-			"other": "\"${v} itens seleccionados\"",
+			"other": "\"${v} itens selecionados\"",
 			"one": "\"${v} item seleccionado\""
 		 },
 		 "Nalert_msg_vip_songs_for_download_upgrade": {
 			"other": "\"Apenas pode transferir ${v} Músicas Premium este mês. Actualize o seu Pacote de Músicas Premium para transferir mais \""
 		 },
 		 "Nalert_msg_vip_songs_for_download_limited": {
-			"other": "\"Apenas pode transferir ${v} Músicas Premium este mês. Transferir ainda as músicas seleccionadas?\""
+			"other": "\"Apenas pode transferir ${v} Músicas Premium este mês. Transferir ainda as músicas selecionadas?\""
 		 },
 		 "song_already_favorite": {
 			"other": "\"Músicas adicionadas aos favoritos\"",

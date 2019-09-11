@@ -86,7 +86,7 @@
   <string name="lp_base_folder">Cartão SD</string>
   <string name="lp_speed_title">Velocidade de reprodução</string>
   <string name="lp_speed_toast">A reproduzir à velocidade %sX…</string>
-  <string name="lp_videoView_error_button">Percebi</string>
+  <string name="lp_videoView_error_button">Entendido</string>
   <string name="lp_videoView_error_text_unknown">Não é possível reproduzir este vídeo</string>
   <string name="lp_videoView_error_title">Não é possível reproduzir</string>
   <string name="lv_advance_sound">Melhoramento de áudio</string>
@@ -104,9 +104,9 @@
   <string name="lv_audio_track">Faixa de áudio</string>
   <string name="lv_auto_update">Actualizar mais tarde</string>
   <string name="lv_brightness">Brilho</string>
-  <string name="lv_check_delete_file">Seleccione itens para excluir</string>
+  <string name="lv_check_delete_file">Selecione itens para excluir</string>
   <string name="lv_check_send_file">Apenas pode enviar 1 arquivo de cada vez</string>
-  <string name="lv_confirm_delete_history">excluir itens seleccionados?</string>
+  <string name="lv_confirm_delete_history">excluir itens selecionados?</string>
   <string name="lv_confirm_delete_videos">excluir itens?</string>
   <string name="lv_confirm_hide_videos">Ocultar vídeos?</string>
   <string name="lv_confirm_unhide_videos">Mostrar vídeos?</string>

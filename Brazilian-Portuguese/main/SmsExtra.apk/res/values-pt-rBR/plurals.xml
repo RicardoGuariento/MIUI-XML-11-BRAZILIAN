@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">excluir %1$s conversas seleccionadas?</item>
+        <item quantity="other">excluir %1$s conversas selecionadas?</item>
         <item quantity="one">excluir esta conversa?</item>
     </plurals>
 </resources>

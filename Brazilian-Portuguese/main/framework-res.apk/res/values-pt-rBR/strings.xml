@@ -126,7 +126,7 @@
   <string name="autofill_save_type_credit_card">cartão de crédito</string>
   <string name="autofill_save_type_email_address">endereço de email</string>
   <string name="autofill_save_type_password">palavra-passe</string>
-  <string name="autofill_save_type_username">utilizador</string>
+  <string name="autofill_save_type_username">usuário</string>
   <string name="autofill_save_yes">Guardar</string>
   <string name="autofill_state">Estado</string>
   <string name="autofill_this_form">Preenchimento Automático</string>
@@ -157,7 +157,7 @@ A poupança de bateria desliga-se automaticamente quando o dispositivo está a c
   <string name="capital_off">Desligado</string>
   <string name="capital_on">Ligado</string>
   <string name="car_mode_disable_notification_message">Toque para sair do Modo Condução</string>
-  <string name="car_mode_disable_notification_title">Modo Condução activado</string>
+  <string name="car_mode_disable_notification_title">Modo Condução ativado</string>
   <string name="cfTemplateForwarded">{0}: {1}</string>
   <string name="cfTemplateForwardedTime">{0}: {1} após {2} segundos</string>
   <string name="cfTemplateNotForwarded">{0}: Não reencaminhado</string>
@@ -255,7 +255,7 @@ utilizando %s"</string>
   <string name="emergency_calls_only">Só cham. emergência</string>
   <string name="emptyPhoneNumber">(Sem número de telefone)</string>
   <string name="enablePin">Código incorrecto. Cartão SIM bloqueado</string>
-  <string name="enable_explore_by_touch_warning_message">%1$s pretende activar a funcionalidade Explorar Através do Toque. Quando a funcionalidade Explorar Através do Toque estiver activada, pode ouvir ou visualizar descrições sobre o que está por baixo do seu dedo ou executar gestos para interagir com o telefone</string>
+  <string name="enable_explore_by_touch_warning_message">%1$s pretende activar a funcionalidade Explorar Através do Toque. Quando a funcionalidade Explorar Através do Toque estiver ativada, pode ouvir ou visualizar descrições sobre o que está por baixo do seu dedo ou executar gestos para interagir com o telefone</string>
   <string name="enable_explore_by_touch_warning_title">Activar Explorar Através do Toque?</string>
   <string name="error_message_change_not_allowed">O administrador não permite esta alteração</string>
   <string name="error_message_title">Erro</string>
@@ -463,7 +463,7 @@ Tem a certeza de que deseja sair desta página?"</string>
   <string name="keyguard_accessibility_status">Estado</string>
   <string name="keyguard_accessibility_unlock_area_collapsed">Área de desbloqueio minimizada</string>
   <string name="keyguard_accessibility_unlock_area_expanded">Área de desbloqueio expandida</string>
-  <string name="keyguard_accessibility_user_selector">Selecção de utilizador</string>
+  <string name="keyguard_accessibility_user_selector">Selecção de usuário</string>
   <string name="keyguard_accessibility_widget">%1$s widget</string>
   <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d de %3$d</string>
   <string name="keyguard_accessibility_widget_deleted">Widget %1$s eliminado</string>
@@ -483,14 +483,14 @@ Tem a certeza de que deseja sair desta página?"</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone através de uma conta de email.
 
 Tente novamente dentro de %d segundos"</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativas sem sucesso, as configurações de origem do telefone vão ser repostas e todos os dados do utilizador vão ser perdidos</string>
+  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativas sem sucesso, as configurações de origem do telefone vão ser repostas e todos os dados do usuário vão ser perdidos</string>
   <string name="kg_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que vai ser reposta a predefinição de fábrica</string>
   <string name="kg_forgot_pattern_button_text">Esqueceu o padrão?</string>
   <string name="kg_invalid_confirm_pin_hint">Códigos PIN não coincidem</string>
   <string name="kg_invalid_puk">Reintroduzir o código PUK correcto. Tentativas repetidas vão desactivar o SIM permanentemente</string>
   <string name="kg_invalid_sim_pin_hint">Introduzir um PIN de 4 a 8 números</string>
   <string name="kg_invalid_sim_puk_hint">Código PUK deve ter 8 números</string>
-  <string name="kg_login_account_recovery_hint">"Esqueceu o nome de utilizador ou a palavra-passe?
+  <string name="kg_login_account_recovery_hint">"Esqueceu o nome de usuário ou a palavra-passe?
 Visite <b>google.com/accounts/recovery</b>"</string>
   <string name="kg_login_checking_password">A verificar conta…</string>
   <string name="kg_login_instructions">Para desbloquear, inicie sessão com a sua conta Google</string>
@@ -551,13 +551,13 @@ Para soltar, toque e segure os botões Início e Ligar/Desligar ao mesmo tempo"<
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
   <string name="lockscreen_emergency_call">Chamada de emergência</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativa(s) sem sucesso, as configurações de origem do telefone vão ser repostas e todos os dados do utilizador vão ser eliminados</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativa(s) sem sucesso, as configurações de origem do telefone vão ser repostas e todos os dados do usuário vão ser eliminados</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
 
 Tente novamente dentro de %d segundos"</string>
   <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que vão ser repostas as respectivas configurações de fábrica</string>
   <string name="lockscreen_forgot_pattern_button_text">Esqueceu o padrão?</string>
-  <string name="lockscreen_glogin_account_recovery_hint">"Esqueceu o nome de utilizador ou a palavra-passe?
+  <string name="lockscreen_glogin_account_recovery_hint">"Esqueceu o nome de usuário ou a palavra-passe?
 Visite <b>google.com/accounts/recovery</b>"</string>
   <string name="lockscreen_glogin_checking_password">A verificar…</string>
   <string name="lockscreen_glogin_forgot_pattern">Desbloqueio de conta</string>
@@ -584,7 +584,7 @@ Contacte o seu fornecedor de serviços móveis para obter outro cartão SIM"</st
   <string name="lockscreen_return_to_call">Voltar à chamada</string>
   <string name="lockscreen_screen_locked">Tela bloqueado</string>
   <string name="lockscreen_sim_locked_message">Cartão SIM está bloqueado</string>
-  <string name="lockscreen_sim_puk_locked_instructions">Consulte o Manual de utilizador ou entre em contacto com o Serviço de Apoio ao Cliente</string>
+  <string name="lockscreen_sim_puk_locked_instructions">Consulte o Manual de usuário ou entre em contacto com o Serviço de Apoio ao Cliente</string>
   <string name="lockscreen_sim_puk_locked_message">Cartão SIM está bloqueado com o código PUK</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">A desbloquear cartão SIM…</string>
   <string name="lockscreen_sound_off_label">Som desligado</string>
@@ -642,7 +642,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="mmcc_authentication_reject">SIM não permitido</string>
   <string name="mmcc_illegal_me">Telefone não permitido</string>
   <string name="mmcc_illegal_ms">SIM não permitido</string>
-  <string name="mmcc_imsi_unknown_in_hlr">SIM não activado</string>
+  <string name="mmcc_imsi_unknown_in_hlr">SIM não ativado</string>
   <string name="mmiComplete">MMI concluído</string>
   <string name="mmiError">Problema de ligação ou código MMI inválido</string>
   <string name="mmiFdnError">A operação está restringida a números fixos autorizados</string>
@@ -731,8 +731,8 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_accessNetworkConditions">Permite que uma aplicação ouça observações sobre as condições da rede. Nunca deve ser necessário para aplicativos normais</string>
   <string name="permdesc_accessNetworkState">Permite que o aplicativo visualize informações sobre das ligações de rede, como por exemplo, que redes existem e que estão ligadas</string>
   <string name="permdesc_accessNotifications">Permite que o aplicativo obtenha, examine e limpe notificações, incluindo as que foram publicadas por outras aplicativos</string>
-  <string name="permdesc_accessWifiState">Permite que o aplicativo visualize informações sobre de redes Wi-Fi, como por exemplo, se o Wi-Fi está activado e o nome dos dispositivos Wi-Fi ligados</string>
-  <string name="permdesc_accessWimaxState">Permite que o aplicativo determine se o WiMAX está activado e aceda a informações sobre de qualquer rede WiMAX que esteja ligada</string>
+  <string name="permdesc_accessWifiState">Permite que o aplicativo visualize informações sobre de redes Wi-Fi, como por exemplo, se o Wi-Fi está ativado e o nome dos dispositivos Wi-Fi ligados</string>
+  <string name="permdesc_accessWimaxState">Permite que o aplicativo determine se o WiMAX está ativado e aceda a informações sobre de qualquer rede WiMAX que esteja ligada</string>
   <string name="permdesc_access_notification_policy">Permite à aplicação ler e alterar a configuração de Não incomodar</string>
   <string name="permdesc_addVoicemail">Permite que o aplicativo adicione mensagens à sua caixa de entrada de Voice Mail</string>
   <string name="permdesc_answerPhoneCalls">Permite que o aplicativo atenda chamadas recebidas</string>
@@ -742,12 +742,12 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_bindDreamService">Permite que o titular fique vinculado à interface de nível superior de um serviço de sonho. Nunca deve ser necessário para aplicativos normais</string>
   <string name="permdesc_bindNotificationListenerService">Permite que o titular vincule a interface de nível superior de um serviço de escuta de notificações. Nunca deve ser necessário para aplicativos normais</string>
   <string name="permdesc_bind_connection_service">Permite à aplicação interagir com serviços telefónicos e efectuar/receber chamadas</string>
-  <string name="permdesc_bind_incall_service">Permite que o aplicativo controle quando e como o utilizador vê o tela durante uma chamada</string>
+  <string name="permdesc_bind_incall_service">Permite que o aplicativo controle quando e como o usuário vê o tela durante uma chamada</string>
   <string name="permdesc_bluetooth">Permite que o aplicativo visualize a configuração do Bluetooth no telefone e que estabeleça e aceite ligações com dispositivos emparelhados</string>
   <string name="permdesc_bluetoothAdmin">Permite que o aplicativo configure o telefone Bluetooth local, bem como descobrir e emparelhar com dispositivos remotos</string>
   <string name="permdesc_bodySensors">Permite que o aplicativo aceda a dados de sensores que monitorizam a sua condição física, como o ritmo cardíaco</string>
   <string name="permdesc_broadcastSticky">Permite que o aplicativo envie difusões fixas, que permanecem após o fim da difusão. Uma utilização excessiva pode tornar o telefone lento ou instável, fazendo com que utilize demasiada memória</string>
-  <string name="permdesc_callPhone">Permite que o aplicativo ligue para números de telefone sem a intervenção do utilizador. Esta acção pode resultar em cobranças ou chamadas inesperadas. Tenha em atenção que isto não permite que o aplicativo ligue para números de emergência. As aplicativos maliciosas podem fazer com que incorra em custos, fazendo chamadas sem a sua confirmação</string>
+  <string name="permdesc_callPhone">Permite que o aplicativo ligue para números de telefone sem a intervenção do usuário. Esta acção pode resultar em cobranças ou chamadas inesperadas. Tenha em atenção que isto não permite que o aplicativo ligue para números de emergência. As aplicativos maliciosas podem fazer com que incorra em custos, fazendo chamadas sem a sua confirmação</string>
   <string name="permdesc_camera">Permite que o aplicativo tire fotos e grave vídeos com a câmara em qualquer altura</string>
   <string name="permdesc_changeNetworkState">Permite que o aplicativo altere o estado de conectividade da rede</string>
   <string name="permdesc_changeTetherState">Permite que o aplicativo altere o estado de conectividade da rede partilhada</string>
@@ -755,7 +755,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_changeWifiState">Permite que o aplicativo se ligue e desligue de pontos de acesso Wi-Fi e que efectue alterações à configuração do dispositivo para redes Wi-Fi</string>
   <string name="permdesc_changeWimaxState">Permite que o aplicativo ligue e desligue o telefone de redes WiMAX</string>
   <string name="permdesc_connection_manager">Permite que o aplicativo faça a gestão das ligações de telecomunicação</string>
-  <string name="permdesc_control_incall_experience">Permite que o aplicativo proporcione uma experiência de utilizador em chamada</string>
+  <string name="permdesc_control_incall_experience">Permite que o aplicativo proporcione uma experiência de usuário em chamada</string>
   <string name="permdesc_createNetworkSockets">Permite que o aplicativo crie ligações de rede e utilize protocolos de rede personalizados. O navegador e outras aplicativos fornecem meios para enviar dados para a Internet. Esta permissão não é necessária para enviar dados para a Internet</string>
   <string name="permdesc_disableKeyguard">Permite que o aplicativo desactive o bloqueio de teclas e qualquer segurança por palavra-passe associada. Por exemplo, o telefone desactiva o bloqueio de teclas quando recebe uma chamada e reactiva o bloqueio de teclas ao terminar a chamada</string>
   <string name="permdesc_enableCarMode">Permite que o aplicativo active o Modo Condução</string>
@@ -765,7 +765,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_getPackageSize">Permite à aplicação obter o código, os dados e o tamanho de cache da mesma</string>
   <string name="permdesc_getTasks">Permite que o aplicativo recupere informações sobre de tarefas executadas actual e recentemente. Isto pode permitir que o aplicativo descubra informações sobre de quais as aplicativos utilizadas no dispositivo</string>
   <string name="permdesc_handoverStatus">Permite que esta aplicação receba informações sobre das transferências actuais do Android Beam</string>
-  <string name="permdesc_install_shortcut">Permite que uma aplicação adicione atalhos ao tela principal sem a intervenção do utilizador</string>
+  <string name="permdesc_install_shortcut">Permite que uma aplicação adicione atalhos ao tela principal sem a intervenção do usuário</string>
   <string name="permdesc_invokeCarrierSetup">Permite que o titular invoque o aplicativo de configuração fornecida pela operadora. Nunca deve ser necessário para aplicativos normais</string>
   <string name="permdesc_killBackgroundProcesses">Permite que o aplicativo termine processos em segundo plano de outras aplicativos. Isto pode fazer com que outras aplicativos deixem de funcionar</string>
   <string name="permdesc_manageFingerprint">Permite que o aplicativo invoque métodos para adicionar e excluir modelos de impressão digital para utilização</string>
@@ -797,7 +797,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_register_call_provider">Permite que o aplicativo registe novas ligações de telecomunicação</string>
   <string name="permdesc_register_sim_subscription">Permite que o aplicativo registe novas ligações SIM de telecomunicações</string>
   <string name="permdesc_removeDrmCertificates">Permite que uma aplicação remova certificados DRM. Nunca deve ser necessário para aplicativos normais</string>
-  <string name="permdesc_reorderTasks">Permite que o aplicativo mova tarefas para primeiro e segundo plano. A aplicação pode fazê-lo sem qualquer entrada do utilizador</string>
+  <string name="permdesc_reorderTasks">Permite que o aplicativo mova tarefas para primeiro e segundo plano. A aplicação pode fazê-lo sem qualquer entrada do usuário</string>
   <string name="permdesc_requestDeletePackages">Permite que uma aplicação peça a eliminação de pacotes</string>
   <string name="permdesc_requestInstallPackages">Permite que uma aplicação peça a instalação de pacotes</string>
   <string name="permdesc_route_media_output">Permite que o aplicativo encaminhe a saída de som mídias para outros dispositivos externos</string>
@@ -816,7 +816,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_subscribedFeedsRead">Permite à aplicação obter detalhes sobre dos feeds actualmente sincronizados</string>
   <string name="permdesc_systemAlertWindow">Permite que o aplicativo se sobreponha a outras aplicativos ou partes do tela. Pode interferir com a utilização normal os aplicativos e alterar a forma como as outras aplicativos aparecem</string>
   <string name="permdesc_transmitIr">Permite que o aplicativo utilize o transmissor de infravermelhos do telefone</string>
-  <string name="permdesc_uninstall_shortcut">Permite que o aplicativo remova atalhos do tela principal sem a intervenção do utilizador</string>
+  <string name="permdesc_uninstall_shortcut">Permite que o aplicativo remova atalhos do tela principal sem a intervenção do usuário</string>
   <string name="permdesc_useDataInBackground">Permite que o aplicativo possa utilizar dados em segundo plano, o que pode aumentar a utilização de dados</string>
   <string name="permdesc_useFingerprint">Permite que o aplicativo utilize o hardware de impressão digital para autenticação</string>
   <string name="permdesc_use_sip">Permite que o aplicativo efectue e receba chamadas SIP</string>
@@ -883,7 +883,7 @@ para a conta %s"</string>
   <string name="permlab_changeWifiState">ligar e desligar de redes Wi-Fi</string>
   <string name="permlab_changeWimaxState">alterar estado do WiMAX</string>
   <string name="permlab_connection_manager">gerir ligações de telecomunicação</string>
-  <string name="permlab_control_incall_experience">proporcionar uma experiência de utilizador em chamada</string>
+  <string name="permlab_control_incall_experience">proporcionar uma experiência de usuário em chamada</string>
   <string name="permlab_createNetworkSockets">ter acesso total à rede</string>
   <string name="permlab_disableKeyguard">desactivar o bloqueio de tela</string>
   <string name="permlab_enableCarMode">activar Modo Condução</string>
@@ -991,9 +991,9 @@ para a conta %s"</string>
   <string name="policydesc_resetPassword">Alterar a palavra-passe de desbloqueio de tela</string>
   <string name="policydesc_setGlobalProxy">Definir o proxy global do dispositivo a ser utilizado quando a política estiver activa. Só o primeiro administrador do dispositivo define o proxy global efectivo</string>
   <string name="policydesc_watchLogin">Monitorizar o número de palavras-passe incorrectas introduzidas ao desbloquear o tela e bloquear o telefone caso tenham sido introduzidas demasiadas palavras-passe incorrectas</string>
-  <string name="policydesc_watchLogin_secondaryUser">Monitorizar o número de palavras-passe incorrectas introduzidas ao desbloquear o tela e bloquear o telefone ou excluir todos os dados deste utilizador se forem introduzidas demasiadas palavras-passe incorrectas</string>
+  <string name="policydesc_watchLogin_secondaryUser">Monitorizar o número de palavras-passe incorrectas introduzidas ao desbloquear o tela e bloquear o telefone ou excluir todos os dados deste usuário se forem introduzidas demasiadas palavras-passe incorrectas</string>
   <string name="policydesc_wipeData">excluir os dados do telefone sem avisar através de uma reposição de dados de fábrica</string>
-  <string name="policydesc_wipeData_secondaryUser">excluir os dados deste utilizador neste telefone sem aviso</string>
+  <string name="policydesc_wipeData_secondaryUser">excluir os dados deste usuário neste telefone sem aviso</string>
   <string name="policylab_disableCamera">Desactivar câmaras</string>
   <string name="policylab_disableKeyguardFeatures">Desactivar funcionalidades na protecção do teclado</string>
   <string name="policylab_encryptedStorage">Definir encriptação do armazenamento</string>
@@ -1004,7 +1004,7 @@ para a conta %s"</string>
   <string name="policylab_setGlobalProxy">Definir o proxy global do dispositivo</string>
   <string name="policylab_watchLogin">Monitorizar tentativas de desbloqueio de tela</string>
   <string name="policylab_wipeData">excluir todos os dados</string>
-  <string name="policylab_wipeData_secondaryUser">excluir os dados do utilizador</string>
+  <string name="policylab_wipeData_secondaryUser">excluir os dados do usuário</string>
   <string name="popup_window_default_title">Janela pop-up</string>
   <string name="postalTypeCustom">Personalizado</string>
   <string name="postalTypeHome">Casa</string>
@@ -1020,7 +1020,7 @@ para a conta %s"</string>
   <string name="print_service_installed_title">Serviço %s instalado</string>
   <string name="progress_erasing">A excluir armazenamento USB…</string>
   <string name="quick_contacts_not_available">Sem aplicativos para ver este contacto</string>
-  <string name="reason_service_unavailable">Serviço de impressão não activado</string>
+  <string name="reason_service_unavailable">Serviço de impressão não ativado</string>
   <string name="reason_unknown">desconhecido</string>
   <string name="reboot_safemode_confirm">Quer reiniciar no modo de segurança? Isto vai desactivar todas as aplicativos de terceiros instaladas. Estas vão ser restauradas quando reiniciar novamente</string>
   <string name="reboot_safemode_title">Reiniciar no modo de segurança</string>
@@ -1126,8 +1126,8 @@ Ouvir níveis elevados de volume durante longos períodos pode ser prejudicial p
   <string name="serviceClassSMS">SMS</string>
   <string name="serviceClassVoice">Voz</string>
   <string name="serviceDisabled">O serviço foi desactivado</string>
-  <string name="serviceEnabled">O serviço estava activado</string>
-  <string name="serviceEnabledFor">O serviço foi activado para:</string>
+  <string name="serviceEnabled">O serviço estava ativado</string>
+  <string name="serviceEnabledFor">O serviço foi ativado para:</string>
   <string name="serviceErased">A eliminação foi bem sucedida</string>
   <string name="serviceNotProvisioned">Serviço não fornecido</string>
   <string name="serviceRegistered">O registo foi bem sucedido</string>
@@ -1285,8 +1285,8 @@ Ouvir níveis elevados de volume durante longos períodos pode ser prejudicial p
   <string name="vpn_lockdown_error">Erro da VPN sempre activa</string>
   <string name="vpn_text">Toque para gerir a rede</string>
   <string name="vpn_text_long">Ligado a %s. Toque para gerir a rede</string>
-  <string name="vpn_title">VPN activada</string>
-  <string name="vpn_title_long">A VPN foi activada pelo %s</string>
+  <string name="vpn_title">VPN ativada</string>
+  <string name="vpn_title_long">A VPN foi ativada pelo %s</string>
   <string name="wait">Aguardar</string>
   <string name="wallpaper_binding_label">Papel de parede</string>
   <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
@@ -1307,7 +1307,7 @@ Pretende fechá-la?"</string>
   <string name="whichApplicationNamed">Concluir acção utilizando %1$s</string>
   <string name="whichEditApplication">Editar com</string>
   <string name="whichEditApplicationNamed">Editar com %1$s</string>
-  <string name="whichHomeApplication">Seleccione uma aplicação para a Página inicial</string>
+  <string name="whichHomeApplication">Selecione uma aplicação para a Página inicial</string>
   <string name="whichHomeApplicationNamed">Utilizar %1$s como Página inicial</string>
   <string name="whichSendApplication">Compartilhar com</string>
   <string name="whichSendApplicationNamed">Compartilhar com %1$s</string>

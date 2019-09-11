@@ -131,8 +131,8 @@
         <item quantity="one">1 mensagem de voz</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
-        <item quantity="other">%1$d seleccionados</item>
-        <item quantity="zero">%1$d seleccionados</item>
+        <item quantity="other">%1$d selecionados</item>
+        <item quantity="zero">%1$d selecionados</item>
         <item quantity="one">%1$d seleccionado</item>
     </plurals>
     <plurals name="num_contacts_in_group">
@@ -148,7 +148,7 @@
         <item quantity="one">%1$d item restante</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d seleccionados</item>
+        <item quantity="other">%1$d selecionados</item>
         <item quantity="one">%1$d seleccionado</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">

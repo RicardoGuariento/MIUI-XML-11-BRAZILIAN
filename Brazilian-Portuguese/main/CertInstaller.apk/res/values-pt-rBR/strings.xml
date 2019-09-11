@@ -22,8 +22,8 @@
   <string name="no_cert_file_found">Não foi encontrado qualquer arquivo de certificado no armazenamento USB</string>
   <string name="no_cert_to_saved">Não há certificado para instalar</string>
   <string name="one_cacrt">um certificado da AC</string>
-  <string name="one_usercrt">certificado para um utilizador</string>
-  <string name="one_userkey">chave para um utilizador</string>
+  <string name="one_usercrt">certificado para um usuário</string>
+  <string name="one_userkey">chave para um usuário</string>
   <string name="only_primary_user_allowed">Apenas o proprietário deste dispositivo pode instalar certificados</string>
   <string name="p12_description">Certificados no armazenamento de chaves PKCS12</string>
   <string name="password_empty_error">Introduza a palavra-passe</string>
@@ -33,7 +33,7 @@
   <string name="pkcs12_password_dialog_title">Extrair certificado</string>
   <string name="sdcard_not_present">Armazenamento USB não disponível</string>
   <string name="storage_error">Não foi possível salvar o certificado. Toque em OK para tentar novamente</string>
-  <string name="unable_to_save_cert">Não foi possível salvar o certificado. O armazenamento de credenciais não está activado ou não foi iniciado correctamente</string>
+  <string name="unable_to_save_cert">Não foi possível salvar o certificado. O armazenamento de credenciais não está ativado ou não foi iniciado correctamente</string>
   <string name="wifi_cancel_label">Cancelar</string>
   <string name="wifi_config_text">"Nome: %1$s
 FQDN: %2$s
@@ -63,6 +63,6 @@ Chave: %2$s
   <string name="wifi_trust_config_text">"Certificado de confiança:
 %s
 "</string>
-  <string name="wifi_ttls_config_text">"Nome de utilizador: %s
+  <string name="wifi_ttls_config_text">"Nome de usuário: %s
 "</string>
 </resources>

@@ -21,8 +21,8 @@
         <item quantity="one">%d número vai ser eliminado</item>
     </plurals>
     <plurals name="call_record_add_white_list_over_reminder">
-        <item quantity="other">Pode adicionar até %s pessoas. Seleccione novamente</item>
-        <item quantity="one">Pode adicionar até %s pessoa. Seleccione novamente</item>
+        <item quantity="other">Pode adicionar até %s pessoas. Selecione novamente</item>
+        <item quantity="one">Pode adicionar até %s pessoa. Selecione novamente</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
         <item quantity="other">Atraso: %s segundos</item>

@@ -77,7 +77,7 @@
   <string name="feed_search_fail">Sem resultados</string>
   <string name="feedback_description_camera_access">O Digitalizador não consegue ligar à Câmara</string>
   <string name="feedback_description_save_photo">Não foi possível salvar foto ou vídeo</string>
-  <string name="got_it">Percebi</string>
+  <string name="got_it">Entendido</string>
   <string name="gps">Navegar</string>
   <string name="import_contact">Importar contacto</string>
   <string name="impunity_declaration_content">O Digitalizador necessita de utilizar a sua câmara e tirar fotos. Ao clicar em \"Concordar\", está a concordar com a nossa Política de Privacidade e dar permissão de ligar à Internet</string>

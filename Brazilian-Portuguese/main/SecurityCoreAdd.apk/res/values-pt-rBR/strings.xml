@@ -131,7 +131,7 @@ Make sure the name of your corporation is correct. Read and agree to the related
   <string name="ent_licence_code">Código de licença</string>
   <string name="ent_licence_code_hint">Introduza o código de licença</string>
   <string name="ent_licence_code_invalid">O código de licença introduzido não é válido</string>
-  <string name="ent_mode_activated">O modo empresarial está activado</string>
+  <string name="ent_mode_activated">O modo empresarial está ativado</string>
   <string name="ent_network_error">Não foi possível ligar à rede. Verifique as configurações de rede e tente novamente</string>
   <string name="ent_next_step">Seguinte</string>
   <string name="ent_privacy_policy_notice">* Os dados pessoais neste modo são obtidos através das políticas estabelecidas pela sua empresa. A Xiaomi não obtém dados pessoais neste modo</string>
@@ -315,7 +315,7 @@ Se não actualizar, as aplicativos clonadas podem não funcionar correctamente t
   <string name="secondSpace">Segundo espaço</string>
   <string name="second_owner_finger_print">Impressão digital do Segundo espaço</string>
   <string name="second_space_desktop_tips_dialog_message">Após esta actualização, os ícones para mover dados e gerir o Segundo espaço não vão estar disponíveis na tela inicial. Pode acessar estas funcionalidades nas Configurações</string>
-  <string name="second_space_desktop_tips_dialog_positive_text">Percebi</string>
+  <string name="second_space_desktop_tips_dialog_positive_text">Entendido</string>
   <string name="second_space_desktop_tips_dialog_title">Actualização importante</string>
   <string name="second_space_finger_printf_desc">Adicionar uma impressão digital utilizada especificamente para entrar no Segundo espaço</string>
   <string name="second_space_finger_printf_title">Impressão digital do Segundo espaço</string>

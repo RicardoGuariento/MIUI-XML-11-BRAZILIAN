@@ -3,7 +3,7 @@
   <string name="app_name">Música FX</string>
   <string name="bass_boost_strength">Aumento de graves</string>
   <string name="combo_device">Os efeitos apenas são suportados em auriculares</string>  
-  <string name="eq_custom">Para personalizar, seleccione Personalizado</string>
+  <string name="eq_custom">Para personalizar, selecione Personalizado</string>
   <string name="eq_dialog_title">Snapdragon Audio+</string>
   <string name="headset_plug">Ligue os auriculares para estes efeitos</string>
   <string name="largehall">Hall grande</string>

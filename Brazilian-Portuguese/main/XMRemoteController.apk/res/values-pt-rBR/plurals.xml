@@ -6,7 +6,7 @@
     </plurals>
     <plurals name="app_user_used">
         <item quantity="other">%1$s utilizadores</item>
-        <item quantity="one">%1$s utilizador</item>
+        <item quantity="one">%1$s usuário</item>
     </plurals>
     <plurals name="match_brand_selection_des">
         <item quantity="other">%d marcas disponíveis</item>

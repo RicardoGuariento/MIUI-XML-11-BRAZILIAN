@@ -60,7 +60,7 @@
   <string name="permdesc_downloadCompletedIntent">Permite que o aplicativo envie notificações sobre transferências concluídas. As aplicativos maliciosas podem utilizar isto para confundir outras aplicativos que fazem transferências de arquivos</string>
   <string name="permdesc_downloadManager">Permitir que as aplicativos acedam ao gestor de transferências e usem-no para transferir arquivos. As aplicativos maliciosas podem utilizar isto para interromper as transferências e acessar informações privadas</string>
   <string name="permdesc_downloadManagerAdvanced">Permite à aplicação acessar às funções avançadas do gestor de transferências. Aplicativos maliciosas podem utilizar isto para interromper as transferências e acessar informações privadas</string>
-  <string name="permdesc_downloadWithoutNotification">Permite à aplicação transferir arquivos através do gestor de transferências sem qualquer aviso prévio de notificação mostrada ao utilizador</string>
+  <string name="permdesc_downloadWithoutNotification">Permite à aplicação transferir arquivos através do gestor de transferências sem qualquer aviso prévio de notificação mostrada ao usuário</string>
   <string name="permdesc_seeAllExternal">Permite à aplicação ver todas as transferências no cartão SD, independentemente da aplicação transferida</string>
   <string name="permlab_accessAllDownloads">acessar todas as transferências do sistema</string>
   <string name="permlab_downloadCacheNonPurgeable">reservar espaço na cache de transferências</string>

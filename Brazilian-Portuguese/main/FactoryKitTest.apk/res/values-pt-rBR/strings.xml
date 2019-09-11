@@ -456,12 +456,12 @@
   <string name="usb_both_side_toast1">Please insert type-c，And wait a few seconds for Type-c Test</string>
   <string name="usb_both_side_toast2">A current is detected，Please insert type-c on the other side</string>
   <string name="usb_both_side_toast3">Please insert type-c on the other side</string>
-  <string name="user_canceled">Cancelado pelo utilizador</string>
+  <string name="user_canceled">Cancelado pelo usuário</string>
   <string name="version_info">Informação da versão</string>
   <string name="vibrate_alltime">Vibração contínua</string>
   <string name="vibrate_confirm">Escolha a vibração</string>
   <string name="vibrate_hint">A vibrar…</string>
-  <string name="vibrate_mode">Seleccione o modo de vibração</string>
+  <string name="vibrate_mode">Selecione o modo de vibração</string>
   <string name="vibrate_name">Vibração</string>
   <string name="vibrate_none">Sem vibração</string>
   <string name="vibrate_sometime">Vibração intermitente</string>

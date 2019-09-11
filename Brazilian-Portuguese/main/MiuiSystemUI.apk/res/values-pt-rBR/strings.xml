@@ -111,7 +111,7 @@
   <string name="accessibility_fingerprint_dialog_fingerprint_icon">Ícone da impressão digital</string>
   <string name="accessibility_fingerprint_dialog_help_area">Área de ajuda</string>
   <string name="accessibility_gps_acquiring">A adquirir GPS</string>
-  <string name="accessibility_gps_enabled">GPS activado</string>
+  <string name="accessibility_gps_enabled">GPS ativado</string>
   <string name="accessibility_home">Início</string>
   <string name="accessibility_ime_switch_button">Trocar o botão do método de entrada</string>
   <string name="accessibility_key">Botão de navegação personalizada</string>
@@ -124,8 +124,8 @@
   <string name="accessibility_menu_item_split_enable">A aplicação suporta tela dividido</string>
   <string name="accessibility_multi_user_switch_inactive">Utilizador actual %s</string>
   <string name="accessibility_multi_user_switch_quick_contact">Mostrar perfil</string>
-  <string name="accessibility_multi_user_switch_switcher">Trocar utilizador</string>
-  <string name="accessibility_multi_user_switch_switcher_with_current">Trocar utilizador, utilizador actual %s</string>
+  <string name="accessibility_multi_user_switch_switcher">Trocar usuário</string>
+  <string name="accessibility_multi_user_switch_switcher_with_current">Trocar usuário, usuário actual %s</string>
   <string name="accessibility_no_battery">Sem bateria</string>
   <string name="accessibility_no_data">Sem dados</string>
   <string name="accessibility_no_phone">Sem sinal</string>
@@ -247,7 +247,7 @@
   <string name="accessibility_status_bar_hotspot">PA Móvel</string>
   <string name="accessibility_three_bars">Três barras</string>
   <string name="accessibility_two_bars">Duas barras</string>
-  <string name="accessibility_tty_enabled">Teletypewriter activado</string>
+  <string name="accessibility_tty_enabled">Teletypewriter ativado</string>
   <string name="accessibility_unlock_button">Desbloquear</string>
   <string name="accessibility_unlock_without_fingerprint">Desbloquear sem utilizar a impressão digital</string>
   <string name="accessibility_voice_assist_button">Assistente de voz</string>
@@ -437,7 +437,7 @@ Taxa de amostragem"</string>
   <string name="clock_seconds_desc">Mostrar segundos na barra de estado. Pode afectar a bateria</string>
   <string name="compat_mode_off">Esticar para preencher o tela</string>
   <string name="compat_mode_on">Zoom para preencher o tela</string>
-  <string name="confirm">Percebi</string>
+  <string name="confirm">Entendido</string>
   <string name="confirm_pin_msg">Introduzir o PIN novamente</string>
   <string name="connected_via_passpoint">Ligado via %1$s</string>
   <string name="content_description_menu_button">Menu</string>
@@ -657,7 +657,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="fsg_demo_back">Voltar</string>
   <string name="fsg_demo_go_on">Aprender</string>
   <string name="go_to_web">Ir à Internet</string>
-  <string name="got_it">Percebi</string>
+  <string name="got_it">Entendido</string>
   <string name="gps_notification_found_text">Localização definida por GPS</string>
   <string name="gps_notification_searching_text">A pesquisar GPS</string>
   <string name="guest_exit_guest">Remover convidado</string>
@@ -667,7 +667,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="guest_new_guest">Adicionar convidado</string>
   <string name="guest_nickname">Convidado</string>
   <string name="guest_notification_remove_action">REMOVER CONVIDADO</string>
-  <string name="guest_notification_text">Para excluir aplicativos e dados, remova o utilizador convidado</string>
+  <string name="guest_notification_text">Para excluir aplicativos e dados, remova o usuário convidado</string>
   <string name="guest_notification_title">Utilizador convidado</string>
   <string name="guest_wipe_session_dontwipe">Sim, continuar</string>
   <string name="guest_wipe_session_message">Quer continuar a sua sessão?</string>
@@ -812,13 +812,13 @@ Contacte o seu fornecedor de serviços de rede sem fios para obter outro cartão
   <string name="keyguard_unlock">Deslizar para cima para desbloquear</string>
   <string name="kg_enter_confirm_pin_hint">Confirme o novo código PIN</string>
   <string name="kg_failed_attempts_almost_at_erase_profile">Tentou desbloquear incorrectamente o telefone %1$d vezes. Após mais %2$d tentativas sem sucesso, o perfil de trabalho vai ser removido e vai excluir todos os dados do mesmo</string>
-  <string name="kg_failed_attempts_almost_at_erase_user">Tentou desbloquear incorrectamente o telefone %1$d vezes. Após mais %2$d tentativas sem sucesso, este utilizador vai ser removido e vai excluir todos os dados do mesmo</string>
+  <string name="kg_failed_attempts_almost_at_erase_user">Tentou desbloquear incorrectamente o telefone %1$d vezes. Após mais %2$d tentativas sem sucesso, este usuário vai ser removido e vai excluir todos os dados do mesmo</string>
   <string name="kg_failed_attempts_almost_at_login">"Desenhou o padrão de desbloqueio incorrectamente %1$d vezes. Após mais %2$d tentativas sem sucesso, vai ser pedido para desbloquear o telefone através de uma conta de email.
 
 Tente novamente dentro de %3$d segundos"</string>
   <string name="kg_failed_attempts_almost_at_wipe">Tentou desbloquear incorrectamente o telefone %1$d vezes. Após mais %2$d tentativas sem sucesso, este telefone vai ser reposto e vai excluir todos os dados do mesmo</string>
   <string name="kg_failed_attempts_now_erasing_profile">Tentou desbloquear incorrectamente o telefone %d vezes. O perfil de trabalho vai ser removido e vai excluir todos os dados do mesmo</string>
-  <string name="kg_failed_attempts_now_erasing_user">Tentou desbloquear incorrectamente o telefone %d vezes. Este utilizador vai ser removido e vai excluir todos os dados do mesmo</string>
+  <string name="kg_failed_attempts_now_erasing_user">Tentou desbloquear incorrectamente o telefone %d vezes. Este usuário vai ser removido e vai excluir todos os dados do mesmo</string>
   <string name="kg_failed_attempts_now_wiping">Tentou desbloquear incorrectamente o telefone %d vezes. Este telefone vai ser reposto e vai excluir todos os dados do mesmo</string>
   <string name="kg_forgot_pattern_button_text">Esqueceu-se do padrão</string>
   <string name="kg_invalid_confirm_pin_hint">Os códigos PIN não coincidem</string>
@@ -934,7 +934,7 @@ d 'de' MMMM"</string>
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
   <string name="lockscreen_charging_msg">A carregar</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, as configurações de origem do telefone vão ser repostas e todos os dados do utilizador vão ser eliminados</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, as configurações de origem do telefone vão ser repostas e todos os dados do usuário vão ser eliminados</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
 
 Tente novamente dentro de %d segundos"</string>
@@ -953,7 +953,7 @@ uma captura de tela extensa"</string>
   <string name="long_screenshot_stop">Concluído</string>
   <string name="long_screenshot_top_msg">A criar captura de tela…</string>
   <string name="long_screenshot_top_msg_manual">Recorte a captura de tela e toque no botão para concluir</string>
-  <string name="low_temperature_button_ok">Percebi</string>
+  <string name="low_temperature_button_ok">Entendido</string>
   <string name="low_temperature_warning_message">A temperatura é demasiado baixa, o seu telefone pode desligar a qualquer momento</string>
   <string name="low_temperature_warning_title">Aviso de baixa temperatura</string>
   <string name="managed_profile_foreground_toast">Está a utilizar o seu perfil de trabalho</string>
@@ -972,7 +972,7 @@ uma captura de tela extensa"</string>
   <string name="memory_clear_result_mega">%1$sMB limpos</string>
   <string name="menu_ime">Comutador de teclado</string>
   <string name="miui_guide_dialog_button_negative_text">Configurações</string>
-  <string name="miui_guide_dialog_button_positive_text">Percebi</string>
+  <string name="miui_guide_dialog_button_positive_text">Entendido</string>
   <string name="miui_guide_dialog_message">Os sons mídias (música, vídeos, etc.) ainda vão ser reproduzido no modo Silêncio. Pode alterar isto nas Configurações</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por dispositivo Bluetooth</string>
   <string name="miui_ringer_count_down">Duração</string>
@@ -1152,9 +1152,9 @@ Além disso, está ligado a uma VPN, que pode monitorar a sua actividade da rede
   <string name="phone_locked_foget_password_method">Esqueceu-se da palavra-passe?</string>
   <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Tem de &amp;lt;font color=#a5220e&amp;gt;excluir todos os dados&amp;lt;/font&amp;gt; no seu dispositivo, incluindo fotos e contatos e definir uma nova palavra-passe de tela de bloqueio&lt;/Data&gt;</string>
   <string name="phone_locked_foget_password_method_next">Seguinte</string>
-  <string name="phone_locked_foget_password_ok">Percebi</string>
+  <string name="phone_locked_foget_password_ok">Entendido</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Desligue o seu dispositivo, prima e segure os botões &amp;lt;font color=#a5220e&amp;gt;Ligar/Desligar&amp;lt;/font&amp;gt; e &amp;lt;font color=#a5220e&amp;gt;Volume mais&amp;lt;/font&amp;gt; até ver o logo Mi&lt;/Data&gt;</string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">Seleccione \"Formatar e repor\" e aguarde até o dispositivo reiniciar</string>
+  <string name="phone_locked_forget_password_suggesstion_two_content">Selecione \"Formatar e repor\" e aguarde até o dispositivo reiniciar</string>
   <string name="phone_locked_forget_password_suggesstions_title">Como excluir dados?</string>
   <string name="phone_locked_string">O dispositivo foi bloqueado</string>
   <string name="picture_color_mode">Modo de cor da imagem</string>
@@ -1295,7 +1295,7 @@ Além disso, está ligado a uma VPN, que pode monitorar a sua actividade da rede
   <string name="quick_settings_mute_label">Silêncio</string>
   <string name="quick_settings_nfc_label">NFC</string>
   <string name="quick_settings_nfc_off">NFC desactivado</string>
-  <string name="quick_settings_nfc_on">NFC activado</string>
+  <string name="quick_settings_nfc_on">NFC ativado</string>
   <string name="quick_settings_night_display_label">Luz nocturna</string>
   <string name="quick_settings_night_secondary_label_on_at">Ligado às %s</string>
   <string name="quick_settings_night_secondary_label_on_at_sunset">Ligado ao pôr do sol</string>
@@ -1324,7 +1324,7 @@ Além disso, está ligado a uma VPN, que pode monitorar a sua actividade da rede
   <string name="quick_settings_time_label">Hora</string>
   <string name="quick_settings_toast_drag_to_enable_custom_tile">Para adicionar um item, arraste-o para a parte de cima do painel</string>
   <string name="quick_settings_user_label">Eu</string>
-  <string name="quick_settings_user_new_user">Novo utilizador</string>
+  <string name="quick_settings_user_new_user">Novo usuário</string>
   <string name="quick_settings_user_title">Utilizador</string>
   <string name="quick_settings_vibrate_label">Vibração</string>
   <string name="quick_settings_wifi_detail_empty_text">Sem redes Wi-Fi disponíveis</string>
@@ -1545,7 +1545,7 @@ Deslize para baixo para bloquear"</string>
   <string name="structure_face_delete_data_dialog_msg">Não foi possível iniciar Câmara. Tente novamente</string>
   <string name="structure_face_delete_data_dialog_msg_retry">Tente novamente</string>
   <string name="structure_face_delete_data_dialog_title">Não foi possível iniciar Câmara</string>
-  <string name="structure_face_hardware_abnormal_btn">Percebi</string>
+  <string name="structure_face_hardware_abnormal_btn">Entendido</string>
   <string name="structure_face_hardware_abnormal_msg">Ocorreu um erro de hardware. Reinicie o seu dispositivo</string>
   <string name="structure_face_hardware_abnormal_title">Erro de hardware</string>
   <string name="structure_face_modules_abnormal_btn">Reiniciar</string>
@@ -1605,7 +1605,7 @@ O telefone pode sobreaquecer se:
   <string name="tuner_right">Direita</string>
   <string name="tuner_time">Hora</string>
   <string name="tuner_toast">Parabéns! O Sintonizador da interface do sistema foi adicionado às Configurações</string>
-  <string name="tuner_warning">O Sintonizador da interface do sistema disponibiliza-lhe formas adicionais ajustar e personalizar a interface do utilizador do Android. Estas funcionalidades experimentais podem ser alteradas, deixar de funcionar ou desaparecer em versões futuras. Prossiga com cuidado</string>
+  <string name="tuner_warning">O Sintonizador da interface do sistema disponibiliza-lhe formas adicionais ajustar e personalizar a interface do usuário do Android. Estas funcionalidades experimentais podem ser alteradas, deixar de funcionar ou desaparecer em versões futuras. Prossiga com cuidado</string>
   <string name="tuner_warning_title">Diversão para alguns mas não por todos</string>
   <string name="un_important_notifications">Notificações não importantes</string>
   <string name="unimportant_desc">Todas as notificações não importantes vão aparecer numa pasta separada</string>
@@ -1655,21 +1655,21 @@ O telefone pode sobreaquecer se:
   <string name="usb_storage_stop_title">Armazenamento USB está em utilização</string>
   <string name="usb_storage_title">USB ligado</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilizar idioma do sistema</string>
-  <string name="user_add_user">Adicionar utilizador</string>
-  <string name="user_add_user_message_short">"Ao adicionar um novo utilizador, essa pessoa tem de configurar o respectivo espaço.
+  <string name="user_add_user">Adicionar usuário</string>
+  <string name="user_add_user_message_short">"Ao adicionar um novo usuário, essa pessoa tem de configurar o respectivo espaço.
 
-Qualquer utilizador pode actualizar aplicativos para todos os outros utilizadores"</string>
-  <string name="user_add_user_title">Adicionar novo utilizador?</string>
+Qualquer usuário pode actualizar aplicativos para todos os outros utilizadores"</string>
+  <string name="user_add_user_title">Adicionar novo usuário?</string>
   <string name="user_guide_for_notification">Deslize para baixo para abrir a área de notificações</string>
   <string name="user_guide_for_toggle">A lista de atalhos pode ser deslocada horizontalmente</string>
   <string name="user_guide_for_toggle_list">Gerir atalhos</string>
-  <string name="user_logout_notification_action">Terminar sessão do utilizador</string>
-  <string name="user_logout_notification_text">Terminar sessão do utilizador actual</string>
-  <string name="user_logout_notification_title">Terminar sessão do utilizador</string>
-  <string name="user_new_user_name">Novo utilizador</string>
-  <string name="user_remove_user_message">Vão ser eliminados todos os dados e todas as aplicativos deste utilizador</string>
+  <string name="user_logout_notification_action">Terminar sessão do usuário</string>
+  <string name="user_logout_notification_text">Terminar sessão do usuário actual</string>
+  <string name="user_logout_notification_title">Terminar sessão do usuário</string>
+  <string name="user_new_user_name">Novo usuário</string>
+  <string name="user_remove_user_message">Vão ser eliminados todos os dados e todas as aplicativos deste usuário</string>
   <string name="user_remove_user_remove">Remover</string>
-  <string name="user_remove_user_title">Remover o utilizador?</string>
+  <string name="user_remove_user_title">Remover o usuário?</string>
   <string name="v7_preference_off">Desligado</string>
   <string name="v7_preference_on">Ligado</string>
   <string name="voice_assist_label">Abrir assistente de voz</string>
@@ -1694,7 +1694,7 @@ Qualquer utilizador pode actualizar aplicativos para todos os outros utilizadore
   <string name="vpn_footer">A rede pode ser monitorizada</string>
   <string name="vpn_text">Toque para ver configurações</string>
   <string name="vpn_text_long">Ligado a %s. Toque para ver detalhes</string>
-  <string name="vpn_title">VPN activada</string>
+  <string name="vpn_title">VPN ativada</string>
   <string name="vpn_title_long">Ligar a VPN utilizando %s</string>
   <string name="wallpaper_global_des_drop_down_notify_text">Soltar para ver detalhes</string>
   <string name="weather_publish_time">Actualizado às %1$s</string>
@@ -1713,7 +1713,7 @@ Qualquer utilizador pode actualizar aplicativos para todos os outros utilizadore
   <string name="window_animation_scale_title">Escala de animação da janela</string>
   <string name="wireless_change_to_ac_charging">Trocou para carregamento com fios</string>
   <string name="wireless_charge_current">A carregar</string>
-  <string name="wireless_charge_dialog_cancel">Percebi</string>
+  <string name="wireless_charge_dialog_cancel">Entendido</string>
   <string name="wireless_charge_dialog_title">Coloque o seu dispositivo no centro da base de carregamento</string>
   <string name="wireless_charge_reset_device">Carregamento lento. Ajuste o seu dispositivo</string>
   <string name="wireless_charge_reset_device_detail">Certifique-se que a posição do seu dispositivo na base está correcta</string>

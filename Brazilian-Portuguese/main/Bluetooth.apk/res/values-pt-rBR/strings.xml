@@ -12,7 +12,7 @@
   <string name="bluetooth_map_settings_app_icon">Ícone da aplicação</string>
   <string name="bluetooth_map_settings_cancel">Cancelar</string>
   <string name="bluetooth_map_settings_count">Ranhuras restantes:</string>
-  <string name="bluetooth_map_settings_intro">Seleccione as contas que pretende compartilhar através de Bluetooth. Ao ligar, ainda tem de aceitar eventuais acessos às contas</string>
+  <string name="bluetooth_map_settings_intro">Selecione as contas que pretende compartilhar através de Bluetooth. Ao ligar, ainda tem de aceitar eventuais acessos às contas</string>
   <string name="bluetooth_map_settings_no_account_slots_left">Não é possível seleccionar a conta. Não há ranhuras restantes</string>
   <string name="bluetooth_map_settings_save">Guardar</string>
   <string name="bluetooth_map_settings_title">Configurações de partilha de mensagens por Bluetooth</string>
@@ -97,7 +97,7 @@
   <string name="pbap_session_key_dialog_header">Necessária chave da sessão Bluetooth</string>
   <string name="pbap_session_key_dialog_title">Introduzir a chave da sessão para %1$s</string>
   <string name="permdesc_bluetoothShareManager">Permite que o aplicativo aceda ao gestor de partilha Bluetooth e o utilize para transferir arquivos</string>
-  <string name="permdesc_bluetoothWhitelist">Permite que o aplicativo adicione temporariamente um dispositivo Bluetooth às excepções e envie arquivos para esse dispositivo sem confirmação do utilizador</string>
+  <string name="permdesc_bluetoothWhitelist">Permite que o aplicativo adicione temporariamente um dispositivo Bluetooth às excepções e envie arquivos para esse dispositivo sem confirmação do usuário</string>
   <string name="permdesc_handoverStatus">Permite receber o estado da transferência de transmissões Bluetooth</string>
   <string name="permlab_bluetoothShareManager">acessaro gestor de transferências</string>
   <string name="permlab_bluetoothWhitelist">Adicionar às excepções de acesso ao dispositivo Bluetooth</string>
@@ -105,7 +105,7 @@
   <string name="process"/>
   <string name="sharedUserId"/>
   <string name="start_server">Iniciar servidor TCP</string>
-  <string name="status_canceled">Transferência cancelada pelo utilizador</string>
+  <string name="status_canceled">Transferência cancelada pelo usuário</string>
   <string name="status_connection_error">Ligado sem sucesso</string>
   <string name="status_file_error">Problema no armazenamento</string>
   <string name="status_forbidden">Transferência não permitida pelo dispositivo de destino</string>

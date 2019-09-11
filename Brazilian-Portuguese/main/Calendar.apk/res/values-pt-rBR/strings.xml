@@ -30,7 +30,7 @@
   <string name="agenda_month_empty_hint">Sem eventos hoje</string>
   <string name="agenda_tomorrow">AMANHÃ, %1$s</string>
   <string name="agenda_view">Eventos</string>
-  <string name="alarm_label">Percebi</string>
+  <string name="alarm_label">Entendido</string>
   <string name="alert_reminder_expired">Expirado</string>
   <string name="alert_title">Notificações do calendário</string>
   <string name="anniversary_event_title">Aniversário: %1$s</string>
@@ -241,7 +241,7 @@
   <string name="install_email_app">Instalar Email</string>
   <string name="install_email_finished">Instalado com sucesso</string>
   <string name="installing_email">A instalar…</string>
-  <string name="item_num_selected">%1$d seleccionados</string>
+  <string name="item_num_selected">%1$d selecionados</string>
   <string name="jump_date_full">Ir para a data</string>
   <string name="live_text">Ao vivo</string>
   <string name="living_text">No ar</string>

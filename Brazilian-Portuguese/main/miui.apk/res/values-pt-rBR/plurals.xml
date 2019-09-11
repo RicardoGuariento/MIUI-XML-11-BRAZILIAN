@@ -53,7 +53,7 @@
         <item quantity="one">num minuto</item>
     </plurals>
     <plurals name="items_selected">
-        <item quantity="other">%d itens seleccionados</item>
+        <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item seleccionado</item>
     </plurals>
 </resources>

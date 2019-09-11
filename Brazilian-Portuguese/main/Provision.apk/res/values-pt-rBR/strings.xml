@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_enabled">Acessibilidade activada</string>
+  <string name="accessibility_enabled">Acessibilidade ativada</string>
   <string name="agree">Concordar</string>
   <string name="agree_terms">Eu li e aceitei os Termos de Serviço e Política de Privacidade</string>
   <string name="app_name">Preparação</string>

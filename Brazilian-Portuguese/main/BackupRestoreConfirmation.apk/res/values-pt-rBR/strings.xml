@@ -21,7 +21,7 @@ Se não pediu este restauro, não autorize a operação. Esta vai substituir tod
   <string name="restore_enc_password_text">Se os dados a restaurar estão encriptados, insira a palavra-passe em baixo:</string>
   <string name="toast_backup_ended">Cópia de segurança terminada</string>
   <string name="toast_backup_started">A iniciar a cópia de segurança…</string>
-  <string name="toast_restore_ended">Terminou o restauro</string>
-  <string name="toast_restore_started">A iniciar o restauro…</string>
+  <string name="toast_restore_ended">Terminou a restauração</string>
+  <string name="toast_restore_started">A iniciar a restauração…</string>
   <string name="toast_timeout">Esgotou o tempo para a operação</string>
 </resources>

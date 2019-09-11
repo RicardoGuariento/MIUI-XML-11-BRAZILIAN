@@ -19,7 +19,7 @@
   <string name="collapse">Fechar</string>
   <string name="comp_profile_benefits_description">Ao utilizar um perfil de trabalho, pode manter as suas aplicativos de trabalho num único sítio</string>
   <string name="company_controls_device">A sua organização vai controlar este dispositivo e mantê-lo seguro</string>
-  <string name="company_controls_workspace">A sua organização controla este perfil e mantém-no seguro. O utilizador controla tudo o resto no dispositivo</string>
+  <string name="company_controls_workspace">A sua organização controla este perfil e mantém-no seguro. O usuário controla tudo o resto no dispositivo</string>
   <string name="contact_device_provider">Se tiver questões, contacte o seu %1$s</string>
   <string name="contact_your_admin_for_help">Contacte o seu administrador para ajuda</string>
   <string name="contact_your_admin_for_more_info">Contacte o administrador para obter mais informações, incluindo as políticas de privacidade da sua organização</string>
@@ -35,7 +35,7 @@
   <string name="device_has_reset_protection_contact_admin">O seu dispositivo tem a protecção de reposição ligada. Para mais ajuda, contacte o seu administrador</string>
   <string name="device_owner_cancel_cancel">CANCELAR</string>
   <string name="device_owner_cancel_message">Pretende interromper a configuração e excluir os dados do dispositivo?</string>
-  <string name="device_owner_error_already_provisioned_user">Este dispositivo já está configurado para este utilizador</string>
+  <string name="device_owner_error_already_provisioned_user">Este dispositivo já está configurado para este usuário</string>
   <string name="device_owner_error_download_failed">Não foi possível transferir o aplicativo de administração</string>
   <string name="device_owner_error_hash_mismatch">Não foi possível utilizar o aplicativo de administração devido a um erro de soma de verificação. Contacte o administrador</string>
   <string name="device_owner_error_installation_failed">Não foi possível instalar o aplicativo de administração</string>
@@ -118,7 +118,7 @@
   <string name="theft_protection_disabled_warning">Se continuar, não vão ser activadas as funcionalidades de protecção contra roubo. Para activar a protecção contra roubo, cancele agora e configure-o como um dispositivo pessoal</string>
   <string name="this_will_reset_take_back_first_screen">Isto vai repor o seu dispositivo e levá-lo ao primeiro tela</string>
   <string name="url_error">Este link não pode ser mostrado</string>
-  <string name="user_is_not_owner">Os perfis de trabalho têm de ser configurados pelo utilizador principal do dispositivo</string>
+  <string name="user_is_not_owner">Os perfis de trabalho têm de ser configurados pelo usuário principal do dispositivo</string>
   <string name="view_terms">Ver termos</string>
   <string name="work_profile_cant_be_added_contact_admin">Não pode adicionar um perfil de trabalho. Se tiver questões, contacte o seu administrador</string>
   <string name="work_profile_info">Informação do perfil de trabalho</string>

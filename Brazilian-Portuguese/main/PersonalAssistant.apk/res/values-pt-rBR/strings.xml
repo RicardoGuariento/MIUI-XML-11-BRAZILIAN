@@ -88,7 +88,7 @@
   <string name="card_example">Cartões</string>
   <string name="card_expand_note_clear">Limpar</string>
   <string name="card_expand_note_clear_all">Limpar</string>
-  <string name="card_expand_note_dialog_button">Percebi</string>
+  <string name="card_expand_note_dialog_button">Entendido</string>
   <string name="card_expand_note_dialog_message">Uma nova nota é criada cada vez que carrega no botão \"Guardar\"</string>
   <string name="card_expand_note_dialog_title">Guardar em Notas</string>
   <string name="card_expand_note_sure_clear_all">Limpar</string>
@@ -575,7 +575,7 @@
   <string name="steps_misport_dialog_title">Ainda não instalou o Mi Fit</string>
   <string name="steps_misport_download">Transferir</string>
   <string name="steps_misport_go">Permitir</string>
-  <string name="steps_misport_ok">Percebi</string>
+  <string name="steps_misport_ok">Entendido</string>
   <string name="steps_misport_tip">Inicie sessão no Mi Fit utilizando a sua Conta Mi e conceda permissões de início automático em Segurança - Permissões</string>
   <string name="steps_sport">Mi Fit</string>
   <string name="steps_sport_des">Obter dados precisos da aplicação Mi Fit</string>

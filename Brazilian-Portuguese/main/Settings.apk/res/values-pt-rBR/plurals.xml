@@ -69,7 +69,7 @@
         <item quantity="one">%d categoria eliminada</item>
     </plurals>
     <plurals name="dlg_remove_locales_title">
-        <item quantity="other">Remover os idiomas seleccionados?</item>
+        <item quantity="other">Remover os idiomas selecionados?</item>
         <item quantity="one">Remover o idioma seleccionado?</item>
     </plurals>
     <plurals name="domain_urls_apps_summary_on">
