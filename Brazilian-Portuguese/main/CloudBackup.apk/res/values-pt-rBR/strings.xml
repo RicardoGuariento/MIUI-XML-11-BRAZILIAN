@@ -204,7 +204,7 @@ Verifique as suas configurações de rede e tente novamente"</string>
   <string name="retry">Tentar novamente</string>
   <string name="selected">Seleccionado</string>
   <string name="self_device_main_space">O Primeiro espaço deste telefone</string>
-  <string name="self_device_second_space">O Segundo espaço deste telefone</string>
+  <string name="self_device_second_space">O segundo espaço deste telefone</string>
   <string name="settings_backup">Configurações do sistema</string>
   <string name="size_unknown">Tamanho desconhecido</string>
   <string name="start_backup_to_micloud">Fazer cópia os aplicativos para a Xiaomi Cloud</string>

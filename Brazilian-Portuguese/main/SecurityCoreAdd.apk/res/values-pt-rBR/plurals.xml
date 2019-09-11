@@ -5,8 +5,8 @@
         <item quantity="one">%d item</item>
     </plurals>
     <plurals name="first_space_notification_format">
-        <item quantity="other">%d notificações no Primeiro espaço</item>
-        <item quantity="one">%d notificação no Primeiro espaço</item>
+        <item quantity="other">%d notificações no primeiro espaço</item>
+        <item quantity="one">%d notificação no primeiro espaço</item>
     </plurals>
     <plurals name="second_space_notification_format">
         <item quantity="other">%d notificações no Segundo espaço</item>

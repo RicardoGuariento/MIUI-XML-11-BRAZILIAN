@@ -160,8 +160,8 @@ Envie este código ao supervisor"</string>
   <string name="mipay_indentity_done">Verificado</string>
   <string name="mipay_others">Outros</string>
   <string name="mipay_transit_card">Cartão de transporte</string>
-  <string name="multi_user_not_show_sync_activity_message_1">Está a utilizar a sua Conta Mi do Primeiro espaço</string>
-  <string name="multi_user_not_show_sync_activity_message_2">Nesse caso, todos os dados serão sincronizados com o seu Segundo espaço. Para prevenir isto, não ligue a sincronização com a Xiaomi Cloud</string>
+  <string name="multi_user_not_show_sync_activity_message_1">Está a utilizar a sua Conta Mi do primeiro espaço</string>
+  <string name="multi_user_not_show_sync_activity_message_2">Nesse caso, todos os dados serão sincronizados com o seu segundo espaço.Para prevenir isto, não ligue a sincronização com a Xiaomi Cloud</string>
   <string name="multi_user_not_show_sync_activity_title">Não ligar a sincronização com a Xiaomi Cloud</string>
   <string name="my_device_title">Dispositivo atual</string>
   <string name="no_network_btn">Atualizar</string>

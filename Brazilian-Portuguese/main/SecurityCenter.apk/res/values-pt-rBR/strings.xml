@@ -366,7 +366,7 @@
   <string name="auto_task_notify_task_canceled_summary">Pode efectuar e receber chamadas</string>
   <string name="auto_task_notify_task_canceled_summary2">Parece que está a jogar</string>
   <string name="auto_task_notify_task_canceled_summary3">Cancelado pelo Segundo espaço</string>
-  <string name="auto_task_notify_task_canceled_summary4">Cancelado pelo Primeiro espaço</string>
+  <string name="auto_task_notify_task_canceled_summary4">Cancelado pelo primeiro espaço</string>
   <string name="auto_task_notify_task_canceled_title">A acção está cancelada</string>
   <string name="auto_task_notify_task_continue_do">Iniciar acção</string>
   <string name="auto_task_notify_task_count_down">A acção automática vai iniciar em 5 segundos</string>
@@ -562,7 +562,7 @@
   <string name="card_main_optimize_manage_title">Optimizar velocidade</string>
   <string name="card_main_overscroll_tips">O melhor em segurança</string>
   <string name="card_main_private_space_action">Criar</string>
-  <string name="card_main_private_space_summary">Utilizar o Segundo espaço é como ter dois dispositivos</string>
+  <string name="card_main_private_space_summary">Utilizar o segundo espaço é como ter dois dispositivos</string>
   <string name="card_main_private_space_title">Segundo espaço</string>
   <string name="card_main_sectool_title">Ferramentas</string>
   <string name="card_main_xspace_action">Criar</string>
@@ -1636,7 +1636,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="password_promotion_title">Adicionar Conta Mi</string>
   <string name="password_type">Alterar senha</string>
   <string name="password_type_underline"><u>Alterar senha</u></string>
-  <string name="password_xspace_forget_pattern_message">Para alterar a senha do Segundo espaço, deve excluir o Segundo espaço atual e criar um novo</string>
+  <string name="password_xspace_forget_pattern_message">Para alterar a senha do Segundo espaço, deve excluir o segundo espaço atual e criar um novo</string>
   <string name="pc_abnormal_scan_button_text">Fechar aplicativos</string>
   <string name="pc_abnormal_scan_reason_prevent_standby">Impede que o sistema entre no modo de inactividade</string>
   <string name="pc_abnormal_scan_reason_reconnect">Tenta-se ligar à rede com muita frequência</string>
@@ -2023,7 +2023,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="safepay_alert_dialog_button_fix">Corrigir</string>
   <string name="sc_allow_network_dialog_message">Restringiu o acesso à rede e localização de Segurança. Conceda a Segurança as permissões necessárias para utilizar esta funcionalidade</string>
   <string name="sc_allow_network_dialog_tiltle">Não é possível utilizar esta funcionalidade</string>
-  <string name="sc_system_risk_fix_info_xspace">Não é possível resolver isto no Segundo espaço. Tente novamente no Primeiro espaço</string>
+  <string name="sc_system_risk_fix_info_xspace">Não é possível resolver isto no segundo espaço.Tente novamente no primeiro espaço</string>
   <string name="sc_warning_updater_not_found">Não foi localizada o aplicativo Actualizações</string>
   <string name="scan_installed_games">A verificar jogos instalados…</string>
   <string name="scan_status_risk">Perigoso</string>

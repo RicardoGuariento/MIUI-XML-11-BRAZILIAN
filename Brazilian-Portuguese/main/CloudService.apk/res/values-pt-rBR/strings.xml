@@ -167,7 +167,7 @@ Localize e bloqueie o seu dispositivo no caso de estar perdido"</string>
   <string name="micloud_main_head_menu_cloud_backup">Cópias da Xiaomi Cloud</string>
   <string name="micloud_main_head_menu_cloud_backup_summary">Layout do tela inicial, aplicativos e configurações de sistema</string>
   <string name="micloud_main_head_menu_finddevice_summary">Localizar e bloquear o seu dispositivo se estiver perdido</string>
-  <string name="micloud_main_head_menu_finddevice_unavailable">Localizar Dispositivo está indisponível no Segundo espaço. Pode utilizá-lo no Primeiro espaço</string>
+  <string name="micloud_main_head_menu_finddevice_unavailable">Localizar Dispositivo está indisponível no segundo espaço. Pode utilizá-lo no primeiro espaço</string>
   <string name="micloud_main_head_menu_recycle_bin_summary">Restaurar itens</string>
   <string name="micloud_main_head_menu_recycle_bin_title">Itens excluídos</string>
   <string name="micloud_main_head_menu_state_close">Desligado</string>
@@ -225,7 +225,7 @@ Localize e bloqueie o seu dispositivo no caso de estar perdido"</string>
   <string name="micloud_notif_content_dirty_data">Detalhes</string>
   <string name="micloud_notif_content_master_depend_wifi">Ligar primeiro ao Wi-Fi</string>
   <string name="micloud_notif_content_memory_low">Sem espaço de armazenamento suficiente</string>
-  <string name="micloud_notif_content_multi_user_error">Iniciou sessão com a mesma conta do Primeiro espaço</string>
+  <string name="micloud_notif_content_multi_user_error">Iniciou sessão com a mesma conta do primeiro espaço</string>
   <string name="micloud_notif_content_privacy_reopen_failed">Ver detalhes</string>
   <string name="micloud_notif_content_sync_with_off">Toque para sincronizar o seu dispositivo agora</string>
   <string name="micloud_notif_title_battery_low">Não é possível sincronizar com a Xiaomi Cloud</string>

@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abort_backup_confirm">A cópia ainda não terminou. Deseja parar?</string>
+  <string name="abort_backup_confirm">O backup ainda não terminou. Deseja parar?</string>
   <string name="abort_restore_confirm">A restauração ainda não terminou. Deseja parar?</string>
   <string name="account_contact_backup_info">Conta Google, Conta Mi e dados de contatos</string>
   <string name="account_login">Iniciar sessão</string>
-  <string name="account_summary">Cópia da conta Gmail, Conta Mi e outros dados do usuário</string>
+  <string name="account_summary">Backup da conta Gmail, Conta Mi e outros dados do usuário</string>
   <string name="alert_button_agree_and_continue">Permitir</string>
   <string name="alert_button_deny">Negar</string>
-  <string name="alert_message_backup_to_miasist">O Mi PC Suite necessita de permissão para criar uma cópia no computador. Permitir?</string>
+  <string name="alert_message_backup_to_miasist">O Mi PC Suite necessita de permissão para criar um backup no computador. Permitir?</string>
   <string name="alert_message_restore_from_miasist">O Mi PC Suite necessita de permissão para restaurar itens no seu telefone. Permitir?</string>
-  <string name="alert_miasist_occupy_backup">Fazendo cópia de itens utilizando o Mi PC Suite… Aguarde até estar concluído e tente novamente</string>
-  <string name="alert_miasist_occupy_restore">A restaurar itens utilizando o Mi PC Suite… Aguarde até estar concluído e tente novamente</string>
+  <string name="alert_miasist_occupy_backup">Fazendo backup de itens utilizando o Mi PC Suite… Aguarde a conclusão e tente novamente</string>
+  <string name="alert_miasist_occupy_restore">Restaurando itens utilizando o Mi PC Suite… Aguarde a conclusão e tente novamente</string>
   <string name="alert_phone_occupy_backup">Não é possível utilizar o Mi PC Suite agora. Conclua os processos pendentes e tente novamente</string>
-  <string name="alert_second_space_not_support_miasist">Não é possível utilizar o Mi PC Suite no Segundo espaço. Troque para o Primeiro espaço</string>
+  <string name="alert_second_space_not_support_miasist">Não é possível utilizar o Mi PC Suite no segundo espaço. Troque para o primeiro espaço</string>
   <string name="alert_title_backup_to_miasist">Fazer cópia utilizando o Mi PC Suite?</string>
   <string name="alert_title_restore_from_miasist">Restaura itens no seu telefone?</string>
   <string name="already_enable_encrypt">Encriptação já está ativada</string>
@@ -490,7 +490,7 @@ para transferir e instalar o Mi Mover"</string>
   <string name="trans_intro_desc_9_method_3_title">3. Reporte problemas no QQ</string>
   <string name="trans_intro_desc_account">Tem de iniciar sessão novamente nas suas contas (p.e., Conta Mi, Exchange, Google, etc.) num novo dispositivo devido a motivos de segurança</string>
   <string name="trans_intro_desc_multiapp">O Mi Mover não transfere dados os aplicativos clonadas para evitar conflitos entre arquivos</string>
-  <string name="trans_intro_desc_multiuser">O Mi Mover não consegue acessar itens do Segundo espaço. Mova os itens para o Primeiro espaço e inicie o Mi Mover lá</string>
+  <string name="trans_intro_desc_multiuser">O Mi Mover não consegue acessar itens do segundo espaço. Mova os itens para o Primeiro espaço e inicie o Mi Mover lá</string>
   <string name="trans_intro_desc_new">Toque \"Sou um destinatário\". Vai ser gerado um código QR</string>
   <string name="trans_intro_desc_old">Toque \"Sou um remetente\". Digitalize o código QR no novo telefone e aguarde até o Mi Mover descubra os arquivos a enviar e toque \"Enviar\"</string>
   <string name="trans_intro_desc_old_market">Toque \"Iniciar\". Digitalize o código QR no novo telefone e aguarde até o Mi Mover descubra os arquivos a enviar e toque \"Enviar\"</string>

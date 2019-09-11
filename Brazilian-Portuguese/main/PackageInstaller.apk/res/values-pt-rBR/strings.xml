@@ -204,7 +204,7 @@ Todos os dados existentes da aplicação serão guardados"</string>
   <string name="miui_failed_system_incompatible">Pacote de instalação incompatível</string>
   <string name="miui_failed_update_incompatible">Assinaturas da aplicação em conflito</string>
   <string name="miui_failed_version_downgrade">Não é possível desactualizar aplicativos</string>
-  <string name="miui_failed_version_downgrade_space">Existe uma versão mais recente desta aplicação no Segundo espaço. Desinstale-a no Segundo espaço e depois instale-a aqui</string>
+  <string name="miui_failed_version_downgrade_space">Existe uma versão mais recente desta aplicação no segundo espaço.Desinstale-a no segundo espaço e depois instale-a aqui</string>
   <string name="miui_help_feedback_label">Ajuda e comentários</string>
   <string name="miui_install_confirm_question">Instalar esta aplicação?</string>
   <string name="miui_install_confirm_question_update">Substituir o aplicativo existente?</string>

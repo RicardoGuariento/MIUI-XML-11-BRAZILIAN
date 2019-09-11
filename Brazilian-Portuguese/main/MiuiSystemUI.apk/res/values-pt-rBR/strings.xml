@@ -630,9 +630,9 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="fingerprint_add_title">Adicionar impressão digital</string>
   <string name="fingerprint_again_identified_msg">A sua impressão digital está activa. Utilize-a para desbloquear o dispositivo ou introduzir a senha</string>
   <string name="fingerprint_dialog_touch_sensor">Toque no sensor de impressões digitais</string>
-  <string name="fingerprint_enter_second_psw_msg">Introduzir a senha do Segundo espaço para poder utilizar as impressões digitais</string>
+  <string name="fingerprint_enter_second_psw_msg">Introduzir a senha do segundo espaço para poder utilizar as impressões digitais</string>
   <string name="fingerprint_enter_second_psw_title">Introduzir a senha do Segundo espaço</string>
-  <string name="fingerprint_enter_second_psw_msg_oldman">Não é possível entrar no Segundo espaço enquanto estiver no Modo Leve</string>
+  <string name="fingerprint_enter_second_psw_msg_oldman">Não é possível entrar no segundo espaço enquanto estiver no Modo Leve</string>
   <string name="fingerprint_not_identified_msg">Demasiadas tentativas incorrectas. Insira a sua senha ou tente novamente daqui a um momento</string>
   <string name="fingerprint_not_identified_msg_lock">Demasiadas tentativas incorrectas. Insira a sua senha</string>
   <string name="fingerprint_not_identified_title">Introduzir senha</string>
@@ -1568,7 +1568,7 @@ Deslize para baixo para bloquear"</string>
   <string name="structure_face_unlock_tof_covered">Não foi possível adicionar dados do rosto. Afaste-se do tela</string>
   <string name="switch_bar_off">Desligado</string>
   <string name="switch_bar_on">Ligado</string>
-  <string name="switch_system_user">Voltar para o Primeiro espaço</string>
+  <string name="switch_system_user">Voltar para o primeiro espaço</string>
   <string name="system_ui_tuner">Sintonizador da interface do sistema</string>
   <string name="task_access_locked_app_msg">Bloqueio de aplicativos ligado</string>
   <string name="theme">Temas</string>

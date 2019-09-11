@@ -978,7 +978,7 @@ Esta funcionalidade pode ser desligada nas [Settings]"</string>
   <string name="call_manager_enable_summary">Permitir que este serviço gira a forma como as suas chamadas são efectuadas</string>
   <string name="call_manager_enable_title">Activar Gestor de chamadas</string>
   <string name="call_manager_title">Gestor de chamadas</string>
-  <string name="call_settings_primary_user_only">Alterar configurações de chamadas no Primeiro espaço</string>
+  <string name="call_settings_primary_user_only">Alterar configurações de chamadas no primeiro espaço</string>
   <string name="call_settings_summary">Configurar Voice Mail, reencaminhamento de chamadas, chamada em espera, Identificação de chamadas</string>
   <string name="call_settings_title">Configurações de chamadas</string>
   <string name="calls_title">Chamadas</string>
@@ -1864,7 +1864,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="fingerprint_last_delete_message">Não vai poder utilizar as impressões digitais para desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicativos com elas</string>
   <string name="fingerprint_last_delete_title">Remover todas as impressões digitais?</string>
   <string name="fingerprint_list_title">Impressão digital</string>
-  <string name="fingerprint_lock_first">Desbloquear o Primeiro espaço</string>
+  <string name="fingerprint_lock_first">Desbloquear o primeiro espaço</string>
   <string name="fingerprint_lock_second">Desbloquear o Segundo espaço</string>
   <string name="fingerprint_manage">Gerir impressões digitais</string>
   <string name="fingerprint_manage_category_title">Gerir impressões digitais</string>
@@ -2521,7 +2521,7 @@ para o Segundo espaço"</string>
   <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
   <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
   <string name="lockpattern_pattern_same_with_others">Deve ser diferente da senha dos outros espaços</string>
-  <string name="lockpattern_pattern_same_with_owner">Deve ser diferente da senha do Primeiro espaço</string>
+  <string name="lockpattern_pattern_same_with_owner">Deve ser diferente da senha do primeiro espaço</string>
   <string name="lockpattern_pattern_same_with_security_space">Deve ser diferente da senha do Segundo espaço</string>
   <string name="lockpattern_recording_incorrect_too_short">Ligue pelo menos %d pontos. Tente novamente</string>
   <string name="lockpattern_recording_inprogress">Levante o dedo quando terminar</string>
@@ -3509,7 +3509,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="privacy_close_dlg_button_ok">Desligar</string>
   <string name="privacy_close_dlg_msg">Quando o padrão de Protecção de Privacidade está desligado, os seus itens não vão estar mais protegidos</string>
   <string name="privacy_close_dlg_title">Atenção</string>
-  <string name="privacy_delete_space_dlg_message">Para alterar a senha do seu Segundo espaço, deve excluir o seu Segundo espaço atual e criar um novo</string>
+  <string name="privacy_delete_space_dlg_message">Para alterar a senha do seu Segundo espaço, deve excluir o seu segundo espaço atual e criar um novo</string>
   <string name="privacy_dlg_button_cancel">Cancelar</string>
   <string name="privacy_factory_reset_dlg_button_text">Repor</string>
   <string name="privacy_factory_reset_dlg_message">Se esquecer da sua senha, vai ter de fazer uma reposição de fábrica para definir uma nova</string>
@@ -3758,7 +3758,7 @@ Não vai perder quaisquer dados os aplicativos"</string>
   <string name="reset_second_space_passwd">Repor a senha do Segundo espaço</string>
   <string name="reset_second_space_passwd_cancel">Cancelar</string>
   <string name="reset_second_space_passwd_confirm">Continuar</string>
-  <string name="reset_second_space_passwd_detail">Insira a senha da Conta Mi utilizada no Primeiro espaço</string>
+  <string name="reset_second_space_passwd_detail">Insira a senha da Conta Mi utilizada no primeiro espaço</string>
   <string name="reset_shortcut_manager_throttling">Repor o limite de taxa do ShortcutManager</string>
   <string name="reset_shortcut_manager_throttling_complete">>O limite de taxa do ShortcutManager foi reposto</string>
   <string name="resetting_second_space_passwd">A repor a senha do Segundo espaço</string>
@@ -4799,7 +4799,7 @@ Uma abordagem da Google à sincronização de dados, que permite acessar contato
   <string name="tether_settings_title_usb_bluetooth">Partilha de ligação</string>
   <string name="tether_settings_title_wifi">Ponto de Acesso Móvel</string>
   <string name="tethering_help_button_text">Ajuda</string>
-  <string name="tethering_settings_not_available">Alterar as configurações de partilha de ligação no Primeiro espaço</string>
+  <string name="tethering_settings_not_available">Alterar as configurações de partilha de ligação no primeiro espaço</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">Ligar assistente Google no modo tela inteiro</string>
   <string name="tether_share_qrcode_title">Compartilhar código QR</string>
   <string name="theme_settings_title">Temas</string>
@@ -5247,7 +5247,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="user_restrictions_controlled_by">Controlado por %1$s</string>
   <string name="user_restrictions_title">Acesso às aplicativos e conteúdo</string>
   <string name="user_set_lock_button">Definir bloqueio</string>
-  <string name="user_settings_forbidden">Não é possível alterar configurações de administrador no espaço atual. Volte para o Primeiro espaço</string>
+  <string name="user_settings_forbidden">Não é possível alterar configurações de administrador no espaço atual. Volte para o primeiro espaço</string>
   <string name="user_settings_title">Utilizadores</string>
   <string name="user_setup_button_setup_later">Agora não</string>
   <string name="user_setup_button_setup_now">Configurar agora</string>
