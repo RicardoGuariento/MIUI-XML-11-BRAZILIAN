@@ -17,8 +17,8 @@
         <item quantity="one">%d número</item>
     </plurals>
     <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">%d números vão ser eliminados</item>
-        <item quantity="one">%d número vai ser eliminado</item>
+        <item quantity="other">%d números serão excluídos</item>
+        <item quantity="one">%d número vai ser excluído</item>
     </plurals>
     <plurals name="call_record_add_white_list_over_reminder">
         <item quantity="other">Pode adicionar até %s pessoas. Selecione novamente</item>

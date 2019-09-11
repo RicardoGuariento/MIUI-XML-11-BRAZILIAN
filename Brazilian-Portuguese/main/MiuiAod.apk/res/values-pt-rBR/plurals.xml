@@ -45,11 +45,11 @@
         <item quantity="one">(%d item)</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%1$d fotos de %2$s vão ser adicionadas</item>
+        <item quantity="other">%1$d fotos de %2$s serão adicionadas</item>
         <item quantity="one">%1$d foto de %2$s vai ser adicionada</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d fotos de %2$s vão ser adicionadas</item>
+        <item quantity="other">%1$d fotos de %2$s serão adicionadas</item>
         <item quantity="one">%1$d foto de %2$s vai ser adicionada</item>
     </plurals>
     <plurals name="backup_after_hours">

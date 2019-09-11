@@ -2,7 +2,7 @@
 <resources>
   <string name="alert_frequency_duplicate">Esta frequência já existe</string>
   <string name="alert_invalid_frequency">Frequência inválida</string>
-  <string name="alert_message_delete_station">Este predefinido vai ser eliminado</string>
+  <string name="alert_message_delete_station">Este predefinido vai ser excluído</string>
   <string name="app_name">Rádio FM</string>
   <string name="channel_name_download">Transferências</string>
   <string name="channel_name_file">Verificação de arquivos</string>
@@ -17,7 +17,7 @@
   <string name="exit_fm">Sair</string>
   <string name="fm_browser_label">Rádio FM</string>
   <string name="fm_has_turned_off">Rádio FM desligado</string>
-  <string name="fmradio_clear_confirm_msg">Todos os predefinidos vão ser eliminados</string>
+  <string name="fmradio_clear_confirm_msg">Todos os predefinidos serão excluídos</string>
   <string name="group_favor">Predefinidos</string>
   <string name="group_other">Outros</string>
   <string name="hint_frequency">Frequência: %1$s ~ %2$s</string>

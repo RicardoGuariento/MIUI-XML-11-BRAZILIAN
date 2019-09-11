@@ -36,8 +36,8 @@
   <string name="activate_popup_confirm_failed_receive_sms">Tentar novamente</string>
   <string name="activate_popup_confirm_failed_send_sms">Reenviar</string>
   <string name="activate_popup_confirm_failed_server">Tentar novamente</string>
-  <string name="activate_popup_desc_2_intl_sim_cards">2 mensagens de texto internacionais vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora</string>
-  <string name="activate_popup_desc_2_sim_cards">2 mensagens de texto vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora</string>
+  <string name="activate_popup_desc_2_intl_sim_cards">2 mensagens de texto internacionais serão enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora</string>
+  <string name="activate_popup_desc_2_sim_cards">2 mensagens de texto serão enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora</string>
   <string name="activate_popup_desc_all_gateway_failed_query_info">"Não foi possível encontrar o seu número de telefone. Certifique-se que o seu cartão SIM foi ativado.
 Introduza o número de telefone associado com o seu novo cartão SIM para reactivar %s"</string>
   <string name="activate_popup_desc_all_gateway_failed_send_sms">"Não foi possível enviar mensagem de activação. Certifique-se que o seu cartão SIM foi ativado.
@@ -50,11 +50,11 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="activate_popup_desc_failed_server">Verifique a sua ligação de rede e tente novamente</string>
   <string name="activate_popup_desc_find_device_postfix">Uma SMS de activação vai ser enviada depois de trocar os cartões SIM</string>
   <string name="activate_popup_desc_intl_sim_card">Uma mensagem de texto internacional vai ser enviada para activar %s. Vai ser cobrado um valor adicional pela sua operadora</string>
-  <string name="activate_popup_desc_mixed_sim_cards">2 mensagens de texto (nacional e internacional) vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora</string>
-  <string name="activate_popup_desc_new_2_intl_sim_cards">"Parece que trocou de cartões SIM. 2 mensagens de texto internacionais vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora"</string>
-  <string name="activate_popup_desc_new_2_sim_cards">"Parece que trocou de cartões SIM. 2 mensagens de texto vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora"</string>
+  <string name="activate_popup_desc_mixed_sim_cards">2 mensagens de texto (nacional e internacional) serão enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora</string>
+  <string name="activate_popup_desc_new_2_intl_sim_cards">"Parece que trocou de cartões SIM. 2 mensagens de texto internacionais serão enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora"</string>
+  <string name="activate_popup_desc_new_2_sim_cards">"Parece que trocou de cartões SIM. 2 mensagens de texto serão enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora"</string>
   <string name="activate_popup_desc_new_intl_sim_card">"Parece que trocou de cartões SIM. Uma mensagem de texto internacional vai ser enviada para activar %s. Vai ser cobrado um valor adicional pela operadora"</string>
-  <string name="activate_popup_desc_new_mixed_sim_cards">"Parece que trocou de cartões SIM. 2 mensagens de texto (nacional e internacional) vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora"</string>
+  <string name="activate_popup_desc_new_mixed_sim_cards">"Parece que trocou de cartões SIM. 2 mensagens de texto (nacional e internacional) serão enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora"</string>
   <string name="activate_popup_desc_new_sim_card">"Parece que trocou de cartões SIM. Uma SMS vai ser enviada para activar %s. Vai ser cobrado um valor adicional pela sua operadora"</string>
   <string name="activate_popup_desc_new_sim_card_downlink">"Parece que trocou de cartões SIM. Introduza o seu número de telefone actual para activar %s"</string>
   <string name="activate_popup_desc_register_account">A sua operadora pode cobrar um valor adicional por uma mensagem para criar a sua Conta Mi</string>

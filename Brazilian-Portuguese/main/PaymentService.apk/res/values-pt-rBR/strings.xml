@@ -118,7 +118,7 @@ Contacte o serviço de clientes da Xiaomi"</string>
   <string name="mibi_giftcard_denom_frozen">Mi Credits congelados</string>
   <string name="mibi_giftcard_empty">Sem cartões presente</string>
   <string name="mibi_giftcard_has_expired">Expirou em %1$s</string>
-  <string name="mibi_giftcard_hint">Mi Credits adicionados via cartão presente vão ser gastos primeiro</string>
+  <string name="mibi_giftcard_hint">Mi Credits adicionados via cartão presente serão gastos primeiro</string>
   <string name="mibi_giftcard_payment">Certificados de ofertas</string>
   <string name="mibi_giftcard_payment_with_append">Aplicar certificados de ofertas</string>
   <string name="mibi_giftcard_push_notification_prime_title">Recebeu um certificado de oferta</string>
@@ -269,7 +269,7 @@ Centro do serviço de clientes：400-100-5678"</string>
   <string name="mibi_security_setting">Configurações</string>
   <string name="mibi_shurtcut_create_success">Colocado na tela inicial</string>
   <string name="mibi_signing_pay_group_title">Seleccionar método de pagamento</string>
-  <string name="mibi_signing_success_sub">Os pagamentos renováveis vão ser feitos utilizando %1$s</string>
+  <string name="mibi_signing_success_sub">Os pagamentos renováveis serão feitos utilizando %1$s</string>
   <string name="mibi_signing_success_title">Seleccionado com sucesso</string>
   <string name="mibi_sms_code_empty">Introduza o código de verificação enviado para o seu telefone</string>
   <string name="mibi_sms_code_error">Erro no código de verificação. Tente novamente</string>

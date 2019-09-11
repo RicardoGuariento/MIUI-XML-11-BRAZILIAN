@@ -125,7 +125,7 @@
         <item quantity="one">Tente novamente em %d minuto</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d atalhos vão ser mostrados na área de notificações</item>
+        <item quantity="other">%1$d atalhos serão mostrados na área de notificações</item>
         <item quantity="one">%1$d atalho vai ser mostrado na área de notificações</item>
     </plurals>
     <plurals name="status_bar_accessibility_recent_apps">

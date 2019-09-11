@@ -106,7 +106,7 @@
   <string name="antivirus_main_activity_back">Voltar</string>
   <string name="antivirus_monitor_btn_text_clean_risk">excluir aplicativos em risco</string>
   <string name="antivirus_monitor_btn_text_clean_virus">excluir vírus</string>
-  <string name="antivirus_monitor_clean_tips">Itens eliminados: %s</string>
+  <string name="antivirus_monitor_clean_tips">Itens excluídos: %s</string>
   <string name="antivirus_monitor_risk_advice">Este aplicativo não é segura. Elimine-a</string>
   <string name="antivirus_monitor_virus_advice">Este aplicativo pode conter vírus. Elimine-a</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
@@ -156,7 +156,7 @@
   <string name="app_manager_card_permission_title">Permissões</string>
   <string name="app_manager_clear_all_data">Limpar todos os dados</string>
   <string name="app_manager_clear_cache">Limpar cache</string>
-  <string name="app_manager_clear_data_dlg_message">Todos os dados da aplicação, incluindo arquivos, configurações, contas e cache vão ser eliminados permanentemente</string>
+  <string name="app_manager_clear_data_dlg_message">Todos os dados da aplicação, incluindo arquivos, configurações, contas e cache serão excluídos permanentemente</string>
   <string name="app_manager_clear_data_dlg_title">excluir todos os dados?</string>
   <string name="app_manager_clear_dlg_title">Limpar dados</string>
   <string name="app_manager_clear_failed_dlg_message">Não foi possível limpar os dados da aplicação</string>
@@ -185,7 +185,7 @@
   <string name="app_manager_enable_text">Activar</string>
   <string name="app_manager_enabled">Activada</string>
   <string name="app_manager_factory_reset">Desinstalar actualizações</string>
-  <string name="app_manager_factory_reset_dlg_msg">Todas as actualizações desta aplicação vão ser desinstaladas</string>
+  <string name="app_manager_factory_reset_dlg_msg">Todas as actualizações desta aplicação serão desinstaladas</string>
   <string name="app_manager_factory_reset_dlg_title">Desinstalar actualizações?</string>
   <string name="app_manager_find_apps">Procurar aplicativos</string>
   <string name="app_manager_force_stop_dlg_text">Se forçar a paragem desta aplicação, ela pode funcionar mal</string>
@@ -244,7 +244,7 @@
   <string name="app_manager_uninstall">Desinstalar</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Desinstalar aplicativos de sistema pode fazer com que alguns componentes MIUI deixem de funcionar. Desinstalar mesmo assim?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Desinstalar aplicativos de sistema</string>
-  <string name="app_manager_uninstall_with_xspace_app_dlg_msg">As aplicativos clonadas correspondentes vão ser eliminadas juntamente com os dados das mesmas</string>
+  <string name="app_manager_uninstall_with_xspace_app_dlg_msg">As aplicativos clonadas correspondentes serão eliminadas juntamente com os dados das mesmas</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Desinstalar aplicação clonada vai excluir todos os dados da aplicação</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Desinstalar aplicação clonada?</string>
   <string name="app_manager_unstall_application">Desinstalar</string>
@@ -290,7 +290,7 @@
   <string name="applock_add_account_info">Adicione a Conta Mi para poder repor a sua palavra-passe no caso de a esquecer</string>
   <string name="applock_add_account_setting">Contas e privacidade</string>
   <string name="applock_bind_account_title">Esqueceu a sua palavra-passe?</string>
-  <string name="applock_close_dialog_summary">Todas as aplicativos ocultas vão ser mostradas, os seus atalhos vão ser restaurados e a sua palavra-passe do Bloqueio de aplicativos vai ser eliminada. Desligar o Bloqueio de aplicativos?</string>
+  <string name="applock_close_dialog_summary">Todas as aplicativos ocultas serão mostradas, os seus atalhos serão restaurados e a sua palavra-passe do Bloqueio de aplicativos vai ser excluída. Desligar o Bloqueio de aplicativos?</string>
   <string name="applock_close_dialog_title">Desligar Bloqueio de aplicativos?</string>
   <string name="applock_exit_account_info">A conta vai ser removida automaticamente assim que terminar sessão</string>
   <string name="applock_face_unlock_summary">Desbloquear aplicativos utilizando o rosto</string>
@@ -670,7 +670,7 @@ A sua operador pode cobrar custos adicionais se ligar novamente os dados móveis
   <string name="details_subtitle">Detalhes de utilização</string>
   <string name="device_manager_apply_step_1">Activar o administrador de dispositivo para esta aplicação?</string>
   <string name="device_manager_apply_step_2">"Activar o administrador de dispositivo para esta aplicação pode levar à exposição dos seus dados pessoais.
-Todos os dados no seu dispositivo podem ser eliminados e a sua palavra-passe do tela de bloqueio reposta"</string>
+Todos os dados no seu dispositivo podem ser excluídos e a sua palavra-passe do tela de bloqueio reposta"</string>
   <string name="device_manager_apply_step_3">Certifique-se que compreende todos os riscos antes de avançar. Activar o administrador de dispositivo para esta aplicação agora?</string>
   <string name="diagnostic_attention_dialog_message">O diagnóstico para %1$s está em curso. Aguarde até estar concluído e tente novamente</string>
   <string name="dialog_app_roaming_message">%1$s não pode utilizar dados móveis em roaming. Apenas as aplicativos adicionadas nas excepções podem utilizar dados móveis</string>
@@ -698,7 +698,7 @@ Todos os dados no seu dispositivo podem ser eliminados e a sua palavra-passe do 
   <string name="dlg_add_blacklist">Bloquear este número?</string>
   <string name="dlg_add_blacklist_title">Adicionar à lista de bloqueio</string>
   <string name="dlg_add_keyword">Adicionar palavras-chave</string>
-  <string name="dlg_add_white">Apenas as novas chamadas e mensagens de números adicionados às excepções vão ser mostradas no registo de chamadas e mensagens. Adicionar os números selecionados às excepções?</string>
+  <string name="dlg_add_white">Apenas as novas chamadas e mensagens de números adicionados às excepções serão mostradas no registo de chamadas e mensagens. Adicionar os números selecionados às excepções?</string>
   <string name="dlg_add_manual_hint">Introduzir número de telefone</string>
   <string name="dlg_add_manual_ok">Adicionar</string>
   <string name="dlg_antispam_mode_delete_message">Não é possível recuperar regras depois de terem sido eliminadas</string>
@@ -1039,7 +1039,7 @@ medical card"</string>
   <string name="gamebox_hangup_tips_content">Esta funcionalidade permite que desligue o tela mas o jogo fique a ser executado em segundo plano. Desliga automaticamente assim que desbloquear o dispositivo</string>
   <string name="gamebox_hangup_tips_title">Desligar tela</string>
   <string name="gamebox_immersion">Modo imersivo</string>
-  <string name="gamebox_immersion_tips_content">O modo imersivo restringe todas as funcionalidades do cartão SIM excepto dados móveis. Não vai ser interrompido por chamadas ou notificações sobre de chamadas. Todas as funcionalidades vão ser restauradas quando o modo imersivo for desligado. Ligar modo imersivo?</string>
+  <string name="gamebox_immersion_tips_content">O modo imersivo restringe todas as funcionalidades do cartão SIM excepto dados móveis. Não vai ser interrompido por chamadas ou notificações sobre de chamadas. Todas as funcionalidades serão restauradas quando o modo imersivo for desligado. Ligar modo imersivo?</string>
   <string name="gamebox_immersion_tips_title">Atenção</string>
   <string name="gamebox_immerson_open">A ligar o modo imersivo. Não troque de redes…</string>
   <string name="gamebox_milink">Transmitir</string>
@@ -1557,7 +1557,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="old_sdk_deny_warning">A aplicação não é compatível com os requisitos de permissão Android. As permissões negadas podem afectar o funcionamento desta aplicação</string>
   <string name="om_lock_app_locked_app">Bloqueada</string>
   <string name="om_lock_app_unlocked_app">Desbloqueada</string>
-  <string name="om_locked_apps_summary">As aplicativos bloqueadas vão ser ignoradas pelo acelerador</string>
+  <string name="om_locked_apps_summary">As aplicativos bloqueadas serão ignoradas pelo acelerador</string>
   <string name="om_not_finish_speedboost">Acerelador de velocidade necessário</string>
   <string name="om_running_locked_apps">Aplicativos bloqueadas em execução</string>
   <string name="om_running_system_apps">Aplicativos de sistema em execução</string>
@@ -1926,7 +1926,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="privacy_declare_dialog_title">Termos de Serviço</string>
   <string name="privacy_dialog_message">Quando ligar à Internet, esta mensagem assim como os dados da operadora vai ser encriptada e carregada para os servidores Mi para nos ajudar a melhorar a monitorização de utilização de dados</string>
   <string name="privacy_mode_dialog_title">Modo Convidado</string>
-  <string name="privacy_prompt_tc_sms_report_message">O seu número de telefone e detalhes da operadora vão ser encriptados e enviados para os servidores Mi para obter mais informações sobre as opções de compra de dados</string>
+  <string name="privacy_prompt_tc_sms_report_message">O seu número de telefone e detalhes da operadora serão encriptados e enviados para os servidores Mi para obter mais informações sobre as opções de compra de dados</string>
   <string name="privacy_prompt_traffic_adjust_message">Esta funcionalidade necessita de encriptar e enviar o IMEI, número de telefone e dados da operadora para os servidores Mi para conseguir receber as estatísticas de utilização de dados da sua operadora</string>
   <string name="privacy_prompt_upload">Enviar</string>
   <string name="process_mediaserver_label">Servidor de mídias</string>
@@ -1977,9 +1977,9 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="report_only">Escolher uma mensagem para reportar</string>
   <string name="report_sms">Reportar mensagens</string>
   <string name="report_success">Mensagem reportada</string>
-  <string name="report_warning">Reportar %1$s mensagens para a Mi? As mensagens e os números de telefone vão ser enviados para o servidor Mi. As informações pessoais associadas a estas mensagens manter-se-ão anónimas</string>
+  <string name="report_warning">Reportar %1$s mensagens para a Mi? As mensagens e os números de telefone serão enviados para o servidor Mi. As informações pessoais associadas a estas mensagens manter-se-ão anónimas</string>
   <string name="report_warning_title">Atenção</string>
-  <string name="reset_data_dialog_message">Este dispositivo não está associado com a sua Conta Mi. Não é possível restaurar ou repor a palavra-passe. Faça cópia de todos os seus itens e faça uma reposição de fábrica. Todos os dados vão ser eliminados permanentemente e o seu cartão SD vai ser formatado</string>
+  <string name="reset_data_dialog_message">Este dispositivo não está associado com a sua Conta Mi. Não é possível restaurar ou repor a palavra-passe. Faça cópia de todos os seus itens e faça uma reposição de fábrica. Todos os dados serão excluídos permanentemente e o seu cartão SD vai ser formatado</string>
   <string name="reset_data_dialog_ok">Reposição de fábrica</string>
   <string name="reset_data_title">Não é possível restaurar palavra-passe</string>
   <string name="result_autoscan_header">Monitorização de pagamentos</string>
@@ -2042,7 +2042,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="security_scan_optimizing">A optimizar…</string>
   <string name="securityadd_install_fail">Não foi possível actualizar o plugin. Tente novamente</string>
   <string name="securityadd_update_tips_cancle">Agora não</string>
-  <string name="securityadd_update_tips_message">Actualize o plugin do serviço de Segurança para ter acesso às últimas funcionalidades. %1$dMB vão ser transferidos</string>
+  <string name="securityadd_update_tips_message">Actualize o plugin do serviço de Segurança para ter acesso às últimas funcionalidades. %1$dMB serão transferidos</string>
   <string name="securityadd_update_tips_now">Actualizar</string>
   <string name="securityadd_update_tips_title">Actualizar</string>
   <string name="securitycenter_tab_title">Segurança</string>
@@ -2080,7 +2080,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="sim_not_ready_toast">O cartão SIM não está preparado</string>
   <string name="sim_state_exception_summary">O estado do cartão SIM indica que pode existir algum problema com o seu cartão SIM</string>
   <string name="sip_phone">Telefone SIP</string>
-  <string name="skin_change_close_toast">As alterações vão ser aplicadas da próxima vez que executar a Segurança</string>
+  <string name="skin_change_close_toast">As alterações serão aplicadas da próxima vez que executar a Segurança</string>
   <string name="sms_address">Lista de bloqueio de áreas</string>
   <string name="sms_blacklist">Lista de bloqueio de SMS</string>
   <string name="sms_cloud_block">Lista de bloqueio da Cloud</string>
@@ -2179,12 +2179,12 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="st_call_settings">Lista de bloqueio de chamadas</string>
   <string name="st_call_stranger_group">Bloquear chamadas de desconhecidos</string>
   <string name="st_confirm_dialog_btn_open">Abrir</string>
-  <string name="st_confirm_dialog_summary_contact_call">Todas as chamadas de contatos vão ser bloqueadas</string>
+  <string name="st_confirm_dialog_summary_contact_call">Todas as chamadas de contatos serão bloqueadas</string>
   <string name="st_confirm_dialog_summary_oversea_call">Ligar para bloquear todas as chamadas recebidas do estrangeiro</string>
   <string name="st_confirm_dialog_summary_stranger_call">Todas as chamadas de desconhecidos bloqueadas</string>
-  <string name="st_filter_keywords_setting_summary1">As mensagens enviadas por números desconhecidos que contêm palavras-chave vão ser bloqueadas</string>
+  <string name="st_filter_keywords_setting_summary1">As mensagens enviadas por números desconhecidos que contêm palavras-chave serão bloqueadas</string>
   <string name="st_filter_keywords_setting_summary2">(Utilize uma vírgula para separar múltiplas palavras)</string>
-  <string name="st_filter_keywords_setting_summary3">Mensagens de números desconhecidos que contenham as palavras nesta lista vão ser permitidas</string>
+  <string name="st_filter_keywords_setting_summary3">Mensagens de números desconhecidos que contenham as palavras nesta lista serão permitidas</string>
   <string name="st_group_list_management">Gerir lista de bloqueio</string>
   <string name="st_hint_add_head_number">Introduzir prefixo</string>
   <string name="st_hint_add_phonenumber">Introduzir número telefone</string>

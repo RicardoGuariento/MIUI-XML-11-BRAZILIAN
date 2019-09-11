@@ -45,7 +45,7 @@
   <string name="db_downgrade_clear_date_reminder">Para trocar para uma versão diferente de MIUI é necessário limpar os dados da aplicação Notas. Antes de fazer isso, certifique-se que fez uma cópia das suas notas para a Xiaomi Cloud</string>
   <string name="default_folder_name">Pasta sem nome</string>
   <string name="delete_folder_dialog_tile">excluir pasta</string>
-  <string name="dialog_privacy_revoke_tips">Após revogar a autorização, o aplicativo vai parar de reunir dados e todos os dados relacionados vão ser eliminados. Revogar autorização mesmo assim?</string>
+  <string name="dialog_privacy_revoke_tips">Após revogar a autorização, o aplicativo vai parar de reunir dados e todos os dados relacionados serão excluídos. Revogar autorização mesmo assim?</string>
   <string name="dialog_share_as_pic">Compartilhar nota como imagem</string>
   <string name="dialog_share_as_text">Compartilhar nota como texto</string>
   <string name="dialog_share_title">Compartilhar nota</string>
@@ -295,7 +295,7 @@ Dê permissão a Notas para gravar áudio"</string>
   <string name="toolbar_undo_description">Anular</string>
   <string name="toolbar_voice_description">Voz</string>
   <string name="trash_folder_name">Lixo</string>
-  <string name="trash_folder_reminder">As notas que excluir vão ser eliminadas de vez em 30 dias</string>
+  <string name="trash_folder_reminder">As notas que excluir serão eliminadas de vez em 30 dias</string>
   <string name="unclassfied_folder_name">Sem categoria</string>
   <string name="undo">Anular</string>
   <string name="unknown_source">Fonte desconhecida</string>

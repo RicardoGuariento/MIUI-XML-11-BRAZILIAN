@@ -21,11 +21,11 @@
   <string name="config_mode_title">Configurações de segundo plano</string>
   <string name="config_no_restrict_description">A poupança de bateria não vai restringir a actividade os aplicativos</string>
   <string name="config_no_restrict_title">Sem restrições</string>
-  <string name="config_restrict_function_description">Algumas funcionalidades (p.e. notificações) podem ser afectadas, mas as aplicativos não vão ser fechadas</string>
+  <string name="config_restrict_function_description">Algumas funcionalidades (p.e. notificações) podem ser afectadas, mas as aplicativos não serão fechadas</string>
   <string name="config_restrict_function_title">Restringir aplicativos em segundo plano</string>
-  <string name="config_restrict_running_description">Aplicativos vão ser fechadas para poupar bateria</string>
+  <string name="config_restrict_running_description">Aplicativos serão fechadas para poupar bateria</string>
   <string name="config_restrict_running_title">Restringir actividade em segundo plano</string>
-  <string name="config_restrict_running_warning">As aplicativos vão ser fechadas quando estiverem em segundo plano. Podem não funcionar correctamente</string>
+  <string name="config_restrict_running_warning">As aplicativos serão fechadas quando estiverem em segundo plano. Podem não funcionar correctamente</string>
   <string name="config_scenario_policies_title">Cenários</string>
   <string name="config_suggest_description">"Identifica aplicativos e atividades para manter os processos importantes em execução.
 A poupança de bateria vai monitorar as aplicativos mais importantes selectivamente"</string>
@@ -40,10 +40,10 @@ A poupança de bateria vai monitorar as aplicativos mais importantes selectivame
   <string name="extreme_power_config_mode_desc">Altera para o modo poupança de bateria extrema para desligar a sincronização, Bluetooth, GPS, NFC e a luz dos botões e notificações</string>
   <string name="extreme_power_config_mode_title">Poupança de bateria extrema</string>
   <string name="failure">Erro</string>
-  <string name="hide_mode_desc">&lt;font color="#000000"&gt;Quando uma aplicação estiver em execução em segundo plano, as suas atividades vão ser monitorizadas para reduzir a utilização de bateria. Esta funcionalidade vai obter e utilizar os dados de usuário segundo %s&lt;/font&gt;</string>
+  <string name="hide_mode_desc">&lt;font color="#000000"&gt;Quando uma aplicação estiver em execução em segundo plano, as suas atividades serão monitorizadas para reduzir a utilização de bateria. Esta funcionalidade vai obter e utilizar os dados de usuário segundo %s&lt;/font&gt;</string>
   <string name="hide_system_app">Ocultar aplicativos de sistema</string>
   <string name="high_temp_state">Sobreaquecimento</string>
-  <string name="high_temp_state_message">Com temperaturas elevadas o PA Móvel, GPS e câmara vão ser restringidos</string>
+  <string name="high_temp_state_message">Com temperaturas elevadas o PA Móvel, GPS e câmara serão restringidos</string>
   <string name="hints_loading_text">Aguarde…</string>
   <string name="important_warning">Atenção</string>
   <string name="lasttime_applist_cloud">Aplicativos actualizadas:</string>
@@ -87,7 +87,7 @@ A poupança de bateria vai monitorar as aplicativos mais importantes selectivame
   <string name="sleep_config_enhance_title">Modo Inactivo</string>
   <string name="sleepmode_disclaimer_agree">Concordar</string>
   <string name="sleepmode_disclaimer_cancel">Cancelar</string>
-  <string name="sleepmode_privacy_content">"Esta funcionalidade vai utilizar os seus dados que não vão ser carregados para o servidor. "</string>
+  <string name="sleepmode_privacy_content">"Esta funcionalidade vai utilizar os seus dados que não serão carregados para o servidor. "</string>
   <string name="sleepmode_privacy_link">Saiba mais sobre da segurança e privacidade</string>
   <string name="sleepmode_privacy_title">Modo Inactivo</string>
   <string name="sucess">Concluído</string>

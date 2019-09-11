@@ -35,7 +35,7 @@
   <string name="add_xiaomi_account_dialog_btn">Utilizar Conta Mi</string>
   <string name="add_xiaomi_account_dialog_msg">Faça cópia dos seus contatos para a sua Conta Mi para acessar mesmos em qualquer lugar!</string>
   <string name="add_xiaomi_account_dialog_title">Escolher conta</string>
-  <string name="aggregation_suggestion_edit_dialog_message">Alterar o contacto seleccionado? As informações que inseriu até agora vão ser copiadas</string>
+  <string name="aggregation_suggestion_edit_dialog_message">Alterar o contacto seleccionado? As informações que inseriu até agora serão copiadas</string>
   <string name="aggregation_suggestion_edit_dialog_title">Mesmo nome</string>
   <string name="aggregation_suggestion_join_dialog_message">Associar o contacto actual ao contacto seleccionado?</string>
   <string name="all_list_empty">Sem contatos</string>
@@ -164,7 +164,7 @@
   <string name="chat_skype">Conversar utilizando Skype</string>
   <string name="chat_yahoo">Conversar utilizando Yahoo</string>
   <string name="checkhint">Verifique o dispositivo de destino</string>
-  <string name="clearCallLogConfirmation">Todos os seus registos de chamadas vão ser eliminados</string>
+  <string name="clearCallLogConfirmation">Todos os seus registos de chamadas serão excluídos</string>
   <string name="clearCallLogConfirmation_title">excluir todos os registos de chamadas</string>
   <string name="clearCallLogProgress_title">A excluir registo de chamadas</string>
   <string name="clearFrequentsConfirmation">excluir a lista de contatos frequentes em Contatos e Telefone vai forçar as aplicativos de email a salvar as suas preferências de endereços novamente</string>
@@ -207,7 +207,7 @@
   <string name="contactSavedErrorToast">Não foi possível salvar as alterações do contacto</string>
   <string name="contactSavedToast">Contacto guardado</string>
   <string name="contact_clear_search_history">excluir histórico</string>
-  <string name="contact_delete_toast">Contacto eliminado</string>
+  <string name="contact_delete_toast">Contacto excluído</string>
   <string name="contact_detail_action_item_calllog">Chamadas</string>
   <string name="contact_detail_action_item_nocalllog">Sem chamadas</string>
   <string name="contact_detail_calllog_call_note_tips">Notas</string>
@@ -253,7 +253,7 @@
   <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
   <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
   <string name="contact_import_methods_dialog_title">Seleccionar método de importação</string>
-  <string name="contact_is_deleted">Este contacto foi eliminado</string>
+  <string name="contact_is_deleted">Este contacto foi excluído</string>
   <string name="contact_is_readOnly">Não é possível editar contatos só de leitura</string>
   <string name="contact_list_loading">A carregar…</string>
   <string name="contact_pick_photo">Foto</string>
@@ -293,7 +293,7 @@
   <string name="date_time_set">Definir</string>
   <string name="date_year_toggle">Introduzir um ano</string>
   <string name="default_ringtone">Toque predefinido</string>
-  <string name="deleteConfirmation">Este contacto vai ser eliminado</string>
+  <string name="deleteConfirmation">Este contacto vai ser excluído</string>
   <string name="deleteConfirmationDetail">excluir \"%s\"?</string>
   <string name="deleteConfirmation_title">excluir</string>
   <string name="delete_call_log_message">excluir registo de chamadas?</string>
@@ -303,10 +303,10 @@
   <string name="delete_dial_input">excluir</string>
   <string name="delete_duplicate">Unir</string>
   <string name="delete_duplicate_message">"A unir contatos… "</string>
-  <string name="delete_group_dialog_message">excluir o grupo \"%1$s\"? Os contatos não vão ser eliminados</string>
+  <string name="delete_group_dialog_message">excluir o grupo \"%1$s\"? Os contatos não serão excluídos</string>
   <string name="delete_group_dialog_title">excluir grupo</string>
   <string name="delete_selected_sim_entry_miui">excluir contatos selecionados</string>
-  <string name="delete_sim_entries_finish">Contatos do cartão SIM eliminados</string>
+  <string name="delete_sim_entries_finish">Contatos do cartão SIM excluídos</string>
   <string name="delete_sim_entry_miui">excluir</string>
   <string name="delete_unknown_contact_calllog_title">excluir registo de chamadas?</string>
   <string name="deleting_sim_entry_miui">A excluir contatos do cartão SIM…</string>
@@ -498,7 +498,7 @@ Motivo: \"%s\""</string>
   <string name="group_add_fail_toast">Erro ao adicionar destinatários</string>
   <string name="group_create_fail_toast">Não foi possível criar o grupo</string>
   <string name="group_create_success_toast">Grupo criado</string>
-  <string name="group_delete_success_toast">Grupo eliminado</string>
+  <string name="group_delete_success_toast">Grupo excluído</string>
   <string name="group_detail_label_placeholder"> </string>
   <string name="group_edit_field_hint_text">Nome do grupo</string>
   <string name="group_member_remove_fail_toast">Não removido do grupo</string>
@@ -702,7 +702,7 @@ Motivo: \"%s\""</string>
   <string name="miprofile_request_agreed">%1$s aceitou trocar cartões de contacto</string>
   <string name="miprofile_request_alertdialog_message">O seu cartão vai ser enviado automaticamente assim que esta pessoa aceitar</string>
   <string name="miprofile_request_alertdialog_title">Trocar cartões de contacto</string>
-  <string name="miprofile_request_deleted_or_not_added">Cartão eliminado ou não adicionado</string>
+  <string name="miprofile_request_deleted_or_not_added">Cartão excluído ou não adicionado</string>
   <string name="miprofile_request_empty_request">Sem pedidos de troca</string>
   <string name="miprofile_request_header">Trocar pedidos (expira automaticamente numa semana)</string>
   <string name="miprofile_request_menu_clear_request">Limpar histórico</string>
@@ -926,7 +926,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="profileSavedErrorToast">Não foi possível salvar as alterações do meu perfil</string>
   <string name="profileSavedToast">Perfil guardado</string>
   <string name="profile_binded_numbers">%s</string>
-  <string name="profile_delete_toast">Perfil eliminado</string>
+  <string name="profile_delete_toast">Perfil excluído</string>
   <string name="profile_display_name">Configurar o meu perfil</string>
   <string name="profile_name">O meu perfil</string>
   <string name="profile_name_photo">Foto</string>
@@ -944,7 +944,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="quickcontact_missing_app">Não foi encontrada nenhuma aplicação para efectuar esta acção</string>
   <string name="quit_dialog_confirm_message">Não uniu nenhum contacto</string>
   <string name="quit_dialog_confirm_title">Cancelar união de contatos</string>
-  <string name="readOnlyContactDeleteConfirmation">O contacto a ser eliminado tem detalhes de várias contas. Os detalhes das contas só de leitura ficam ocultos mas não são eliminados</string>
+  <string name="readOnlyContactDeleteConfirmation">O contacto a ser excluído tem detalhes de várias contas. Os detalhes das contas só de leitura ficam ocultos mas não são excluídos</string>
   <string name="readOnlyContactWarning">Não pode excluir contatos de contas só de leitura, mas pode ocultá-los da sua lista de contatos</string>
   <string name="readingSimContacts">A ler cartão SIM…</string>
   <string name="reading_vcard_canceled_title">A leitura do vCard foi cancelada</string>

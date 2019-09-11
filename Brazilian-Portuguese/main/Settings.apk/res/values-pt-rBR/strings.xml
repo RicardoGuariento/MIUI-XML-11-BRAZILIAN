@@ -287,7 +287,7 @@ O seu Administrador pode monitorar e gerir configurações, acessos, aplicativos
   <string name="app_disable_notifications_dlg_text">Se desligar as notificações para esta aplicação pode perder alertas e actualizações importantes</string>
   <string name="app_disable_notifications_dlg_title">Desligar notificações?</string>
   <string name="app_factory_reset">Desinstalar actualizações</string>
-  <string name="app_factory_reset_dlg_text">Todas as actualizações desta aplicação vão ser desinstaladas</string>
+  <string name="app_factory_reset_dlg_text">Todas as actualizações desta aplicação serão desinstaladas</string>
   <string name="app_factory_reset_dlg_title">Desinstalar actualizações?</string>
   <string name="app_floating_window_dlg_disable">Desligar configurações de janela flutuante de %1$s requer que o aplicativo reinicie</string>
   <string name="app_floating_window_dlg_enable">Ligar configurações de janela flutuante de %1$s requer que o aplicativo reinicie</string>
@@ -338,7 +338,7 @@ O seu Administrador pode monitorar e gerir configurações, acessos, aplicativos
   <string name="app_sees_restricted_accounts">Este aplicativo pode acessar às suas contas</string>
   <string name="app_sees_restricted_accounts_and_controlled_by">Este aplicativo pode acessar às suas contas. Controlado por %1$s</string>
   <string name="app_settings_link">Configurações adicionais na aplicação</string>
-  <string name="app_special_disable_dlg_text">Se desactivar esta aplicação, outras aplicativos podem não funcionar como pretendido. Os seus dados também vão ser eliminados</string>
+  <string name="app_special_disable_dlg_text">Se desactivar esta aplicação, outras aplicativos podem não funcionar como pretendido. Os seus dados também serão excluídos</string>
   <string name="app_special_disable_dlg_title">excluir dados e desactivar aplicação?</string>
   <string name="app_switch_key">Recentes</string>
   <string name="app_usage_preference">Preferências de utilização da aplicação</string>
@@ -415,7 +415,7 @@ O seu Administrador pode monitorar e gerir configurações, acessos, aplicativos
   <string name="auto_disable_screenbuttons_auto">Desactivar sempre</string>
   <string name="auto_disable_screenbuttons_cancel">Cancelar</string>
   <string name="auto_disable_screenbuttons_no">Nunca desactivar</string>
-  <string name="auto_disable_screenbuttons_rotation_summary">Quando o dispositivo estiver no modo paisagem, os botões de navegação vão ser desactivos</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">Quando o dispositivo estiver no modo paisagem, os botões de navegação serão desactivos</string>
   <string name="auto_disable_screenbuttons_rotation_title">Bloquear os nbotõpes de navegação no modo paisagem</string>
   <string name="auto_disable_screenbuttons_summary">Desactivar botões de navegação automaticamente ao utilizar as aplicativos selecionadas. Duplo toque em qualquer botão de navegação para reactivar</string>
   <string name="auto_disable_screenbuttons_title">Desactivar botões de navegação automaticamente</string>
@@ -494,7 +494,7 @@ O seu Administrador pode monitorar e gerir configurações, acessos, aplicativos
   <string name="backup_set_new_continue">Continuar</string>
   <string name="backup_set_new_exit">Sair</string>
   <string name="backup_set_new_pw_confirm_hint">Atenção</string>
-  <string name="backup_set_new_pw_confirm_summary">Os seus itens vão ser copiados automaticamente agora. Criar uma palavra-passe para as cópias vai parar as cópias automáticas. Continuar mesmo assim?</string>
+  <string name="backup_set_new_pw_confirm_summary">Os seus itens serão copiados automaticamente agora. Criar uma palavra-passe para as cópias vai parar as cópias automáticas. Continuar mesmo assim?</string>
   <string name="backup_set_new_pw_title">Introduzir a nova palavra-passe da cópia</string>
   <string name="backup_set_null_pw">Introduzir a palavra-passe primeiro</string>
   <string name="backup_set_pw_confirm_title">Confirmar a nova palavra-passe da cópia</string>
@@ -1067,7 +1067,7 @@ Esta funcionalidade pode ser desligada nas [Settings]"</string>
   <string name="clear_activities_summary">Utilizar esta aplicação para algumas operações predefinidas</string>
   <string name="clear_adb_keys">Revogar autorizações de depuração USB</string>
   <string name="clear_cache_btn_text">Limpar cache</string>
-  <string name="clear_data_dlg_text">Todos os dados desta aplicação vão ser eliminados definitivamente. Isto inclui todos os arquivos, configurações, contas, bases de dados, etc.</string>
+  <string name="clear_data_dlg_text">Todos os dados desta aplicação serão excluídos definitivamente. Isto inclui todos os arquivos, configurações, contas, bases de dados, etc.</string>
   <string name="clear_data_dlg_title">excluir dados da aplicação</string>
   <string name="clear_data_failed">Não foi possível limpar dados da aplicação</string>
   <string name="clear_failed_dlg_text">Erro ao limpar os dados da aplicação</string>
@@ -1085,7 +1085,7 @@ Esta funcionalidade pode ser desligada nas [Settings]"</string>
   <string name="cloud_restore_section_summary">Restaurar aplicativos, disposição do tela inicial e as configurações de sistema</string>
   <string name="cloud_restore_section_title">Restaurar da Xiaomi Cloud</string>
   <string name="close_miui_optimization_title">Desligar optimização MIUI</string>
-  <string name="close_optimization_message">O tamanho do tipo de letra, contas e outras partes da MIUI vão ser afectadas se desligar esta funcionalidade</string>
+  <string name="close_optimization_message">O tamanho do tipo de letra, contas e outras partes da MIUI serão afectadas se desligar esta funcionalidade</string>
   <string name="close_optimization_option">Desligar</string>
   <string name="close_privacy_thumbnail_blur_title">As pré-visualizações não estão desfocadas</string>
   <string name="cmcc_hardware_version">Versão de hardware</string>
@@ -1165,17 +1165,17 @@ Esta funcionalidade pode ser desligada nas [Settings]"</string>
   <string name="credential_storage_type_software">Apenas software</string>
   <string name="credentials_configure_lock_screen_hint">Tem que definir um PIN para o bloqueio de tela ou palavra-passe antes de efectuar o armazenamento de credenciais</string>
   <string name="credentials_enabled">O armazenamento de credenciais está ativado</string>
-  <string name="credentials_erased">O armazenamento de credenciais foi eliminado</string>
+  <string name="credentials_erased">O armazenamento de credenciais foi excluído</string>
   <string name="credentials_install">Instalar do armazenamento</string>
   <string name="credentials_install_summary">Instalar certificados a partir do armazenamento</string>
-  <string name="credentials_not_erased">O armazenamento da credencial não pode ser eliminado</string>
+  <string name="credentials_not_erased">O armazenamento da credencial não pode ser excluído</string>
   <string name="credentials_old_password">Palavra-passe actual</string>
   <string name="credentials_password_too_short">Mínimo de 8 caracteres</string>
   <string name="credentials_reset">Limpar credenciais</string>
   <string name="credentials_reset_hint">Remover todo o conteúdo?</string>
   <string name="credentials_reset_summary">Remover todos os certificados</string>
-  <string name="credentials_reset_warning">Palavra-passe incorrecta. Tem mais uma tentativa antes que o armazenamento de credenciais seja eliminado</string>
-  <string name="credentials_reset_warning_plural">Insira a palavra-passe. Tem mais %1$d tentativas para inserir a palavra-passe correcta antes que o armazenamento de credenciais seja eliminado</string>
+  <string name="credentials_reset_warning">Palavra-passe incorrecta. Tem mais uma tentativa antes que o armazenamento de credenciais seja excluído</string>
+  <string name="credentials_reset_warning_plural">Insira a palavra-passe. Tem mais %1$d tentativas para inserir a palavra-passe correcta antes que o armazenamento de credenciais seja excluído</string>
   <string name="credentials_settings_not_available">As credenciais não estão disponíveis para este usuário</string>
   <string name="credentials_title">Armazenamento de credenciais</string>
   <string name="credentials_title_verification">Verificação</string>
@@ -1531,7 +1531,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="display_vr_pref_title">Quando o dispositivo está na RV</string>
   <string name="dlg_cancel">Cancelar</string>
   <string name="dlg_close">Fechar</string>
-  <string name="dlg_confirm_unmount_text">Se desmontar o armazenamento USB, algumas aplicativos que estão em utilização vão ser interrompidas e podem não estar disponíveis até ligar novamente o armazenamento USB</string>
+  <string name="dlg_confirm_unmount_text">Se desmontar o armazenamento USB, algumas aplicativos que estão em utilização serão interrompidas e podem não estar disponíveis até ligar novamente o armazenamento USB</string>
   <string name="dlg_confirm_unmount_title">Desmontar armazenamento USB?</string>
   <string name="dlg_error_unmount_text">Não é possível desmontar o armazenamento USB. Tente novamente mais tarde</string>
   <string name="dlg_ok">OK</string>
@@ -1553,7 +1553,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="dndm_auto_time_turn_on">De</string>
   <string name="dndm_auto_time_turn_on_title">Ligar automaticamente Não incomodar</string>
   <string name="dndm_dlg_remove_ok">Remover</string>
-  <string name="dndm_dlg_remove_vip">Chamadas desta pessoa vão ser silenciadas quando Não incomodar estiver ligado</string>
+  <string name="dndm_dlg_remove_vip">Chamadas desta pessoa serão silenciadas quando Não incomodar estiver ligado</string>
   <string name="dndm_menu_add_vip_custom">Adicionar</string>
   <string name="dndm_mute_all">Silenciar chamadas e mensagens</string>
   <string name="dndm_notification">Não incomodar está ligado</string>
@@ -1562,7 +1562,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="dndm_repeated_call_summary_3min">Tocar quando receber uma chamada do mesmo número num espaço de três minutos</string>
   <string name="dndm_repeated_call_summary_none">Silenciar chamadas repetidas do mesmo número</string>
   <string name="dndm_special_call_setting_group">Excepções</string>
-  <string name="dndm_summary">Chamadas e notificações que chegarem enquanto Não incomodar estiver ligado vão ser silenciadas</string>
+  <string name="dndm_summary">Chamadas e notificações que chegarem enquanto Não incomodar estiver ligado serão silenciadas</string>
   <string name="dndm_vip_call_button_title">Permitir chamadas das excepções</string>
   <string name="dndm_vip_call_setting_detal">Aceitar sempre chamadas das excepções</string>
   <string name="dndm_vip_call_setting_title">Excepções</string>
@@ -1818,7 +1818,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="fcc_equipment_id">ID do equipamento</string>
   <string name="feedback">Comentários</string>
   <string name="feedback_settings">Comentários</string>
-  <string name="file_privacy_password_role_instruction">Os seus arquivos privados vão ser armazenados aqui</string>
+  <string name="file_privacy_password_role_instruction">Os seus arquivos privados serão armazenados aqui</string>
   <string name="filter">Filtro</string>
   <string name="filter_all_apps">Todas as aplicativos</string>
   <string name="filter_apps_all">Todas</string>
@@ -1990,7 +1990,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="free_xiaomi_wifi_connect_summary">Toque para ligar a %1$s</string>
   <string name="frequently_fragment_delete">Remover</string>
-  <string name="frequently_fragment_tempty">Itens utilizados com frequência vão ser mostrados aqui</string>
+  <string name="frequently_fragment_tempty">Itens utilizados com frequência serão mostrados aqui</string>
   <string name="fsg_mistake_touch_summary">Em alguns casos, como jogos e vídeos de tela inteiro, os gestos têm que ser duplos para fazerem efeito</string>
   <string name="fsg_mistake_touch_title">Dupla verificação para gestos</string>
   <string name="full_screen_display">Modo tela inteiro</string>
@@ -2019,7 +2019,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e os 
   <string name="gadget_toggle_bluetooth">A actualizar a configurações de Bluetooth</string>
   <string name="gadget_toggle_wifi">A actualizar as configurações de Wi-Fi</string>
   <string name="gadget_wifi">Wi-Fi</string>
-  <string name="gallery_privacy_password_role_instruction">As suas fotos privadas vão ser armazenadas aqui</string>
+  <string name="gallery_privacy_password_role_instruction">As suas fotos privadas serão armazenadas aqui</string>
   <string name="game_booster">Jogo;Jogos;Turbo;Modo jogo</string>
   <string name="game_booster_title">Game Turbo</string>
   <string name="game_controller_settings_category">Controlador de jogo</string>
@@ -2610,7 +2610,7 @@ Está actualmente com sessão iniciada nas seguintes contas:
 "</string>
   <string name="master_clear_all">excluir toda a sua informação do armazenamento interno do seu telefone? Não pode reverter esta acção!</string>
   <string name="master_clear_apply_step_1"><b>A "Reposição de configurações de fábrica" vai excluir todos os dados do seu telefone</b> incluindo fotos, músicas, notas e outros dados pessoais. Certifique-se que faz uma cópia dos seus dados para o computador</string>
-  <string name="master_clear_apply_step_2">Certifique-se que tem uma cópia dos seus dados no computador. Todos os dados neste dispositivo vão ser eliminados durante a reposição. <b>Não vai poder restaurar os itens que não fez cópia</b></string>
+  <string name="master_clear_apply_step_2">Certifique-se que tem uma cópia dos seus dados no computador. Todos os dados neste dispositivo serão excluídos durante a reposição. <b>Não vai poder restaurar os itens que não fez cópia</b></string>
   <string name="master_clear_apply_title">Atenção</string>
   <string name="master_clear_button_text">Repor telefone</string>
   <string name="master_clear_confirm_title">Repor telefone</string>
@@ -2624,7 +2624,7 @@ Está actualmente com sessão iniciada nas seguintes contas:
 <li>Outros dados do usuário</li></string>
   <string name="master_clear_desc_erase_external_storage">"
 
-Para excluir músicas, imagens e outros dados de usuário, o <b>armazenamento USB</b> tem de ser eliminado"</string>
+Para excluir músicas, imagens e outros dados de usuário, o <b>armazenamento USB</b> tem de ser excluído"</string>
   <string name="master_clear_erase_application_progress">A excluir aplicativos…</string>
   <string name="master_clear_failed">Nenhum restauro foi executado porque o serviço System Clear não está disponível</string>
   <string name="master_clear_final_button_text">excluir tudo</string>
@@ -2834,7 +2834,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_userguide">Guia do usuário</string>
   <string name="mms_breathing_light_color_title">Cor do LED das mensagens</string>
   <string name="mms_breathing_light_freq_title">Frequência da luz do LED das mensagens</string>
-  <string name="mms_privacy_password_role_instruction">As suas conversas com contatos privados vão ser armazenadas aqui</string>
+  <string name="mms_privacy_password_role_instruction">As suas conversas com contatos privados serão armazenadas aqui</string>
   <string name="mobile_connect_to_internet">Ligue-se à Internet</string>
   <string name="mobile_data_always_on">Dados móveis sempre activados</string>
   <string name="mobile_data_always_on_summary">Manter sempre os dados móveis activados, mesmo quando o Wi-Fi estiver ativado (para mudança de rede rápida)</string>
@@ -3062,9 +3062,9 @@ Selecione o seu sistema operativo:"</string>
   <string name="night_light">Modo Noite</string>
   <string name="night_light_brightness">Brilho do Modo Noite</string>
   <string name="night_light_color">Temperatura de cor do Modo Noite</string>
-  <string name="night_light_color_tip">As alterações vão ser efectuadas assim que desligar o Modo de Leitura</string>
+  <string name="night_light_color_tip">As alterações serão efectuadas assim que desligar o Modo de Leitura</string>
   <string name="night_light_summary">Para ligar o Modo Noite, minimize o brilho do tela em condições de pouca luz</string>
-  <string name="night_light_tip">As alterações vão ser efectuadas assim quando ligar o Modo Noite</string>
+  <string name="night_light_tip">As alterações serão efectuadas assim quando ligar o Modo Noite</string>
   <string name="no">Não</string>
   <string name="no_application">Nenhuma</string>
   <string name="no_applications">Não existem aplicativos</string>
@@ -3104,7 +3104,7 @@ Selecione o seu sistema operativo:"</string>
   <string name="notch_style_show">Não ocultar</string>
   <string name="notch_style_status_bar_inside">Ocultar sem mover a barra de estado</string>
   <string name="notch_style_status_bar_outside">Ocultar e mover a barra de estado</string>
-  <string name="notes_privacy_password_role_instruction">As suas notas privadas vão ser armazenadas aqui</string>
+  <string name="notes_privacy_password_role_instruction">As suas notas privadas serão armazenadas aqui</string>
   <string name="notifi_channels">Categorias de notificações</string>
   <string name="notifi_channels_other">Outras</string>
   <string name="notifi_importance_default">Emitir som</string>
@@ -3209,7 +3209,7 @@ Selecione o seu sistema operativo:"</string>
   <string name="onekey_migrate">Mi Mover</string>
   <string name="onscreen_keyboard_settings_summary">Configurações de teclado</string>
   <string name="open_demo_mode">Ligar</string>
-  <string name="open_demo_mode_warning_message">Quando o modo Demo estiver ligado, o relógio na barra de estado vai parar e a bateria e indicador de rede vão ser mostrados no máximo. Pode desligar o modo Demo ou reiniciar o dispositivo para alterar isto</string>
+  <string name="open_demo_mode_warning_message">Quando o modo Demo estiver ligado, o relógio na barra de estado vai parar e a bateria e indicador de rede serão mostrados no máximo. Pode desligar o modo Demo ou reiniciar o dispositivo para alterar isto</string>
   <string name="open_miui_optimization_title">Ligar optimização MIUI</string>
   <string name="open_optimization_message">Ligar optimização para disfrutar duma rápida e suave UI</string>
   <string name="open_optimization_option">Ligar</string>
@@ -3275,8 +3275,8 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="page_layout_8">Vida Mi</string>
   <string name="page_layout_9">Temas</string>
   <string name="page_layout_confirm_message">O seu dispositivo tem de reiniciar para aplicar estas alterações. Leva cerca de 1 minuto</string>
-  <string name="page_layout_confirm_message_enlarge">O texto, imagens e ícones vão ser aumentados. Alguns ícones podem mudar de lugar</string>
-  <string name="page_layout_confirm_message_narrow">O texto, imagens e ícones vão ser diminuídos. Alguns ícones podem mudar de lugar</string>
+  <string name="page_layout_confirm_message_enlarge">O texto, imagens e ícones serão aumentados. Alguns ícones podem mudar de lugar</string>
+  <string name="page_layout_confirm_message_narrow">O texto, imagens e ícones serão diminuídos. Alguns ícones podem mudar de lugar</string>
   <string name="page_layout_confirm_title">Alterar configurações de tela</string>
   <string name="page_layout_confirm_title_enlarge">Items maiores</string>
   <string name="page_layout_confirm_title_narrow">Itens menores</string>
@@ -3439,7 +3439,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="preferred_app_settings_not_selected">Não seleccionado</string>
   <string name="preferred_app_settings_reset">Repor predefinições</string>
   <string name="preferred_app_settings_reset_button">Repor</string>
-  <string name="preferred_app_settings_reset_message">Todas as aplicativos vão ser repostas para as configurações de fábrica</string>
+  <string name="preferred_app_settings_reset_message">Todas as aplicativos serão repostas para as configurações de fábrica</string>
   <string name="preferred_application_title">%s predefinido</string>
   <string name="preferred_application_warning_message">Substituir o seu %1$s predefinido pode aumentar o consumo de bateria, reduzir a velocidade e pode colocar em risco o conteúdo do telefone. Utilize %2$s em vez disso</string>
   <string name="preferred_application_warning_replace">Substituir</string>
@@ -3484,8 +3484,8 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="print_settings">Impressão</string>
   <string name="print_settings_summary_no_service">Desligado</string>
   <string name="print_settings_title">Serviços de impressão</string>
-  <string name="priority_storage_app_settings">Os dados de %1$s vão ser guardados em </string>
-  <string name="priority_storage_settings_summary">Se não for detectado nenhum cartão SD, os seus dados vão ser guardados automaticamente no armazenamento interno do seu dispositivo</string>
+  <string name="priority_storage_app_settings">Os dados de %1$s serão guardados em </string>
+  <string name="priority_storage_settings_summary">Se não for detectado nenhum cartão SD, os seus dados serão guardados automaticamente no armazenamento interno do seu dispositivo</string>
   <string name="priority_storage_summary">Escolher onde salvar os seus dados</string>
   <string name="priority_storage_title">Configurações de armazenamento</string>
   <string name="priority_summary">Mostrar notificações no topo da lista</string>
@@ -3497,7 +3497,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="privacy_authorize_network_error">Ligue à rede e tente novamente</string>
   <string name="privacy_authorize_privacy_policy">Política de Privacidade</string>
   <string name="privacy_authorize_revoke">Revogar</string>
-  <string name="privacy_authorize_revoke_dialog_msg">Após revogar a autorização, o aplicativo vai deixar de obter dados e os dados relacionados vão ser eliminados dos servidores. Revogar a autorização mesmo assim?</string>
+  <string name="privacy_authorize_revoke_dialog_msg">Após revogar a autorização, o aplicativo vai deixar de obter dados e os dados relacionados serão excluídos dos servidores. Revogar a autorização mesmo assim?</string>
   <string name="privacy_authorize_revoke_dialog_title">A revogar autorização</string>
   <string name="privacy_authorize_revoke_failed">Não foi possível revogar autorização</string>
   <string name="privacy_authorize_revoke_success">Autorização revogada com sucesso</string>
@@ -3765,7 +3765,7 @@ Não vai perder quaisquer dados os aplicativos"</string>
   <string name="resolver_settings_label">Ordenar</string>
   <string name="restore_default_apn">A restaurar as configurações APN predefinidas</string>
   <string name="restore_default_apn_completed">A reposição das configurações predefinidas do APN foi concluída</string>
-  <string name="restore_device_id_content">As recomendações personalizadas vão ser repostas</string>
+  <string name="restore_device_id_content">As recomendações personalizadas serão repostas</string>
   <string name="restore_device_id_title">Repor ID do dispositivo</string>
   <string name="restore_dialog_content">Repor o ID do dispositivo vai repor as suas recomendações personalizadas</string>
   <string name="restore_dialog_positive">Repor</string>
@@ -3941,7 +3941,7 @@ Para utilizar a fixação na tela:
   <string name="screensaver_settings_when_to_dream">Quando iniciar</string>
   <string name="screenshot">Capturas de tela</string>
   <string name="screenshot_three_gesture">Deslizar três dedos para tirar uma captura de tela</string>
-  <string name="screenshot_three_gesture_summary">Os outros gestos de três dedos vão ser desligados</string>
+  <string name="screenshot_three_gesture_summary">Os outros gestos de três dedos serão desligados</string>
   <string name="sd_card_settings_label">Cartão SD</string>
   <string name="sd_card_storage">Cartão SD</string>
   <string name="sd_eject">Desmontar cartão SD</string>
@@ -4428,7 +4428,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="size_peta_byte">PB</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_label">Ignorar</string>
-  <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música e atalhos não vão ser mostrados na tela de bloqueio</string>
+  <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música e atalhos não serão mostrados na tela de bloqueio</string>
   <string name="skip_step">Ignorar</string>
   <string name="slot_status_title">Informação do IMEI</string>
   <string name="smallwindow_smartcover_title">Capa com janela pequena</string>
@@ -4494,7 +4494,7 @@ Para mais informações contacte o seu administrador"</string>
 Uma credencial de confiança instalada no seu dispositivo está a fazer isto possível"</string>
   <string name="stable_build">" | Stable"</string>
   <string name="standard">Silêncio</string>
-  <string name="standard_info">As chamadas e notificações vão ser silenciadas</string>
+  <string name="standard_info">As chamadas e notificações serão silenciadas</string>
   <string name="start_silent_mode">Ligar modo silêncio</string>
   <string name="starting_android">A iniciar o Android…</string>
   <string name="status_awaiting_tap">Toque numa etiqueta para escrever…</string>
@@ -4577,24 +4577,24 @@ Para utilizar este ^1 com o dispositivo, tem de o configurar primeiro"</string>
   <string name="storage_format_failure">Não foi possível formatar %1$s</string>
   <string name="storage_format_success">%1$s está formatado</string>
   <string name="storage_games">Jogos</string>
-  <string name="storage_internal_forget_confirm">Todas as aplicativos, as fotos e os dados armazenados neste ^1 vão ser eliminados definitivamente</string>
+  <string name="storage_internal_forget_confirm">Todas as aplicativos, as fotos e os dados armazenados neste ^1 serão excluídos definitivamente</string>
   <string name="storage_internal_forget_confirm_title">Esquecer ^1?</string>
   <string name="storage_internal_forget_details">"Para utilizar as aplicativos, as fotos ou os dados incluídos em ^1, insira-o novamente 
 
 Em alternativa, pode optar por esquecer este armazenamento se o mesmo não estiver disponível 
 
-Se optar por esquecê-lo, todos os dados presentes no dispositivo são eliminados permanentemente 
+Se optar por esquecê-lo, todos os dados presentes no dispositivo são excluídos permanentemente 
 
-Pode reinstalar as aplicativos posteriormente, mas os dados armazenados neste dispositivo são eliminados"</string>
+Pode reinstalar as aplicativos posteriormente, mas os dados armazenados neste dispositivo são excluídos"</string>
   <string name="storage_internal_format_details">"Após a formatação, pode utilizar este ^1 noutros dispositivos  
 
-Todos os dados de ^1 são eliminados. Considere fazer uma cópia de segurança primeiro 
+Todos os dados de ^1 são excluídos. Considere fazer uma cópia de segurança primeiro 
 
 "<b>"Fazer uma cópia de segurança das fotos e de outros conteúdos mídias"</b>" 
 Mova os seus arquivos mídias para um armazenamento alternativo neste dispositivo ou transfira-os para um computador com um cabo USB 
 
 "<b>"Fazer uma cópia de segurança os aplicativos"</b>" 
-Todas as aplicativos armazenadas neste ^1 são desinstaladas e os respectivos dados são eliminados. Para manter estas aplicativos, mova-as para um armazenamento alternativo neste dispositivo"</string>
+Todas as aplicativos armazenadas neste ^1 são desinstaladas e os respectivos dados são excluídos. Para manter estas aplicativos, mova-as para um armazenamento alternativo neste dispositivo"</string>
   <string name="storage_internal_title">Armazenamento do dispositivo</string>
   <string name="storage_internal_unmount_details"><b>"Quando ejectar este  ^1, , as aplicativos armazenadas no mesmo deixam de funcionar e os arquivos mídias armazenados deixam de estar disponíveis até voltar a inseri-lo"</b>" 
 
@@ -4916,9 +4916,9 @@ Uma abordagem da Google à sincronização de dados, que permite acessar contato
   <string name="turn_off_keyguard_password_alert_title">Desactivar</string>
   <string name="turn_off_keyguard_password_confirm_msg">Algumas funcionalidades de segurança não vão funcionar sem o seu padrão</string>
   <string name="turn_off_keyguard_password_wait_dialog">A desligar palavra-passe</string>
-  <string name="turn_off_keyguard_password_with_face_confirm_msg">Após desligar a sua palavra-passe de tela de bloqueio, os dados do rosto guardados vão ser eliminados. Não vai poder desbloquear o dispositivo utilizando o seu rosto</string>
+  <string name="turn_off_keyguard_password_with_face_confirm_msg">Após desligar a sua palavra-passe de tela de bloqueio, os dados do rosto guardados serão excluídos. Não vai poder desbloquear o dispositivo utilizando o seu rosto</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Não vai poder utilizar as impressões digitais após desactivar o padrão</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Após desligar a sua palavra-passe de tela de bloqueio, as impressões digitais e dados do rosto guardados vão ser eliminados. Não vai poder desbloquear o dispositivo utilizando a sua impressão digital ou rosto</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Após desligar a sua palavra-passe de tela de bloqueio, as impressões digitais e dados do rosto guardados serão excluídos. Não vai poder desbloquear o dispositivo utilizando a sua impressão digital ou rosto</string>
   <string name="turn_off_radio">Desligar rádio</string>
   <string name="turn_off_security_lock">Desligar bloqueio de tela</string>
   <string name="turn_on_keyguard_password">Activar a palavra-passe do tela de bloqueio</string>
@@ -4942,7 +4942,7 @@ Uma abordagem da Google à sincronização de dados, que permite acessar contato
   <string name="uninstall_protected_dlg_msg">Desinstalar aplicativos de sistema pode fazer com que alguns componentes MIUI deixar de funcionar correctamente. Desinstalar mesmo assim?</string>
   <string name="uninstall_protected_dlg_title">Desinstalar aplicativos de sistema</string>
   <string name="uninstall_text">Desinstalar</string>
-  <string name="uninstall_with_xspace_app_dlg_msg">As aplicativos clonadas correspondentes vão ser eliminadas juntamente com os dados das mesmas</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">As aplicativos clonadas correspondentes serão eliminadas juntamente com os dados das mesmas</string>
   <string name="uninstall_xspace_app_dlg_msg">Desinstalar aplicação clonada vai excluir todos os dados da aplicação</string>
   <string name="uninstall_xspace_app_dlg_title">Desinstalar aplicação clonada?</string>
   <string name="unknown">Desconhecido</string>
@@ -4953,20 +4953,20 @@ Uma abordagem da Google à sincronização de dados, que permite acessar contato
   <string name="unlock_disable_frp_warning_content_password">As funcionalidades de protecção do dispositivo não funcionam sem a palavra-passe</string>
   <string name="unlock_disable_frp_warning_content_password_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem a palavra-passe.
 
-As suas impressões digitais guardadas também vão ser removidas deste dispositivo e não pode desbloquear o telefone, autorizar compras ou iniciar sessão em aplicativos com elas"</string>
+As suas impressões digitais guardadas também serão removidas deste dispositivo e não pode desbloquear o telefone, autorizar compras ou iniciar sessão em aplicativos com elas"</string>
   <string name="unlock_disable_frp_warning_content_pattern">As funcionalidades de protecção do dispositivo não funcionam sem o padrão</string>
   <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem o padrão.
 
-As suas impressões digitais guardadas também vão ser removidas deste dispositivo e não pode desbloquear o telefone, autorizar compras ou iniciar sessão em aplicativos com elas"</string>
+As suas impressões digitais guardadas também serão removidas deste dispositivo e não pode desbloquear o telefone, autorizar compras ou iniciar sessão em aplicativos com elas"</string>
   <string name="unlock_disable_frp_warning_content_pin">As funcionalidades de protecção do dispositivo não funcionam sem o PIN</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem o PIN.
 
-As suas impressões digitais guardadas também vão ser removidas deste dispositivo e não pode desbloquear o telefone, autorizar compras ou iniciar sessão em aplicativos com elas"</string>
+As suas impressões digitais guardadas também serão removidas deste dispositivo e não pode desbloquear o telefone, autorizar compras ou iniciar sessão em aplicativos com elas"</string>
   <string name="unlock_disable_frp_warning_content_profile">A protecção de perfil não vai funcionar sem a sua palavra-passe</string>
   <string name="unlock_disable_frp_warning_content_unknown">As funcionalidades de protecção do dispositivo não funcionam sem o bloqueio de tela</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem o bloqueio de tela.
 
-As suas impressões digitais guardadas também vão ser removidas deste dispositivo e não pode desbloquear o telefone, autorizar compras ou iniciar sessão em aplicativos com elas"</string>
+As suas impressões digitais guardadas também serão removidas deste dispositivo e não pode desbloquear o telefone, autorizar compras ou iniciar sessão em aplicativos com elas"</string>
   <string name="unlock_disable_frp_warning_ok">Sim, remover</string>
   <string name="unlock_disable_frp_warning_title">Remover a protecção do dispositivo?</string>
   <string name="unlock_disable_lock_pin_summary">Desligar PIN</string>
@@ -5157,7 +5157,7 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="use_nuplayer">Utilizar NuPlayer (experimental)</string>
   <string name="use_nuplayer_summary">Utilizar NuPlayer em vez de AwesomePlayer</string>
   <string name="use_personalized_ad_service">Anúncios personalizados</string>
-  <string name="use_personalized_ad_service_summary">Quando esta funcionalidade estiver desligada, vai ver a mesma quantidade de anúncios mas não vão ser baseados nas suas informações pessoais</string>
+  <string name="use_personalized_ad_service_summary">Quando esta funcionalidade estiver desligada, vai ver a mesma quantidade de anúncios mas não serão baseados nas suas informações pessoais</string>
   <string name="use_privacy_password_immediate">Utilizar</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilizar idioma do sistema</string>
   <string name="use_this_wlan">Permanecer ligado</string>
@@ -5183,7 +5183,7 @@ Qualquer usuário pode actualizar aplicativos para todos os outros utilizadores"
   <string name="user_adding_new_user">A adicionar novo usuário…</string>
   <string name="user_cannot_add_accounts_message">Perfis restritos não podem adicionar contas</string>
   <string name="user_cannot_manage_message">A gestão dos utilizadores só pode ser feita pelo proprietário do telefone</string>
-  <string name="user_confirm_remove_message">Todas as aplicativos e dados vão ser eliminados</string>
+  <string name="user_confirm_remove_message">Todas as aplicativos e dados serão excluídos</string>
   <string name="user_confirm_remove_self_message">Vai perder os dados e espaço neste telefone. Não é possível anular esta acção</string>
   <string name="user_confirm_remove_self_title">excluir-se a si próprio?</string>
   <string name="user_confirm_remove_title">Remover este usuário?</string>
@@ -5219,7 +5219,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="user_enable_calling_confirm_message">O registo de chamadas vai ser partilhado com este usuário</string>
   <string name="user_enable_calling_confirm_title">Activar chamadas telefônicas?</string>
   <string name="user_enable_calling_sms">Activar chamadas telefônicas e SMS</string>
-  <string name="user_exit_guest_confirm_message">Todas as aplicativos e dados desta sessão vão ser eliminados</string>
+  <string name="user_exit_guest_confirm_message">Todas as aplicativos e dados desta sessão serão excluídos</string>
   <string name="user_exit_guest_confirm_title">Remover convidado?</string>
   <string name="user_exit_guest_dialog_remove">Remover</string>
   <string name="user_exit_guest_title">Remover convidado</string>
@@ -5239,7 +5239,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="user_nickname">Alcunha</string>
   <string name="user_owner">Proprietário</string>
   <string name="user_picture_title">ID da foto</string>
-  <string name="user_profile_confirm_remove_message">Todas as aplicativos e dados vão ser eliminados</string>
+  <string name="user_profile_confirm_remove_message">Todas as aplicativos e dados serão excluídos</string>
   <string name="user_profile_confirm_remove_title">Remover este perfil?</string>
   <string name="user_remove_user">Remover usuário</string>
   <string name="user_remove_user_menu">excluir %1$s deste dispositivo</string>
@@ -5902,7 +5902,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wizard_next">Seguinte</string>
   <string name="words_title">Texto</string>
   <string name="work_alarm_ringtone_title">Som do alarme de trabalho predefinido</string>
-  <string name="work_profile_confirm_remove_message">Se continuar, todas as aplicativos e todos os dados neste perfil são eliminados</string>
+  <string name="work_profile_confirm_remove_message">Se continuar, todas as aplicativos e todos os dados neste perfil são excluídos</string>
   <string name="work_profile_confirm_remove_title">Remover perfil de trabalho?</string>
   <string name="work_profile_notification_access_blocked_summary">O acesso às notificações do perfil de trabalho está bloqueado</string>
   <string name="work_profile_usage_access_warning">Se desligar o acesso de utilização desta aplicação, não impede o administrador de verificar a utilização de dados nas aplicativos no perfil de trabalho</string>
@@ -5914,8 +5914,8 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="work_sound_same_as_personal">Mesmo que o perfil pessoal</string>
   <string name="work_space_delete">excluir Espaço de trabalho</string>
   <string name="work_space_delete_confirm">excluir</string>
-  <string name="work_space_delete_description">Não vai poder entrar no Espaço de trabalho após o excluir. Todos os dados vão ser movidos ou eliminados</string>
-  <string name="work_sync_dialog_message">Os sons do seu perfil pessoal vão ser utilizados para o seu perfil de trabalho</string>
+  <string name="work_space_delete_description">Não vai poder entrar no Espaço de trabalho após o excluir. Todos os dados serão movidos ou excluídos</string>
+  <string name="work_sync_dialog_message">Os sons do seu perfil pessoal serão utilizados para o seu perfil de trabalho</string>
   <string name="work_sync_dialog_title">Substituir os sons?</string>
   <string name="work_sync_dialog_yes">Substituir</string>
   <string name="work_use_personal_sounds_summary">Os sons são iguais para os perfis de trabalho e pessoal</string>

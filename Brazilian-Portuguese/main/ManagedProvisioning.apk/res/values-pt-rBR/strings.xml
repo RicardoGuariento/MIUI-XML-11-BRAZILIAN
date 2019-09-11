@@ -45,7 +45,7 @@
   <string name="device_owner_error_package_not_installed">A aplicação de administração não está instalada no dispositivo</string>
   <string name="device_owner_error_wifi">Não foi possível ligar ao Wi-Fi</string>
   <string name="device_owner_info">Este dispositivo vai ser gerido e mantido seguro por %1$s. %2$s</string>
-  <string name="device_owner_info_with_terms_headers">Este dispositivo vai ser gerido e mantido seguro por %1$s. Os termos de %2$s vão ser aplicados. %3$s</string>
+  <string name="device_owner_info_with_terms_headers">Este dispositivo vai ser gerido e mantido seguro por %1$s. Os termos de %2$s serão aplicados. %3$s</string>
   <string name="dismiss">Rejeitar</string>
   <string name="encrypt">Encriptar</string>
   <string name="encrypt_device_text_for_device_owner_setup">Para continuar a configuração do seu dispositivo, tem de o encriptar. Esta acção pode demorar algum tempo</string>
@@ -80,8 +80,8 @@
   <string name="profile_owner_cancelling">A cancelar…</string>
   <string name="profile_owner_info">Está prestes a criar um perfil de trabalho que vai ser monitorizado e gerido pela sua organização</string>
   <string name="profile_owner_info_comp">Vai ser criado um perfil de trabalho para as suas aplicativos. Este perfil vai ser monitorizado e gerido pela sua organização</string>
-  <string name="profile_owner_info_with_terms_headers">Está prestes a criar um perfil de trabalho que vai ser monitorizado e gerido pela sua organização. Os termos de %1$s vão ser aplicados</string>
-  <string name="profile_owner_info_with_terms_headers_comp">Vai ser criado um perfil de trabalho para as suas aplicativos. Este perfil vai ser monitorizado e gerido pela sua organização. Os termos de %1$s vão ser aplicados</string>
+  <string name="profile_owner_info_with_terms_headers">Está prestes a criar um perfil de trabalho que vai ser monitorizado e gerido pela sua organização. Os termos de %1$s serão aplicados</string>
+  <string name="profile_owner_info_with_terms_headers_comp">Vai ser criado um perfil de trabalho para as suas aplicativos. Este perfil vai ser monitorizado e gerido pela sua organização. Os termos de %1$s serão aplicados</string>
   <string name="progress_connect_to_wifi">A ligar ao Wi-Fi…</string>
   <string name="progress_data_process">A processar os dados de configuração…</string>
   <string name="progress_delete_non_required_apps">A remover aplicativos de sistema não necessárias…</string>
@@ -108,14 +108,14 @@
   <string name="setup_work_device">Configurar o dispositivo…</string>
   <string name="setup_work_profile">Configurar o seu perfil</string>
   <string name="stop_setup_reset_device_question">Para configuração e repor dispositivo?</string>
-  <string name="sure_you_want_to_delete_profile">Se continuar, todas as aplicativos e todos os dados são eliminados</string>
+  <string name="sure_you_want_to_delete_profile">Se continuar, todas as aplicativos e todos os dados são excluídos</string>
   <string name="suw_back_button_label">Voltar</string>
   <string name="suw_more_button_label">Mais</string>
   <string name="suw_next_button_label">Seguinte</string>
   <string name="terms">Termos</string>
   <string name="the_following_is_your_mdm">A aplicação seguinte vai ter de acessar este perfil:</string>
   <string name="the_following_is_your_mdm_for_device">A aplicação seguinte vai gerir o seu dispositivo:</string>
-  <string name="theft_protection_disabled_warning">Se continuar, não vão ser activadas as funcionalidades de protecção contra roubo. Para activar a protecção contra roubo, cancele agora e configure-o como um dispositivo pessoal</string>
+  <string name="theft_protection_disabled_warning">Se continuar, não serão activadas as funcionalidades de protecção contra roubo. Para activar a protecção contra roubo, cancele agora e configure-o como um dispositivo pessoal</string>
   <string name="this_will_reset_take_back_first_screen">Isto vai repor o seu dispositivo e levá-lo ao primeiro tela</string>
   <string name="url_error">Este link não pode ser mostrado</string>
   <string name="user_is_not_owner">Os perfis de trabalho têm de ser configurados pelo usuário principal do dispositivo</string>

@@ -87,7 +87,7 @@ Pode iniciar sessão na sua Conta Mi com %s agora"</string>
   <string name="confirm_unbundled_phone_dialog_message">O número de telefone %1$s está associado com a Conta Mi %2$s. Não vai mais ser necessário associar com a Conta Mi %3$s se continuar. Continuar?</string>
   <string name="continue_action">Continuar</string>
   <string name="delete_action">excluir</string>
-  <string name="delete_bank_card_message">Devido a motivos de segurança o seu cartão bancário vai ser eliminado após terminar sessão</string>
+  <string name="delete_bank_card_message">Devido a motivos de segurança o seu cartão bancário vai ser excluído após terminar sessão</string>
   <string name="delete_bank_card_title">Atenção</string>
   <string name="delete_device_btn">Remover</string>
   <string name="delete_device_failed">Não é possível remover dispositivo</string>
@@ -161,7 +161,7 @@ Envie este código ao supervisor"</string>
   <string name="mipay_others">Outros</string>
   <string name="mipay_transit_card">Cartão de transporte</string>
   <string name="multi_user_not_show_sync_activity_message_1">Está a utilizar a sua Conta Mi do Primeiro espaço</string>
-  <string name="multi_user_not_show_sync_activity_message_2">Nesse caso, todos os dados vão ser sincronizados com o seu Segundo espaço. Para prevenir isto, não ligue a sincronização com a Xiaomi Cloud</string>
+  <string name="multi_user_not_show_sync_activity_message_2">Nesse caso, todos os dados serão sincronizados com o seu Segundo espaço. Para prevenir isto, não ligue a sincronização com a Xiaomi Cloud</string>
   <string name="multi_user_not_show_sync_activity_title">Não ligar a sincronização com a Xiaomi Cloud</string>
   <string name="my_device_title">Dispositivo actual</string>
   <string name="no_network_btn">Actualizar</string>

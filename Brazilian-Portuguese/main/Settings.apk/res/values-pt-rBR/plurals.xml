@@ -66,7 +66,7 @@
     </plurals>
     <plurals name="deleted_channels">
         <item quantity="other">%d categorias eliminadas</item>
-        <item quantity="one">%d categoria eliminada</item>
+        <item quantity="one">%d categoria excluída</item>
     </plurals>
     <plurals name="dlg_remove_locales_title">
         <item quantity="other">Remover os idiomas selecionados?</item>
@@ -169,7 +169,7 @@
         <item quantity="one">1 agente confiável activo</item>
     </plurals>
     <plurals name="master_clear_with_account_summary">
-        <item quantity="other">%1$d contas vão ser repostas</item>
+        <item quantity="other">%1$d contas serão repostas</item>
         <item quantity="one">1 contas vai ser reposta</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">

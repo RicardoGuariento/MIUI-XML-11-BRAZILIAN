@@ -307,7 +307,7 @@
   <string name="goto_weather">Ver informação do tempo</string>
   <string name="guid_one">· Ligar a set-top box/TV à mesma rede Wi-Fi que o seu telefone</string>
   <string name="guid_three">· Alguns controlos podem não estar disponíveis se a sua TV ou set-top box não suportar Android</string>
-  <string name="guid_two">· Os dispositivos vão ser detectados e mostrados nesta página</string>
+  <string name="guid_two">· Os dispositivos serão detectados e mostrados nesta página</string>
   <string name="guid_zero">. O seu dispositivo não suporta dispositivos IR, mas suporta controlos remotos por Wi-Fi</string>
   <string name="guide">Guia</string>
   <string name="has_installed">Instalado</string>

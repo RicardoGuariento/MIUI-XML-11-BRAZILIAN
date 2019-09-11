@@ -28,7 +28,7 @@
   <string name="deleting_message">A excluir…</string>
   <string name="details">Detalhes</string>
   <string name="dialog_content_storage_full">A gravação parou porque não há espaço suficiente no seu dispositivo</string>
-  <string name="dialog_privacy_revoke_tips">Após revogar a autorização, o aplicativo vai parar de reunir dados e todos os dados relacionados vão ser eliminados. Revogar autorização mesmo assim?</string>
+  <string name="dialog_privacy_revoke_tips">Após revogar a autorização, o aplicativo vai parar de reunir dados e todos os dados relacionados serão excluídos. Revogar autorização mesmo assim?</string>
   <string name="dialog_title_storage_full">Não há espaço suficiente</string>
   <string name="duration_format_hour">%sh</string>
   <string name="duration_format_minute">%sm</string>

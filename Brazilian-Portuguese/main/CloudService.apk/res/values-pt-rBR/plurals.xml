@@ -57,8 +57,8 @@
         <item quantity="one">%d frase frequente</item>
     </plurals>
     <plurals name="dirty_secretphoto_count">
-        <item quantity="other">%d fotos ocultas não sincronizadas. Termine sessão após todos os itens estarem sincronizados senão vão ser eliminados</item>
-        <item quantity="one">"%d foto oculta não sincronizada. Termine sessão após todos os itens estarem sincronizados senão vão ser eliminados</item>
+        <item quantity="other">%d fotos ocultas não sincronizadas. Termine sessão após todos os itens estarem sincronizados senão serão excluídos</item>
+        <item quantity="one">"%d foto oculta não sincronizada. Termine sessão após todos os itens estarem sincronizados senão serão excluídos</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
         <item quantity="other">A retomar sinc. em %d minutos…</item>
@@ -73,7 +73,7 @@
         <item quantity="one">%s hora atrás</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s serviços vão ser sincronizados com a Xiaomi Cloud</item>
+        <item quantity="other">%s serviços serão sincronizados com a Xiaomi Cloud</item>
         <item quantity="one">%s serviço vai ser sincronizado com a Xiaomi Cloud</item>
     </plurals>
 </resources>

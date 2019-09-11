@@ -25,7 +25,7 @@
   <string name="announce_for_close_launcher_menu">Menu fechado</string>
   <string name="announce_for_create_folder_with_app">Criou uma pasta com %1$s</string>
   <string name="announce_for_delete_gadget_and_widget">Widget</string>
-  <string name="announce_for_delete_item">%1$s foi eliminado</string>
+  <string name="announce_for_delete_item">%1$s foi excluído</string>
   <string name="announce_for_drag_enter_delete_zone">Itens arrastados para a zona de eliminação</string>
   <string name="announce_for_drag_enter_folder_grid">Pode arrastar ícones para a pasta</string>
   <string name="announce_for_drag_enter_workspace_thumbnail">Itens arrastados para a zona de pré-visualização %1$d</string>
@@ -95,9 +95,9 @@
   <string name="cloud_app_restore_title">Pendente</string>
   <string name="configure_wallpaper">Configurações</string>
   <string name="confirm_btn_label">OK</string>
-  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">As aplicativos clonadas vão ser desinstaladas juntamente com estas</string>
+  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">As aplicativos clonadas serão desinstaladas juntamente com estas</string>
   <string name="confirm_uninstall_dialog_has_xspace_app_msg">A aplicação clonada vai ser desinstalada juntamente com esta</string>
-  <string name="confirm_uninstall_dialog_title">As aplicativos clonadas vão ser desinstaladas</string>
+  <string name="confirm_uninstall_dialog_title">As aplicativos clonadas serão desinstaladas</string>
   <string name="content_description_for_shortcut_icon_checked">%1$s, verificado</string>
   <string name="content_description_shortcut_icon_unchecked">%1$s, não verificado</string>
   <string name="content_description_workspace_thumbnail_item">Pré-visualização de tela %1$s</string>
@@ -368,7 +368,7 @@
   <string name="uninstall_dialog_title_format">Desinstalar %s?</string>
   <string name="uninstall_result_failed">Não foi possível desinstalar %s</string>
   <string name="uninstall_result_succeeded">Desinstalada com sucesso</string>
-  <string name="uninstall_with_xspace_dialog_message">As aplicativos clonadas correspondentes vão ser removidas juntamente com os dados da aplicação</string>
+  <string name="uninstall_with_xspace_dialog_message">As aplicativos clonadas correspondentes serão removidas juntamente com os dados da aplicação</string>
   <string name="uninstall_xspace_dialog_message">Desinstalar vai remover todos os dados da aplicação</string>
   <string name="uninstall_xspace_dialog_title_format">Desinstalar aplicação clonada %s?</string>
   <string name="unknown_artist_name">Artista desconhecido</string>

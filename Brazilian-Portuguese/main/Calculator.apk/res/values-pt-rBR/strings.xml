@@ -254,7 +254,7 @@
   <string name="tax_thershold_foreign">%s (nacionalidade estrangeira)</string>
   <string name="tax_thershold_native">%s (China)</string>
   <string name="tax_thershold_native_new">%s (novo)</string>
-  <string name="tax_thershold_native_new_description">As taxas vão ser calculadas segundo a novo lei de taxas a partir de 1 de Outubro de 2018</string>
+  <string name="tax_thershold_native_new_description">As taxas serão calculadas segundo a novo lei de taxas a partir de 1 de Outubro de 2018</string>
   <string name="tax_threshold">Limite do imposto</string>
   <string name="tax_total_insurance_provident_fund">Seguros</string>
   <string name="tax_unemployment">Desemprego</string>

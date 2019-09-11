@@ -24,7 +24,7 @@
   <string name="delete">excluir</string>
   <string name="invalid_package_signature">Assinatura da aplicação inválida</string>
   <string name="ok">OK</string>
-  <string name="save_content_tip">"Os itens seguintes vão ser guardados: "</string>
+  <string name="save_content_tip">"Os itens seguintes serão guardados: "</string>
   <string name="search">Pesquisar</string>
   <string name="settings_clear_data_confirmation_description">"Se excluir a palavra-passe agora, vai ter que introduzi-la manualmente da próxima vez.
 excluir a palavra-passe?"</string>

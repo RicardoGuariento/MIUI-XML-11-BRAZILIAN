@@ -20,7 +20,7 @@
   <string name="paper_mode_start_time_title">Ligar</string>
   <string name="scheduled_style">Programado</string>
   <string name="search_menu_title">Pesquisa</string>
-  <string name="summary">"Para reduzir o consumo de bateria, os itens não vão ser mostrados nas seguintes situações:
+  <string name="summary">"Para reduzir o consumo de bateria, os itens não serão mostrados nas seguintes situações:
 1. Quando o dispositivo estiver no escuro por um longo tempo
 2. Quando Não incomodar estiver ligado"</string>
   <string name="temporary_style">Por 10 segundos após tocar</string>

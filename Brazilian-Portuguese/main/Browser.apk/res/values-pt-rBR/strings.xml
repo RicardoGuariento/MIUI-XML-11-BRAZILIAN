@@ -228,7 +228,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="decline">Recusar</string>
     <string name="delete">excluir</string>
     <string name="delete_bookmark">excluir</string>
-    <string name="delete_bookmark_group_warning">excluir \"%s\"? Todos os marcadores deste grupo vão ser eliminados.</string>
+    <string name="delete_bookmark_group_warning">excluir \"%s\"? Todos os marcadores deste grupo serão excluídos.</string>
     <string name="delete_bookmark_warning">excluir marcador \"%s\"?</string>
     <string name="delete_download">excluir</string>
     <string name="detail_guide_tips">Deslize para cima para mais itens relacionados</string>
@@ -581,12 +581,12 @@ Sair desta página agora?"</string>
     <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_unsafe_port">O site não pode ser alcançado. %s0 está utilizando um número de porta inseguro.</string>
     <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">A ligação foi interrompida quando seu dispositivo entrou em modo de suspensão.</string>
     <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">A ligação foi interrompida devido a uma alteração na rede.</string>
-    <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">Não foi possível encontrar o arquivo. Pode ter sido movido ou eliminado.</string>
+    <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">Não foi possível encontrar o arquivo. Pode ter sido movido ou excluído.</string>
     <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">Não foi possível ler o arquivo. Permissões do arquivo podem estar impedindo o acesso.</string>
     <string name="mw_miuichromium_error_page_problem_gateway_timed_out">Demorou muito tempo para %s0 responder.</string>
     <string name="mw_miuichromium_error_page_problem_network_access_denied">O acesso à rede é restrito.</string>
     <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">Não foi possível ligar-se à internet. Algo está errado com o servidor de proxy, ou o endereço de proxy está incorreto.</string>
-    <string name="mw_miuichromium_error_page_problem_page_moved">Esta página em %s0 pode ter sido movida ou eliminada.</string>
+    <string name="mw_miuichromium_error_page_problem_page_moved">Esta página em %s0 pode ter sido movida ou excluída.</string>
     <string name="mw_miuichromium_error_page_problem_page_not_found">Não foi possível encontrar esta página em %s0.</string>
     <string name="mw_miuichromium_error_page_problem_page_not_working_reason_connection_closed">Esta página não está funcionando. %s0 interrompeu a ligação.</string>
     <string name="mw_miuichromium_error_page_problem_page_not_working_reason_empty_response">Esta página não está funcionando porque %s0 não enviou nenhum dado.</string>

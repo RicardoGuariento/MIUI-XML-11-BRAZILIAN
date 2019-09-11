@@ -22,7 +22,7 @@
   "privacy_notif_content": "Toque para ver detalhes",
   "privacy_notif_title": "O acelerador de transferências Xunlei está ligado",
   "privacy_tip_cancel": "Cancelar",
-  "privacy_tip_content": "Optimizar a velocidade das transferências com o acelerador Xunlei? O URL do servidor de transferências vai ser carregado para os servidores Xunlei. Os seus detalhes da Conta Mi também vão ser enviados para verificar se tem assinaturas activas para este serviço",
+  "privacy_tip_content": "Optimizar a velocidade das transferências com o acelerador Xunlei? O URL do servidor de transferências vai ser carregado para os servidores Xunlei. Os seus detalhes da Conta Mi também serão enviados para verificar se tem assinaturas activas para este serviço",
   "privacy_tip_ok": "Confirmar",
   "privacy_tip_title": "Utilizar o acelerador de transferências Xunlei?",
   "recommended_file_size_download_in_mobile": "Utilizar %s de dados móveis para transferir este arquivo?",
@@ -64,11 +64,11 @@
   "button_sort_by_size": "Ordenar por tamanho",
   "button_wait_for_wifi": "Aguardar",
   "cancel_running_download": "Cancelar",
-  "confirm_delete_downloads_message": "%d transferências vão ser eliminadas",
+  "confirm_delete_downloads_message": "%d transferências serão eliminadas",
   "confirm_delete_the_download_item_message": "excluir esta(s) transferência(s)?",
   "delete_download": "excluir",
   "delete_downloads_records": "excluir transferências",
-  "delete_the_downloaded_file": "Os arquivos transferidos vão ser eliminados",
+  "delete_the_downloaded_file": "Os arquivos transferidos serão excluídos",
   "page_local_setting": "Configurações",
   "local_music": "Dispositivo",
   "local_music_is_not_available": "As músicas no dispositivo não se encontram disponíveis",
@@ -305,7 +305,7 @@
   "download_auto_after_favorite_summary": "Transferir automaticamente as músicas que adicionou aos favoritos",
   "download_auto_after_favorite_title": "Transferir favoritos",
   "download_auto_cancel": "Transferência de favoritos desligada",
-  "download_auto_message": "Músicas marcadas como favoritas vão ser automaticamente transferidas quando existir uma ligação à rede Wi-Fi. Esta configuração pode ser alterada nas configurações de conta no menu local",
+  "download_auto_message": "Músicas marcadas como favoritas serão automaticamente transferidas quando existir uma ligação à rede Wi-Fi. Esta configuração pode ser alterada nas configurações de conta no menu local",
   "download_auto_when_all_network": "Utilizar dados móveis e Wi-Fi",
   "download_auto_when_free_network": "Utilizar apenas Wi-Fi",
   "download_auto_when_free_network_summary": "Configurações adicionais para as suas músicas favoritas",
@@ -529,7 +529,7 @@
   "nowplaying_menu_item_delete": "excluir",
   "ok": "OK",
   "one_month": "1 mês",
-  "online_list_delete_message": "Todas as músicas transferidas nesta lista de reprodução vão ser eliminadas do armazenamento interno",
+  "online_list_delete_message": "Todas as músicas transferidas nesta lista de reprodução serão eliminadas do armazenamento interno",
   "online_music_enabled_subtitle": "Toque para fazer streaming das suas músicas favoritas",
   "online_music_enabled_summary": "Ouvir e transferir as suas músicas favoritas. Consulte as músicas top e listas de reprodução a partir de qualquer lugar!",
   "online_music_enabled_title": "Streaming gratuito é aqui",
@@ -542,7 +542,7 @@
   "payment_success": "Pagamento efectuado",
   "play_all_song": "Reproduzir todas",
   "playback_failed_no_title_by_bad_file": "O formato desta música não é suportado ou o arquivo não existe",
-  "playlist_deleted_message": "Lista de reprodução eliminada",
+  "playlist_deleted_message": "Lista de reprodução excluída",
   "playlist_renamed_message": "Lista de reprodução alterada",
   "playlist_unavailable": "A lista de reprodução não está disponível. Para a excluir, toque e segure, depois escolha excluir",
   "please_download_first": "Tem que transferir esta música antes que a possa definir como toque",
@@ -734,7 +734,7 @@
 		   "one": "\"${v} música encontrada\""
 		 },  	 	
 		 "NTrackstoDownload": {
-			"other": "\"${v} músicas vão ser transferidas\"",
+			"other": "\"${v} músicas serão transferidas\"",
 			"one": "\"1 música vai ser transferida\""
 		 },
 		 "NPlaylist_delete_confirm": {
@@ -797,7 +797,7 @@
 			"one": "\"1 música\""
 		 },
 		 "send_songs_toast": {
-			"other": "\"${v} músicas vão ser enviadas\"",
+			"other": "\"${v} músicas serão enviadas\"",
 			"one": "\"1 música vai ser enviada\""
 		 },
 		 "multichoice_title": {

@@ -618,7 +618,7 @@ Para desligar esta funcionalidade, vá a Configurações &gt; Sons e vibração 
   <string name="transparent_wallpaper_disable">Desligado</string>
   <string name="transparent_wallpaper_enable">Ligado</string>
   <string name="transparent_wallpaper_enable_success">Ligado com sucesso</string>
-  <string name="transparent_wallpaper_filter_pref_summary">Os papéis de parede transparentes não vão ser mostrados em aplicativos restringidas</string>
+  <string name="transparent_wallpaper_filter_pref_summary">Os papéis de parede transparentes não serão mostrados em aplicativos restringidas</string>
   <string name="transparent_wallpaper_filter_pref_title">Seleccionar aplicativos que devem ser executadas com papéis de parede transparentes</string>
   <string name="transparent_wallpaper_filter_set_successfully">Definido com sucesso</string>
   <string name="transparent_wallpaper_filter_setting">Aplicativos individualmente</string>

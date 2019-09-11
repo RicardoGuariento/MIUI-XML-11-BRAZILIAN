@@ -17,7 +17,7 @@
   <string name="add_flow_success_msg">%s adicionados este mês</string>
   <string name="all_downloads">Todas as transferências</string>
   <string name="all_fileter">Tudo</string>
-  <string name="all_share_files_content">Os arquivos selecionados já foram eliminados</string>
+  <string name="all_share_files_content">Os arquivos selecionados já foram excluídos</string>
   <string name="all_the_internet">Todas as redes</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s transferências</string>
@@ -41,7 +41,7 @@
   <string name="close_ad">Fechar anúncios</string>
   <string name="complete_time">Concluído:</string>
   <string name="confirm">OK</string>
-  <string name="confirm_delete_downloads_message">%d transferências vão ser eliminadas</string>
+  <string name="confirm_delete_downloads_message">%d transferências serão eliminadas</string>
   <string name="confirm_delete_the_download_item_message">excluir esta(s) transferência(s)?</string>
   <string name="continue_download">Continuar</string>
   <string name="copy">Copiar</string>
@@ -51,7 +51,7 @@
   <string name="delete">excluir</string>
   <string name="delete_download">excluir</string>
   <string name="delete_downloads_records">excluir transferência(s)</string>
-  <string name="delete_the_downloaded_file">Os arquivos transferidos vão ser eliminados</string>
+  <string name="delete_the_downloaded_file">Os arquivos transferidos serão excluídos</string>
   <string name="deselect_all">Desmarcar tudo</string>
   <string name="deselect_subfile_all">Desmarcar tudo</string>
   <string name="determine">OK</string>
@@ -208,9 +208,9 @@
   <string name="no_file_hint">Já existe uma transferência para este arquivo</string>
   <string name="no_result_for_keyword">Não foi possível encontrar \"%1$s\"</string>
   <string name="no_share_file">Não foi possível compartilhar este arquivo</string>
-  <string name="no_share_file_content">O arquivo seleccionado já foi eliminado</string>
-  <string name="no_share_files">Não é possível compartilhar arquivos eliminados</string>
-  <string name="no_share_files_content">Alguns dos arquivos que está a tentar compartilhar já foram eliminados. Os outros foram partilhados com sucesso</string>
+  <string name="no_share_file_content">O arquivo seleccionado já foi excluído</string>
+  <string name="no_share_files">Não é possível compartilhar arquivos excluídos</string>
+  <string name="no_share_files_content">Alguns dos arquivos que está a tentar compartilhar já foram excluídos. Os outros foram partilhados com sucesso</string>
   <string name="no_vip_info">Subscrever o serviço membro Xunlei para optimizar as suas transferências</string>
   <string name="no_vip_show_info">"Acelere as suas transferências
 em todos os seus dispositivos com Xunlei"</string>
@@ -251,7 +251,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="preferences_title">Configurações</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="privacy_tip_cancel">Cancelar</string>
-  <string name="privacy_tip_content">Optimizar a velocidade das transferências com o acelerador Xunlei? O URL do servidor de transferências vai ser carregado para os servidores do Xunlei. Os seus detalhes da Conta Mi também vão ser enviados para verificar se tem assinaturas activas para este serviço</string>
+  <string name="privacy_tip_content">Optimizar a velocidade das transferências com o acelerador Xunlei? O URL do servidor de transferências vai ser carregado para os servidores do Xunlei. Os seus detalhes da Conta Mi também serão enviados para verificar se tem assinaturas activas para este serviço</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Utilizar Acelerador Xunlei?</string>
   <string name="quit_btn">Sair</string>

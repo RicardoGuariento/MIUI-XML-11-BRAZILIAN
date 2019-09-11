@@ -67,7 +67,7 @@
     <string-array name="settings_search_sync_manage">
         <item>Xiaomi Cloud. Todos os serviços num só sítio</item>
         <item>Acessar às suas fotos, contatos, mensagens e dispositivos em qualquer lado</item>
-        <item>Armazenamento insuficiente;Subscrição;Armazenamento;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud;Lixo;Itens eliminados;Segurança</item>
+        <item>Armazenamento insuficiente;Subscrição;Armazenamento;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud;Lixo;Itens excluídos;Segurança</item>
     </string-array>
     <string-array name="settings_search_find_phone">
         <item>Localizar Dispositivo</item>
@@ -82,12 +82,12 @@
     <string-array name="settings_search_recycle_bin">
         <item>excluir itens na Xiaomi Cloud</item>
         <item>Restaurar contatos, fotos, mensagens e mais</item>
-        <item>Lixo;Itens eliminados;Reciclagem;Restaurar;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Lixo;Itens excluídos;Reciclagem;Restaurar;Serviços Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_subscribe_vip">
         <item>Subscrição Xiaomi Cloud</item>
         <item>Actualizar a sua subscrição, obter mais espaço de armazenamento e proteger os seus dados</item>
-        <item>Armazenamento insuficiente;Subscrição;Armazenamento;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud;Mega;Ultra;VIP;Copiar;Cópias;Restaurar;Lixo;Itens eliminados;Reciclagem</item>
+        <item>Armazenamento insuficiente;Subscrição;Armazenamento;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud;Mega;Ultra;VIP;Copiar;Cópias;Restaurar;Lixo;Itens excluídos;Reciclagem</item>
     </string-array>
     <string-array name="settings_search_backup_setting">
         <item>Copiar tela inicial para a Xiaomi Cloud</item>

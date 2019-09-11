@@ -157,7 +157,7 @@
   <string name="download_auto_after_favorite_summary">Transferir automaticamente as músicas que adicionou aos favoritos</string>
   <string name="download_auto_after_favorite_title">Transferir favoritos</string>
   <string name="download_auto_cancel">Transferência de favoritos desligada</string>
-  <string name="download_auto_message">Músicas marcadas como favoritas vão ser automaticamente transferidas quando existir uma ligação à rede Wi-Fi. Esta configuração pode ser alterada nas configurações de conta no menu local</string>
+  <string name="download_auto_message">Músicas marcadas como favoritas serão automaticamente transferidas quando existir uma ligação à rede Wi-Fi. Esta configuração pode ser alterada nas configurações de conta no menu local</string>
   <string name="download_auto_when_free_network">Utilizar apenas Wi-Fi</string>
   <string name="download_auto_when_free_network_summary">Configurações adicionais para as suas músicas favoritas</string>
   <string name="download_complete">Transferência concluída</string>
@@ -410,7 +410,7 @@
   <string name="nowplaying_dialog_title_delete_tracks">Limpar a lista de reprodução actual?</string>
   <string name="nowplaying_menu_item_delete">Limpar</string>
   <string name="ok">OK</string>
-  <string name="online_list_delete_message">Todas as músicas transferidas nesta lista de reprodução vão ser eliminadas do armazenamento interno</string>
+  <string name="online_list_delete_message">Todas as músicas transferidas nesta lista de reprodução serão eliminadas do armazenamento interno</string>
   <string name="online_music_enabled_summary">Ouvir e transferir as suas músicas favoritas. Consulte as músicas top e listas de reprodução a partir de qualquer lugar!</string>
   <string name="online_music_enabled_title">Streaming gratuito é aqui</string>
   <string name="online_recommend">Lista de reprodução</string>

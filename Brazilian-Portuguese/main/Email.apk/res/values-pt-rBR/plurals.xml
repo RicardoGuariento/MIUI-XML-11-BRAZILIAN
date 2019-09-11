@@ -50,7 +50,7 @@
     </plurals>
     <plurals name="conversation_deleted">
         <item quantity="other"><b>%1$d</b> eliminadas</item>
-        <item quantity="one"><b>%1$d</b> eliminada</item>
+        <item quantity="one"><b>%1$d</b> excluída</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Pastas alteradas</item>
@@ -97,12 +97,12 @@
         <item quantity="one">Rascunho</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
-        <item quantity="other">%1$d mensagens vão ser eliminadas permanentemente</item>
-        <item quantity="zero">%1$d mensagens vão ser eliminadas permanentemente</item>
-        <item quantity="one">%1$d mensagem vai ser eliminada permanentemente</item>
-        <item quantity="two">%1$d mensagens vão ser eliminadas permanentemente</item>
-        <item quantity="few">%1$d mensagens vão ser eliminadas permanentemente</item>
-        <item quantity="many">%1$d mensagens vão ser eliminadas permanentemente</item>
+        <item quantity="other">%1$d mensagens serão eliminadas permanentemente</item>
+        <item quantity="zero">%1$d mensagens serão eliminadas permanentemente</item>
+        <item quantity="one">%1$d mensagem vai ser excluída permanentemente</item>
+        <item quantity="two">%1$d mensagens serão eliminadas permanentemente</item>
+        <item quantity="few">%1$d mensagens serão eliminadas permanentemente</item>
+        <item quantity="many">%1$d mensagens serão eliminadas permanentemente</item>
     </plurals>
     <plurals name="hide_atts_remaining">
         <item quantity="other">Ocultar %1$d anexos</item>

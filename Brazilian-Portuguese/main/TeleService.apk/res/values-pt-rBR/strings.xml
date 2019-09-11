@@ -26,7 +26,7 @@
   <string name="alert_dialog_yes">Sim</string>
   <string name="alertdialogtitle">Resultados</string>
   <string name="allContactdeleteFailed">Não foi possível excluir todos os contatos do cartão SIM</string>
-  <string name="allContactdeleteSuccess">Todos os contatos foram eliminados do cartão SIM</string>
+  <string name="allContactdeleteSuccess">Todos os contatos foram excluídos do cartão SIM</string>
   <string name="all_day">Todo o dia</string>
   <string name="always_enable_mms">Receber sempre MMS</string>
   <string name="always_enable_mms_summary">Receber MMS mesmo quando os dados móveis estão desligados</string>
@@ -117,7 +117,7 @@
   <string name="call_record_add_numbers">Adicionar números</string>
   <string name="call_record_auto_always">Todos os números</string>
   <string name="call_record_auto_scenario_title">Gravar chamadas de</string>
-  <string name="call_record_auto_summary">As gravações vão ser guardadas na pasta MIUI/sound_recorder/call_rec ou no armazenamento interno do dispositivo</string>
+  <string name="call_record_auto_summary">As gravações serão guardadas na pasta MIUI/sound_recorder/call_rec ou no armazenamento interno do dispositivo</string>
   <string name="call_record_auto_title">Gravar chamadas automaticamente</string>
   <string name="call_record_auto_unknown_number">Números privados</string>
   <string name="call_record_auto_whitelist">Lista personalizada</string>
@@ -256,7 +256,7 @@
   <string name="contactUpdateFailed">Contacto actualizado no SIM</string>
   <string name="contactUpdateSuccess">Contacto actualizado no SIM</string>
   <string name="contactdeleteFailed">Não é possível excluir contatos do SIM</string>
-  <string name="contactdeleteSuccess">Contacto eliminado do SIM</string>
+  <string name="contactdeleteSuccess">Contacto excluído do SIM</string>
   <string name="corporate_unlock_failed">O pedido de desbloqueio do cartão SIM da empresa falhou</string>
   <string name="corporate_unlock_success">Cartão SIM da empresa desbloqueado</string>
   <string name="crescendo_ringer_summary">Aumentar o volume do toque gradualmente até ao nível de som definido</string>
@@ -451,7 +451,7 @@
   <string name="fdn_activation">Activação FDN</string>
   <string name="fdn_check_failure">Algumas funcionalidades de chamadas não estão disponíveis porque os Números de Marcação Fixa estão activos</string>
   <string name="fdn_contact_added">Número de marcação fixa adicionado</string>
-  <string name="fdn_contact_deleted">Número de marcação fixa eliminado</string>
+  <string name="fdn_contact_deleted">Número de marcação fixa excluído</string>
   <string name="fdn_contact_updated">Número de marcação fixa actualizado</string>
   <string name="fdn_disabled">Números de marcação fixa desligado</string>
   <string name="fdn_enable_puk2_requested">Palavra-passe incorrecta, o PIN2 está bloqueado. Altere o PIN2 e tente novamente</string>
@@ -674,7 +674,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="network_settings_auto_select_title">Escolher a rede manualmente</string>
   <string name="network_settings_automatically_option">Escolher rede preferida automaticamente (%s)</string>
   <string name="network_settings_confirm_message">O seu dispositivo vai desligar da rede enquanto estiver a procurar redes disponíveis</string>
-  <string name="network_settings_data_connected_change">Os dados móveis vão ser desligados automaticamente enquanto estiver a procurar redes disponíveis</string>
+  <string name="network_settings_data_connected_change">Os dados móveis serão desligados automaticamente enquanto estiver a procurar redes disponíveis</string>
   <string name="network_settings_duringcall">Operação não permitida durante uma chamada</string>
   <string name="network_settings_forbidden">%s (proibida)</string>
   <string name="network_settings_information">Desligar dados móveis</string>
@@ -836,7 +836,7 @@ Tem mais %d tentativas"</string>
   <string name="pin2_invalid">FDN não foi actualizado porque introduziu um PIN incorrecto</string>
   <string name="pin2_invalid_or_name_is_too_long">Introduziu um PIN inválido ou o nome que introduziu é muito longo</string>
   <string name="pin2_lock_warning">"
-As funções relacionadas com o PIN2 vão ser bloqueadas depois de outra tentativa falhada"</string>
+As funções relacionadas com o PIN2 serão bloqueadas depois de outra tentativa falhada"</string>
   <string name="pin2_or_fdn_invalid">Não foram actualizados os números autorizados. O PIN2 estava incorrecto ou o número de telefone foi rejeitado</string>
   <string name="pin2_unblocked">O PIN2 deixou de estar bloqueado</string>
   <string name="pin_changed">O PIN do SIM foi alterado com sucesso</string>
@@ -1112,7 +1112,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="sum_cfu_disabled">Desligado</string>
   <string name="sum_cfu_enabled">Reencaminhar todas as chamadas para {0}</string>
   <string name="sum_cfu_enabled_indicator">Reencaminhar todas as chamadas</string>
-  <string name="sum_cfu_enabled_indicator_by_sim">Todas as chamadas para o SIM %s vão ser reencaminhadas</string>
+  <string name="sum_cfu_enabled_indicator_by_sim">Todas as chamadas para o SIM %s serão reencaminhadas</string>
   <string name="sum_cfu_enabled_no_number">Número indisponível</string>
   <string name="sum_cw_disabled">Notificar-me sobre chamadas recebidas durante uma chamada</string>
   <string name="sum_cw_enabled">Notificar-me sobre chamadas recebidas durante uma chamada</string>

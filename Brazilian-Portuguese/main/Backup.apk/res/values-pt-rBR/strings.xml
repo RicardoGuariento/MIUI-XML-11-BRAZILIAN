@@ -139,7 +139,7 @@ https://appleid.apple.com/#!&amp;page=signin para desactivar"</string>
   <string name="enable_encrypt_fail">Erro na encriptação</string>
   <string name="enable_encrypt_indicator">Toque para encriptar</string>
   <string name="enable_encrypt_summery1">Inicie sessão na sua Conta Mi para acessar cópias encriptadas</string>
-  <string name="enable_encrypt_summery2">As suas cópias de segurança vão ser encriptadas automaticamente. Para as acessar tem que iniciar sessão na sua Conta Mi</string>
+  <string name="enable_encrypt_summery2">As suas cópias de segurança serão encriptadas automaticamente. Para as acessar tem que iniciar sessão na sua Conta Mi</string>
   <string name="enable_encrypt_title">Encriptar cópias</string>
   <string name="enable_encrypt_xiaomi_account">Esta cópia foi criada por %1$s. Para restaurar, elimine esta conta e inicie sessão em %2$s para restaurar</string>
   <string name="err_acquire_system_service">Não é possível iniciar o serviço de sistema</string>
@@ -452,7 +452,7 @@ Liberte pelo menos %s"</string>
   <string name="trans_detail_item_app_data_selected_tip">Foram selecionadas as aplicativos correspondentes</string>
   <string name="trans_detail_item_app_data_skip_data">Não é possível transferir os dados da aplicação</string>
   <string name="trans_detail_item_app_data_too_large_tip">O item é demasiado grande para transferir</string>
-  <string name="trans_detail_list_footer">Nota: Pode escolher transferir aplicativos separadamente. Se seleccionar dados da aplicação, as aplicativos correspondentes vão ser transferidas</string>
+  <string name="trans_detail_list_footer">Nota: Pode escolher transferir aplicativos separadamente. Se seleccionar dados da aplicação, as aplicativos correspondentes serão transferidas</string>
   <string name="trans_detail_page_tip">Quanto mais itens transferir mais demorado vai ser</string>
   <string name="trans_detail_sys_data_list_title">Aplicativos de sistema</string>
   <string name="trans_detail_sys_data_page_title">Seleccionar aplicativos de sistema</string>
@@ -475,7 +475,7 @@ para transferir e instalar o Mi Mover"</string>
   <string name="trans_install_guide_step2_content">Após a instalação estar concluída, toque em \"Iniciar\"</string>
   <string name="trans_install_guide_step2_title">Passo 2</string>
   <string name="trans_intro_desc_1">Num telefone Mi, ligue-se ao Wi-Fi e toque \"Sou um destinatário\". Selecione o seu dispositivo iOS, inicie sessão na iCloud e importe os dados</string>
-  <string name="trans_intro_desc_3">Cancele a transferência, saia do Mi Mover e comece de novo. Os arquivos duplicados vão ser substituídos durante a nova transferência</string>
+  <string name="trans_intro_desc_3">Cancele a transferência, saia do Mi Mover e comece de novo. Os arquivos duplicados serão substituídos durante a nova transferência</string>
   <string name="trans_intro_desc_4">O Mi Mover utiliza o Wi-Fi para transferir arquivos. É por esse motivo que não consegue ligar à Internet utilizando o Wi-Fi em qualquer um dos dispositivos durante a transferência</string>
   <string name="trans_intro_desc_4_market">O Mi Mover utiliza o Wi-Fi para transferir arquivos. É por esse motivo que não consegue ligar à Internet utilizando o Wi-Fi em qualquer um dos dispositivos durante a transferência</string>
   <string name="trans_intro_desc_5">O espaço de armazenamento nos dispositivos antigos é utilizado para criar pacotes de transferência. Certifique-se que tem pelo menos 500 MB - 1 GB de espaço disponível no seu telefone antigo antes de iniciar a transferência</string>
@@ -566,7 +566,7 @@ Mantenha ambos os dispositivos perto um do outro"</string>
   <string name="trans_select_data_no_space">"Sem espaço suficiente no novo dispositivo (%s disponível).
 Liberte espaço ou transfira apenas itens importantes"</string>
   <string name="trans_select_data_tips">"Seleccionar itens para transferir
-Arquivos iguais no novo dispositivo vão ser substituídos"</string>
+Arquivos iguais no novo dispositivo serão substituídos"</string>
   <string name="trans_select_data_too_large">"Seleccionou demasiados itens para transferir.
 Selecione apenas os itens importantes para ser mais rápido"</string>
   <string name="trans_select_device_receive">Seleccionar um dispositivo para receber dados</string>

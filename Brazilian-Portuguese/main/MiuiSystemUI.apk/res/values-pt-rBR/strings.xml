@@ -325,9 +325,9 @@
   <string name="battery_saver_notification_title">A poupança de bateria está ligada</string>
   <string name="battery_saver_start_action">Ligar a poupança de bateria</string>
   <string name="block">Bloquear todas as notificações</string>
-  <string name="block_notification_content_text">As notificações de %1$s não vão ser mostradas novamente. Pode alterar esta opção nas Configurações</string>
+  <string name="block_notification_content_text">As notificações de %1$s não serão mostradas novamente. Pode alterar esta opção nas Configurações</string>
   <string name="block_notification_text">Ocultar</string>
-  <string name="block_notification_desc">As notificações da aplicação não vão ser mostradas novamente. Pode alterar esta opção nas Configurações</string>
+  <string name="block_notification_desc">As notificações da aplicação não serão mostradas novamente. Pode alterar esta opção nas Configurações</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Ligado ao áudio mídias</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Utilizar para áudio mídias</string>
   <string name="bluetooth_connected">Ligado</string>
@@ -497,7 +497,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="divider_menu_swap_task">Trocar</string>
   <string name="dlg_cancel">Cancelar</string>
   <string name="dlg_confirm">Ligar</string>
-  <string name="dlg_confirm_kill_storage_users_text">Se ligar o armazenamento USB, algumas aplicativos que estiver a utilizar vão ser paradas e poderão ficar indisponíveis até desligar o armazenamento USB</string>
+  <string name="dlg_confirm_kill_storage_users_text">Se ligar o armazenamento USB, algumas aplicativos que estiver a utilizar serão paradas e poderão ficar indisponíveis até desligar o armazenamento USB</string>
   <string name="dlg_confirm_kill_storage_users_title">Ligar armazenamento USB</string>
   <string name="dlg_error_title">Operação USB sem sucesso</string>
   <string name="dlg_ok">OK</string>
@@ -507,7 +507,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="dlg_summary_nfc">Desligar NFC</string>
   <string name="dlg_summary_title">A poupança extrema de bateria pára toda a actividade em segundo plano. Se quiser que uma aplicação seja executada em segundo plano, adicione-a às excepções</string>
   <string name="dnd_is_off">Não incomodar está desligado</string>
-  <string name="dnd_notification_warnings_title">Não incomodar ligado. As chamadas e notificações vão ser silenciadas</string>
+  <string name="dnd_notification_warnings_title">Não incomodar ligado. As chamadas e notificações serão silenciadas</string>
   <string name="do_disclosure_generic">Este dispositivo é gerido pela sua organização</string>
   <string name="do_disclosure_with_name">Este dispositivo é gerido por %s</string>
   <string name="do_not_silence">Não silenciar</string>
@@ -622,7 +622,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_unlock_success_show_message_dialog_title">Notificações na tela de bloqueio</string>
   <string name="face_unlock_success_show_message_msg">Mostrar apenas a origem da notificação quando o dispositivo está bloqueado e adicionar os detalhes quando os dados do rosto forem verificados</string>
   <string name="face_unlock_success_show_message_title">Mostrar os detalhes das notificações após verificar os dados do rosto</string>
-  <string name="face_unlock_success_show_message_toast">As notificações vão ser mostradas na tela de bloqueio</string>
+  <string name="face_unlock_success_show_message_toast">As notificações serão mostradas na tela de bloqueio</string>
   <string name="face_unlock_success_stay_screen_msg">Manter-se na tela de bloqueio após o rosto ser verificado. Deslizar para cima para abrir o tela inicial</string>
   <string name="face_unlock_success_stay_screen_title">Manter-se na tela de bloqueio após desbloquear</string>
   <string name="failed_to_open_app_settings_toast">Não foi possível abrir configurações de %1$s</string>
@@ -661,7 +661,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="gps_notification_found_text">Localização definida por GPS</string>
   <string name="gps_notification_searching_text">A pesquisar GPS</string>
   <string name="guest_exit_guest">Remover convidado</string>
-  <string name="guest_exit_guest_dialog_message">Todas as aplicativos e dados nesta sessão vão ser eliminados</string>
+  <string name="guest_exit_guest_dialog_message">Todas as aplicativos e dados nesta sessão serão excluídos</string>
   <string name="guest_exit_guest_dialog_remove">Remover</string>
   <string name="guest_exit_guest_dialog_title">Remover convidado?</string>
   <string name="guest_new_guest">Adicionar convidado</string>
@@ -934,11 +934,11 @@ d 'de' MMMM"</string>
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
   <string name="lockscreen_charging_msg">A carregar</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, as configurações de origem do telefone vão ser repostas e todos os dados do usuário vão ser eliminados</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, as configurações de origem do telefone serão repostas e todos os dados do usuário serão excluídos</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
 
 Tente novamente dentro de %d segundos"</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que vão ser repostas as respectivas configurações de fábrica</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que serão repostas as respectivas configurações de fábrica</string>
   <string name="lockscreen_none">Nenhum</string>
   <string name="lockscreen_shortcut_left">Atalho esquerdo</string>
   <string name="lockscreen_shortcut_right">Atalho direito</string>
@@ -973,7 +973,7 @@ uma captura de tela extensa"</string>
   <string name="menu_ime">Comutador de teclado</string>
   <string name="miui_guide_dialog_button_negative_text">Configurações</string>
   <string name="miui_guide_dialog_button_positive_text">Entendido</string>
-  <string name="miui_guide_dialog_message">Os sons mídias (música, vídeos, etc.) ainda vão ser reproduzido no modo Silêncio. Pode alterar isto nas Configurações</string>
+  <string name="miui_guide_dialog_message">Os sons mídias (música, vídeos, etc.) ainda serão reproduzido no modo Silêncio. Pode alterar isto nas Configurações</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por dispositivo Bluetooth</string>
   <string name="miui_ringer_count_down">Duração</string>
   <string name="miui_ringer_standard">Silêncio</string>
@@ -983,10 +983,10 @@ uma captura de tela extensa"</string>
   <string name="miui_screen_rotation_freeze_message">Rotação auto. desactivada</string>
   <string name="miui_toast_zen_dnd_to_off">Os sons e vibração voltaram ao normal</string>
   <string name="miui_toast_zen_standard_to_off">Os toques voltaram ao normal</string>
-  <string name="miui_toast_zen_standard_to_off_when_shield_media">Os toques, notificações e sons mídias vão ser reproduzidos</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Os toques, notificações e sons mídias serão reproduzidos</string>
   <string name="miui_toast_zen_to_dnd">Os sons e vibração foram silenciados</string>
   <string name="miui_toast_zen_to_standard">Os toques de chamadas e notificações foram silenciados</string>
-  <string name="miui_toast_zen_to_standard_when_shield_media">Os toques, notificações e sons mídias vão ser silenciados</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">Os toques, notificações e sons mídias serão silenciados</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mobile_data">Dados móveis</string>
   <string name="monitoring_description_app">Está associado à aplicação %1$s, que pode monitorar a sua actividade de rede, incluindo emails, aplicativos e sites</string>
@@ -1230,7 +1230,7 @@ Além disso, está ligado a uma VPN, que pode monitorar a sua actividade da rede
   <string name="qs_dnd_replace">Substituir</string>
   <string name="qs_dnd_until">Até %s</string>
   <string name="qs_edit">Editar</string>
-  <string name="qs_open_night_mode_alert_summary">Algumas configurações de tela não são compatíveis com o Modo Escuro. No entanto, elas vão ser restauradas assim que desligar o Modo Escuro</string>
+  <string name="qs_open_night_mode_alert_summary">Algumas configurações de tela não são compatíveis com o Modo Escuro. No entanto, elas serão restauradas assim que desligar o Modo Escuro</string>
   <string name="qs_paging">Utilizar as Configurações rápidas</string>
   <string name="qs_rearrange">Reorganizar as Configurações rápidas</string>
   <string name="quick_settings">Configurações rápidas</string>
@@ -1551,9 +1551,9 @@ Deslize para baixo para bloquear"</string>
   <string name="structure_face_modules_abnormal_btn">Reiniciar</string>
   <string name="structure_face_modules_abnormal_msg">Não é possível gravar dados do rosto devido a um erro do módulo óptico. Reinicie o seu dispositivo e tente novamente</string>
   <string name="structure_face_modules_abnormal_title">Erro do módulo óptico</string>
-  <string name="structure_face_unlock_model2d_dialog_msg">O reconhecimento 3D vai ser desligado. Os dados do rosto 3D vão ser eliminados. Tem de adicionar os seus dados de rosto 2D. Ligar reconhecimento 2D?</string>
+  <string name="structure_face_unlock_model2d_dialog_msg">O reconhecimento 3D vai ser desligado. Os dados do rosto 3D serão excluídos. Tem de adicionar os seus dados de rosto 2D. Ligar reconhecimento 2D?</string>
   <string name="structure_face_unlock_model2d_dialog_title">Ligar reconhecimento 2D</string>
-  <string name="structure_face_unlock_model3d_dialog_msg">O reconhecimento 2D vai ser desligado. Os dados do rosto 2D vão ser eliminados. Tem de adicionar os seus dados de rosto 3D. Ligar reconhecimento 3D?</string>
+  <string name="structure_face_unlock_model3d_dialog_msg">O reconhecimento 2D vai ser desligado. Os dados do rosto 2D serão excluídos. Tem de adicionar os seus dados de rosto 3D. Ligar reconhecimento 3D?</string>
   <string name="structure_face_unlock_model3d_dialog_title">Ligar reconhecimento 3D</string>
   <string name="structure_face_unlock_model_dialog_enable">Ligar</string>
   <string name="structure_face_unlock_model_dialog_notenable">Não, obrigado</string>
@@ -1667,7 +1667,7 @@ Qualquer usuário pode actualizar aplicativos para todos os outros utilizadores"
   <string name="user_logout_notification_text">Terminar sessão do usuário actual</string>
   <string name="user_logout_notification_title">Terminar sessão do usuário</string>
   <string name="user_new_user_name">Novo usuário</string>
-  <string name="user_remove_user_message">Vão ser eliminados todos os dados e todas as aplicativos deste usuário</string>
+  <string name="user_remove_user_message">Vão ser excluídos todos os dados e todas as aplicativos deste usuário</string>
   <string name="user_remove_user_remove">Remover</string>
   <string name="user_remove_user_title">Remover o usuário?</string>
   <string name="v7_preference_off">Desligado</string>

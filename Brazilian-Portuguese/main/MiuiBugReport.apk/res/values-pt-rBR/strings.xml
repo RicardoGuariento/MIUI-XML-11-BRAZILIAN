@@ -30,7 +30,7 @@
   <string name="dialog_ask_quit">Sair</string>
   <string name="discard_draft_dialog_button_cancel">Ficar aqui</string>
   <string name="discard_draft_dialog_button_discard">Rejeitar</string>
-  <string name="discard_draft_dialog_content">Todas as modificações que fez neste relatório vão ser perdidas</string>
+  <string name="discard_draft_dialog_content">Todas as modificações que fez neste relatório serão perdidas</string>
   <string name="discard_draft_dialog_title">Rejeitar rascunho?</string>
   <string name="err_type">Tipo de erro</string>
   <string name="err_type_app">Aplicativos</string>
@@ -262,7 +262,7 @@
   <string name="open_feedback_main">Mais</string>
   <string name="packaging_dialog_content">A criar relatório…</string>
   <string name="pic_not_exist">Esta imagem não existe</string>
-  <string name="plus_one_submit_dialog_content">O seu comentário assim como os relatórios de erros vão ser enviados para os servidores MIUI. Podem conter informações pessoais e dados de localização</string>
+  <string name="plus_one_submit_dialog_content">O seu comentário assim como os relatórios de erros serão enviados para os servidores MIUI. Podem conter informações pessoais e dados de localização</string>
   <string name="plus_one_submit_dialog_not_show_again">Memorizar preferência</string>
   <string name="post_miui_bbs_failed">Não foi possível publicar no fórum MIUI</string>
   <string name="privacy_category_title">Privacidade</string>
@@ -288,8 +288,8 @@
   <string name="select_system_app_tag">Seleccionar um problema</string>
   <string name="submit_dialog_cancel">Não concordar</string>
   <string name="submit_dialog_confirm">Concordar</string>
-  <string name="submit_dialog_content">O seu comentário, assim como os anexos e os registos vão ser enviados para os servidores Mi. Se ocorrer algum erro de rede enquanto estiver a enviar, vai-lhe ser pedido que tente novamente</string>
-  <string name="submit_dialog_content_global">O seu comentário, assim como os anexos e os registos vão ser enviados para os servidores Mi. Se ocorrer algum erro de rede enquanto estiver a enviar, vai-lhe ser pedido que tente novamente</string>
+  <string name="submit_dialog_content">O seu comentário, assim como os anexos e os registos serão enviados para os servidores Mi. Se ocorrer algum erro de rede enquanto estiver a enviar, vai-lhe ser pedido que tente novamente</string>
+  <string name="submit_dialog_content_global">O seu comentário, assim como os anexos e os registos serão enviados para os servidores Mi. Se ocorrer algum erro de rede enquanto estiver a enviar, vai-lhe ser pedido que tente novamente</string>
   <string name="submit_dialog_title">Enviar relatório</string>
   <string name="submit_feedback_info_failed">Não foi possível enviar relatório</string>
   <string name="suggestion_description">Adicionar descrição aqui</string>
@@ -319,13 +319,13 @@
   <string name="toast_feedback_submitting">A enviar…</string>
   <string name="toast_fill_brackets">No relatório está a faltar alguma informação</string>
   <string name="toast_loading_app_id">A obter informações…</string>
-  <string name="toast_log_not_exists">O relatório pretendido foi eliminado ou não existe</string>
+  <string name="toast_log_not_exists">O relatório pretendido foi excluído ou não existe</string>
   <string name="toast_log_too_large">Não é possível carregar. O registo é demasiado grande</string>
   <string name="toast_module_required">Seleccionar item</string>
   <string name="toast_network_unavailable">Erro ao enviar. Não é possível ligar à rede</string>
   <string name="toast_pending_log_collection">Ainda a obter registos…</string>
-  <string name="toast_pic_not_exists">A imagem em cache foi eliminada</string>
-  <string name="toast_post_deleted">Este tópico não existe. Foi eliminado ou editado</string>
+  <string name="toast_pic_not_exists">A imagem em cache foi excluída</string>
+  <string name="toast_post_deleted">Este tópico não existe. Foi excluído ou editado</string>
   <string name="toast_problem_class_required">Seleccionar categoria</string>
   <string name="toast_report_copied_to_clipboard">Copiado para a área de transferências</string>
   <string name="toast_report_sent_failed">Não é possível enviar relatório</string>

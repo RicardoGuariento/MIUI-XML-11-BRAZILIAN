@@ -367,13 +367,13 @@
   <string name="device_not_activiey_lint2">O serviço de correio não funciona em Exchange</string>
   <string name="dialog_account_auto_sync_setting_no_open">Escolher a sincronização manual. Actualize para sincronizar</string>
   <string name="dialog_agree">Concordar</string>
-  <string name="dialog_change_sync_lookback">O email recebido (%s) vai ser eliminado automaticamente. Toque para alterar</string>
+  <string name="dialog_change_sync_lookback">O email recebido (%s) vai ser excluído automaticamente. Toque para alterar</string>
   <string name="dialog_disagree">Não concordar</string>
   <string name="dialog_insufficient_space_on_external">Não foi possível transferir o anexo. Não existe espaço suficiente no armazenamento externo</string>
   <string name="dialog_insufficient_space_on_internal">Não existe espaço suficiente no armazenamento interno</string>
   <string name="dialog_system_auto_sync_account_no_open">Ligue a sincronização da conta para receber emails automaticamente</string>
   <string name="dialog_system_auto_sync_master_no_open">Ligue a sincronização para receber emails automaticamente</string>
-  <string name="disable_admin_warning">AVISO: Desactivar as permissões da aplicação Email para administrar o seu dispositivo, todas as contas de email vinculadas vão ser eliminadas, assim como os emails, contatos, eventos do calendário e outros dados</string>
+  <string name="disable_admin_warning">AVISO: Desactivar as permissões da aplicação Email para administrar o seu dispositivo, todas as contas de email vinculadas serão eliminadas, assim como os emails, contatos, eventos do calendário e outros dados</string>
   <string name="discard">Rejeitar</string>
   <string name="discard_drafts">Rejeitar rascunhos</string>
   <string name="dismiss_tip_hover_text">Dispensar sugestão</string>
@@ -382,7 +382,7 @@
   <string name="done_action">Concluído</string>
   <string name="donot_disturb_endtime_title">Até</string>
   <string name="donot_disturb_starttime_title">De</string>
-  <string name="donot_disturb_summary">As notificações de emails vão ser silenciadas</string>
+  <string name="donot_disturb_summary">As notificações de emails serão silenciadas</string>
   <string name="donot_disturb_title">Não incomodar</string>
   <string name="downlaod_cancel_confirm_download">Parar</string>
   <string name="downlaod_cancel_continue_download">Continuar</string>
@@ -437,9 +437,9 @@
   <string name="feedback_user_edit_hint">Descreva o problema aqui. Vamos enviar-lhe um email após verificação</string>
   <string name="feedback_user_edit_tag">De MIUI </string>
   <string name="fetching_attachment">A obter anexo</string>
-  <string name="file_defailt_save_path">Os anexos vão ser guardados na pasta %s por defeito. Pode alterar a pasta nas Configurações</string>
+  <string name="file_defailt_save_path">Os anexos serão guardados na pasta %s por defeito. Pode alterar a pasta nas Configurações</string>
   <string name="file_default_save_path_title">Localização predefinida dos anexos</string>
-  <string name="file_deleted_success">Ficheiro eliminado</string>
+  <string name="file_deleted_success">Ficheiro excluído</string>
   <string name="file_not_found">Não foi possível encontrar o arquivo</string>
   <string name="file_not_found_redownload">Não foi possível encontrar o arquivo</string>
   <string name="file_rar_not_support">Não é possível abrir arquivos RAR encriptados</string>
@@ -486,7 +486,7 @@
   <string name="folder_trash_name_cn2">[Gmail]/Lixo</string>
   <string name="folder_trash_name_en0">Lixo</string>
   <string name="folder_trash_name_en1">Mensagens eliminadas</string>
-  <string name="folder_trash_name_en2">Mensagem eliminada</string>
+  <string name="folder_trash_name_en2">Mensagem excluída</string>
   <string name="folder_trash_name_en3">[Gmail]/Caixa</string>
   <string name="forever">Sempre</string>
   <string name="formatted_email_address">&lt;%1$s</string>
@@ -643,7 +643,7 @@
   <string name="message_invite_tentative">Talvez</string>
   <string name="message_invite_title">Convite do calendário</string>
   <string name="message_saved">Mensagem guardada como rascunho</string>
-  <string name="message_view_attachment_background_load">Os anexos da sua mensagem reencaminhada vão ser transferidos antes do envio</string>
+  <string name="message_view_attachment_background_load">Os anexos da sua mensagem reencaminhada serão transferidos antes do envio</string>
   <string name="mi_sync_erroe_toast">"Erro de rede: "</string>
   <string name="mi_sync_erroe_toast_other">"Erro de servidor: "</string>
   <string name="mi_sync_erroe_toast_other_details">Erro desconhecido</string>
@@ -749,11 +749,11 @@
   <string name="overlays_title">Abrir permissões das janelas flutuantes</string>
   <string name="parase_setup_data">A obter dados…</string>
   <string name="password_expire_warning_content_title">A palavra-passe do tela de bloqueio está a expirar</string>
-  <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a palavra-passe do seu tela de bloqueio, ou os dados da %s vão ser eliminados. Deseja alterar isso agora?</string>
+  <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a palavra-passe do seu tela de bloqueio, ou os dados da %s serão excluídos. Deseja alterar isso agora?</string>
   <string name="password_expire_warning_dialog_title">A palavra-passe do tela de bloqueio está a expirar</string>
   <string name="password_expire_warning_ticker_fmt">\"%s\" solicita que altere a sua palavra-passe ou PIN do tela de bloqueio</string>
   <string name="password_expired_content_title">A palavra-passe do tela de bloqueio está expirada</string>
-  <string name="password_expired_dialog_content_fmt">Os dados da %s estão a ser eliminados do seu dispositivo. Pode restaurá-los alterando o PIN ou a palavra-passe do seu tela de bloqueio. Deseja alterar agora?</string>
+  <string name="password_expired_dialog_content_fmt">Os dados da %s estão a ser excluídos do seu dispositivo. Pode restaurá-los alterando o PIN ou a palavra-passe do seu tela de bloqueio. Deseja alterar agora?</string>
   <string name="password_expired_dialog_title">A palavra-passe do tela de bloqueio está expirada</string>
   <string name="password_expired_ticker">A sua palavra-passe ou PIN do tela de bloqueio expirou</string>
   <string name="path_about_account_setting">Email/Configurações/Contas</string>
@@ -812,7 +812,7 @@
   <string name="pop3_name">POP3</string>
   <string name="preference_eas_tips">Toque Activar para configurar o servidor de email</string>
   <string name="preference_imap_tips"/>
-  <string name="preference_pop_tips">Em POP3, os anexos vão ser transferidos automaticamente com o email. Isto pode aumentar o consumo de dados móveis</string>
+  <string name="preference_pop_tips">Em POP3, os anexos serão transferidos automaticamente com o email. Isto pode aumentar o consumo de dados móveis</string>
   <string name="preference_sender_image_description">Mostrar fotos de perfil ao lado do nome na caixa de entrada</string>
   <string name="preference_sender_image_title">Mostrar fotos de perfil na caixa de entrada</string>
   <string name="preferences_signature_dialog_title">Assinatura</string>
@@ -942,7 +942,7 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="send_feed_back">Enviar comentários</string>
   <string name="send_feed_back_keywords">Enviar comentários</string>
   <string name="send_mail">Enviar</string>
-  <string name="sender_whitelist_cleared">As imagens não vão ser mostradas automaticamente</string>
+  <string name="sender_whitelist_cleared">As imagens não serão mostradas automaticamente</string>
   <string name="senders_split_token">, </string>
   <string name="sending">A enviar…</string>
   <string name="sending_message">A enviar email…</string>
@@ -1044,7 +1044,7 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="translation_technology_support">Suporte técnico por iciba.com</string>
   <string name="trash_folder_selection_title">Selecione a pasta de lixo do servidor para %s</string>
   <string name="try_exchange_login">Iniciar sessão com EXCHANGE</string>
-  <string name="turn_auto_sync_on_dialog_body">As alterações que faz a todas as aplicativos e contas, não só ao Gmail, vão ser sincronizadas entre a web, os seus dispositivos e o seu %1$s</string>
+  <string name="turn_auto_sync_on_dialog_body">As alterações que faz a todas as aplicativos e contas, não só ao Gmail, serão sincronizadas entre a web, os seus dispositivos e o seu %1$s</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
   <string name="turn_auto_sync_on_dialog_title">Activar sincronização automática?</string>
   <string name="unbind_dialog_text">"O Email não vai mais analizar os seus emails.

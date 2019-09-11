@@ -385,8 +385,8 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="one">%d aplicação bloqueada a aguardar para ser limpa</item>
     </plurals>
     <plurals name="section_security_defend_item_right_tips">
-        <item quantity="other">%d vírus eliminados</item>
-        <item quantity="one">%d vírus eliminado</item>
+        <item quantity="other">%d vírus excluídos</item>
+        <item quantity="one">%d vírus excluído</item>
     </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>

@@ -147,7 +147,7 @@ A poupança de bateria desliga-se automaticamente quando o dispositivo está a c
   <string name="candidates_style"><u>Candidatos</u></string>
   <string name="capability_desc_canCaptureFingerprintGestures">Pode capturar gestos realizados no dispositivo</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Inclui dados pessoais, como números de cartão de crédito e palavras-passe</string>
-  <string name="capability_desc_canRequestTouchExploration">Os itens tocados vão ser ditos em voz alta e o tela pode ser explorado através de gestos</string>
+  <string name="capability_desc_canRequestTouchExploration">Os itens tocados serão ditos em voz alta e o tela pode ser explorado através de gestos</string>
   <string name="capability_desc_canRetrieveWindowContent">Inspeccionar o conteúdo de uma janela com a qual está a interagir</string>
   <string name="capability_title_canRequestEnhancedWebAccessibility">Ligar a acessibilidade web melhorada</string>
   <string name="capability_title_canRequestFilterKeyEvents">Observar texto que escrever</string>
@@ -218,7 +218,7 @@ utilizando %s"</string>
   <string name="default_notification_channel_label">Sem categoria</string>
   <string name="delete">excluir</string>
   <string name="deleteText">excluir</string>
-  <string name="deleted_key">%1$s eliminado</string>
+  <string name="deleted_key">%1$s excluído</string>
   <string name="deny">Recusar</string>
   <string name="deny_button">Recusar</string>
   <string name="description_target_unlock_tablet">Deslizar para desbloquear</string>
@@ -233,7 +233,7 @@ utilizando %s"</string>
   <string name="display_manager_overlay_display_name">Sobreposição #%1$d</string>
   <string name="display_manager_overlay_display_secure_suffix">, protegido</string>
   <string name="display_manager_overlay_display_title">%1$s: %2$dx%3$d, %4$d dpi</string>
-  <string name="dlg_confirm_kill_storage_users_text">Se ligar o armazenamento USB, algumas aplicativos que estiver a utilizar vão ser paradas e poderão ficar indisponíveis até desligar o armazenamento USB</string>
+  <string name="dlg_confirm_kill_storage_users_text">Se ligar o armazenamento USB, algumas aplicativos que estiver a utilizar serão paradas e poderão ficar indisponíveis até desligar o armazenamento USB</string>
   <string name="dlg_confirm_kill_storage_users_title">Ligar armazenamento USB</string>
   <string name="dlg_error_title">Operação USB sem sucesso</string>
   <string name="dlg_ok">OK</string>
@@ -308,10 +308,10 @@ utilizando %s"</string>
   <string name="ext_media_unsupported_notification_message">O dispositivo não suporta este %s. Toque para configurar num formato suportado</string>
   <string name="ext_media_unsupported_notification_title">%s não suportado</string>
   <string name="faceunlock_multiple_failures">Excedido o n.º máximo de tentativas de desbloqueio através do rosto</string>
-  <string name="factory_reset_message">"A aplicação de administração tem componentes em falta ou corrompidos e não podem ser utilizados. O seu dispositivo vai ser agora eliminado.
+  <string name="factory_reset_message">"A aplicação de administração tem componentes em falta ou corrompidos e não podem ser utilizados. O seu dispositivo vai ser agora excluído.
 
   Contacte o seu administrador para obter assistência"</string>
-  <string name="factory_reset_warning">O seu dispositivo vai ser eliminado</string>
+  <string name="factory_reset_warning">O seu dispositivo vai ser excluído</string>
   <string name="factorytest_failed">O teste de fábrica falhou</string>
   <string name="factorytest_no_action">Não foi localizado qualquer pacote que forneça a acção FACTORY_TEST</string>
   <string name="factorytest_not_system">A acção FACTORY_TEST apenas é suportada para pacotes instalados em /system/app</string>
@@ -466,7 +466,7 @@ Tem a certeza de que deseja sair desta página?"</string>
   <string name="keyguard_accessibility_user_selector">Selecção de usuário</string>
   <string name="keyguard_accessibility_widget">%1$s widget</string>
   <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d de %3$d</string>
-  <string name="keyguard_accessibility_widget_deleted">Widget %1$s eliminado</string>
+  <string name="keyguard_accessibility_widget_deleted">Widget %1$s excluído</string>
   <string name="keyguard_accessibility_widget_empty_slot">Vazio</string>
   <string name="keyguard_accessibility_widget_reorder_end">Reordenação de widgets concluída</string>
   <string name="keyguard_accessibility_widget_reorder_start">Reordenação de widgets iniciada</string>
@@ -483,7 +483,7 @@ Tem a certeza de que deseja sair desta página?"</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone através de uma conta de email.
 
 Tente novamente dentro de %d segundos"</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativas sem sucesso, as configurações de origem do telefone vão ser repostas e todos os dados do usuário vão ser perdidos</string>
+  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativas sem sucesso, as configurações de origem do telefone serão repostas e todos os dados do usuário serão perdidos</string>
   <string name="kg_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que vai ser reposta a predefinição de fábrica</string>
   <string name="kg_forgot_pattern_button_text">Esqueceu o padrão?</string>
   <string name="kg_invalid_confirm_pin_hint">Códigos PIN não coincidem</string>
@@ -551,11 +551,11 @@ Para soltar, toque e segure os botões Início e Ligar/Desligar ao mesmo tempo"<
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
   <string name="lockscreen_emergency_call">Chamada de emergência</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativa(s) sem sucesso, as configurações de origem do telefone vão ser repostas e todos os dados do usuário vão ser eliminados</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativa(s) sem sucesso, as configurações de origem do telefone serão repostas e todos os dados do usuário serão excluídos</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
 
 Tente novamente dentro de %d segundos"</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que vão ser repostas as respectivas configurações de fábrica</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que serão repostas as respectivas configurações de fábrica</string>
   <string name="lockscreen_forgot_pattern_button_text">Esqueceu o padrão?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Esqueceu o nome de usuário ou a palavra-passe?
 Visite <b>google.com/accounts/recovery</b>"</string>
@@ -1022,7 +1022,7 @@ para a conta %s"</string>
   <string name="quick_contacts_not_available">Sem aplicativos para ver este contacto</string>
   <string name="reason_service_unavailable">Serviço de impressão não ativado</string>
   <string name="reason_unknown">desconhecido</string>
-  <string name="reboot_safemode_confirm">Quer reiniciar no modo de segurança? Isto vai desactivar todas as aplicativos de terceiros instaladas. Estas vão ser restauradas quando reiniciar novamente</string>
+  <string name="reboot_safemode_confirm">Quer reiniciar no modo de segurança? Isto vai desactivar todas as aplicativos de terceiros instaladas. Estas serão restauradas quando reiniciar novamente</string>
   <string name="reboot_safemode_title">Reiniciar no modo de segurança</string>
   <string name="reboot_to_reset_message">A reiniciar…</string>
   <string name="reboot_to_reset_title">Reposição de dados de fábrica</string>
@@ -1199,7 +1199,7 @@ Ouvir níveis elevados de volume durante longos períodos pode ser prejudicial p
   <string name="sync_do_nothing">Não fazer nada por agora</string>
   <string name="sync_really_delete">excluir os itens</string>
   <string name="sync_too_many_deletes">Limite de eliminações excedido</string>
-  <string name="sync_too_many_deletes_desc">Há %1$d itens eliminados de %2$s, conta %3$s. O que pretende fazer?</string>
+  <string name="sync_too_many_deletes_desc">Há %1$d itens excluídos de %2$s, conta %3$s. O que pretende fazer?</string>
   <string name="sync_undo_deletes">Anular as eliminações</string>
   <string name="system_error_manufacturer">Existe um problema interno no seu dispositivo. Contacte o fabricante para obter mais informações</string>
   <string name="system_error_wipe_data">Existe um problema interno no seu dispositivo e pode ficar instável até efectuar uma reposição de dados de fábrica</string>
@@ -1345,10 +1345,10 @@ Pretende fechá-la?"</string>
   <string name="wireless_display_route_description">Visualização sem fios</string>
   <string name="work_mode_off_message">Isto vai ligar o seu perfil de trabalho, incluindo as aplicativos, a sincronização em segundo plano e as funcionalidades relacionadas</string>
   <string name="work_mode_off_title">Ligar o modo de trabalho?</string>
-  <string name="work_profile_deleted">Perfil de trabalho eliminado</string>
-  <string name="work_profile_deleted_description">Perfil de trabalho eliminado devido o aplicativo de administração em falta</string>
+  <string name="work_profile_deleted">Perfil de trabalho excluído</string>
+  <string name="work_profile_deleted_description">Perfil de trabalho excluído devido o aplicativo de administração em falta</string>
   <string name="work_profile_deleted_description_dpm_wipe">O seu perfil de trabalho já não está disponível neste dispositivo</string>
-  <string name="work_profile_deleted_details">A aplicação de administração do perfil de trabalho está em falta ou corrompida. Consequentemente, o seu perfil de trabalho e os dados relacionados foram eliminados. Contacte o seu administrador para obter assistência</string>
+  <string name="work_profile_deleted_details">A aplicação de administração do perfil de trabalho está em falta ou corrompida. Consequentemente, o seu perfil de trabalho e os dados relacionados foram excluídos. Contacte o seu administrador para obter assistência</string>
   <string name="write_fail_reason_cancelled">Cancelado</string>
   <string name="write_fail_reason_cannot_write">Erro ao escrever conteúdo</string>
   <string name="year">ano</string>

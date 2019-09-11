@@ -107,14 +107,14 @@
   <string name="devicePerms">Acesso ao dispositivo</string>
   <string name="dlg_app_replacement_statement">"A aplicação que está a instalar vai substituir outra aplicação.
 
-Todos os dados existentes da aplicação vão ser guardados"</string>
-  <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) vai substituir a versão instalada actualmente (%3$s). Todos os dados existentes da aplicação vão ser guardados</string>
+Todos os dados existentes da aplicação serão guardados"</string>
+  <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) vai substituir a versão instalada actualmente (%3$s). Todos os dados existentes da aplicação serão guardados</string>
   <string name="dlg_app_replacement_title">Substituir aplicação?</string>
   <string name="dlg_appstore_notice">Não conseguimos verificar a autenticidade da segurança os aplicativos de fontes fora da <u><font color="#91c727">App Store</font></u></string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"É uma aplicação de sistema. Ainda a quer substituir?
 
-Todos os dados existentes da aplicação vão ser guardados"</string>
+Todos os dados existentes da aplicação serão guardados"</string>
   <string name="done">Concluído</string>
   <string name="grant_confirm_question">Quer conceder as seguintes permissões? Vai ter acesso a:</string>
   <string name="grant_dialog_button_allow">Permitir</string>
@@ -125,10 +125,10 @@ Todos os dados existentes da aplicação vão ser guardados"</string>
   <string name="install">Instalar</string>
   <string name="install_confirm_question">Pretende instalar esta aplicação? Vai ter acesso a:</string>
   <string name="install_confirm_question_no_perms">Pretende instalar esta aplicação? Não requer qualquer acesso especial</string>
-  <string name="install_confirm_question_update">Pretende instalar uma actualização para o aplicativo existente? Os dados existentes não vão ser perdidos. A aplicação actualizada vai ter acesso a:</string>
-  <string name="install_confirm_question_update_no_perms">Pretende instalar uma actualização para o aplicativo existente? Os dados existentes não vão ser perdidos. Não é necessário um acesso específico</string>
-  <string name="install_confirm_question_update_system">Pretende instalar uma actualização para o aplicativo existente? Os dados existentes não vão ser perdidos. A aplicação actualizada vai ter acesso a:</string>
-  <string name="install_confirm_question_update_system_no_perms">Pretende instalar uma actualização para o aplicativo integrada? Os dados existentes não vão ser perdidos. Não é necessário um acesso específico</string>
+  <string name="install_confirm_question_update">Pretende instalar uma actualização para o aplicativo existente? Os dados existentes não serão perdidos. A aplicação actualizada vai ter acesso a:</string>
+  <string name="install_confirm_question_update_no_perms">Pretende instalar uma actualização para o aplicativo existente? Os dados existentes não serão perdidos. Não é necessário um acesso específico</string>
+  <string name="install_confirm_question_update_system">Pretende instalar uma actualização para o aplicativo existente? Os dados existentes não serão perdidos. A aplicação actualizada vai ter acesso a:</string>
+  <string name="install_confirm_question_update_system_no_perms">Pretende instalar uma actualização para o aplicativo integrada? Os dados existentes não serão perdidos. Não é necessário um acesso específico</string>
   <string name="install_done">Aplicação instalada</string>
   <string name="install_failed">Não foi possível instalar o aplicativo</string>
   <string name="install_failed_blocked">A instalação do pacote foi bloqueada</string>
@@ -229,7 +229,7 @@ Todos os dados existentes da aplicação vão ser guardados"</string>
   <string name="miui_solution_msg">Solução</string>
   <string name="miui_uninstall_success">Desinstalado com sucesso</string>
   <string name="miui_uninstalling">A desinstalar…</string>
-  <string name="miui_virus_deleted">Vírus eliminado(s) com sucesso</string>
+  <string name="miui_virus_deleted">Vírus excluído(s) com sucesso</string>
   <string name="miui_virus_install"><u>Instalar mesmo assim</u></string>
   <string name="miui_virus_scanning">A verificar…</string>
   <string name="miui_virus_title">Alto risco</string>
@@ -294,7 +294,7 @@ Todos os dados existentes da aplicação vão ser guardados"</string>
   <string name="uninstall_activity_text">%1$s faz parte da seguinte aplicação:</string>
   <string name="uninstall_all_blocked_profile_owner">Este aplicativo é necessária para alguns utilizadores ou perfis e foi desinstalada para outros</string>
   <string name="uninstall_application_text">Pretende desinstalar esta aplicação?</string>
-  <string name="uninstall_application_text_all_users">Pretende desinstalar esta aplicação para "<b>"todos"</b>" os utilizadores? A aplicação e os respectivos dados vão ser removidos de "<b>"todos"</b>" os utilizadores do dispositivo</string>
+  <string name="uninstall_application_text_all_users">Pretende desinstalar esta aplicação para "<b>"todos"</b>" os utilizadores? A aplicação e os respectivos dados serão removidos de "<b>"todos"</b>" os utilizadores do dispositivo</string>
   <string name="uninstall_application_text_user">Pretende desinstalar esta aplicação para o usuário %1$s?</string>
   <string name="uninstall_application_title">Desinstalar o aplicativo</string>
   <string name="uninstall_blocked_device_owner">Este aplicativo é exigida pelo administrador do disp. e não pode ser desinstalada</string>
@@ -306,8 +306,8 @@ Todos os dados existentes da aplicação vão ser guardados"</string>
   <string name="uninstall_failed_device_policy_manager_of_user">Não é possível desinstalar porque este pacote é um admin. de disp. activo para o usuário %1$s</string>
   <string name="uninstall_failed_msg">Não foi possível desinstalar %1$s</string>
   <string name="uninstall_failed_retained_app_msg">Este aplicativo foi modifica e não pode ser desinstalada</string>
-  <string name="uninstall_update_text">Substituir esta aplicação pela versão de fábrica? Todos os dados vão ser removidos</string>
-  <string name="uninstall_update_text_multiuser">Substituir esta aplicação pela versão de fábrica? Todos os dados vão ser removidos. Isto vai afectar todos os utilizadores deste dispositivo</string>
+  <string name="uninstall_update_text">Substituir esta aplicação pela versão de fábrica? Todos os dados serão removidos</string>
+  <string name="uninstall_update_text_multiuser">Substituir esta aplicação pela versão de fábrica? Todos os dados serão removidos. Isto vai afectar todos os utilizadores deste dispositivo</string>
   <string name="uninstall_update_title">Desinstalar actualização</string>
   <string name="uninstalling">A desinstalar…</string>
   <string name="unknown">Desconhecido</string>

@@ -39,7 +39,7 @@
   <string name="copy_preparing">A preparar para copiar…</string>
   <string name="copy_remaining">%s restantes</string>
   <string name="create_error">Erro ao criar a pasta</string>
-  <string name="delete_failure_alert_content">Estes arquivos não foram eliminados: %1$s</string>
+  <string name="delete_failure_alert_content">Estes arquivos não foram excluídos: %1$s</string>
   <string name="delete_filename_confirmation_message">excluir \"%1$s\"?</string>
   <string name="delete_foldername_confirmation_message">excluir pasta \"%1$s\" e o seu conteúdo?</string>
   <string name="delete_notification_title">A excluir arquivos</string>

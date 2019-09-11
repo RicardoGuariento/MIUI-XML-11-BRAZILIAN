@@ -277,7 +277,7 @@
   <string name="cleaner_similar_description">excluir fotos duplicadas</string>
   <string name="cleaner_similar_title">Fotos duplicadas</string>
   <string name="cleaner_slim_action">Iniciar optimização…</string>
-  <string name="cleaner_slim_description">Mantenha as fotos optimizadas no seu dispositivo. Os arquivos originais vão ser armazenados na Xiaomi Cloud</string>
+  <string name="cleaner_slim_description">Mantenha as fotos optimizadas no seu dispositivo. Os arquivos originais serão armazenados na Xiaomi Cloud</string>
   <string name="cleaner_slim_start">Optimizar</string>
   <string name="cleaner_slim_title">Optimizar fotos</string>
   <string name="cleaner_space_description">Podem ser limpos</string>
@@ -349,7 +349,7 @@
   <string name="confirm_not_face">Sem correspondências</string>
   <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Tem a certeza que este é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Esta pessoa vai ser movida para o álbum \"%2$s\" após confirmação. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Certeza que este não é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Tem a certeza que estes são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Estas pessoas vão ser movidas para o álbum \"%2$s\" após confirmação. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Tem a certeza que estes são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Estas pessoas serão movidas para o álbum \"%2$s\" após confirmação. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Tem a certeza que estes não são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="contact_tip">Contacto</string>
   <string name="context_menu_add_contact">Adicionar aos contatos</string>
@@ -382,7 +382,7 @@
   <string name="delete">excluir</string>
   <string name="delete_album_failed">Não foi possível excluir álbum</string>
   <string name="delete_album_msg_format">excluir álbum \"%2$s\" %1$s %3$s?</string>
-  <string name="delete_album_success">Álbum eliminado</string>
+  <string name="delete_album_success">Álbum excluído</string>
   <string name="delete_from_all_devices_and_cloud">de todos os dispositivos e da Xiaomi Cloud</string>
   <string name="delete_from_cloud">excluir itens da Xiaomi Cloud</string>
   <string name="delete_from_devices">Todos os dispositivos sincronizados</string>
@@ -390,8 +390,8 @@
   <string name="delete_from_homepage_album">Álbuns mostrados na Galeria</string>
   <string name="delete_from_this_album_and_cloud">deste álbum e da Xiaomi Cloud</string>
   <string name="delete_from_web">Álbuns web</string>
-  <string name="delete_in_album">Quando excluir fotos ou vídeos de um álbum também vão ser eliminados de:</string>
-  <string name="delete_in_home_page">Quando excluir uma foto ou vídeo da Galeria também vão ser eliminados de:</string>
+  <string name="delete_in_album">Quando excluir fotos ou vídeos de um álbum também serão excluídos de:</string>
+  <string name="delete_in_home_page">Quando excluir uma foto ou vídeo da Galeria também serão excluídos de:</string>
   <string name="delete_in_process">A excluir…</string>
   <string name="delete_origin">excluir itens do álbum original</string>
   <string name="delete_other_shared_images">Não é possível excluir fotos partilhadas por outras pessoas</string>
@@ -1069,7 +1069,7 @@ para personalizar a galeria"</string>
   <string name="play_video_desc">Reproduzir vídeo</string>
   <string name="preparing_data">Aguarde…</string>
   <string name="print_log">Imprimir registo</string>
-  <string name="privacy_permission_request_message">A Galeria necessita de acessar %3$s. As informações que obtemos vão ser utilizadas de acordo com a nossa %1$s e %2$s. Permitir?</string>
+  <string name="privacy_permission_request_message">A Galeria necessita de acessar %3$s. As informações que obtemos serão utilizadas de acordo com a nossa %1$s e %2$s. Permitir?</string>
   <string name="privacy_permission_request_negative">Restringir</string>
   <string name="privacy_permission_request_positive">Permitir</string>
   <string name="privacy_permission_request_title">Permissões necessárias</string>
@@ -1299,7 +1299,7 @@ para personalizar a galeria"</string>
   <string name="slim_cost_time_minute">%dm restantes</string>
   <string name="slim_cost_time_minute_and_second">%1$dm %2$ds restantes</string>
   <string name="slim_cost_time_second">%ds restantes</string>
-  <string name="slim_description_dialog_detail">Reduza o tamanho das suas fotos. Os arquivos originais vão ser armazenados na Xiaomi Cloud</string>
+  <string name="slim_description_dialog_detail">Reduza o tamanho das suas fotos. Os arquivos originais serão armazenados na Xiaomi Cloud</string>
   <string name="slim_description_dialog_ok">Entendido</string>
   <string name="slim_description_dialog_slim_after">"Depois:  167KB"</string>
   <string name="slim_description_dialog_slim_before">"Antes:  3.07MB"</string>

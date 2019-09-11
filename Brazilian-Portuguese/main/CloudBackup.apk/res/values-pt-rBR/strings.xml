@@ -53,14 +53,14 @@
   <string name="cloud_app_restore_success">Aplicativos restauradas</string>
   <string name="cloud_app_restore_wifi_prompt">Restaurar de uma cópia da Xiaomi Cloud</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Estes dados vão ser copiados para a Xiaomi Cloud quando o dispositivo estiver ligado ao Wi-Fi: 
+  <string name="cloud_back_up_detail_discription">"Estes dados serão copiados para a Xiaomi Cloud quando o dispositivo estiver ligado ao Wi-Fi: 
 
 * Aplicativos, disposição inicial do tela e papéis de parede 
 * Alarmes e configurações de horas 
 * Configurações das notificações 
 * Configurações MIUI e do sistema
  
-Nota: Os dados os aplicativos que instalou não vão ser copiados para a Xiaomi Cloud"</string>
+Nota: Os dados os aplicativos que instalou não serão copiados para a Xiaomi Cloud"</string>
   <string name="cloud_back_up_frequence_choice_title">Programação de cópias</string>
   <string name="cloud_back_up_frequence_long">A cada 7 dias</string>
   <string name="cloud_back_up_frequence_short">Todos os dias</string>
@@ -90,7 +90,7 @@ Nota: Os dados os aplicativos que instalou não vão ser copiados para a Xiaomi 
   <string name="confirm_cancel_restore_positive">Continuar</string>
   <string name="confirm_cancel_restore_title">Cancelar restauro?</string>
   <string name="confirm_restore">Restaurar</string>
-  <string name="confirm_restore_summary">O tela inicial vai reiniciar. As aplicativos copiadas vão ser transferidas automaticamente</string>
+  <string name="confirm_restore_summary">O tela inicial vai reiniciar. As aplicativos copiadas serão transferidas automaticamente</string>
   <string name="confirm_restore_title">Restaurar</string>
   <string name="customization"><u>Personalizar</u></string>
   <string name="date_format">dd/mm/yyyy</string>
@@ -138,9 +138,9 @@ Nota: Os dados os aplicativos que instalou não vão ser copiados para a Xiaomi 
   <string name="miui_device_name">Android</string>
   <string name="msg_alert_cancel_restore">A restaurar itens. Parar agora?</string>
   <string name="msg_alert_restore_error">Não foi possível restaurar os itens da Xiaomi Cloud. Tente novamente</string>
-  <string name="msg_restore_start_with_metered_network">"O tela inicial vai reiniciar. As aplicativos copiadas vão ser transferidas automaticamente. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s de arquivos vão ser transferidos&lt;/font&gt;&lt;/b&gt;"</string>
-  <string name="msg_restore_with_metered_network_hint">Se restaurar estes itens, vão ser utilizados dados móveis</string>
-  <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; de arquivos vão ser transferidos"</string>
+  <string name="msg_restore_start_with_metered_network">"O tela inicial vai reiniciar. As aplicativos copiadas serão transferidas automaticamente. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s de arquivos serão transferidos&lt;/font&gt;&lt;/b&gt;"</string>
+  <string name="msg_restore_with_metered_network_hint">Se restaurar estes itens, serão utilizados dados móveis</string>
+  <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; de arquivos serão transferidos"</string>
   <string name="network_error">Ligue-se à rede</string>
   <string name="no_account">Sem sessão iniciada na Conta Mi</string>
   <string name="no_backup">Sem cópias na Xiaomi Cloud</string>
@@ -157,7 +157,7 @@ Nota: Os dados os aplicativos que instalou não vão ser copiados para a Xiaomi 
   <string name="provision_error_connect_msg">Teste a rede e tente novamente. As cópias não estão disponíveis quando o seu dispositivo está offline</string>
   <string name="provision_error_connect_title">Não é possível ligar à rede</string>
   <string name="provision_restore_data">A restaurar itens</string>
-  <string name="query_restore_description">Restaurar aplicativos do tela inicial e configurações utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicativos duplicadas já instaladas neste dispositivo. Aplicativos não incluídas na cópia vão ser movidas para o último tela inicial</string>
+  <string name="query_restore_description">Restaurar aplicativos do tela inicial e configurações utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicativos duplicadas já instaladas neste dispositivo. Aplicativos não incluídas na cópia serão movidas para o último tela inicial</string>
   <string name="query_restore_summary">Encontrou uma cópia da Xiaomi Cloud para este dispositivo. Restaurar aplicativos do tela inicial e configurações ou utilizá-la como um novo dispositivo e excluir as cópias da Xiaomi Cloud anteriores?</string>
   <string name="recover_home_settings">Restaurar configurações do tela inicial</string>
   <string name="recover_miui_settings">Restaurar configurações de sistema</string>

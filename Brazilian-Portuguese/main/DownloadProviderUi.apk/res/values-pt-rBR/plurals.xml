@@ -6,7 +6,7 @@
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
         <item quantity="other">%s transferências eliminadas</item>
-        <item quantity="one">%s transferência eliminada</item>
+        <item quantity="one">%s transferência excluída</item>
     </plurals>
     <plurals name="sniff_find_resource">
         <item quantity="other">Encontrou %d itens</item>

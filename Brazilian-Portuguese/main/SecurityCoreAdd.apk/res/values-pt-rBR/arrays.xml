@@ -6,13 +6,13 @@
         <item>Utilizado em ambos os espaços</item>
     </string-array>
     <string-array name="switch_apps_title_confirms">
-        <item>Os dados da aplicação vão ser perdidos</item>
-        <item>Os dados da aplicação vão ser perdidos</item>
+        <item>Os dados da aplicação serão perdidos</item>
+        <item>Os dados da aplicação serão perdidos</item>
         <item>Atenção</item>
     </string-array>
     <string-array name="switch_apps_msg_confirms">
-        <item>Os dados da aplicação vão ser perdidos após mover as aplicativos para o Primeiro espaço</item>
-        <item>Os dados da aplicação vão ser perdidos após mover as aplicativos para o espaço actual</item>
+        <item>Os dados da aplicação serão perdidos após mover as aplicativos para o Primeiro espaço</item>
+        <item>Os dados da aplicação serão perdidos após mover as aplicativos para o espaço actual</item>
         <item>As aplicativos são utilizadas em ambos os espaços</item>
     </string-array>
     <string-array name="choose_ask_type">

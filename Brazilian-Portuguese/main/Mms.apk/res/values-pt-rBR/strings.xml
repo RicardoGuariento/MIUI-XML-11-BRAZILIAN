@@ -58,9 +58,9 @@
   <string name="batch_deleting_progress_message">A excluir…</string>
   <string name="bcc_label">"Bcc: "</string>
   <string name="block_messaging_entry_title">SMS bloqueadas</string>
-  <string name="block_number_message">Este número de telefone vai ser adicionado à lista de bloqueio. Todas as mensagens enviadas deste número vão ser bloqueadas</string>
+  <string name="block_number_message">Este número de telefone vai ser adicionado à lista de bloqueio. Todas as mensagens enviadas deste número serão bloqueadas</string>
   <string name="block_support_text">Fornecido por Antiy</string>
-  <string name="block_tag_message">Todas as mensagens enviadas de %s vão ser bloqueadas</string>
+  <string name="block_tag_message">Todas as mensagens enviadas de %s serão bloqueadas</string>
   <string name="bookmark">Favoritos</string>
   <string name="bookmark_confirm_delete_message">Remover mensagens selecionadas dos favoritos?</string>
   <string name="bookmark_empty">Sem favoritos</string>
@@ -105,7 +105,7 @@
   <string name="confirm_delete_message">excluir esta mensagem?</string>
   <string name="confirm_dialog_locked_title">excluir mensagem bloqueada?</string>
   <string name="confirm_dialog_title">excluir</string>
-  <string name="confirm_dlg__msg">Aviso CMCC: CMCC pós-serviço gratuito não vão ser fornecidas, se cancelar. Cancelar mesmo assim?</string>
+  <string name="confirm_dlg__msg">Aviso CMCC: CMCC pós-serviço gratuito não serão fornecidas, se cancelar. Cancelar mesmo assim?</string>
   <string name="confirm_dlg_title">Gestão de dispositivos</string>
   <string name="confirm_export_dialog_description">As conversas anteriores com este contacto não vão mais ser mais ocultadas</string>
   <string name="confirm_export_dialog_title">Remover dos contatos privados</string>
@@ -154,7 +154,7 @@
   <string name="delete_verification_code_sms_message">excluir todas as OTPs?</string>
   <string name="delete_verification_code_sms_title">excluir OTPs</string>
   <string name="delete_wild_sims">excluir números</string>
-  <string name="delete_wild_sims_confirm">Todas as mensagens pertencentes aos números selecionados vão ser eliminadas deste telefone. Pode restaurá-las em i.mi.com</string>
+  <string name="delete_wild_sims_confirm">Todas as mensagens pertencentes aos números selecionados serão eliminadas deste telefone. Pode restaurá-las em i.mi.com</string>
   <string name="delete_wild_sims_title">excluir números selecionados</string>
   <string name="delivery_report_activity">Relatório de entrega</string>
   <string name="delivery_toast_body">Mensagem recebida por %s</string>
@@ -242,13 +242,13 @@
   <string name="group_member_is_composing">A escrever…</string>
   <string name="group_message">Mensagem de grupo</string>
   <string name="group_message_title">Mensagens de grupo</string>
-  <string name="group_not_exist_hint">Não é possível enviar mensagens de grupo. Este grupo foi eliminado</string>
+  <string name="group_not_exist_hint">Não é possível enviar mensagens de grupo. Este grupo foi excluído</string>
   <string name="group_notify_message_title">Notificações de mensagens de grupo</string>
   <string name="group_rejoin_failed">Não é possível juntar-se ao grupo</string>
   <string name="group_resend_message">Reenviar (%d)</string>
   <string name="group_verification_codes_summary">Agrupar mensagens OTP automaticamente</string>
   <string name="group_verification_codes_title">Agrupar mensagens OTP</string>
-  <string name="group_view_settings_disolved">Não é possível ver itens. Este grupo foi eliminado</string>
+  <string name="group_view_settings_disolved">Não é possível ver itens. Este grupo foi excluído</string>
   <string name="group_view_settings_not_memeber">Não é possível ver itens. Não é um membro deste grupo</string>
   <string name="guild_add_attachments">Toque para adicionar emoticons e outros itens</string>
   <string name="guild_add_recipients">Toque para adicionar destinatários dos contatos</string>
@@ -329,7 +329,7 @@
   <string name="messagelist_sender_self">Eu</string>
   <string name="messaging">Mensagens</string>
   <string name="mms">MMS</string>
-  <string name="mms_block_alert_message">Todas as MMS, excepto as mensagens enviadas de remetentes autorizados, vão ser bloqueadas</string>
+  <string name="mms_block_alert_message">Todas as MMS, excepto as mensagens enviadas de remetentes autorizados, serão bloqueadas</string>
   <string name="mms_block_alert_ok">Bloquear</string>
   <string name="mms_block_alert_title">Bloquear MMS</string>
   <string name="mms_block_hint">"Este remetente não está nos seus contatos.
@@ -446,7 +446,7 @@ Esta mensagem pode não ser solicitada"</string>
   <string name="over_max_mms_size">A MMS é demasiado grande</string>
   <string name="overwrite_edited_content">O conteúdo que editou vai ser substituído</string>
   <string name="packages_select_sim_cards_title">Seleccionar cartão SIM</string>
-  <string name="phrase_confirm_delete_message">A resposta vai ser eliminada</string>
+  <string name="phrase_confirm_delete_message">A resposta vai ser excluída</string>
   <string name="phrase_empty">Sem respostas</string>
   <string name="phrase_from">De %1s</string>
   <string name="phrase_list_title">Respostas rápidas</string>
@@ -582,7 +582,7 @@ Esta mensagem pode não ser solicitada"</string>
   <string name="rms_audio_file_duration_too_long">Não é possível enviar áudio maior que 180 segundos</string>
   <string name="rms_audio_file_length_too_large">Não é possível enviar áudio maior que %1$dMB</string>
   <string name="rms_file_not_exist">O arquivo não existe</string>
-  <string name="rms_file_not_exist_to_view">Este arquivo foi movido ou eliminado</string>
+  <string name="rms_file_not_exist_to_view">Este arquivo foi movido ou excluído</string>
   <string name="rms_illegal_extension">Formato de arquivo inválido</string>
   <string name="rms_normal_file_length_too_large">Não é possível enviar arquivos maiores que %1$dMB</string>
   <string name="rms_original_image_length_too_large">Não é possível enviar imagens maiores que %1$dMB"</string>

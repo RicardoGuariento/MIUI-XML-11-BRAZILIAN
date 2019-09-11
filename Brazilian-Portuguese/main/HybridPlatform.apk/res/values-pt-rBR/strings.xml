@@ -34,7 +34,7 @@
   <string name="app_manager_app_version_name">"Versão: "</string>
   <string name="app_manager_cache_size">Cache</string>
   <string name="app_manager_card_permission_title">Permissões</string>
-  <string name="app_manager_clear_data_dlg_message">Todos os dados da aplicação, incluindo arquivos, configurações, contas e cache vão ser eliminados permanentemente</string>
+  <string name="app_manager_clear_data_dlg_message">Todos os dados da aplicação, incluindo arquivos, configurações, contas e cache serão excluídos permanentemente</string>
   <string name="app_manager_clear_data_dlg_title">excluir todos os dados?</string>
   <string name="app_manager_code_size">Tamanho da aplicação</string>
   <string name="app_manager_data_size">Dados</string>

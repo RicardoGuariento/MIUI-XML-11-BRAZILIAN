@@ -69,8 +69,8 @@
         <item quantity="one">Limpar %1$d vídeo?</item>
     </plurals>
     <plurals name="video_history_clear_info">
-        <item quantity="other">%1$d itens eliminados do histórico.</item>
-        <item quantity="one">%1$d item eliminado do histórico.</item>
+        <item quantity="other">%1$d itens excluídos do histórico.</item>
+        <item quantity="one">%1$d item excluído do histórico.</item>
     </plurals>
     <plurals name="video_history_clear_prompt">
         <item quantity="other">excluir %1$d itens do histórico?</item>

@@ -78,11 +78,11 @@
         <item quantity="one">%1$d item</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%1$d fotos de %2$s vão ser adicionadas</item>
+        <item quantity="other">%1$d fotos de %2$s serão adicionadas</item>
         <item quantity="one">%1$d foto de %2$s vai ser adicionada</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d fotos de %2$s vão ser adicionadas</item>
+        <item quantity="other">%1$d fotos de %2$s serão adicionadas</item>
         <item quantity="one">%1$d foto de %2$s vai ser adicionada</item>
     </plurals>
     <plurals name="backup_after_hours">
@@ -154,8 +154,8 @@
         <item quantity="one">excluir %d foto de Xiaomi Cloud e deste dispositivo?</item>
     </plurals>
     <plurals name="delete_finish_format">
-        <item quantity="other">%d itens eliminados</item>
-        <item quantity="one">%d item eliminado</item>
+        <item quantity="other">%d itens excluídos</item>
+        <item quantity="one">%d item excluído</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
         <item quantity="other">excluir %d itens de todos os dispositivos e Xiaomi Cloud?</item>

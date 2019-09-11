@@ -83,7 +83,7 @@
   <string name="general_btn_follow_ok">Seguidos</string>
   <string name="general_cancel_favorite_ok">Favorito removido</string>
   <string name="general_cancel_followed_ok">Não seguido</string>
-  <string name="general_delete_recent_ok">Recente eliminado</string>
+  <string name="general_delete_recent_ok">Recente excluído</string>
   <string name="general_favorite_ok">Favorito adicionado</string>
   <string name="general_favorite_title">Favoritos</string>
   <string name="general_follow_hint">Seguir %1$s para receber actualizações importantes</string>
@@ -267,7 +267,7 @@ Total: %3$s EUR"</string>
   <string name="sina_token_expired_warning">A conta Weibo expirou. Adicione-a novamente</string>
   <string name="sina_token_invalid_warning">A conta Weibo é inválida. Adicione-a novamente</string>
   <string name="smart_antispam">Identificar números desconhecidos</string>
-  <string name="toast_finish_delete_call_log">Registo de chamadas eliminado</string>
+  <string name="toast_finish_delete_call_log">Registo de chamadas excluído</string>
   <string name="toast_text_copied">Texto copiado</string>
   <string name="try_again">Tente novamente</string>
   <string name="turn_off_hint_title">Desligar a identificação de chamadas?</string>

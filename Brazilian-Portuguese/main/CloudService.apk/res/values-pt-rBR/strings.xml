@@ -80,9 +80,9 @@
   <string name="micloud_alert_dialog_positive">OK</string>
   <string name="micloud_all_sub_1_intl_sms">Uma SMS internacional vai ser enviada para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
   <string name="micloud_all_sub_1_sms">Uma SMS nacional vai ser enviada para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
-  <string name="micloud_all_sub_1_sms_1_intl_sms">2 mensagens de texto (nacional e internacional) vão ser enviadas para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
-  <string name="micloud_all_sub_2_intl_sms">2 mensagens de texto internacionais vão ser enviadas para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
-  <string name="micloud_all_sub_2_sms">2 mensagens de texto nacionais vão ser enviadas para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
+  <string name="micloud_all_sub_1_sms_1_intl_sms">2 mensagens de texto (nacional e internacional) serão enviadas para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
+  <string name="micloud_all_sub_2_intl_sms">2 mensagens de texto internacionais serão enviadas para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
+  <string name="micloud_all_sub_2_sms">2 mensagens de texto nacionais serão enviadas para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
   <string name="micloud_all_sub_resend_sms">"Quando ligar 'Localizar Dispositivo' vai ser enviada uma SMS de activação após a troca de cartões SIM"</string>
   <string name="micloud_battery_low_notification_message">Ligar carregador para sincronizar</string>
   <string name="micloud_battery_low_notification_title">Bateria fraca</string>
@@ -92,7 +92,7 @@ na sua Conta Mi para reactivar a Xiaomi Cloud"</string>
   <string name="micloud_check_sim_notify_title">Reactivar a Xiaomi Cloud</string>
   <string name="micloud_check_sim_title">"Parece que mudou os cartões SIM. Inicie sessão
 na sua Conta Mi para reactivar a Xiaomi Cloud"</string>
-  <string name="micloud_confusion_account_hint">As alterações que fizer neste dispositivo vão ser sincronizadas para todos os seus dispositivos. Para proteger a sua conta, nós recomendamos que desligue a sincronização para outros dispositivos quando não os está a utilizar</string>
+  <string name="micloud_confusion_account_hint">As alterações que fizer neste dispositivo serão sincronizadas para todos os seus dispositivos. Para proteger a sua conta, nós recomendamos que desligue a sincronização para outros dispositivos quando não os está a utilizar</string>
   <string name="micloud_confusion_account_name">Conta:</string>
   <string name="micloud_confusion_account_notify_text">Outro dispositivo está a modificar a sua Conta Mi. Verifique a sua conta agora</string>
   <string name="micloud_confusion_account_notify_title">Verificar conta</string>
@@ -109,7 +109,7 @@ na sua Conta Mi para reactivar a Xiaomi Cloud"</string>
   <string name="micloud_confusion_entrance_notify_title">Outro dispositivo está a modificar a sua conta</string>
   <string name="micloud_confusion_entrance_question">Mudou recentemente a sua Conta Mi utilizando um %s?</string>
   <string name="micloud_confusion_entrance_title">Dados modificados</string>
-  <string name="micloud_confusion_finish_hint">As alterações que fizer neste dispositivo vão ser sincronizadas para todos os seus dispositivos. Para proteger a sua conta, nós recomendamos que desligue a sincronização para outros dispositivos quando não os está a utilizar</string>
+  <string name="micloud_confusion_finish_hint">As alterações que fizer neste dispositivo serão sincronizadas para todos os seus dispositivos. Para proteger a sua conta, nós recomendamos que desligue a sincronização para outros dispositivos quando não os está a utilizar</string>
   <string name="micloud_confusion_finish_message">Desligar a sincronização para outros dispositivos</string>
   <string name="micloud_confusion_finish_title">Conta verificada</string>
   <string name="micloud_confusion_no">Não</string>
@@ -169,7 +169,7 @@ Localize e bloqueie o seu dispositivo no caso de estar perdido"</string>
   <string name="micloud_main_head_menu_finddevice_summary">Localizar e bloquear o seu dispositivo se estiver perdido</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Localizar Dispositivo está indisponível no Segundo espaço. Pode utilizá-lo no Primeiro espaço</string>
   <string name="micloud_main_head_menu_recycle_bin_summary">Restaurar itens</string>
-  <string name="micloud_main_head_menu_recycle_bin_title">Itens eliminados</string>
+  <string name="micloud_main_head_menu_recycle_bin_title">Itens excluídos</string>
   <string name="micloud_main_head_menu_state_close">Desligado</string>
   <string name="micloud_main_head_menu_state_open">Ligado</string>
   <string name="micloud_main_head_menu_state_unavailable">Não suportado</string>
@@ -297,7 +297,7 @@ Localize e bloqueie o seu dispositivo no caso de estar perdido"</string>
   <string name="micloud_sync_result_wifi_only">Este item é demasiado grande. Sincronizar apenas quando ligado ao Wi-Fi</string>
   <string name="micloud_upgrade_member">Obter armazenamento</string>
   <string name="micloud_user_space_title">Espaço de armazenamento</string>
-  <string name="micloud_warn_full_sum">Novos itens não vão ser sincronizados com a Xiaomi Cloud</string>
+  <string name="micloud_warn_full_sum">Novos itens não serão sincronizados com a Xiaomi Cloud</string>
   <string name="micloud_warn_full_title">Sem espaço</string>
   <string name="micloud_warn_low_sum">A sua Xiaomi Cloud está 90% cheia</string>
   <string name="micloud_warn_low_title">Quase sem espaço</string>

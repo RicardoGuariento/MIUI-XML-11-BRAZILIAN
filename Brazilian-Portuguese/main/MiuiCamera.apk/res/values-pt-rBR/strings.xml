@@ -217,13 +217,13 @@ se rodar o seu telefone"</string>
   <string name="hint_ae_lock">A exposição automática foi bloqueada</string>
   <string name="hine_hht">"Com luz fraca, a câmara vai tirar várias fotos
 e criar uma com o mínimo de ruído"</string>
-  <string name="hint_device_water_mark">A data e hora vão ser adicionadas automaticamente</string>
+  <string name="hint_device_water_mark">A data e hora serão adicionadas automaticamente</string>
   <string name="hint_fast_motion">O vídeo que gravar vai ser reproduzido mais rápido</string>
   <string name="hint_groupshot">"A câmara vai tirar várias fotos
 e criar uma espectacular"</string>
   <string name="hint_groupshot_beauty">Não pode utilizar Embelezar em fotos de grupo</string>
   <string name="hint_slow_motion">O vídeo que gravar vai ser reproduzido mais lento</string>
-  <string name="hunt_dual_water_mark">A data e hora vão ser adicionadas automaticamente</string>
+  <string name="hunt_dual_water_mark">A data e hora serão adicionadas automaticamente</string>
   <string name="install_confirmed">Instalar</string>
   <string name="lens_dirty_detected_content">"Parece que a lente da câmara está suja.
 Limpe a lente da câmara para um efeito melhor"</string>

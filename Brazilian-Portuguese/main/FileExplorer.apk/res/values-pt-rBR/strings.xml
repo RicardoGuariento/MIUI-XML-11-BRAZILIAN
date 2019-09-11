@@ -106,7 +106,7 @@
   <string name="delete_folder">excluir esta pasta?</string>
   <string name="delete_folders">excluir %1$d pastas?</string>
   <string name="delete_selected_tasks">excluir transferências selecionadas?</string>
-  <string name="delete_success">Ficheiro eliminado</string>
+  <string name="delete_success">Ficheiro excluído</string>
   <string name="dialog_select_type">Escolher tipo</string>
   <string name="dialog_type_audio">Áudio</string>
   <string name="dialog_type_image">Imagens</string>
@@ -198,7 +198,7 @@
   <string name="make_private">Ocultar</string>
   <string name="make_private_msg_1">Ocultar este arquivo?</string>
   <string name="make_private_msg_2">Ocultar estes arquivos?</string>
-  <string name="make_private_msg_3">Todos os arquivos nesta pasta vão ser ocultos</string>
+  <string name="make_private_msg_3">Todos os arquivos nesta pasta serão ocultos</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Limpeza</string>
   <string name="menu_item_ftp">FTP</string>
@@ -253,7 +253,7 @@
   <string name="notification_dialog_confirm">OK</string>
   <string name="notification_dialog_content">Notificar e organizar automaticamente quando os arquivos são adicionados ou alterados em %1$s</string>
   <string name="notification_dialog_title">Notificações</string>
-  <string name="notification_wechat_expired_empty">Estes vídeos já foram eliminados pelo WeChat</string>
+  <string name="notification_wechat_expired_empty">Estes vídeos já foram excluídos pelo WeChat</string>
   <string name="online_not_support">Não é possível ver este arquivo neste momento</string>
   <string name="open_private_folder">Largue para ver pastas ocultas</string>
   <string name="operation_add_fav">A adicionar aos favoritos…</string>
@@ -267,7 +267,7 @@
   <string name="operation_del_fav">A remover dos favoritos…</string>
   <string name="operation_delete">excluir</string>
   <string name="operation_delete_confirm_message">excluir</string>
-  <string name="operation_delete_confirm_message_folder">"Todos os conteúdos da pasta vão ser eliminados "</string>
+  <string name="operation_delete_confirm_message_folder">"Todos os conteúdos da pasta serão excluídos "</string>
   <string name="operation_deleting">A excluir…</string>
   <string name="operation_favorite">Adicionar aos favoritos</string>
   <string name="operation_hide_sys">Não mostrar arquivos ocultos</string>

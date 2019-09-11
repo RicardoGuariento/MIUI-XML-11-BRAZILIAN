@@ -303,7 +303,7 @@
   <string name="theme_close_maml">Os papéis de parede aleatórios vão substituir o papel de parede do tela de bloqueio</string>
   <string name="theme_des">Aplicar o tema predefinido e ligar os papéis de parede aleatórios novamente</string>
   <string name="theme_des_lock_style">Aplicar o tela de bloqueio predefinido e ligar os papéis de parede aleatórios novamente</string>
-  <string name="theme_des_maml">Os outros componentes do tema actual não vão ser afectados. O tema vai ser actualizado</string>
+  <string name="theme_des_maml">Os outros componentes do tema actual não serão afectados. O tema vai ser actualizado</string>
   <string name="theme_ok">Configurações</string>
   <string name="theme_title">Alterar para o tema predefinido</string>
   <string name="theme_title_lock_style">Alterar para o tela de bloqueio predefinido</string>
