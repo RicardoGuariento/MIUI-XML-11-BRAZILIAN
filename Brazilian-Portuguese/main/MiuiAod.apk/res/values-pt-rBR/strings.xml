@@ -19,6 +19,7 @@
   <string name="abc_toolbar_collapse_description">Fechar</string>
   <string name="accessibility_battery_level">Bateria %d porcento.</string>
   <string name="accessibility_battery_level_charging">Carregando bateria, %d percento.</string>
+  <string name="align_type">Alinhar</string>
   <string name="always_style">Sempre</string>
   <string name="animation_clock_panel">Ondas</string>
   <string name="aod_close_color_inversion">"Este recurso não pode ser combinado com inversão de cores. Desative a inversão de cores primeiro."</string>
@@ -42,6 +43,7 @@
   <string name="color_change_with_time_title">Alterar a cor automaticamente</string>
   <string name="deep_space_planet">Espaço</string>
   <string name="deep_space_planet_des">\"Espaço\" reflete as mudanças de luz acontecendo ao seu redor durante o dia. O nascer do Sol e o pôr do Sol neste tema são sincronizados com a sua localização.</string>
+  <string name="font_thickness">Fonte em negrito</string>
   <string name="large_time">Relógio grande</string>
   <string name="mini_time">Relógio pequeno</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
@@ -50,14 +52,23 @@
   <string name="paper_mode_end_time_title">Desligar</string>
   <string name="paper_mode_start_time_title">Ligar</string>
   <string name="password_toggle_content_description">Mostrar senha</string>
+  <string name="please_input_signature">Insira a assinatura</string>
   <string name="scheduled_style">Programado</string>
+  <string name="scope_icon">Estilo caleidoscópio</string>
+  <string name="scope_time">Caleidoscópio</string>
   <string name="search_menu_title">Pesquisar</string>
+  <string name="select_notification_animation_style">Selecionar efeito especial</string>
   <string name="show_battery_status">Mostrar estado da bateria</string>
   <string name="show_notification">Mostrar notificações</string>
+  <string name="signature">Assinatura</string>
+  <string name="signature_default_content">"Sempre acredite que algo
+maravilhoso está para acontecer"</string>
   <string name="standard_style">Padrão</string>
   <string name="summary">"Para reduzir o consumo de energia, itens não serão mostrados nas seguintes situações:
 1. Quando o dispositivo estiver no escuro por muito tempo.
 2. Quando o modo Não Incomodar estiver ligado."</string>
   <string name="temporary_style">Por 10 segundos depois de tocar</string>
   <string name="text_color">Cor do texto</string>
+  <string name="text_length_exceed_limit_alert">*O texto que você escreveu é muito grande</string>
+  <string name="text_size">Tamanho do texto</string>
 </resources>
