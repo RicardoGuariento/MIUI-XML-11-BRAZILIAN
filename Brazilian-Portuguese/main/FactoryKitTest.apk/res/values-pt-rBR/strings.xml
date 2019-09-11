@@ -292,7 +292,7 @@
   <string name="ms_cali_tips">Rode o dispositivo em forma de 8</string>
   <string name="ms_cali_warning">Necessário calibração. Rode o dispositivo em forma de 8 para calibrar</string>
   <string name="msensor_name">Sensor magnético</string>
-  <string name="msensor_tips">Os valores das coordenadas X, Y e Z devem aparecer em baixo</string>
+  <string name="msensor_tips">Os valores das coordenadas X, Y e Z devem aparecer abaixo</string>
   <string name="msimplemsensor_name">Simple MSensor Test</string>
   <string name="mytest">Utilizar para teste</string>
   <string name="nfc_name">NFC</string>
@@ -393,7 +393,7 @@
   <string name="sensor_register_fail">Sensor register fail!</string>
   <string name="sensor_value">Valor:</string>
   <string name="service_get_fail">Sevice get fail!</string>
-  <string name="set_nv_menu_password">Introduza palavra-passe</string>
+  <string name="set_nv_menu_password">Insira senha</string>
   <string name="set_nv_menu_password_bad">As palavras-passe não correspondem</string>
   <string name="set_nv_menu_text">Set the full power mode</string>
   <string name="set_nv_pass">Definido com sucesso</string>

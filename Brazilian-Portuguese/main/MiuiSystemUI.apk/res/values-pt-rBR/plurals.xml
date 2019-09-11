@@ -25,8 +25,8 @@
         <item quantity="one">Código PUK incorrecto. Tem %d tentativas restante</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">É necessário introduzir a palavra-passe após %d horas de inactividade</item>
-        <item quantity="one">É necessário introduzir a palavra-passe após %d hora de inactividade</item>
+        <item quantity="other">É necessário introduzir a senha após %d horas de inactividade</item>
+        <item quantity="one">É necessário introduzir a senha após %d hora de inactividade</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
         <item quantity="other">É necessário introduzir o padrão após %d horas de inactividade</item>
@@ -69,12 +69,12 @@
         <item quantity="one">%1$d h %2$d m</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Introduza o PIN do SIM. Tem %d tentativas restantes</item>
-        <item quantity="one">Introduza o PIN do SIM. Tem %d tentativa restante</item>
+        <item quantity="other">Insira o PIN do SIM. Tem %d tentativas restantes</item>
+        <item quantity="one">Insira o PIN do SIM. Tem %d tentativa restante</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
-        <item quantity="other">O SIM está desactivado. Introduza o código PUK para continuar. Tem %d tentativas restantes antes do SIM ficar inutilizável</item>
-        <item quantity="one">O SIM está desactivado. Introduza o código PUK para continuar. Tem %d tentativa restante antes do SIM ficar inutilizável</item>
+        <item quantity="other">O SIM está desactivado. Insira o código PUK para continuar. Tem %d tentativas restantes antes do SIM ficar inutilizável</item>
+        <item quantity="one">O SIM está desactivado. Insira o código PUK para continuar. Tem %d tentativa restante antes do SIM ficar inutilizável</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">Código PIN do SIM incorrecto. Tem %d tentativas restantes</item>
@@ -85,8 +85,8 @@
         <item quantity="one">Código PUK do SIM incorrecto. Tem %d tentativa restante antes do SIM ficar inutilizável</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_password">
-        <item quantity="other">O dispositivo não é desbloqueado há %d horas. Confirme a palavra-passe</item>
-        <item quantity="one">O dispositivo não é desbloqueado há %d hora. Confirme a palavra-passe</item>
+        <item quantity="other">O dispositivo não é desbloqueado há %d horas. Confirme a senha</item>
+        <item quantity="one">O dispositivo não é desbloqueado há %d hora. Confirme a senha</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_pattern">
         <item quantity="other">O dispositivo não é desbloqueado há %d horas. Confirme o padrão</item>

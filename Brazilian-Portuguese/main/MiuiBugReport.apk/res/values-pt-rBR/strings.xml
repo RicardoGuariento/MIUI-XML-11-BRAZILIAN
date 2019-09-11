@@ -331,11 +331,11 @@
   <string name="toast_report_sent_failed">Não é possível enviar relatório</string>
   <string name="toast_report_sent_succeed">O relatório foi enviado</string>
   <string name="toast_screenshot_too_large">Não é possível carregar arquivos maiores que 100MB</string>
-  <string name="toast_third_packagename_required">Introduza o nome da aplicação</string>
+  <string name="toast_third_packagename_required">Insira o nome da aplicação</string>
   <string name="toast_title_required">Descreva o seu problema</string>
   <string name="topic_author">1#</string>
   <string name="try_again">Tente novamente</string>
   <string name="upload_log_failed">Não foi possível enviar registos</string>
-  <string name="warning_field_empty">Introduza %1$s</string>
+  <string name="warning_field_empty">Insira %1$s</string>
   <string name="warning_field_invalid">Selecione um %1$s válido</string>
 </resources>

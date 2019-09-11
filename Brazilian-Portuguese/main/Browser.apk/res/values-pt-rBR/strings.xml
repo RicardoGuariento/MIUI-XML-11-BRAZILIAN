@@ -108,7 +108,7 @@
     <string name="bookmark_btn_select_all">Selecionar tudo</string>
     <string name="bookmark_btn_select_none">Desmarcar tudo</string>
     <string name="bookmark_cannot_save_url">Não pode criar um marcador para este URL.</string>
-    <string name="bookmark_folder_needs_title">Introduza um nome para o grupo</string>
+    <string name="bookmark_folder_needs_title">Insira um nome para o grupo</string>
     <string name="bookmark_group_lable">Grupo</string>
     <string name="bookmark_needs_title">O favorito tem de ter um nome</string>
     <string name="bookmark_needs_url">O favorito tem de conter um URL</string>
@@ -119,7 +119,7 @@
     <string name="bookmark_title_lable">Título</string>
     <string name="bookmark_url">URL http://</string>
     <string name="bookmark_url_already_exisit">Este URL já existe nos marcadores</string>
-    <string name="bookmark_url_can_not_null">Introduza o URL</string>
+    <string name="bookmark_url_can_not_null">Insira o URL</string>
     <string name="bookmark_url_lable">URL</string>
     <string name="bookmark_url_not_valid">Este URL não é válido</string>
     <string name="bookmarks_content_is_null">Sem marcadores</string>
@@ -523,7 +523,7 @@ Sair desta página agora?"</string>
     <string name="mw_last_month">Último mês</string>
     <string name="mw_license_activity_title">Licenças do Sistema WebView</string>
     <string name="mw_login_dialog_ok_button_label">Iniciar sessão</string>
-    <string name="mw_login_dialog_password_field">Palavra-passe</string>
+    <string name="mw_login_dialog_password_field">Senha</string>
     <string name="mw_login_dialog_title">Autenticação necessária</string>
     <string name="mw_login_dialog_username_field">Nome de usuário</string>
     <string name="mw_low_memory_error">Não foi possível completar a operação anterior porque a memória está baixa</string>
@@ -647,7 +647,7 @@ Sair desta página agora?"</string>
     <string name="mw_older">Mais antigo</string>
     <string name="mw_opening_file_error">Falha ao abrir o arquivo selecionado</string>
     <string name="mw_page_info_permission_ads_subtitle">O site tende a mostrar anúncios intrusivos</string>
-    <string name="mw_password_generation_popup_content_description">A exibir o pop-up de geração de palavra-passe</string>
+    <string name="mw_password_generation_popup_content_description">A exibir o pop-up de geração de senha</string>
     <string name="mw_payments_accepted_cards_label">Cartões aceites</string>
     <string name="mw_payments_accepted_credit_cards_label">Cartões de crédito aceites</string>
     <string name="mw_payments_accepted_credit_debit_cards_label">Cartões de débito e crédito aceites</string>
@@ -675,8 +675,8 @@ Sair desta página agora?"</string>
     <string name="mw_payments_card_and_address_settings_signed_in">Cartões e moradas são do Chrome e da sua Conta do Google (%1$s). Pode geri-los nas BEGIN_LINKDefiniçõesEND_LINK.</string>
     <string name="mw_payments_card_and_address_settings_signed_out">Cartões e moradas são do Chrome. Pode geri-los nas BEGIN_LINKDefiniçõesEND_LINK.</string>
     <string name="mw_payments_card_billing_address_required">Endereço de faturamento do cartão obrigatório</string>
-    <string name="mw_payments_card_expiration_invalid_validation_message">Introduza uma data de expiração válida</string>
-    <string name="mw_payments_card_number_invalid_validation_message">Introduza um número de cartão válido</string>
+    <string name="mw_payments_card_expiration_invalid_validation_message">Insira uma data de expiração válida</string>
+    <string name="mw_payments_card_number_invalid_validation_message">Insira um número de cartão válido</string>
     <string name="mw_payments_checking_option">A verificar</string>
     <string name="mw_payments_contact_details_label">Informações de contacto</string>
     <string name="mw_payments_credit_card_expiration_date_abbr">Expira em %1$s/%2$s</string>
@@ -692,11 +692,11 @@ Sair desta página agora?"</string>
     <string name="mw_payments_edit_button">Editar</string>
     <string name="mw_payments_edit_card">Editar cartão</string>
     <string name="mw_payments_edit_contact_details_label">Editar informações de contacto</string>
-    <string name="mw_payments_email_invalid_validation_message">Introduza um endereço de e-mail válido</string>
+    <string name="mw_payments_email_invalid_validation_message">Insira um endereço de e-mail válido</string>
     <string name="mw_payments_email_required">Email obrigatório</string>
     <string name="mw_payments_error_message">Ocorreu um erro ao processar a sua encomenda. Tente novamente.</string>
     <string name="mw_payments_field_required_validation_message">Campo obrigatório</string>
-    <string name="mw_payments_invalid_address">Introduza uma morada válida</string>
+    <string name="mw_payments_invalid_address">Insira uma morada válida</string>
     <string name="mw_payments_loading_message">A carregar</string>
     <string name="mw_payments_method_of_payment_label">Método de pagamento</string>
     <string name="mw_payments_more_information_required">Mais informações necessárias</string>
@@ -705,7 +705,7 @@ Sair desta página agora?"</string>
     <string name="mw_payments_name_required">Nome obrigatório</string>
     <string name="mw_payments_order_summary_label">Resumo do pedido</string>
     <string name="mw_payments_pay_button">Pagar</string>
-    <string name="mw_payments_phone_invalid_validation_message">Introduza um número de telefone válido</string>
+    <string name="mw_payments_phone_invalid_validation_message">Insira um número de telefone válido</string>
     <string name="mw_payments_phone_number_required">Número de telefone obrigatório</string>
     <string name="mw_payments_pickup_address_label">Endereço de coleta</string>
     <string name="mw_payments_pickup_option_label">Método de coleta</string>
@@ -752,7 +752,7 @@ Sair desta página agora?"</string>
     <string name="mw_sad_tab_send_feedback_label">Enviar comentários</string>
     <string name="mw_sad_tab_title">Ah, droga!</string>
     <string name="mw_sad_tab_uma_optin">Enviar automaticamente estatísticas de utilização e relatórios de falhas ao Google</string>
-    <string name="mw_save_password_message">Lembrar esta palavra-passe?</string>
+    <string name="mw_save_password_message">Lembrar esta senha?</string>
     <string name="mw_save_password_never">Nunca</string>
     <string name="mw_save_password_notnow">Agora não</string>
     <string name="mw_save_password_remember">Lembrar</string>
@@ -817,7 +817,7 @@ Sair desta página agora?"</string>
     <string name="page_info">Informação da página</string>
     <string name="page_info_address">Endereço:</string>
     <string name="page_info_view">Ver informação da página</string>
-    <string name="password">Palavra-passe</string>
+    <string name="password">Senha</string>
     <string name="pause_download">Em pausa</string>
     <string name="paused_queued_for_wifi">A aguardar ligação…</string>
     <string name="paused_unknown">Em pausa</string>
@@ -1125,7 +1125,7 @@ Sair desta página agora?"</string>
     <string name="url_find_on_page_result">Ver no Navegador</string>
     <string name="url_find_on_page_result_item">Ver todo o texto para \"%s\"</string>
     <string name="url_hint">Pesquisar ou introduzir endereço web</string>
-    <string name="url_hint_from_search">Introduza a palavra-chave</string>
+    <string name="url_hint_from_search">Insira a palavra-chave</string>
     <string name="url_opened_in_background">Abrir num separador em segundo plano</string>
     <string name="url_suggest_indicator_bookmark">Marcadores/Histórico</string>
     <string name="url_suggest_indicator_hoturl">Popular</string>

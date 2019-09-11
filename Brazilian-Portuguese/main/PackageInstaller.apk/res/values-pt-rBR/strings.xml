@@ -108,7 +108,7 @@
   <string name="dlg_app_replacement_statement">"A aplicação que está a instalar vai substituir outra aplicação.
 
 Todos os dados existentes da aplicação serão guardados"</string>
-  <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) vai substituir a versão instalada actualmente (%3$s). Todos os dados existentes da aplicação serão guardados</string>
+  <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) vai substituir a versão instalada atualmente (%3$s). Todos os dados existentes da aplicação serão guardados</string>
   <string name="dlg_app_replacement_title">Substituir aplicação?</string>
   <string name="dlg_appstore_notice">Não conseguimos verificar a autenticidade da segurança os aplicativos de fontes fora da <u><font color="#91c727">App Store</font></u></string>
   <string name="dlg_ok">OK</string>

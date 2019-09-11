@@ -866,7 +866,7 @@ para personalizar a galeria"</string>
   <string name="need_to_turn_on_sync_first">Ligue a sincronização com a Xiaomi Cloud primeiro</string>
   <string name="need_to_turn_on_wlan">Ligue ao Wi-Fi primeiro</string>
   <string name="network_connected_rescan">Não é possível ligar à rede</string>
-  <string name="new_album_invalid_char">"Os nomes não podem conter \"%s\". Introduza apenas letras ou números"</string>
+  <string name="new_album_invalid_char">"Os nomes não podem conter \"%s\". Insira apenas letras ou números"</string>
   <string name="new_album_invalid_name">O álbum \"%s\" é um álbum de sistema. Atribua outro nome</string>
   <string name="new_album_invalid_prefix">"Não utilizar \".\" ou \"_\" no início do nome do álbum"</string>
   <string name="new_relation_invalid_char">"O nome do grupo não pode conter “%s”. Utilize letras, números ou caracteres"</string>
@@ -1144,7 +1144,7 @@ para personalizar a galeria"</string>
   <string name="rename_album">Mudar nome do álbum</string>
   <string name="rename_album_failed">Não foi possível mudar o nome</string>
   <string name="rename_album_succeeded">Nome mudado com sucesso</string>
-  <string name="rename_dialog_hint">Introduza título</string>
+  <string name="rename_dialog_hint">Insira título</string>
   <string name="rename_dialog_title">Mudar o nome</string>
   <string name="rename_face_album">Alterar nome</string>
   <string name="rename_fail_msg">Não foi possível alterar nome</string>
@@ -1413,7 +1413,7 @@ para personalizar a galeria"</string>
   <string name="to_enable_sync_dialog_title">Sincronizar</string>
   <string name="today">Hoje</string>
   <string name="tomorrow">Amanhã</string>
-  <string name="too_many_recipients">Não pode adicionar mais de %2$s destinatários (actualmente adicionados %1$s)</string>
+  <string name="too_many_recipients">Não pode adicionar mais de %2$s destinatários (atualmente adicionados %1$s)</string>
   <string name="trash_bin">Lixo</string>
   <string name="trash_bin_key_word">Fotos eliminadas</string>
   <string name="trash_bin_summary">Ver fotos guardadas que foram eliminadas recentemente</string>

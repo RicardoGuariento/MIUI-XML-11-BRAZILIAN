@@ -83,7 +83,7 @@ Tem de concordar com os nossos Termos de Serviço e Política de Privacidade ant
   <string name="terms_of_use_lable_apps">Serviços Mi, serviços de activação do SIM, Xiaomi Cloud, Localizar Dispositivo, etc.</string>
   <string name="terms_of_use_lable_gms">, serviços Google Play </string>
   <string name="terms_of_use_lable_smart_cards">, Smart cards</string>
-  <string name="title_fingerprint">Definir palavra-passe</string>
+  <string name="title_fingerprint">Definir senha</string>
   <string name="user_agreement">Termos de Serviço</string>
   <string name="voice_assist_desp">Diga \"Mi AI\" para o seu telefone. Mi AI vai reconhecer a sua voz e vai poder controlar o seu dispositivo</string>
   <string name="voice_assist_title">Ligar com voz</string>

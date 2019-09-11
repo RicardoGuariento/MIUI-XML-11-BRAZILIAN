@@ -7,7 +7,7 @@
   <string name="change_find_device_status_failed">Não foi possível desbloquear. %s</string>
   <string name="default_debt_msg_words">"Este dispositivo está bloqueado devido a um pagamento em falta.
 Contacte o seu comercial para mais detalhes"</string>
-  <string name="default_lock_msg_words">Este dispositivo está associado a uma Conta Mi existente. Por razões de segurança, tem de introduzir a sua palavra-passe para verificar o dispositivo</string>
+  <string name="default_lock_msg_words">Este dispositivo está associado a uma Conta Mi existente. Por razões de segurança, tem de introduzir a sua senha para verificar o dispositivo</string>
   <string name="default_lock_msg_words_with_phone">Olá! Eu perdi o meu telefone. Por favor, pode-me contactar? Obrigado!</string>
   <string name="device_locked">Este dispositivo está bloqueado</string>
   <string name="device_lost">Este dispositivo está perdido</string>
@@ -23,7 +23,7 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="find_device_error_account_sys_timeout">Não foi possível ligar à Conta Mi</string>
   <string name="find_device_error_account_unknown_error">Erro na Conta Mi (%s)</string>
   <string name="find_device_error_network">Erro de rede</string>
-  <string name="find_device_error_password_changed">Palavra-passe da conta foi alterada recentemente</string>
+  <string name="find_device_error_password_changed">Senha da conta foi alterada recentemente</string>
   <string name="find_device_error_server">Erro de servidor (%s)</string>
   <string name="find_device_error_unknown">Erro desconhecido (%s)</string>
   <string name="find_device_noise_title">Alarme de Localizar Dispositivo</string>
@@ -40,20 +40,20 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="login_extra_steps">Verificação de início de sessão</string>
   <string name="login_failed">Não foi possível iniciar sessão. %s</string>
   <string name="open_wifi_settings">Abrir configurações Wi-Fi</string>
-  <string name="passport_checking_vcode">A verificar palavra-passe…</string>
+  <string name="passport_checking_vcode">A verificar senha…</string>
   <string name="passport_error_empty_vcode">Introduzir código de verificação</string>
   <string name="passport_notification_need_unlock_again">Tente desbloquear novamente</string>
   <string name="passport_notification_processing">A processar…</string>
   <string name="passport_trust_device">Confiar neste dispositivo</string>
   <string name="passport_vcode_prompt_long">Introduzir código de verificação</string>
   <string name="passport_verify">Verificar</string>
-  <string name="password">Palavra-passe</string>
+  <string name="password">Senha</string>
   <string name="phone_locked">Este dispositivo pode estar associado à sua Conta Mi (%s). Inicie sessão para activar este dispositivo</string>
   <string name="phone_locked_account_email">, email associado: %s</string>
   <string name="phone_locked_account_phone">, número de telefone associado: %s</string>
   <string name="return_to_call">Voltar à chamada</string>
   <string name="stop_on_empty_captcha">Captcha não pode estar em branco</string>
-  <string name="stop_on_empty_password">Palavra-passe não pode estar em branco</string>
+  <string name="stop_on_empty_password">Senha não pode estar em branco</string>
   <string name="sys_notification_async_open_failed_content">Toque para tentar novamente ou cancele</string>
   <string name="sys_notification_async_open_failed_title">Não foi possível ligar Localizar Dispositivo</string>
   <string name="sys_notification_async_verify_content">A nossa Política de Segurança necessita que Localizar Dispositivo deva ser reactivado</string>
@@ -62,7 +62,7 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="time_correction_success">Hora corrigida</string>
   <string name="unlock">Activar</string>
   <string name="unlock_access_denied">Acesso negado</string>
-  <string name="unlock_bad_authentication">Utilizador ou palavra-passe inválido</string>
+  <string name="unlock_bad_authentication">Utilizador ou senha inválido</string>
   <string name="unlock_error_abort">Cancelado pelo usuário</string>
   <string name="unlock_error_device_id">Não é possível obter o ID do dispositivo</string>
   <string name="unlock_error_interrupted">Interrompido</string>
@@ -76,14 +76,14 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="unlock_help">"Mantenha-se ligado à rede.
 Certifique-se que inseriu um cartão SIM válido e que o seu dispositivo está ligado a uma rede Wi-Fi.
 
-Esqueceu a palavra-passe?
-Vá a id.mi.com para repor a sua palavra-passe.
+Esqueceu a senha?
+Vá a id.mi.com para repor a sua senha.
 
 Outros motivos
 Inicie sessão em i.mi.com e tente desbloquear o seu dispositivo a partir de lá"</string>
   <string name="unlock_help_title">Ajuda a desbloquear:</string>
   <string name="unlock_wrong_captcha">O código que introduziu está incorrecto</string>
   <string name="unlocking">A activar…</string>
-  <string name="verifing_account">A verificar palavra-passe…</string>
+  <string name="verifing_account">A verificar senha…</string>
   <string name="verify_password_failed">Não foi possível verificar a Conta Mi (%s)</string>
 </resources>

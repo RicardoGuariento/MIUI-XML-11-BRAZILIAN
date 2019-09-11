@@ -129,7 +129,7 @@
   <string name="favor_list_title">Favoritos</string>
   <string name="favor_success">Adicionado aos favoritos com sucesso</string>
   <string name="feed_article_entrance_about">Sobre de \"%s\"</string>
-  <string name="find_psw">Esqueceu a palavra-passe?</string>
+  <string name="find_psw">Esqueceu a senha?</string>
   <string name="from_migallerylockscreen">De papéis de parede aleatórios</string>
   <string name="get_account_no_permission">Permitir que os papéis de parede aleatórios possam acessar contas neste dispositivo antes de iniciar sessão</string>
   <string name="get_ph_ticket">Obter código</string>
@@ -220,7 +220,7 @@
   <string name="select_package">Seleccionar versão</string>
   <string name="setting_about_item_des">Versão</string>
   <string name="setting_about_item_title">Sobre de papéis de parede aleatórios</string>
-  <string name="setting_des">Pode definir os seus diapositivos em Configurações &gt; Tela de bloqueio e palavra-passe &gt; Papéis de parede aleatórios</string>
+  <string name="setting_des">Pode definir os seus diapositivos em Configurações &gt; Tela de bloqueio e senha &gt; Papéis de parede aleatórios</string>
   <string name="setting_head">Configurações</string>
   <string name="setting_ok">Configurações</string>
   <string name="setting_tip">Não mostrar novamente</string>
@@ -303,7 +303,7 @@
   <string name="theme_close_maml">Os papéis de parede aleatórios vão substituir o papel de parede do tela de bloqueio</string>
   <string name="theme_des">Aplicar o tema predefinido e ligar os papéis de parede aleatórios novamente</string>
   <string name="theme_des_lock_style">Aplicar o tela de bloqueio predefinido e ligar os papéis de parede aleatórios novamente</string>
-  <string name="theme_des_maml">Os outros componentes do tema actual não serão afectados. O tema vai ser atualizado</string>
+  <string name="theme_des_maml">Os outros componentes do tema atual não serão afectados. O tema vai ser atualizado</string>
   <string name="theme_ok">Configurações</string>
   <string name="theme_title">Alterar para o tema predefinido</string>
   <string name="theme_title_lock_style">Alterar para o tela de bloqueio predefinido</string>
@@ -324,7 +324,7 @@
   <string name="user_ac_click_to_login">Toque para iniciar sessão</string>
   <string name="user_ac_not_login">Not signed in</string>
   <string name="user_id_hint">Email/Telefone</string>
-  <string name="v_code_title">Introduza o código de verificação em 2 passos</string>
+  <string name="v_code_title">Insira o código de verificação em 2 passos</string>
   <string name="wallpaper_feed_title">Pode também gostar de</string>
   <string name="wallpaper_relations_title">Recomendado</string>
   <string name="wlan_download">Atualizar apenas através de Wi-Fi</string>

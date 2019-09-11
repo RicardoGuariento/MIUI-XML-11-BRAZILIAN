@@ -29,7 +29,7 @@
   <string name="activity_main_update_time">Atualizado %1$s</string>
   <string name="activity_main_update_time_expire">Dados expirados</string>
   <string name="activity_main_update_time_right_now">agora mesmo</string>
-  <string name="activity_minute_rain_location_fail_msg">Não foi possível obter uma localização precisa. Alterado para a cidade actual</string>
+  <string name="activity_minute_rain_location_fail_msg">Não foi possível obter uma localização precisa. Alterado para a cidade atual</string>
   <string name="activity_weathermain_locationg">A localizar…</string>
   <string name="activity_weathermain_locationg_error">Não foi possível encontrar localização</string>
   <string name="add_city">Adicionar</string>
@@ -121,7 +121,7 @@
   <string name="first_start_network_msg">Este aplicativo necessita de uma ligação à Internet para acessar à sua localização para funcionar normalmente</string>
   <string name="first_start_network_title">Ligação à Internet e acesso à localização</string>
   <string name="global_aqi">IQA: %1$s %2$s</string>
-  <string name="gps_hint">Local actual</string>
+  <string name="gps_hint">Local atual</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Agora</string>
   <string name="hourly_forecast_date">d/M</string>

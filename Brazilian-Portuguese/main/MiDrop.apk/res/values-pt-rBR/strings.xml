@@ -38,7 +38,7 @@
   <string name="receiver_cancel">Cancelar</string>
   <string name="receiver_clean">Libertar espaço</string>
   <string name="receiver_file_cancel">Transferência de arquivo de %1$s interrompida</string>
-  <string name="receiver_in_progress_summary">Aguarde até a transferência actual terminar para enviar novos arquivos</string>
+  <string name="receiver_in_progress_summary">Aguarde até a transferência atual terminar para enviar novos arquivos</string>
   <string name="receiver_in_progress_title">A enviar…</string>
   <string name="receiver_insufficient_storage">Sem espaço suficiente</string>
   <string name="receiver_insufficient_storage_cannot_send">Não é possível enviar. Não existe espaço suficiente</string>

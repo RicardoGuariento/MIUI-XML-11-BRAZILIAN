@@ -17,7 +17,7 @@
   <string name="cit_OTG_waiting_out">Desligar dispositivo USB OTG agora</string>
   <string name="cit_ac_charger_in">A carregar por CA</string>
   <string name="cit_ac_charger_out">Carregador CA desligado</string>
-  <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direcção. Os valores das coordenadas de X，Y，Z serão mostrados em baixo. (quando o telefone está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
+  <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direcção. Os valores das coordenadas de X，Y，Z serão mostrados abaixo. (quando o telefone está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
 Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_accelermeter_sensor_check_title">Acelerómetro</string>
   <string name="cit_apk_signature_failed">Assinatura do APK FALHOU</string>
@@ -66,7 +66,7 @@ Segure no telefone como se estivesse a atender uma chamada, fale para o microfon
   <string name="cit_batterylight_green">Verde</string>
   <string name="cit_batterylight_red">Vermelho</string>
   <string name="cit_batterylight_rgb">LED da bateria</string>
-  <string name="cit_blue_tooth_address_check_summary">O endereço Bluetooth deste dispositivo encontra-se em baixo</string>
+  <string name="cit_blue_tooth_address_check_summary">O endereço Bluetooth deste dispositivo encontra-se abaixo</string>
   <string name="cit_blue_tooth_address_check_title">Obter endereço Bluetooth</string>
   <string name="cit_blue_tooth_scan_check_summary">Em baixo encontra-se a informação dos dispositivos Bluetooth detectados</string>
   <string name="cit_blue_tooth_scan_check_title">Pesquisar Bluetooth</string>
@@ -90,9 +90,9 @@ Segure no telefone como se estivesse a atender uma chamada, fale para o microfon
 2.Toque no botão Voltar para sair da interface da câmara
 3.Haverá uma etiqueta a dizer calibração concluída para indicar que o ois foi calibrado"</string>
   <string name="cit_camera_sdcard_error">Não é possível tirar fotografia. O cartão SD está cheio</string>
-  <string name="cit_charger_plugin_check_summary">Quando o carregador USB está ligado, o texto \"A carregar por USB/CA\" deve aparecer em baixo</string>
+  <string name="cit_charger_plugin_check_summary">Quando o carregador USB está ligado, o texto \"A carregar por USB/CA\" deve aparecer abaixo</string>
   <string name="cit_charger_plugin_check_title">Carregador (ligado)</string>
-  <string name="cit_charger_plugout_check_summary">Quando o carregador USB está desligado, o texto \"Carregador USB/CA desligado\" deve aparecer em baixo</string>
+  <string name="cit_charger_plugout_check_summary">Quando o carregador USB está desligado, o texto \"Carregador USB/CA desligado\" deve aparecer abaixo</string>
   <string name="cit_charger_plugout_check_title">Carregador (desligado)</string>
   <string name="cit_charger_waiting_in">Ligar carregador</string>
   <string name="cit_charger_waiting_out">Desligar carregador agora</string>
@@ -115,13 +115,13 @@ Segure no telefone como se estivesse a atender uma chamada, fale para o microfon
   <string name="cit_fm_start_service">Iniciar áudio</string>
   <string name="cit_front_camera_check_summary">"Instruções do teste: 
 
-1.Toque no botão da câmara em baixo para entrar na interface da câmara frontal.
+1.Toque no botão da câmara abaixo para entrar na interface da câmara frontal.
 2.Toque no botão de disparo.
 3.Toque no ícone Verificar. O sistema vai salvar a fotografia automaticamente.
-4.A fotografia que tirou vai ser exibida em baixo. Toque em excluir para concluir o teste"</string>
+4.A fotografia que tirou vai ser exibida abaixo. Toque em excluir para concluir o teste"</string>
   <string name="cit_front_camera_check_title">Câmara frontal</string>
   <string name="cit_get_signature_failed">Obter assinatura FALHOU</string>
-  <string name="cit_gps_check_summary">A informação correspondente ao GPS deve ser exibida em baixo</string>
+  <string name="cit_gps_check_summary">A informação correspondente ao GPS deve ser exibida abaixo</string>
   <string name="cit_gps_check_title">GPS</string>
   <string name="cit_gps_disabled">"O GPS não foi iniciado
 
@@ -131,12 +131,12 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_gps_satellite_count">Contagem de satélites: %d</string>
   <string name="cit_gps_satellite_prn">Prn: %s</string>
   <string name="cit_gps_satellite_snr">Snr: %s</string>
-  <string name="cit_gyroscope_sensor_check_summary">Valores para X，Y，Z, as coordenadas deverão aparecer em baixo</string>
+  <string name="cit_gyroscope_sensor_check_summary">Valores para X，Y，Z, as coordenadas deverão aparecer abaixo</string>
   <string name="cit_gyroscope_sensor_check_title">Giroscópio</string>
   <string name="cit_headset_button_check_summary">Quando os auriculares estiverem ligados, toque nos botões de comando (geralmente situados no cabo dos auriculares). O texto correspondente aos botões pressionados ficará verde</string>
   <string name="cit_headset_button_check_title">Botões do auricular</string>
   <string name="cit_headset_button_click">Toque nos botões dos auriculares</string>
-  <string name="cit_headset_button_current">Botão actual: %s</string>
+  <string name="cit_headset_button_current">Botão atual: %s</string>
   <string name="cit_headset_button_fast_forward">Avanço rápido</string>
   <string name="cit_headset_button_next">Seguinte</string>
   <string name="cit_headset_button_pass">Passar</string>
@@ -147,11 +147,11 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_headset_button_unknown">Desconhecido</string>
   <string name="cit_headset_loopback_check_summary">Enquanto estiver a utilizar os auriculares, ligue-os ao dispositivo. Fale no microfone dos auriculares (muitas vezes localizado no cabo). Deve ouvir a sua voz no altifalante dos auriculares</string>
   <string name="cit_headset_loopback_check_title">Teste de funcionamento do microfone dos auriculares</string>
-  <string name="cit_headset_plug_detect_summary">Quando os auriculares estiverem ligados, o texto \"Auriculares ligados\" deve aparecer em baixo</string>
+  <string name="cit_headset_plug_detect_summary">Quando os auriculares estiverem ligados, o texto \"Auriculares ligados\" deve aparecer abaixo</string>
   <string name="cit_headset_plug_detect_title">Detecção de auricular (ligado)</string>
   <string name="cit_headset_plug_finish">Auriculares ligados</string>
   <string name="cit_headset_plug_hint">Ligar os auriculares</string>
-  <string name="cit_headset_pull_detect_summary">Quando desligar os auriculares, o texto \"Auriculares desligados\" deve aparecer em baixo</string>
+  <string name="cit_headset_pull_detect_summary">Quando desligar os auriculares, o texto \"Auriculares desligados\" deve aparecer abaixo</string>
   <string name="cit_headset_pull_detect_title">Detecção de auricular (desligado)</string>
   <string name="cit_headset_pull_finish">Auriculares foram desligados</string>
   <string name="cit_headset_pull_hint">Desligue os auriculares</string>
@@ -159,7 +159,7 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_kayboard_volume_down">Botão: VOLUME -</string>
   <string name="cit_kayboard_volume_up">Botão: VOLUME +</string>
   <string name="cit_keyboard_back">Botão: VOLTAR</string>
-  <string name="cit_keyboard_current">Teclado actual: %s</string>
+  <string name="cit_keyboard_current">Teclado atual: %s</string>
   <string name="cit_keyboard_menu">Botão: MENU</string>
   <string name="cit_keyboard_test_summary">Quando premir os botões, o texto correspondente na tela deve passar a verde (nota: os botões Início e Ligar/Desligar não estão incluídos no teste)</string>
   <string name="cit_keyboard_test_title">Botões</string>
@@ -169,17 +169,17 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_lcdlight_brightness_min">MIN</string>
   <string name="cit_leds_check_summary">Luz de fundo, LED de notificação e LED do flash devem funcionar quando o botão correspondente for premido</string>
   <string name="cit_leds_check_title">Luz de notificação (LED)</string>
-  <string name="cit_light_sensor_check_summary">O valor do DAC deve aparecer em baixo</string>
+  <string name="cit_light_sensor_check_summary">O valor do DAC deve aparecer abaixo</string>
   <string name="cit_light_sensor_check_title">Sensor de iluminação</string>
-  <string name="cit_magnetic_sensor_check_summary">Valores para as coordenadas X，Y，Z  deverão aparecer em baixo</string>
+  <string name="cit_magnetic_sensor_check_summary">Valores para as coordenadas X，Y，Z  deverão aparecer abaixo</string>
   <string name="cit_magnetic_sensor_check_title">Sensor magnético</string>
   <string name="cit_main_camera_check_summary">"Instruções do teste:
 
-1.Toque no botão da câmara em baixo para entrar na interface da câmara traseira
+1.Toque no botão da câmara abaixo para entrar na interface da câmara traseira
 2.Certifique-se de que o flash está ativado
 3.Toque no botão de disparo
 4.Toque no ícone Verificar. O sistema vai salvar a foto automaticamente.
-5.A foto que tirou vai ser mostrada em baixo. Toque em excluir para concluir o teste"</string>
+5.A foto que tirou vai ser mostrada abaixo. Toque em excluir para concluir o teste"</string>
   <string name="cit_main_camera_check_title">Câmara traseira</string>
   <string name="cit_name">Testes de hardware</string>
   <string name="cit_not_available">Este teste não está disponível nesta versão MIUI</string>
@@ -194,9 +194,9 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_play_sd_mp3_title">Reproduzir MP3 do cartão SD</string>
   <string name="cit_playing_sd_mp3">A reproduzir music.mp3…</string>
   <string name="cit_pointer_location_title">Sensor de toque</string>
-  <string name="cit_power_check_summary">A quantidade de carga da bateria deve ser mostrada em percentagem em baixo</string>
+  <string name="cit_power_check_summary">A quantidade de carga da bateria deve ser mostrada em percentagem abaixo</string>
   <string name="cit_power_check_title">Indicador da bateria</string>
-  <string name="cit_pressure_sensor_check_summary">O valor para a pressão deve aparecer em baixo</string>
+  <string name="cit_pressure_sensor_check_summary">O valor para a pressão deve aparecer abaixo</string>
   <string name="cit_pressure_sensor_check_title">Sensor de pressão</string>
   <string name="cit_proximity_sensor_check_summary">"Tape o sensor de proximidade com a mão (o sensor está localizado no topo do dispositivo, perto do altifalante). Depois retire a mão. O valor deve aumentar de 0.0 quando afastar a mão do dispositivo.
 Durante a calibração, verifique que não está nada entre o sensor e a sua mão (p.e. película protectora do tela ou luvas)"</string>
@@ -222,7 +222,7 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_sd_unmount">Desmontar cartão SD</string>
   <string name="cit_sd_unmount_sucess">Cartão SD desmontado</string>
   <string name="cit_signature_check_label">Verificação de assinatura:</string>
-  <string name="cit_sim_check_summary">Confirme em baixo que a informação e o estado do cartão SIM estão correctos</string>
+  <string name="cit_sim_check_summary">Confirme abaixo que a informação e o estado do cartão SIM estão correctos</string>
   <string name="cit_sim_check_title">Cartão SIM</string>
   <string name="cit_sim_error_unknown">Desconhecido</string>
   <string name="cit_sim_network_operator">Operadora dos serviços de rede:</string>

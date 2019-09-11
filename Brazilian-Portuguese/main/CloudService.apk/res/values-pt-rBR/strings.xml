@@ -9,7 +9,7 @@
   <string name="added_successfully">Adicionado com sucesso</string>
   <string name="antispam_sync">Configurações de Não incomodar</string>
   <string name="app_name">Xiaomi Cloud</string>
-  <string name="bad_authentication">Conta ou palavra-passe inválida</string>
+  <string name="bad_authentication">Conta ou senha inválida</string>
   <string name="btn_return">Voltar</string>
   <string name="button_cancel">Cancelar</string>
   <string name="calendar_sync">Calendário</string>
@@ -49,10 +49,10 @@
   <string name="find_device_operation_failure_rpc">Não foi possível realizar a operação devido ao um erro de RPC</string>
   <string name="find_device_send_sms_alert">Se trocar de cartão SIM, pode ser enviada outra mensagem para reactivar este serviço</string>
   <string name="find_device_service_title">Localizar Dispositivo</string>
-  <string name="forget_password"><u>Esqueceu a palavra-passe?</u></string>
+  <string name="forget_password"><u>Esqueceu a senha?</u></string>
   <string name="header_other_settings">Configurações adicionais</string>
   <string name="i_know">OK</string>
-  <string name="input_password_hint">Introduzir palavra-passe</string>
+  <string name="input_password_hint">Introduzir senha</string>
   <string name="internet_access_dspt">Este aplicativo necessita de uma ligação à Internet para funcionar normalmente.</string>
   <string name="last_sync_time_just_now">Agora mesmo</string>
   <string name="last_sync_time_yesterday">Ontem</string>
@@ -116,7 +116,7 @@ na sua Conta Mi para reactivar a Xiaomi Cloud"</string>
   <string name="micloud_confusion_ok">OK</string>
   <string name="micloud_confusion_setting_notify_text">Desligar a sincronização para outros dispositivos associados à sua conta</string>
   <string name="micloud_confusion_setting_notify_title">Proteger a sua conta</string>
-  <string name="micloud_confusion_setting_password_error">A palavra-passe que introduziu está incorrecta</string>
+  <string name="micloud_confusion_setting_password_error">A senha que introduziu está incorrecta</string>
   <string name="micloud_confusion_setting_question">Desligar a sincronização para outros dispositivos associados com a sua conta</string>
   <string name="micloud_confusion_setting_title">Demasiados dispositivos</string>
   <string name="micloud_confusion_toast_confirm">Dispositivo confirmado</string>
@@ -135,11 +135,11 @@ Localize e bloqueie o seu dispositivo no caso de estar perdido"</string>
   <string name="micloud_find_device_close_fail">Não foi possível desligar Localizar Dispositivo</string>
   <string name="micloud_find_device_close_progress">A desligar Localizar Dispositivo…</string>
   <string name="micloud_find_device_finish">Concluído</string>
-  <string name="micloud_find_device_guide_alert_content">O Localizar Dispositivo está associado com a sua Conta Mi. É necessário definir uma palavra-passe ou introduzir a palavra-passe definida. Certifique-se que memoriza sempre o seu ID Conta Mi e palavra-passe</string>
+  <string name="micloud_find_device_guide_alert_content">O Localizar Dispositivo está associado com a sua Conta Mi. É necessário definir uma senha ou introduzir a senha definida. Certifique-se que memoriza sempre o seu ID Conta Mi e senha</string>
   <string name="micloud_find_device_guide_alert_negtive">Não, obrigado</string>
   <string name="micloud_find_device_guide_alert_negtive_activate">Não, obrigado</string>
   <string name="micloud_find_device_guide_alert_positive">OK</string>
-  <string name="micloud_find_device_guide_alert_title">Memorizar a sua palavra-passe</string>
+  <string name="micloud_find_device_guide_alert_title">Memorizar a sua senha</string>
   <string name="micloud_find_device_guide_button">Ligar Localizar Dispositivo</string>
   <string name="micloud_find_device_guide_content">Pode ser necessário enviar uma SMS para activar este serviço. Quando troca de cartões SIM, uma mensagem vai ser enviada automaticamente para reactivar esta funcionalidade</string>
   <string name="micloud_find_device_guide_fail_reopen">Pode ligar Localizar Dispositivo em Conta Mi - Xiaomi Cloud</string>

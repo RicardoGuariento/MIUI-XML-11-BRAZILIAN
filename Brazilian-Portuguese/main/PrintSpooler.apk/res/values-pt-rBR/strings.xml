@@ -36,7 +36,7 @@
   <string name="print_button">Imprimir</string>
   <string name="print_dialog">Diálogo de impressão</string>
   <string name="print_error_default_message">Não foi possível gerar trabalho de impressão</string>
-  <string name="print_error_printer_unavailable">Esta impressora não está actualmente disponível</string>
+  <string name="print_error_printer_unavailable">Esta impressora não está atualmente disponível</string>
   <string name="print_error_retry">Repetir</string>
   <string name="print_forget_printer">Esquecer impressora</string>
   <string name="print_no_printers">Nenhuma impressora encontrada</string>

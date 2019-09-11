@@ -31,7 +31,7 @@
   <string name="delete_profile">excluir</string>
   <string name="delete_profile_title">excluir perfil existente?</string>
   <string name="device_already_set_up">O dispositivo já tá configurado</string>
-  <string name="device_doesnt_allow_encryption_contact_admin">Este dispositivo não permite encriptação que é necessária para a configuração. Para mais ajuda, contacte o seu administrador</string>
+  <string name="device_doesnt_allow_encryption_contact_admin">Este dispositivo não permite criptografia que é necessária para a configuração. Para mais ajuda, contacte o seu administrador</string>
   <string name="device_has_reset_protection_contact_admin">O seu dispositivo tem a protecção de reposição ligada. Para mais ajuda, contacte o seu administrador</string>
   <string name="device_owner_cancel_cancel">CANCELAR</string>
   <string name="device_owner_cancel_message">Pretende interromper a configuração e excluir os dados do dispositivo?</string>
@@ -48,8 +48,8 @@
   <string name="device_owner_info_with_terms_headers">Este dispositivo vai ser gerido e mantido seguro por %1$s. Os termos de %2$s serão aplicados. %3$s</string>
   <string name="dismiss">Rejeitar</string>
   <string name="encrypt">Encriptar</string>
-  <string name="encrypt_device_text_for_device_owner_setup">Para continuar a configuração do seu dispositivo, tem de o encriptar. Esta acção pode demorar algum tempo</string>
-  <string name="encrypt_device_text_for_profile_owner_setup">Para continuar a configuração do seu perfil de trabalho, tem de encriptar o dispositivo. Esta acção pode demorar algum tempo</string>
+  <string name="encrypt_device_text_for_device_owner_setup">Para continuar a configuração do seu dispositivo, tem de o criptografar. Esta acção pode demorar algum tempo</string>
+  <string name="encrypt_device_text_for_profile_owner_setup">Para continuar a configuração do seu perfil de trabalho, tem de criptografar o dispositivo. Esta acção pode demorar algum tempo</string>
   <string name="encrypt_this_device_question">Encriptar este dispositivo?</string>
   <string name="expand">Expandir</string>
   <string name="for_help_contact_admin">Para ajuda, contacte o seu administrador</string>

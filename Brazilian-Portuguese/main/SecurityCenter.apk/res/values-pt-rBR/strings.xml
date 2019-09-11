@@ -12,7 +12,7 @@
   <string name="about_autostart">Sobre do início automático</string>
   <string name="ac_enter_applock">Entrar no Bloqueio de aplicativos</string>
   <string name="ac_firstUseApplock_subTitle">Utilize o Bloqueio de aplicativos para proteger a sua privacidade</string>
-  <string name="ac_firstUseApplock_title">Definir uma palavra-passe para proteger as suas aplicativos</string>
+  <string name="ac_firstUseApplock_title">Definir uma senha para proteger as suas aplicativos</string>
   <string name="ac_mask_all_apps">Ocultar para todas as aplicativos</string>
   <string name="ac_notification_contentText">Toque para ligar</string>
   <string name="ac_notification_contentTitle">Proteja as aplicativos com o Bloqueio de aplicativos</string>
@@ -24,11 +24,11 @@
   <string name="ac_summaryOn">Ligado</string>
   <string name="ac_unmask_all_apps">Mostrar para todas as aplicativos</string>
   <string name="access_control_app_is_launching">A aplicação está a iniciar</string>
-  <string name="access_control_failed_need_to_unlock_nofingerprint">Introduza a palavra-passe antes de utilizar uma nova impressão digital</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Insira a senha antes de utilizar uma nova impressão digital</string>
   <string name="access_control_fingerprint_not_identified_msg">Não foi possível ler a impressão digital</string>
   <string name="access_control_need_password">"%s adicionado com sucesso
 "</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Introduza a palavra-passe do Bloqueio de aplicativos</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Insira a senha do Bloqueio de aplicativos</string>
   <string name="accessibility_gameboosterservice_description"/>
   <string name="accessibility_service_description"/>
   <string name="action_button_text_100">Optimizar</string>
@@ -287,16 +287,16 @@
   <string name="application_item_already_permission">Permitida</string>
   <string name="application_item_disable">Restringida</string>
   <string name="applock_add_account">Adicionar</string>
-  <string name="applock_add_account_info">Adicione a Conta Mi para poder repor a sua palavra-passe no caso de a esquecer</string>
+  <string name="applock_add_account_info">Adicione a Conta Mi para poder repor a sua senha no caso de a esquecer</string>
   <string name="applock_add_account_setting">Contas e privacidade</string>
-  <string name="applock_bind_account_title">Esqueceu a sua palavra-passe?</string>
-  <string name="applock_close_dialog_summary">Todas as aplicativos ocultas serão mostradas, os seus atalhos serão restaurados e a sua palavra-passe do Bloqueio de aplicativos vai ser excluída. Desligar o Bloqueio de aplicativos?</string>
+  <string name="applock_bind_account_title">Esqueceu a sua senha?</string>
+  <string name="applock_close_dialog_summary">Todas as aplicativos ocultas serão mostradas, os seus atalhos serão restaurados e a sua senha do Bloqueio de aplicativos vai ser excluída. Desligar o Bloqueio de aplicativos?</string>
   <string name="applock_close_dialog_title">Desligar Bloqueio de aplicativos?</string>
   <string name="applock_exit_account_info">A conta vai ser removida automaticamente assim que terminar sessão</string>
   <string name="applock_face_unlock_summary">Desbloquear aplicativos utilizando o rosto</string>
   <string name="applock_face_unlock_title">Desbloqueio facial</string>
   <string name="applock_function_base_settings">Bloqueio de aplicativos</string>
-  <string name="applock_function_pwd_settings">Palavra-passe</string>
+  <string name="applock_function_pwd_settings">Senha</string>
   <string name="applock_header_text_less_than_half">Demasiado pequeno. Arraste um bocado mais</string>
   <string name="applock_login_and_add_account">Iníciar sessão e adicionar</string>
   <string name="applock_not_add_account"><u>Agora não</u></string>
@@ -394,9 +394,9 @@
   <string name="auto_task_result_summary_text">Definir tarefas automáticas para poupança de bateria</string>
   <string name="back_app_name">Voltar para Bloqueio de aplicativos</string>
   <string name="back_description_securitycenter">Voltar</string>
-  <string name="back_modifypassword">Voltar para alteração de palavra-passe</string>
+  <string name="back_modifypassword">Voltar para alteração de senha</string>
   <string name="back_sound_data">Ligue os dados móveis e tente novamente</string>
-  <string name="back_sound_fail">Não foi possível definir. Defina o cartão SIM actual como cartão de dados, ligue-se à rede e tente novamente</string>
+  <string name="back_sound_fail">Não foi possível definir. Defina o cartão SIM atual como cartão de dados, ligue-se à rede e tente novamente</string>
   <string name="back_sound_success">Definido com sucesso</string>
   <string name="back_sound_support">A rede da sua operadora não suporta esta definição</string>
   <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em segundo plano para esta aplicação pode fazer com que o aplicativo deixe de funcionar correctamente. Restringir mesmo assim?</string>
@@ -448,9 +448,9 @@
   <string name="bg_network_exception_title">Ligação em segundo plano restringida</string>
   <string name="bind_xiaomi_account_cancel">Cancelar</string>
   <string name="bind_xiaomi_account_confirm">Adicionar</string>
-  <string name="bind_xiaomi_account_dialog_summery">Está prestes a adicionar a Conta Mi %s. Se esquecer a sua palavra-passe, pode utilizar esta conta para fazer a reposição da mesma. A conta vai ser removida automaticamente se terminar sessão</string>
+  <string name="bind_xiaomi_account_dialog_summery">Está prestes a adicionar a Conta Mi %s. Se esquecer a sua senha, pode utilizar esta conta para fazer a reposição da mesma. A conta vai ser removida automaticamente se terminar sessão</string>
   <string name="bind_xiaomi_account_success">Conta Mi adicionada com sucesso</string>
-  <string name="bind_xiaomi_account_summary">Utilize a sua Conta Mi para repor a sua palavra-passe</string>
+  <string name="bind_xiaomi_account_summary">Utilize a sua Conta Mi para repor a sua senha</string>
   <string name="bind_xiaomi_account_title">Adicionar Conta Mi</string>
   <string name="birthday">Aniversário</string>
   <string name="bl_no_blacklist">Sem números bloqueados</string>
@@ -537,7 +537,7 @@
   <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="card_main_applock_action">Ligar</string>
-  <string name="card_main_applock_summary">Proteger aplicativos selecionadas com uma palavra-passe</string>
+  <string name="card_main_applock_summary">Proteger aplicativos selecionadas com uma senha</string>
   <string name="card_main_applock_title">Bloqueio de aplicativos</string>
   <string name="card_main_deepclean_action">Limpar</string>
   <string name="card_main_deepclean_facebook_title">Limpeza do Facebook</string>
@@ -584,7 +584,7 @@
   <string name="cmcc_app_check_dialog_negative">Mais tarde</string>
   <string name="cmcc_app_check_dialog_positive">Reiniciar agora</string>
   <string name="cmcc_app_check_dialog_title">Sistema reparado</string>
-  <string name="confirmSecondSpacePassword">Confirmar a palavra-passe do Segundo espaço</string>
+  <string name="confirmSecondSpacePassword">Confirmar a senha do Segundo espaço</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">A adicionar Conta Mi</string>
   <string name="confirm_fingerprint_msg">Verificar a sua impressão digital</string>
   <string name="confirm_prompt_all_permission">Perguntar por permissões para todas as aplicativos?</string>
@@ -595,7 +595,7 @@
   <string name="connecting">A ligar…</string>
   <string name="continue_install">Instalar</string>
   <string name="convenient_mode">Desbloquear todas as aplicativos</string>
-  <string name="convenient_summary">Introduzir a palavra-passe uma vez para desbloquear tudo</string>
+  <string name="convenient_summary">Introduzir a senha uma vez para desbloquear tudo</string>
   <string name="correction_attention_dialog_message">A ajustar configurações neste momento. Aguarde que o processo conclua e tente novamente</string>
   <string name="cpu_usage_android_system">Sistema Android</string>
   <string name="cpu_usage_process_run_time_little_time">Menos de 1 minuto</string>
@@ -670,7 +670,7 @@ A sua operador pode cobrar custos adicionais se ligar novamente os dados móveis
   <string name="details_subtitle">Detalhes de utilização</string>
   <string name="device_manager_apply_step_1">Activar o administrador de dispositivo para esta aplicação?</string>
   <string name="device_manager_apply_step_2">"Activar o administrador de dispositivo para esta aplicação pode levar à exposição dos seus dados pessoais.
-Todos os dados no seu dispositivo podem ser excluídos e a sua palavra-passe do tela de bloqueio reposta"</string>
+Todos os dados no seu dispositivo podem ser excluídos e a sua senha do tela de bloqueio reposta"</string>
   <string name="device_manager_apply_step_3">Certifique-se que compreende todos os riscos antes de avançar. Activar o administrador de dispositivo para esta aplicação agora?</string>
   <string name="diagnostic_attention_dialog_message">O diagnóstico para %1$s está em curso. Aguarde até estar concluído e tente novamente</string>
   <string name="dialog_app_roaming_message">%1$s não pode utilizar dados móveis em roaming. Apenas as aplicativos adicionadas nas excepções podem utilizar dados móveis</string>
@@ -703,8 +703,8 @@ Todos os dados no seu dispositivo podem ser excluídos e a sua palavra-passe do 
   <string name="dlg_add_manual_ok">Adicionar</string>
   <string name="dlg_antispam_mode_delete_message">Não é possível recuperar regras depois de terem sido eliminadas</string>
   <string name="dlg_antispam_mode_delete_title">excluir regras</string>
-  <string name="dlg_antispam_using_mode_delete_message">excluir as regras que está a utilizar actualmente e voltar para as regras predefinidas da lista de bloqueio?</string>
-  <string name="dlg_antispam_using_mode_international_delete_message">excluir as regras que está a utilizar actualmente e voltar para as regras predefinidas da lista de bloqueio?</string>
+  <string name="dlg_antispam_using_mode_delete_message">excluir as regras que está a utilizar atualmente e voltar para as regras predefinidas da lista de bloqueio?</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">excluir as regras que está a utilizar atualmente e voltar para as regras predefinidas da lista de bloqueio?</string>
   <string name="dlg_bl_add_manual">Adicionar número à lista de bloqueio</string>
   <string name="dlg_black_address_antispam_message">Adicionar esta localização à lista de bloqueio?</string>
   <string name="dlg_black_antispam_hint">Lista de bloqueio</string>
@@ -875,7 +875,7 @@ medical card"</string>
   <string name="face_unlock_check_failed">Não foi possível reconhecê-lo</string>
   <string name="face_unlock_face_auth_failed_title">Não foi possível verificar os dados do rosto. A trocar para outros métodos de desbloqueio…</string>
   <string name="face_unlock_face_start_title">A verificar dados…</string>
-  <string name="face_unlock_finger_or_password_switch">Utilize a sua impressão digital ou palavra-passe para desbloquear</string>
+  <string name="face_unlock_finger_or_password_switch">Utilize a sua impressão digital ou senha para desbloquear</string>
   <string name="face_unlock_guide_confirm">Utilizar desbloqueio facial</string>
   <string name="face_unlock_guide_dialog_summary">Pode utilizar dados de rosto para desbloquear o dispositivo. Ligar o desbloqueio facial?</string>
   <string name="face_unlock_not_found">Não foi possível reconhecê-lo</string>
@@ -888,7 +888,7 @@ medical card"</string>
   <string name="face_unlock_verity_dialog_title_succeed">Verificado com sucesso</string>
   <string name="finger_remind_message">Adicione a sua impressão digital primeiro. Toque para abrir as Configurações</string>
   <string name="fingerprint_identify_msg">Desbloqueio com impressão digital</string>
-  <string name="fingerprint_not_identified_msg">Não foi possível ler a impressão digital. Introduza a sua palavra-passe</string>
+  <string name="fingerprint_not_identified_msg">Não foi possível ler a impressão digital. Insira a sua senha</string>
   <string name="fingerprint_not_remind">Não perguntar novamente</string>
   <string name="fingerprint_remind_dialog_title">Desbloqueio com impressão digital</string>
   <string name="fingerprint_to_lock">Desbloquear com impressão digital</string>
@@ -967,15 +967,15 @@ medical card"</string>
   <string name="five_percent_total_pkg">%s (5%% dos dados mensais)</string>
   <string name="fod_authentication_shift_button">Cancelar</string>
   <string name="fod_button_finger">Utilizar impressão digital</string>
-  <string name="fod_button_password">Introduzir palavra-passe</string>
+  <string name="fod_button_password">Introduzir senha</string>
   <string name="fod_finger_notice_title">Meta o seu dedo na tela</string>
   <string name="fod_finger_windows_tips">Verifique a sua impressão digital</string>
-  <string name="fod_tips_split_screen_more_than_half">Introduzir palavra-passe</string>
+  <string name="fod_tips_split_screen_more_than_half">Introduzir senha</string>
   <string name="forbid_autobright_summary">O brilho do tela vai-se manter enquanto estiver a jogar e restaurado quando acabar</string>
   <string name="forbid_autobright_title">Corrigir brilho de tela</string>
   <string name="foreground_traffic">Primeiro plano %s</string>
-  <string name="forget_password_button_text"><u>Esqueceu a palavra-passe?</u></string>
-  <string name="forget_password_button_text_normal">Esqueceu a palavra-passe?</string>
+  <string name="forget_password_button_text"><u>Esqueceu a senha?</u></string>
+  <string name="forget_password_button_text_normal">Esqueceu a senha?</string>
   <string name="forget_pattern"><u>Esqueceu o padrão?</u></string>
   <string name="forground_network_optimization_summary">Dar mais banda aos jogos que estão a ser executados</string>
   <string name="forground_network_optimization_title">Prioridade da banda</string>
@@ -1151,7 +1151,7 @@ medical card"</string>
   <string name="gs_show_way_vertical">Vertical</string>
   <string name="gs_slip_gamebox_detail">Utilize o controlo para fazer o painel de atalhos aparecer</string>
   <string name="guide_get_operator_error">"<font color='#33b4ff'><u>Operadora errada?</u></font>"</string>
-  <string name="guide_operator_text">"A sua operadora actual: "</string>
+  <string name="guide_operator_text">"A sua operadora atual: "</string>
   <string name="guide_quck_open">Ligar</string>
   <string name="guide_second_text">Após definir a sua operadora, a MIUI vai monitorar a sua utilização de dados móveis diária ao enviar uma mensagem de texto gratuita. Quando a MIUI detectar que passou o limite de utilização de dados, vai notificá-lo e desligá-lo da rede</string>
   <string name="guide_wait_setting">Agora não</string>
@@ -1200,7 +1200,7 @@ medical card"</string>
   <string name="info_unantispam_sms">Permitir mensagens</string>
   <string name="information_setting">Recomendações</string>
   <string name="input_aviable_traffic">Definir utilização de dados</string>
-  <string name="input_password_hint_text">Introduzir palavra-passe</string>
+  <string name="input_password_hint_text">Introduzir senha</string>
   <string name="input_traffic_pkg">Definir utilização de dados</string>
   <string name="input_used_hint">Definir utilização de dados</string>
   <string name="input_used_max_hint">Definir utilização de dados (menos de %s)</string>
@@ -1245,11 +1245,11 @@ Pode ter custos adicionais se utilizar a ligação de dados móveis novamente"</
   <string name="lock_screen_warning_switch_title">Mostrar avisos na tela de bloqueio</string>
   <string name="lock_screen_warning_value">Aviso de utilização de dados</string>
   <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">Não foi possível reconhecer a impressão digital. Tente novamente</string>
-  <string name="lockpattern_access_need_to_unlock_wrong_pattern">A palavra-passe está incorrecta. Tente novamente</string>
+  <string name="lockpattern_access_need_to_unlock_wrong_pattern">A senha está incorrecta. Tente novamente</string>
   <string name="lockpattern_confirm_button_text">OK</string>
   <string name="lockpattern_continue_button_text">Seguinte</string>
   <string name="lockpattern_need_to_confirm">Desenhar novamente o padrão para confirmar</string>
-  <string name="lockpattern_need_to_unlock_wrong">As palavra-passe não correspondem. Tente novamente</string>
+  <string name="lockpattern_need_to_unlock_wrong">As senha não correspondem. Tente novamente</string>
   <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
   <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
   <string name="lockpattern_recording_inprogress">Levante o dedo quando terminar</string>
@@ -1266,7 +1266,7 @@ Pode ter custos adicionais se utilizar a ligação de dados móveis novamente"</
   <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_glogin_checking_password">A verificar…</string>
-  <string name="lockscreen_glogin_password_hint">Palavra-passe</string>
+  <string name="lockscreen_glogin_password_hint">Senha</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sessão</string>
   <string name="loding">A carregar dados</string>
   <string name="log_count">(%d)</string>
@@ -1431,15 +1431,15 @@ da operadora"</string>
   <string name="mian_page_primary_txt">Roaming</string>
   <string name="midrop_post_notification_contentText">Tente o Mi Drop. É rápido e não tem anúncios</string>
   <string name="midrop_post_notification_contentTitle">Necessita de transferir arquivos?</string>
-  <string name="modify_password_mode"><u>Alterar tipo de palavra-passe</u></string>
-  <string name="mixed_need_to_confirm">Introduza novamente para confirmar</string>
+  <string name="modify_password_mode"><u>Alterar tipo de senha</u></string>
+  <string name="mixed_need_to_confirm">Insira novamente para confirmar</string>
   <string name="mixed_password_confirmed_header_confirm">Definido com sucesso. Toque para confirmar</string>
   <string name="mixed_password_confirmed_header_continue">Definido com sucesso. Toque \"Seguinte\"</string>
   <string name="mixed_pattern_entered_header">Definido com sucesso</string>
-  <string name="mixed_recording_intro_header">Introduza pelo menos 4 caracteres</string>
+  <string name="mixed_recording_intro_header">Insira pelo menos 4 caracteres</string>
   <string name="mixed_retry_button_text">Cancelar</string>
-  <string name="mixed_settings_help_how_to_record">Como definir a palavra-passe</string>
-  <string name="modifypassword">Alterar tipo de palavra-passe</string>
+  <string name="mixed_settings_help_how_to_record">Como definir a senha</string>
+  <string name="modifypassword">Alterar tipo de senha</string>
   <string name="monitor_app_add">Adicionar</string>
   <string name="monitor_app_more">Mais</string>
   <string name="monitor_requests_from_pc">Gerir a instalação de aplicativos via USB</string>
@@ -1470,7 +1470,7 @@ da operadora"</string>
 
 2. Se acabou de carregar o saldo do seu telefone, reinicie o telefone e tente novamente
 
-3. O sinal de rede da sua operadora pode ser fraco na sua localização actual"</string>
+3. O sinal de rede da sua operadora pode ser fraco na sua localização atual"</string>
   <string name="network_operator_exception_summary">Não foi possível activar o cartão SIM. Verifique se o seu cartão SIM está inserido correctamente e que o seu plano móvel foi ativado pela sua operadora</string>
   <string name="network_permission_exception_tips">Não é possível utilizar dados móveis para ligar à rede</string>
   <string name="network_roaming_exception_tips">Não é possível utilizar dados móveis em roaming para ligar à rede</string>
@@ -1545,11 +1545,11 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="notify_weekly_traffic_body">Para limitar a utilização de dados automaticamente defina um plano de dados mensal</string>
   <string name="notify_weekly_traffic_title">Utilizados %s esta semana</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s utilizados %2$s esta semana</string>
-  <string name="numeric_need_to_confirm">Introduza novamente para confirmar</string>
+  <string name="numeric_need_to_confirm">Insira novamente para confirmar</string>
   <string name="numeric_password_confirmed_header_confirm">Definido com sucesso. Toque para confirmar</string>
   <string name="numeric_password_confirmed_header_continue">Definido com sucesso. Toque \"Seguinte\"</string>
   <string name="numeric_pattern_entered_header">Definido com sucesso</string>
-  <string name="numeric_recording_intro_header">Introduza palavra-passe</string>
+  <string name="numeric_recording_intro_header">Insira senha</string>
   <string name="numeric_retry_button_text">Cancelar</string>
   <string name="numeric_settings_help_how_to_record">Como definir um PIN</string>
   <string name="ok">OK</string>
@@ -1625,18 +1625,18 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="package_setted_error_notification_summary">Toque para ver detalhes de utilização de dados</string>
   <string name="package_setted_error_notification_titile">Não foi possível definir plano de dados</string>
   <string name="packages_subtitle">Pacotes incluídos</string>
-  <string name="passwordIncorrect">Utilizador ou palavra-passe incorrecto</string>
+  <string name="passwordIncorrect">Utilizador ou senha incorrecto</string>
   <string name="password_forget_pattern_confirm">Entendido</string>
-  <string name="password_forget_pattern_message">Devido a motivos de segurança, apenas pode repor a sua palavra-passe após uma reposição de fábrica. Toque para repor</string>
-  <string name="password_forget_pattern_message_none">As aplicativos não estão bloqueadas. Pode repor a sua palavra-passe</string>
+  <string name="password_forget_pattern_message">Devido a motivos de segurança, apenas pode repor a sua senha após uma reposição de fábrica. Toque para repor</string>
+  <string name="password_forget_pattern_message_none">As aplicativos não estão bloqueadas. Pode repor a sua senha</string>
   <string name="password_forget_pattern_reset">Repor</string>
   <string name="password_forget_pattern_title">Atenção</string>
-  <string name="password_promotion_not_login_xiaomi_account_message">Adicione a sua Conta Mi para poder repor a sua palavra-passe no caso de a esquecer</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">Adicione a sua Conta Mi para poder repor a sua senha no caso de a esquecer</string>
   <string name="password_promotion_postbutton_text">Adicionar</string>
   <string name="password_promotion_title">Adicionar Conta Mi</string>
-  <string name="password_type">Alterar palavra-passe</string>
-  <string name="password_type_underline"><u>Alterar palavra-passe</u></string>
-  <string name="password_xspace_forget_pattern_message">Para alterar a palavra-passe do Segundo espaço, deve excluir o Segundo espaço actual e criar um novo</string>
+  <string name="password_type">Alterar senha</string>
+  <string name="password_type_underline"><u>Alterar senha</u></string>
+  <string name="password_xspace_forget_pattern_message">Para alterar a senha do Segundo espaço, deve excluir o Segundo espaço atual e criar um novo</string>
   <string name="pc_abnormal_scan_button_text">Fechar aplicativos</string>
   <string name="pc_abnormal_scan_reason_prevent_standby">Impede que o sistema entre no modo de inactividade</string>
   <string name="pc_abnormal_scan_reason_reconnect">Tenta-se ligar à rede com muita frequência</string>
@@ -1921,13 +1921,13 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="privacy_apps_tutorial">Tutorial</string>
   <string name="privacy_apps_tutorial_dlg_title">Como localizar aplicativos ocultas</string>
   <string name="privacy_apps_tutorial_prompt_pageone">Esta funcionalidade permite ocultar ícones os aplicativos para que não apareçam na tela inicial</string>
-  <string name="privacy_apps_tutorial_prompt_pagethree">Após introduzir a palavra-passe, a pasta com as aplicativos ocultas vai aparecer</string>
-  <string name="privacy_apps_tutorial_prompt_pagetwo">Afaste 2 dedos na tela para ver uma mensagem a pedir a sua palavra-passe do Bloqueio de aplicativos</string>
+  <string name="privacy_apps_tutorial_prompt_pagethree">Após introduzir a senha, a pasta com as aplicativos ocultas vai aparecer</string>
+  <string name="privacy_apps_tutorial_prompt_pagetwo">Afaste 2 dedos na tela para ver uma mensagem a pedir a sua senha do Bloqueio de aplicativos</string>
   <string name="privacy_declare_dialog_title">Termos de Serviço</string>
   <string name="privacy_dialog_message">Quando ligar à Internet, esta mensagem assim como os dados da operadora vai ser encriptada e carregada para os servidores Mi para nos ajudar a melhorar a monitorização de utilização de dados</string>
   <string name="privacy_mode_dialog_title">Modo Convidado</string>
-  <string name="privacy_prompt_tc_sms_report_message">O seu número de telefone e detalhes da operadora serão encriptados e enviados para os servidores Mi para obter mais informações sobre as opções de compra de dados</string>
-  <string name="privacy_prompt_traffic_adjust_message">Esta funcionalidade necessita de encriptar e enviar o IMEI, número de telefone e dados da operadora para os servidores Mi para conseguir receber as estatísticas de utilização de dados da sua operadora</string>
+  <string name="privacy_prompt_tc_sms_report_message">O seu número de telefone e detalhes da operadora serão criptografados e enviados para os servidores Mi para obter mais informações sobre as opções de compra de dados</string>
+  <string name="privacy_prompt_traffic_adjust_message">Esta funcionalidade necessita de criptografar e enviar o IMEI, número de telefone e dados da operadora para os servidores Mi para conseguir receber as estatísticas de utilização de dados da sua operadora</string>
   <string name="privacy_prompt_upload">Enviar</string>
   <string name="process_mediaserver_label">Servidor de mídias</string>
   <string name="promotion">Anúncios</string>
@@ -1979,9 +1979,9 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="report_success">Mensagem reportada</string>
   <string name="report_warning">Reportar %1$s mensagens para a Mi? As mensagens e os números de telefone serão enviados para o servidor Mi. As informações pessoais associadas a estas mensagens manter-se-ão anónimas</string>
   <string name="report_warning_title">Atenção</string>
-  <string name="reset_data_dialog_message">Este dispositivo não está associado com a sua Conta Mi. Não é possível restaurar ou repor a palavra-passe. Faça cópia de todos os seus itens e faça uma reposição de fábrica. Todos os dados serão excluídos permanentemente e o seu cartão SD vai ser formatado</string>
+  <string name="reset_data_dialog_message">Este dispositivo não está associado com a sua Conta Mi. Não é possível restaurar ou repor a senha. Faça cópia de todos os seus itens e faça uma reposição de fábrica. Todos os dados serão excluídos permanentemente e o seu cartão SD vai ser formatado</string>
   <string name="reset_data_dialog_ok">Reposição de fábrica</string>
-  <string name="reset_data_title">Não é possível restaurar palavra-passe</string>
+  <string name="reset_data_title">Não é possível restaurar senha</string>
   <string name="result_autoscan_header">Monitorização de pagamentos</string>
   <string name="result_autoscan_info">Monitorizar automaticamente o ambiente do sistema quando as aplicativos de pagamento iniciarem</string>
   <string name="result_sms_header">Detectados riscos de mensagens</string>
@@ -2048,8 +2048,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="securitycenter_tab_title">Segurança</string>
   <string name="see_detail">Detalhes</string>
   <string name="see_more_content">Actualize o centro de jogos para ver mais destaques</string>
-  <string name="set_applock_password">Definir palavra-passe</string>
-  <string name="set_mixed_password_name">Definir palavra-passe</string>
+  <string name="set_applock_password">Definir senha</string>
+  <string name="set_mixed_password_name">Definir senha</string>
   <string name="set_numeric_password_name">Definir PIN</string>
   <string name="set_pattern_password_name">Definir padrão</string>
   <string name="setting">Configurações</string>
@@ -2380,7 +2380,7 @@ Nós respeitamos e protegemos a sua privacidade"</string>
   <string name="tc_diagnostic_all_error_notification_title">Não foi possível concluir os diagnósticos</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Toque para ajustar o tipo de rede</string>
   <string name="tc_diagnostic_brand_error_notification_title">Tipo de rede errada</string>
-  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Resultado: Marca de operadora errada&lt;br/&gt;&lt;br/&gt;Definir marca: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Marca actual: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Resultado: Marca de operadora errada&lt;br/&gt;&lt;br/&gt;Definir marca: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Marca atual: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Concluído</string>
   <string name="tc_diagnostic_location_error_notification_summary">Toque para ajustar localização</string>
   <string name="tc_diagnostic_location_error_notification_title">Localização errada</string>
@@ -2390,13 +2390,13 @@ Nós respeitamos e protegemos a sua privacidade"</string>
   <string name="tc_diagnostic_onekey_repair_botton">Corrigir</string>
   <string name="tc_diagnostic_operator_error_notification_summary">Toque para alterar configurações da operadora</string>
   <string name="tc_diagnostic_operator_error_notification_title">Operadora errada</string>
-  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Resultado: Operadora errada&lt;br/&gt;&lt;br/&gt;Definir operadora: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Operadora actual: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Resultado: Operadora errada&lt;br/&gt;&lt;br/&gt;Definir operadora: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Operadora atual: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_and_continue">Corrigir e continuar</string>
   <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnóstico concluído. Problemas de localização corrigidos.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnóstico concluído. Problemas de localização e operadora corrigidos.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_success_toast">Alterado com sucesso</string>
   <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Resultado: Não foi possível concluir os diagnósticos&lt;br/&gt;&lt;br/&gt;Reportar este problema para ajudar a MIUI a melhorar as ferramentas de diagnóstico&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Resultado: Localização errada&lt;br/&gt;&lt;br/&gt;Definir localização: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Localização actual: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Resultado: Localização errada&lt;br/&gt;&lt;br/&gt;Definir localização: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Localização atual: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_error_brand">Sem rede da operadora</string>
   <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Erro&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;Sem ligação de rede&lt;/font&gt;"</string>
@@ -2546,7 +2546,7 @@ Nós respeitamos e protegemos a sua privacidade"</string>
   <string name="toast_keyword_blank">Tem que introduzir uma palavra-chave</string>
   <string name="toast_keyword_exist">Palavra-chave adicionada</string>
   <string name="toast_keyword_invalid">Palavra-chave inválida</string>
-  <string name="toast_lockscreen_glogin_empty_password">Necessário palavra-passe</string>
+  <string name="toast_lockscreen_glogin_empty_password">Necessário senha</string>
   <string name="toast_network_eror">Não é possível ligar à rede</string>
   <string name="toast_network_switch">Este aplicativo pode ligar à Internet</string>
   <string name="toast_reject_sms_read_permission_success">Definido com sucesso</string>
@@ -2638,9 +2638,9 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="unlock_failed">Erro interno</string>
   <string name="unlike">Não, obrigado</string>
   <string name="unlock_pattern"><u>Padrão</u></string>
-  <string name="unlock_pattern_to_bind_fingerprint">Introduza a palavra-passe para activar as impressões digitais</string>
+  <string name="unlock_pattern_to_bind_fingerprint">Insira a senha para activar as impressões digitais</string>
   <string name="unlock_set_unlock_password_summary">Segurança elevada</string>
-  <string name="unlock_set_unlock_password_title">Palavra-passe</string>
+  <string name="unlock_set_unlock_password_title">Senha</string>
   <string name="unlock_set_unlock_pattern_summary">Segurança média</string>
   <string name="unlock_set_unlock_pattern_title">Padrão</string>
   <string name="unlock_set_unlock_pin_summary">Segurança média a elevada</string>
@@ -2698,7 +2698,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="wlan_change_protection_title">Prevenir a troca de redes</string>
   <string name="wlan_optimization_summary">Reduzir o atraso da rede Wi-Fi</string>
   <string name="wlan_optimization_title">Optimização de Wi-Fi</string>
-  <string name="wrong_password">Palavra-passe incorrecta</string>
+  <string name="wrong_password">Senha incorrecta</string>
   <string name="xunyou_net_booster">Acelerador de rede</string>
   <string name="xunyou_net_booster_detail">Utilizar o acelerador de rede Xunyou para jogos</string>
   <string name="xunyou_pay_webview">Serviços Xunyou</string>

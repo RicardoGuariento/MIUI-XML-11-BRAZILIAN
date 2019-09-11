@@ -17,10 +17,10 @@
   <string name="agree_to_turn_on">Concordar</string>
   <string name="all_services">Todos</string>
   <string name="allow">Permitir</string>
-  <string name="antispam_curr_version">Versão actual: %d</string>
+  <string name="antispam_curr_version">Versão atual: %d</string>
   <string name="antispam_data_downloading">A transferir informação do autor da chamada</string>
   <string name="antispam_data_downloading_error">Não foi possível ligar à rede</string>
-  <string name="antispam_local_newest">A versão actual está atualizada</string>
+  <string name="antispam_local_newest">A versão atual está atualizada</string>
   <string name="antispam_network_remind_summary">Transferir actualizações utilizando dados móveis?</string>
   <string name="antispam_network_remind_title">Aviso de utilização de dados</string>
   <string name="antispam_pull_newest">Atualizar para a versão %d com sucesso</string>
@@ -128,7 +128,7 @@
   <string name="mark_number_feedback_personal_number">É um número pessoal</string>
   <string name="mark_number_feedback_success">Marcador enviado com sucesso</string>
   <string name="mark_number_marked_maintitle">Alterar marcador</string>
-  <string name="mark_number_marked_subtitle">%s (marcador actual)</string>
+  <string name="mark_number_marked_subtitle">%s (marcador atual)</string>
   <string name="mark_number_notification_title">Reportar número suspeito</string>
   <string name="mark_number_remove">Remover marcador</string>
   <string name="mark_title_null_hint">Introduzir marcador</string>
@@ -164,7 +164,7 @@
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="more_coupons">Todos os cupões</string>
   <string name="navigation_search_all_cities">Todas as cidades</string>
-  <string name="navigation_search_automatically_positioned_city">Cidade actual</string>
+  <string name="navigation_search_automatically_positioned_city">Cidade atual</string>
   <string name="navigation_search_hot_cities">Popular</string>
   <string name="navigation_search_no_city_list">Não foi encontrado nada</string>
   <string name="navigation_search_positioning">A localizar…</string>

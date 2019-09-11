@@ -19,7 +19,7 @@
   <string name="help">Ajuda</string>
   <string name="menu_back">Voltar</string>
   <string name="menu_end_session">Finalizar a sessão</string>
-  <string name="no_sim_card_inserted">Introduza SIM para executar Ferramentas do SIM.</string>
+  <string name="no_sim_card_inserted">Insira SIM para executar Ferramentas do SIM.</string>
   <string name="service_name">Nome do serviço</string>
   <string name="sim_type_sim_name">Ferramentas do SIM</string>
   <string name="sim_type_uim_name">Ferramentas do UIM</string>

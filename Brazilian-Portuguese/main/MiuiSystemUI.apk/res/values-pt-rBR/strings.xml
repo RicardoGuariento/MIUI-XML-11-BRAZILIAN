@@ -21,7 +21,7 @@
   <string name="abc_toolbar_collapse_description">Fechar</string>
   <string name="accessibility_accessibility_button">Acessibilidade</string>
   <string name="accessibility_ambient_display_charging">A carregar</string>
-  <string name="accessibility_action_divider_bottom_full">Tela inteiro em baixo</string>
+  <string name="accessibility_action_divider_bottom_full">Tela inteiro abaixo</string>
   <string name="accessibility_action_divider_left_30">30% à esquerda</string>
   <string name="accessibility_action_divider_left_50">50% à esquerda</string>
   <string name="accessibility_action_divider_left_70">70% à esquerda</string>
@@ -122,10 +122,10 @@
   <string name="accessibility_menu">Menu</string>
   <string name="accessibility_menu_item_split_disable">A aplicação não suporta tela dividido</string>
   <string name="accessibility_menu_item_split_enable">A aplicação suporta tela dividido</string>
-  <string name="accessibility_multi_user_switch_inactive">Utilizador actual %s</string>
+  <string name="accessibility_multi_user_switch_inactive">Utilizador atual %s</string>
   <string name="accessibility_multi_user_switch_quick_contact">Mostrar perfil</string>
   <string name="accessibility_multi_user_switch_switcher">Trocar usuário</string>
-  <string name="accessibility_multi_user_switch_switcher_with_current">Trocar usuário, usuário actual %s</string>
+  <string name="accessibility_multi_user_switch_switcher_with_current">Trocar usuário, usuário atual %s</string>
   <string name="accessibility_no_battery">Sem bateria</string>
   <string name="accessibility_no_data">Sem dados</string>
   <string name="accessibility_no_phone">Sem sinal</string>
@@ -400,7 +400,7 @@ Taxa de amostragem"</string>
   <string name="branded_vpn_footer">A rede pode ser monitorizada</string>
   <string name="broadcast_tile">Atalho de transmissão</string>
   <string name="bt_is_off">O Bluetooth está desligado</string>
-  <string name="btn_camera">Introduza o seu rosto</string>
+  <string name="btn_camera">Insira o seu rosto</string>
   <string name="call_status_dialing">A ligar</string>
   <string name="call_status_holding">Em espera</string>
   <string name="call_status_ringing">A tocar</string>
@@ -571,7 +571,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_data_input_ok_title">Adicionado com sucesso</string>
   <string name="face_data_input_title">Adicionar rosto</string>
   <string name="face_data_input_structure_title">Dados de rosto 3D</string>
-  <string name="face_data_introduction_msg">Os dados do rosto podem ser utilizados para desbloquear o seu dispositivo ou verificar a sua identidade. Adicione uma palavra-passe de tela de bloqueio antes de adicionar o seu rosto</string>
+  <string name="face_data_introduction_msg">Os dados do rosto podem ser utilizados para desbloquear o seu dispositivo ou verificar a sua identidade. Adicione uma senha de tela de bloqueio antes de adicionar o seu rosto</string>
   <string name="face_data_introduction_next">Seguinte</string>
   <string name="face_data_introduction_title">Reconhecimento de rosto</string>
   <string name="face_data_manage_delete">excluir rosto?</string>
@@ -584,7 +584,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_data_manage_unlock_title">Desbloquear utilizando o seu rosto</string>
   <string name="face_data_siggesstion_next">Seguinte</string>
   <string name="face_data_siggesstion_next_time">Seguinte (%ds)</string>
-  <string name="face_data_suggesstion_first">Desbloquear o seu dispositivo utilizando o seu rosto é menos seguro que utilizar uma palavra-passe de tela de bloqueio</string>
+  <string name="face_data_suggesstion_first">Desbloquear o seu dispositivo utilizando o seu rosto é menos seguro que utilizar uma senha de tela de bloqueio</string>
   <string name="face_data_suggesstion_second">Certifique-se que o seu rosto não está coberto por nenhum objeto e está claramente visível</string>
   <string name="face_unlock_adjust_distance">Certifique-se que a distância entre o seu rosto e o tela é boa</string>
   <string name="face_unlock_be_on_the_screen">Segure o dispositivo em frente ao seu rosto</string>
@@ -604,8 +604,8 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_unlock_offset_right">Ande para a esquerda</string>
   <string name="face_unlock_offset_top">Levante o seu telefone</string>
   <string name="face_unlock_open_eye">Abra os seus olhos um bocado</string>
-  <string name="face_unlock_passwork">Utilizar palavra-passe</string>
-  <string name="face_unlock_passwork_and_fingerprint">Utilizar palavra-passe ou impressão digital</string>
+  <string name="face_unlock_passwork">Utilizar senha</string>
+  <string name="face_unlock_passwork_and_fingerprint">Utilizar senha ou impressão digital</string>
   <string name="face_unlock_quality">Não foi possível ver o seu rosto</string>
   <string name="face_unlock_reenter_content">O desbloqueio por rosto está a ser atualizado. Toque para gravar os dados novamente</string>
   <string name="face_unlock_reenter_title">Grave os dados do seu rosto novamente</string>
@@ -628,21 +628,21 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="failed_to_open_app_settings_toast">Não foi possível abrir configurações de %1$s</string>
   <string name="fingerprint_add_text">O interface foi atualizado. Adicione a sua impressão digital novamente</string>
   <string name="fingerprint_add_title">Adicionar impressão digital</string>
-  <string name="fingerprint_again_identified_msg">A sua impressão digital está activa. Utilize-a para desbloquear o dispositivo ou introduzir a palavra-passe</string>
+  <string name="fingerprint_again_identified_msg">A sua impressão digital está activa. Utilize-a para desbloquear o dispositivo ou introduzir a senha</string>
   <string name="fingerprint_dialog_touch_sensor">Toque no sensor de impressões digitais</string>
-  <string name="fingerprint_enter_second_psw_msg">Introduzir a palavra-passe do Segundo espaço para poder utilizar as impressões digitais</string>
-  <string name="fingerprint_enter_second_psw_title">Introduzir a palavra-passe do Segundo espaço</string>
+  <string name="fingerprint_enter_second_psw_msg">Introduzir a senha do Segundo espaço para poder utilizar as impressões digitais</string>
+  <string name="fingerprint_enter_second_psw_title">Introduzir a senha do Segundo espaço</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">Não é possível entrar no Segundo espaço enquanto estiver no Modo Leve</string>
-  <string name="fingerprint_not_identified_msg">Demasiadas tentativas incorrectas. Introduza a sua palavra-passe ou tente novamente daqui a um momento</string>
-  <string name="fingerprint_not_identified_msg_lock">Demasiadas tentativas incorrectas. Introduza a sua palavra-passe</string>
-  <string name="fingerprint_not_identified_title">Introduzir palavra-passe</string>
+  <string name="fingerprint_not_identified_msg">Demasiadas tentativas incorrectas. Insira a sua senha ou tente novamente daqui a um momento</string>
+  <string name="fingerprint_not_identified_msg_lock">Demasiadas tentativas incorrectas. Insira a sua senha</string>
+  <string name="fingerprint_not_identified_title">Introduzir senha</string>
   <string name="fingerprint_not_recognized">Não reconhecida</string>
   <string name="fingerprint_try_again_msg">Não foi possível verificar a impressão digital. Tente novamente</string>
   <string name="fingerprint_try_again_text">Tente novamente</string>
   <string name="float_incall_ignore">Ignorar</string>
   <string name="float_incall_message">Mensagem</string>
   <string name="forced_resizable_secondary_display">A aplicação pode não funcionar num tela secundário</string>
-  <string name="forget_password_string">Esqueceu a palavra-passe</string>
+  <string name="forget_password_string">Esqueceu a senha</string>
   <string name="fs_gesture_back_home_summary">Deslize de baixo rapidamente</string>
   <string name="fs_gesture_back_ready_title">Voltar</string>
   <string name="fs_gesture_final_over">Concluído</string>
@@ -677,8 +677,8 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="gxzw_press_harder">Prima com mais força</string>
   <string name="gxzw_try_again">Tente novamente</string>
   <string name="gxzw_try_more_again">Tente novamente</string>
-  <string name="gxzw_use_password">Utilize a sua palavra-passe para desbloquear</string>
-  <string name="gxzw_use_password_to_unlock">Introduza a palavra-passe</string>
+  <string name="gxzw_use_password">Utilize a sua senha para desbloquear</string>
+  <string name="gxzw_use_password_to_unlock">Insira a senha</string>
   <string name="headset">Auriculares</string>
   <string name="hidden_notifications_cancel">Não, obrigado</string>
   <string name="hidden_notifications_setup">Configurar</string>
@@ -699,12 +699,12 @@ Assim que o telefone tiver arrefecido, vai funcionar normalmente"</string>
   <string name="important_desc">Todas as notificações importantes vão aparecer diretamente na área de notificações</string>
   <string name="incorrect_pincode">Código PIN incorrecto</string>
   <string name="incorrect_pukcode">Código PUK incorrecto</string>
-  <string name="input_password_after_boot_msg">Para desbloquear o dispositivo, introduza a sua palavra-passe</string>
+  <string name="input_password_after_boot_msg">Para desbloquear o dispositivo, insira a sua senha</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Não é possível trocar de espaços durante uma chamada</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Não é possível trocar de espaços quando os controlos parentais estão ligados</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Não é possível trocar de espaços quando o modo de poupança extrema está ligado</string>
-  <string name="input_password_after_boot_msg_must_enter_owner_space">É necessário introduzir a palavra-passe do Primeiro espaço depois do dispositivo ser reiniciado</string>
-  <string name="input_password_hint_text">Introduzir palavra-passe</string>
+  <string name="input_password_after_boot_msg_must_enter_owner_space">É necessário introduzir a senha do Primeiro espaço depois do dispositivo ser reiniciado</string>
+  <string name="input_password_hint_text">Introduzir senha</string>
   <string name="input_pattern_hint_text">Desenhar o seu padrão</string>
   <string name="input_pin_code">PIN</string>
   <string name="input_puk_code">Introduzir PUK</string>
@@ -790,13 +790,13 @@ Utilize apenas o carregador fornecido"</string>
   <string name="keyguard_missing_sim_message">Sem cartão SIM no telefone</string>
   <string name="keyguard_missing_sim_message_short">Sem cartão SIM</string>
   <string name="keyguard_network_locked_message">Rede bloqueada</string>
-  <string name="keyguard_password_enter_password_code">Introduza a palavra-passe para desbloquear</string>
-  <string name="keyguard_password_enter_pin_code">Introduza o código PIN</string>
-  <string name="keyguard_password_enter_pin_password_code">Introduza o PIN para desbloquear</string>
+  <string name="keyguard_password_enter_password_code">Insira a senha para desbloquear</string>
+  <string name="keyguard_password_enter_pin_code">Insira o código PIN</string>
+  <string name="keyguard_password_enter_pin_password_code">Insira o PIN para desbloquear</string>
   <string name="keyguard_password_enter_pin_prompt">Novo código PIN do cartão SIM</string>
-  <string name="keyguard_password_enter_puk_code">Introduza o PUK do cartão SIM e o novo código PIN</string>
+  <string name="keyguard_password_enter_puk_code">Insira o PUK do cartão SIM e o novo código PIN</string>
   <string name="keyguard_password_enter_puk_prompt">Código PUK do cartão SIM</string>
-  <string name="keyguard_password_entry_touch_hint"><font size="17">Toque p/ introd. palavra-passe</font></string>
+  <string name="keyguard_password_entry_touch_hint"><font size="17">Toque p/ introd. senha</font></string>
   <string name="keyguard_password_wrong_pin_code">Código PIN incorrecto</string>
   <string name="keyguard_permanent_disabled_sim_instructions">"O cartão SIM foi desactivado definitivamente.
 Contacte o seu fornecedor de serviços de rede sem fios para obter outro cartão SIM"</string>
@@ -822,37 +822,37 @@ Tente novamente dentro de %3$d segundos"</string>
   <string name="kg_failed_attempts_now_wiping">Tentou desbloquear incorrectamente o telefone %d vezes. Este telefone vai ser reposto e vai excluir todos os dados do mesmo</string>
   <string name="kg_forgot_pattern_button_text">Esqueceu-se do padrão</string>
   <string name="kg_invalid_confirm_pin_hint">Os códigos PIN não coincidem</string>
-  <string name="kg_invalid_puk">Introduza o código PUK correto novamente. Demasiadas tentativas consecutivas vão desactivar permanentemente o cartão SIM</string>
-  <string name="kg_invalid_sim_pin_hint">Introduza um PIN com 4 a 8 números</string>
+  <string name="kg_invalid_puk">Insira o código PUK correto novamente. Demasiadas tentativas consecutivas vão desactivar permanentemente o cartão SIM</string>
+  <string name="kg_invalid_sim_pin_hint">Insira um PIN com 4 a 8 números</string>
   <string name="kg_invalid_sim_puk_hint">O código PUK deve ter 8 números</string>
   <string name="kg_login_too_many_attempts">Demasiadas tentativas para desenhar o padrão</string>
-  <string name="kg_password_instructions">Introduzir a palavra-passe</string>
+  <string name="kg_password_instructions">Introduzir a senha</string>
   <string name="kg_password_pin_failed">Não foi possível desbloquear utilizando o PIN do SIM</string>
   <string name="kg_password_puk_failed">Não foi possível desbloquear utilizando o PUK do SIM</string>
   <string name="kg_password_wrong_pin_code_pukked">Código PIN do cartão SIM incorrecto. Tem de contactar o seu operador para desbloquear o dispositivo</string>
   <string name="kg_password_wrong_puk_code_dead">Cartão SIM inutilizável. Contacte o seu operador</string>
   <string name="kg_pattern_instructions">Desenhe o seu padrão</string>
   <string name="kg_pin_accepted">Código aceite</string>
-  <string name="kg_pin_instructions">Introduza o PIN</string>
+  <string name="kg_pin_instructions">Insira o PIN</string>
   <string name="kg_prompt_reason_device_admin">Dispositivo bloqueado pelo administrador</string>
-  <string name="kg_prompt_reason_restart_password">É necessário uma palavra-passe após reiniciar o dispositivo</string>
+  <string name="kg_prompt_reason_restart_password">É necessário uma senha após reiniciar o dispositivo</string>
   <string name="kg_prompt_reason_restart_pattern">É necessário um padrão após reiniciar o dispositivo</string>
   <string name="kg_prompt_reason_restart_pin">É necessário um PIN após reiniciar o dispositivo</string>
-  <string name="kg_prompt_reason_switch_profiles_password">É necessário uma palavra-passe quando muda de perfil</string>
+  <string name="kg_prompt_reason_switch_profiles_password">É necessário uma senha quando muda de perfil</string>
   <string name="kg_prompt_reason_switch_profiles_pattern">É necessário um padrão quando muda de perfil</string>
   <string name="kg_prompt_reason_switch_profiles_pin">É necessário um PIN quando muda de perfil</string>
-  <string name="kg_prompt_reason_timeout_password">Para segurança adicional, é necessário uma palavra-passe</string>
+  <string name="kg_prompt_reason_timeout_password">Para segurança adicional, é necessário uma senha</string>
   <string name="kg_prompt_reason_timeout_pattern">Para segurança adicional, é necessário um padrão</string>
   <string name="kg_prompt_reason_timeout_pin">Para segurança adicional, é necessário um PIN</string>
   <string name="kg_prompt_reason_user_request">O dispositivo foi bloqueado manualmente</string>
-  <string name="kg_puk_enter_pin_hint">Introduza o novo código PIN</string>
-  <string name="kg_puk_enter_puk_hint">O cartão SIM está agora desactivado. Introduza o código PUK para continuar. Contacte o operador para obter mais detalhes</string>
-  <string name="kg_puk_enter_puk_hint_multi">O cartão SIM \"%1$s\" está agora desactivado. Introduza o código PUK para continuar. Contacte o operador para obter mais detalhes</string>
-  <string name="kg_sim_pin_instructions">Introduza o PIN do cartão SIM</string>
-  <string name="kg_sim_pin_instructions_multi">Introduza o PIN do cartão SIM \"%1$s\"</string>
+  <string name="kg_puk_enter_pin_hint">Insira o novo código PIN</string>
+  <string name="kg_puk_enter_puk_hint">O cartão SIM está agora desactivado. Insira o código PUK para continuar. Contacte o operador para obter mais detalhes</string>
+  <string name="kg_puk_enter_puk_hint_multi">O cartão SIM \"%1$s\" está agora desactivado. Insira o código PUK para continuar. Contacte o operador para obter mais detalhes</string>
+  <string name="kg_sim_pin_instructions">Insira o PIN do cartão SIM</string>
+  <string name="kg_sim_pin_instructions_multi">Insira o PIN do cartão SIM \"%1$s\"</string>
   <string name="kg_sim_unlock_progress_dialog_message">A desbloquear o cartão SIM…</string>
   <string name="kg_too_many_failed_attempts_countdown">Tente novamente dentro de %d segundos</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message">"Introduziu a palavra-passe incorrectamente %1$d vezes. 
+  <string name="kg_too_many_failed_password_attempts_dialog_message">"Introduziu a senha incorrectamente %1$d vezes. 
 
 Tente novamente dentro de %2$d segundos"</string>
   <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Desenhou o padrão de desbloqueio incorrectamente %1$d vezes. 
@@ -861,7 +861,7 @@ Tente novamente dentro de %2$d segundos"</string>
   <string name="kg_too_many_failed_pin_attempts_dialog_message">"Introduziu o PIN incorrectamente %1$d vezes. 
 
 Tente novamente dentro de %2$d segundos"</string>
-  <string name="kg_wrong_password">Palavra-passe incorrecta</string>
+  <string name="kg_wrong_password">Senha incorrecta</string>
   <string name="kg_wrong_pattern">Padrão incorrecto</string>
   <string name="kg_wrong_pin">PIN incorrecto</string>
   <string name="kilobyte_per_second">KB/s</string>
@@ -907,12 +907,12 @@ Tente novamente dentro de %2$d segundos"</string>
   <string name="legacy_vpn_name">VPN</string>
   <string name="lland">L Land</string>
   <string name="loading_desktop">Aguarde…</string>
-  <string name="local_backup_password_summary_change">Toque para alterar ou remover a palavra-passe da cópia do tela inicial</string>
+  <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha da cópia do tela inicial</string>
   <string name="local_backup_password_summary_none">As cópias do tela inicial não estão protegidas</string>
-  <string name="local_backup_password_title">Palavra-passe da cópia do tela inicial</string>
+  <string name="local_backup_password_title">Senha da cópia do tela inicial</string>
   <string name="local_backup_password_toast_confirmation_mismatch">As palavras-passe não correspondem</string>
-  <string name="local_backup_password_toast_success">Nova palavra-passe da cópia definida</string>
-  <string name="local_backup_password_toast_validation_failure">Não foi possível definir a palavra-passe da cópia</string>
+  <string name="local_backup_password_toast_success">Nova senha da cópia definida</string>
+  <string name="local_backup_password_toast_validation_failure">Não foi possível definir a senha da cópia</string>
   <string name="lock_screen_carrier_airplane_mode_on">Modo Avião</string>
   <string name="lock_screen_date">"EEEE, d 'de' MMMM"</string>
   <string name="lock_screen_date_12">"EEEE, d 'de' MMMM"</string>
@@ -934,8 +934,8 @@ d 'de' MMMM"</string>
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
   <string name="lockscreen_charging_msg">A carregar</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, as configurações de origem do telefone serão repostas e todos os dados do usuário serão excluídos</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Introduziu incorrectamente a sua senha %d vezes. Após mais %d tentativas sem sucesso, as configurações de origem do telefone serão repostas e todos os dados do usuário serão excluídos</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu incorrectamente a sua senha %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
 
 Tente novamente dentro de %d segundos"</string>
   <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que serão repostas as respectivas configurações de fábrica</string>
@@ -947,7 +947,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="lockscreen_sim_error_message_short">Cartão SIM inválido</string>
   <string name="long_screenshot_guide_text">"Toque para fazer
 uma captura de tela extensa"</string>
-  <string name="long_screenshot_not_support_msg">A aplicação actual não suporta as capturas de tela extensas</string>
+  <string name="long_screenshot_not_support_msg">A aplicação atual não suporta as capturas de tela extensas</string>
   <string name="long_screenshot_out_of_memory_error">A imagem é demasiado grande</string>
   <string name="long_screenshot_processing">A processar…</string>
   <string name="long_screenshot_stop">Concluído</string>
@@ -1076,7 +1076,7 @@ Além disso, está ligado a uma VPN, que pode monitorar a sua actividade da rede
   <string name="no_notification_tips">Sem notificações</string>
   <string name="no_sim_card">Sem cartão SIM</string>
   <string name="no_weather_description">Obter a previsão do tempo</string>
-  <string name="not_support_multi_window">A aplicação actual não suporta o modo tela dividido</string>
+  <string name="not_support_multi_window">A aplicação atual não suporta o modo tela dividido</string>
   <string name="notch_sos_status_bar_title">SOS</string>
   <string name="notch_status_bar_date_format_12">"EEEE, d 'de' MMMM"</string>
   <string name="notification_all_categories">Todas as categorias</string>
@@ -1147,10 +1147,10 @@ Além disso, está ligado a uma VPN, que pode monitorar a sua actividade da rede
   <string name="overview">Vista geral</string>
   <string name="phone_hint">Deslizar a partir do ícone para acessaro Telefone</string>
   <string name="phone_label">Abrir Telefone</string>
-  <string name="phone_locked_foget_password">Esqueceu-se da palavra-passe?</string>
+  <string name="phone_locked_foget_password">Esqueceu-se da senha?</string>
   <string name="phone_locked_foget_password_mehod_back">Voltar</string>
-  <string name="phone_locked_foget_password_method">Esqueceu-se da palavra-passe?</string>
-  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Tem de &amp;lt;font color=#a5220e&amp;gt;excluir todos os dados&amp;lt;/font&amp;gt; no seu dispositivo, incluindo fotos e contatos e definir uma nova palavra-passe de tela de bloqueio&lt;/Data&gt;</string>
+  <string name="phone_locked_foget_password_method">Esqueceu-se da senha?</string>
+  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Tem de &amp;lt;font color=#a5220e&amp;gt;excluir todos os dados&amp;lt;/font&amp;gt; no seu dispositivo, incluindo fotos e contatos e definir uma nova senha de tela de bloqueio&lt;/Data&gt;</string>
   <string name="phone_locked_foget_password_method_next">Seguinte</string>
   <string name="phone_locked_foget_password_ok">Entendido</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Desligue o seu dispositivo, prima e segure os botões &amp;lt;font color=#a5220e&amp;gt;Ligar/Desligar&amp;lt;/font&amp;gt; e &amp;lt;font color=#a5220e&amp;gt;Volume mais&amp;lt;/font&amp;gt; até ver o logo Mi&lt;/Data&gt;</string>
@@ -1380,9 +1380,9 @@ Além disso, está ligado a uma VPN, que pode monitorar a sua actividade da rede
   <string name="remove_from_settings_prompt">Pretende remover o Sintonizador da interface das Configurações e deixar de utilizar todas as funcionalidades?</string>
   <string name="report_rejected_touch">O relatório rejeitou o toque</string>
   <string name="reset">Repor</string>
-  <string name="retail_demo_reset_message">Introduza a palavra-passe para fazer uma reposição de fábrica no modo demonstração</string>
+  <string name="retail_demo_reset_message">Insira a senha para fazer uma reposição de fábrica no modo demonstração</string>
   <string name="retail_demo_reset_next">Seguinte</string>
-  <string name="retail_demo_reset_title">Necessário palavra-passe</string>
+  <string name="retail_demo_reset_title">Necessário senha</string>
   <string name="return_to_incall_screen">Voltar à chamada</string>
   <string name="rgb_face_data_introduction_title">Adicionar dados de rosto 2D</string>
   <string name="rgb_face_data_manage_delete_msg">excluir dados de rosto 2D</string>
@@ -1532,7 +1532,7 @@ Deslize para baixo para bloquear"</string>
   <string name="structure_face_data_input_timeout_title">Tentar novamente</string>
   <string name="structure_face_data_input_up">Olhe para cima</string>
   <string name="structure_face_data_introduction_back">Voltar</string>
-  <string name="structure_face_data_introduction_msg">O rosto 3D permite desbloquear o seu dispositivo e verificar a sua identidade. Tem de definir uma palavra-passe antes de utilizar esta funcionalidade</string>
+  <string name="structure_face_data_introduction_msg">O rosto 3D permite desbloquear o seu dispositivo e verificar a sua identidade. Tem de definir uma senha antes de utilizar esta funcionalidade</string>
   <string name="structure_face_data_introduction_next">Continuar</string>
   <string name="structure_face_data_introduction_settingpassword">Definir</string>
   <string name="structure_face_data_introduction_title">Adicionar dados de rosto 3D</string>
@@ -1541,7 +1541,7 @@ Deslize para baixo para bloquear"</string>
   <string name="structure_face_data_open_cameraing">A iniciar Câmara…</string>
   <string name="structure_face_data_rgb_input_face">Coloque o seu rosto dentro do círculo</string>
   <string name="structure_face_data_suggestion_text">Certifique-se que todas as partes do seu rosto estão visíveis. Não utilize chapéus, óculos de sol ou outros acessórios que possam cobrir o seu rosto</string>
-  <string name="structure_face_data_suggestion_warning_text">Nota: Utilizar o rosto 3D é menos seguro que utilizar uma palavra-passe. Pessoas ou objetos parecidos podem desbloquear o seu dispositivo</string>
+  <string name="structure_face_data_suggestion_warning_text">Nota: Utilizar o rosto 3D é menos seguro que utilizar uma senha. Pessoas ou objetos parecidos podem desbloquear o seu dispositivo</string>
   <string name="structure_face_delete_data_dialog_msg">Não foi possível iniciar Câmara. Tente novamente</string>
   <string name="structure_face_delete_data_dialog_msg_retry">Tente novamente</string>
   <string name="structure_face_delete_data_dialog_title">Não foi possível iniciar Câmara</string>
@@ -1664,7 +1664,7 @@ Qualquer usuário pode atualizar aplicativos para todos os outros utilizadores"<
   <string name="user_guide_for_toggle">A lista de atalhos pode ser deslocada horizontalmente</string>
   <string name="user_guide_for_toggle_list">Gerir atalhos</string>
   <string name="user_logout_notification_action">Terminar sessão do usuário</string>
-  <string name="user_logout_notification_text">Terminar sessão do usuário actual</string>
+  <string name="user_logout_notification_text">Terminar sessão do usuário atual</string>
   <string name="user_logout_notification_title">Terminar sessão do usuário</string>
   <string name="user_new_user_name">Novo usuário</string>
   <string name="user_remove_user_message">Vão ser excluídos todos os dados e todas as aplicativos deste usuário</string>
@@ -1718,7 +1718,7 @@ Qualquer usuário pode atualizar aplicativos para todos os outros utilizadores"<
   <string name="wireless_charge_reset_device">Carregamento lento. Ajuste o seu dispositivo</string>
   <string name="wireless_charge_reset_device_detail">Certifique-se que a posição do seu dispositivo na base está correcta</string>
   <string name="wireless_charge_stop">Parou o carregamento sem fios</string>
-  <string name="wrong_password">Palavra-passe incorrecta</string>
+  <string name="wrong_password">Senha incorrecta</string>
   <string name="zen_alarm_warning">Não vai ouvir o seu próximo alarme %1$s</string>
   <string name="zen_alarm_warning_indef">Não vai ouvir o seu próximo alarme %1$s a não ser que desligue isto antes</string>
   <string name="zen_alarms_introduction">Não vai ser incomodado por sons e vibrações, excepto de alarmes. Continua a ouvir tudo o que optar por reproduzir, incluindo música, vídeos e jogos</string>

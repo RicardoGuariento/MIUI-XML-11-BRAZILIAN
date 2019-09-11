@@ -111,7 +111,7 @@ https://appleid.apple.com/#!&amp;page=signin para desactivar"</string>
   <string name="current_account">Olá, %s</string>
   <string name="current_pad_location">Tablet</string>
   <string name="current_phone_location">Telefone</string>
-  <string name="current_sim">Cartão SIM actual</string>
+  <string name="current_sim">Cartão SIM atual</string>
   <string name="data_detail_description">Detalhes</string>
   <string name="data_item_desc">Dados</string>
   <string name="data_no_enough_space_message">Não há espaço suficiente no seu dispositivo</string>
@@ -124,22 +124,22 @@ https://appleid.apple.com/#!&amp;page=signin para desactivar"</string>
   <string name="dialog_app_upgrade_download">Atualizar</string>
   <string name="dialog_app_upgrade_exit">Sair</string>
   <string name="dialog_app_upgrade_message">Nova versão de Mi Mover disponível. Atualizar agora?</string>
-  <string name="dialog_backup_password_auto_backup_tips">Não é possível copiar itens automaticamente quando a palavra-passe da cópia está ativada. Desactive a palavra-passe da cópia primeiro</string>
-  <string name="dialog_backup_password_backup_tips">Não é possível copiar itens quando a palavra-passe da cópia está ativada. Desactive a palavra-passe da cópia</string>
+  <string name="dialog_backup_password_auto_backup_tips">Não é possível copiar itens automaticamente quando a senha da cópia está ativada. Desative a senha da cópia primeiro</string>
+  <string name="dialog_backup_password_backup_tips">Não é possível copiar itens quando a senha da cópia está ativada. Desative a senha da cópia</string>
   <string name="dialog_backup_password_cancel">Cancelar</string>
-  <string name="dialog_backup_password_change_device_restore_tips">Não é possível utilizar o Mi Mover quando a palavra-passe da cópia está ativada. Desactive a palavra-passe da cópia primeiro</string>
-  <string name="dialog_backup_password_change_machine_tips">Não vai poder transferir cópias protegidas por palavra-passe. Desactive a palavra-passe da cópia antes de utilizar o Mi Mover</string>
-  <string name="dialog_backup_password_restore_tips">Não é possível restaurar itens quando a palavra-passe da cópia está ativada. Desactive a palavra-passe da cópia primeiro</string>
+  <string name="dialog_backup_password_change_device_restore_tips">Não é possível utilizar o Mi Mover quando a senha da cópia está ativada. Desative a senha da cópia primeiro</string>
+  <string name="dialog_backup_password_change_machine_tips">Não vai poder transferir cópias protegidas por senha. Desative a senha da cópia antes de utilizar o Mi Mover</string>
+  <string name="dialog_backup_password_restore_tips">Não é possível restaurar itens quando a senha da cópia está ativada. Desative a senha da cópia primeiro</string>
   <string name="dialog_backup_password_to_settings">Configurações</string>
   <string name="dir_date_format">ddMMyyyy_HHmmss</string>
-  <string name="disable_encrypt_description">Não encriptar</string>
-  <string name="disable_encrypt_title">Desligar encriptação</string>
-  <string name="enable_encrypt">Ligar encriptação</string>
+  <string name="disable_encrypt_description">Não criptografar</string>
+  <string name="disable_encrypt_title">Desligar criptografia</string>
+  <string name="enable_encrypt">Ligar criptografia</string>
   <string name="enable_encrypt_description">Encriptar</string>
-  <string name="enable_encrypt_fail">Erro na encriptação</string>
-  <string name="enable_encrypt_indicator">Toque para encriptar</string>
-  <string name="enable_encrypt_summery1">Inicie sessão na sua Conta Mi para acessar cópias encriptadas</string>
-  <string name="enable_encrypt_summery2">As suas cópias de segurança serão encriptadas automaticamente. Para as acessar tem que iniciar sessão na sua Conta Mi</string>
+  <string name="enable_encrypt_fail">Erro na criptografia</string>
+  <string name="enable_encrypt_indicator">Toque para criptografar</string>
+  <string name="enable_encrypt_summery1">Inicie sessão na sua Conta Mi para acessar cópias criptografadas</string>
+  <string name="enable_encrypt_summery2">As suas cópias de segurança serão criptografadas automaticamente. Para as acessar tem que iniciar sessão na sua Conta Mi</string>
   <string name="enable_encrypt_title">Encriptar cópias</string>
   <string name="enable_encrypt_xiaomi_account">Esta cópia foi criada por %1$s. Para restaurar, elimine esta conta e inicie sessão em %2$s para restaurar</string>
   <string name="err_acquire_system_service">Não é possível iniciar o serviço de sistema</string>
@@ -186,10 +186,10 @@ Não altere ou mude o nome dos arquivos de cópia"</string>
   <string name="guarded_mode_dialog_backup_message">Não são permitidas cópias de segurança no Modo Convidado</string>
   <string name="guarded_mode_dialog_title">Está em Modo Convidado</string>
   <string name="guarded_mode_dialog_transfer_message">Não é possível utilizar Mi Mover no Modo Convidado</string>
-  <string name="hide_password_description">Ocultar palavra-passe</string>
+  <string name="hide_password_description">Ocultar senha</string>
   <string name="hsa_code_null">O código de verificação não pode estar vazio</string>
   <string name="hsa_input_hint">Introduzir código de verificação</string>
-  <string name="hsa_input_tip">O seu ID iCloud ID activa a autenticação em 2 passos. Introduza o código de verificação</string>
+  <string name="hsa_input_tip">O seu ID iCloud ID activa a autenticação em 2 passos. Insira o código de verificação</string>
   <string name="hsa_send_again">Enviar novamente</string>
   <string name="hsa_send_again_countdown">Enviar novamente(%ds)</string>
   <string name="hsa_send_failed">Erro ao enviar o código de verificação. Tente novamente mais tarde</string>
@@ -198,14 +198,14 @@ Não altere ou mude o nome dos arquivos de cópia"</string>
 2.Se introduzir o código de verificação não ajudar, desligue a autenticação em 2 passos"</string>
   <string name="hsa_tip_message_shutdown_hsa">Como desactivar a autenticação em 2 passos</string>
   <string name="hsa_tip_message_with_device">"1.A mensagem que contém o código de verificação vai ser enviada para o telefone %s associado à iCloud
-2.Desactive a autenticação em 2 passos se não conseguir verificar"</string>
+2.Desative a autenticação em 2 passos se não conseguir verificar"</string>
   <string name="hsa_tip_title">Dicas:</string>
   <string name="hsa_title">Autenticação em 2 passos</string>
   <string name="hsa_verify_failed">Erro na autenticação em 2 passos</string>
   <string name="hsa_verify_failed_message">Erro na autenticação em 2 passos. Pode tentar novamente ou desactivar a autenticação em 2 passos</string>
   <string name="hsa_verify_retry">Repetir</string>
   <string name="hsa_verify_shutdown">Desactivar</string>
-  <string name="iCloud_ID_verification_tip">Toque \"Permitir\" no seu dispositivo Apple para fazer aparecer o código de verificação. Introduza o código de verificação aqui</string>
+  <string name="iCloud_ID_verification_tip">Toque \"Permitir\" no seu dispositivo Apple para fazer aparecer o código de verificação. Insira o código de verificação aqui</string>
   <string name="icloud_backup_tip">Iniciar sessão na iCloud do dispositivo Apple antigo</string>
   <string name="icloud_how_to_backup_tip_steps">"1.Vá às Configurações no seu dispositivo iOS e escolha iCloud.
 2. Ligue os contatos e outros itens.
@@ -253,10 +253,10 @@ Não altere ou mude o nome dos arquivos de cópia"</string>
   <string name="multi_user_mode_backup_message">Não é possível utilizar Cópias de Segurança no modo Multi-Utilizador. Desligue o modo Multi-Utilizador para continuar</string>
   <string name="multi_user_mode_dialog_message">Não é possível utilizar Mi Mover no modo Multi-Utilizador. Desligue o modo Multi-Utilizador para continuar</string>
   <string name="multi_user_mode_dialog_title">Está no modo Multi-Utilizador</string>
-  <string name="name_password_not_consistent">Utilizador ou palavra-passe inválidos</string>
+  <string name="name_password_not_consistent">Utilizador ou senha inválidos</string>
   <string name="never">Nunca</string>
   <string name="new_backup">Fazer cópia de segurança</string>
-  <string name="no_encrypt_password">Sem palavra-passe</string>
+  <string name="no_encrypt_password">Sem senha</string>
   <string name="no_network">Não é possível ligar à rede</string>
   <string name="note_title">Notas</string>
   <string name="nothing_searched">Sem resultados</string>
@@ -292,8 +292,8 @@ Não altere ou mude o nome dos arquivos de cópia"</string>
   <string name="old_soft_name">Ligar via código QR</string>
   <string name="old_way">Pode também gerar um código QR no novo dispositivo e digitalizá-lo utilizando o antigo</string>
   <string name="page_loading">Aguarde…</string>
-  <string name="password">Palavra-passe</string>
-  <string name="password_null">A palavra-passe não pode estar vazia</string>
+  <string name="password">Senha</string>
+  <string name="password_null">A senha não pode estar vazia</string>
   <string name="pause">Pausar</string>
   <string name="perm_camera">Câmara</string>
   <string name="perm_location">Localização</string>
@@ -312,7 +312,7 @@ Não altere ou mude o nome dos arquivos de cópia"</string>
   <string name="prompt_reading">A ler…</string>
   <string name="prompt_sending">A enviar…</string>
   <string name="prompt_writing">A salvar…</string>
-  <string name="read_encrypt_fail">Não é possível ler cópias encriptadas</string>
+  <string name="read_encrypt_fail">Não é possível ler cópias criptografadas</string>
   <string name="reconnect">Ligar novamente</string>
   <string name="recreate_soft_ap_tips">Toque no botão abaixo para tentar novamente</string>
   <string name="refresh">Atualizar</string>
@@ -348,7 +348,7 @@ Liberte pelo menos %s"</string>
   <string name="sc_precondition_failed">Primeiro tem que adicionar um endereço email à sua Conta Mi</string>
   <string name="sc_request_timeout">O tempo pedido terminou</string>
   <string name="sc_service_unavailable">Xiaomi Cloud indisponível</string>
-  <string name="sc_unaccess_password_file">Não é possível localizar a palavra-passe de rede</string>
+  <string name="sc_unaccess_password_file">Não é possível localizar a senha de rede</string>
   <string name="sc_unauthorized">Inicie sessão novamente</string>
   <string name="scan_soft_ap">A procurar pelo novo dispositivo…</string>
   <string name="scan_soft_ap_label">Ligar ao dispositivo antigo</string>
@@ -494,7 +494,7 @@ para transferir e instalar o Mi Mover"</string>
   <string name="trans_intro_desc_new">Toque \"Sou um destinatário\". Vai ser gerado um código QR</string>
   <string name="trans_intro_desc_old">Toque \"Sou um remetente\". Digitalize o código QR no novo telefone e aguarde até o Mi Mover descubra os arquivos a enviar e toque \"Enviar\"</string>
   <string name="trans_intro_desc_old_market">Toque \"Iniciar\". Digitalize o código QR no novo telefone e aguarde até o Mi Mover descubra os arquivos a enviar e toque \"Enviar\"</string>
-  <string name="trans_intro_desc_private">O Mi Mover não consegue acessar às fotos nos álbuns ocultos porque estão encriptadas. Pode restaurar estas fotos da Xiaomi Cloud num novo dispositivo</string>
+  <string name="trans_intro_desc_private">O Mi Mover não consegue acessar às fotos nos álbuns ocultos porque estão criptografadas. Pode restaurar estas fotos da Xiaomi Cloud num novo dispositivo</string>
   <string name="trans_intro_question_1">%d. Como utilizo o Mi Mover para mover dados dum dispositivo iOS?</string>
   <string name="trans_intro_question_2">%d. Como utilizo o Mi Mover para mover dados dum dispositivo Android?</string>
   <string name="trans_intro_question_3">%d. Que devo fazer se o Mi Mover ficar bloqueado num determinado passo?</string>
@@ -622,7 +622,7 @@ Liberte espaço ou transfira apenas itens importantes"</string>
   <string name="user_notice_declaration_ignore">Não mostrar novamente</string>
   <string name="user_notice_message">Algumas funcionalidades necessitam de uma ligação à Internet para funcionar normalmente</string>
   <string name="user_notice_title">Atenção</string>
-  <string name="view_password_description">Mostrar palavra-passe</string>
+  <string name="view_password_description">Mostrar senha</string>
   <string name="wait_link">"Abra o Mi Mover no dispositivo antigo,
 toque \"Sou um remetente\" e selecione o PA Móvel a ligar.
 Não feche a página até a ligação estar estabelecida"</string>

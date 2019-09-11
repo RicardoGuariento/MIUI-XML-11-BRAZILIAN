@@ -105,36 +105,36 @@
         <item quantity="one">1 hora</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra</item>
+        <item quantity="other">A senha tem de ter pelo menos %d letras</item>
+        <item quantity="one">A senha tem de ter pelo menos uma letra</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras minúsculas</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra minúscula</item>
+        <item quantity="other">A senha tem de ter pelo menos %d letras minúsculas</item>
+        <item quantity="one">A senha tem de ter pelo menos uma letra minúscula</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d caracteres sem letras</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos um caracter sem letra</item>
+        <item quantity="other">A senha tem de ter pelo menos %d caracteres sem letras</item>
+        <item quantity="one">A senha tem de ter pelo menos um caracter sem letra</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d números</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos um número</item>
+        <item quantity="other">A senha tem de ter pelo menos %d números</item>
+        <item quantity="one">A senha tem de ter pelo menos um número</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d símbolos especiais</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos um símbolo especial</item>
+        <item quantity="other">A senha tem de ter pelo menos %d símbolos especiais</item>
+        <item quantity="one">A senha tem de ter pelo menos um símbolo especial</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras maiúsculas</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra maiúscula</item>
+        <item quantity="other">A senha tem de ter pelo menos %d letras maiúsculas</item>
+        <item quantity="one">A senha tem de ter pelo menos uma letra maiúscula</item>
     </plurals>
     <plurals name="lockpassword_password_too_long">
         <item quantity="other">Pode introduzir até %d caracteres</item>
         <item quantity="one">Pode introduzir até %d caracter</item>
     </plurals>
     <plurals name="lockpassword_password_too_short">
-        <item quantity="other">Introduza pelo menos %d caracteres</item>
-        <item quantity="one">Introduza pelo menos %d caracter</item>
+        <item quantity="other">Insira pelo menos %d caracteres</item>
+        <item quantity="one">Insira pelo menos %d caracter</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">O PIN tem de ter %d dígitos</item>

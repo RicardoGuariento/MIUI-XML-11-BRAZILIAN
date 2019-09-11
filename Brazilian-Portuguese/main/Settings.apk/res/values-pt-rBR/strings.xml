@@ -5,9 +5,9 @@
   <string name="about_phone_enter_xiaomi_net">Saber mais</string>
   <string name="about_settings">Sobre do telefone</string>
   <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
-  <string name="ac_enable_summary">Definir uma palavra-passe para as aplicativos individualmente</string>
+  <string name="ac_enable_summary">Definir uma senha para as aplicativos individualmente</string>
   <string name="ac_enable_title">Bloqueio de aplicativos</string>
-  <string name="ac_privacy_mode_sum">Exigir uma palavra-passe para desligar o Modo Convidado</string>
+  <string name="ac_privacy_mode_sum">Exigir uma senha para desligar o Modo Convidado</string>
   <string name="ac_privacy_mode_title">Localização</string>
   <string name="ac_set_apps_title">Escolher aplicativos a bloquear</string>
   <string name="accelerometer_summary_off">Trocar orientação automaticamente ao rodar o telefone</string>
@@ -21,14 +21,14 @@
   <string name="access_control_no_back_footer">Toque [icon] para sair</string>
   <string name="access_control_password_title">Bloqueio de tela</string>
   <string name="access_control_recording_intro_header">Desenhe um padrão de desbloqueio</string>
-  <string name="access_control_reset_by_account">Iniciar a sessão na sua Conta Mi para repor palavra-passe</string>
+  <string name="access_control_reset_by_account">Iniciar a sessão na sua Conta Mi para repor senha</string>
   <string name="access_point_names">Pontos de acesso (APN)</string>
   <string name="accessibility_autoclick_delay_preference_title">Atraso antes de clicar</string>
   <string name="accessibility_autoclick_preference_title">Clicar após o ponteiro parar de mexer</string>
   <string name="accessibility_captioning_title">Legendas</string>
   <string name="accessibility_category_personal">Contas de perfil pessoal</string>
   <string name="accessibility_category_work">Contas de perfil de trabalho - %s</string>
-  <string name="accessibility_close_tab">Fechar separador actual</string>
+  <string name="accessibility_close_tab">Fechar separador atual</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade é experimental e pode afectar o desempenho</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcção de cor</string>
   <string name="accessibility_display_inversion_preference_subtitle">Pode afectar o desempenho</string>
@@ -264,7 +264,7 @@ O seu Administrador pode monitorar e gerir configurações, acessos, aplicativos
   <string name="apn_name">Nome</string>
   <string name="apn_new">Novo ponto de acesso</string>
   <string name="apn_not_set">Não definido</string>
-  <string name="apn_password">Palavra-passe</string>
+  <string name="apn_password">Senha</string>
   <string name="apn_ppp_number">Número de telefone APN PPP</string>
   <string name="apn_protocol">Protocolo APN</string>
   <string name="apn_roaming_protocol">Protocolo de roaming APN</string>
@@ -472,32 +472,32 @@ O seu Administrador pode monitorar e gerir configurações, acessos, aplicativos
   <string name="background_process_stop_description">Este é um processo de uma aplicação antiga que está em execução no caso de ser necessário novamente. Por norma não existe nenhuma razão para o parar</string>
   <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em segundo plano para esta aplicação pode fazer com que deixe de funcionar normalmente. Restringir mesmo assim?</string>
   <string name="background_traffic">Segundo plano %s</string>
-  <string name="backup_configure_account_default_summary">Sem contas a armazenar as cópias de segurança actualmente</string>
+  <string name="backup_configure_account_default_summary">Sem contas a armazenar as cópias de segurança atualmente</string>
   <string name="backup_configure_account_title">Conta das cópias de segurança</string>
   <string name="backup_data_summary">Fazer cópias de segurança dos dados os aplicativos, palavras-passe de Wi-Fi e outras configurações para os servidores Google</string>
   <string name="backup_data_title">Cópias de segurança</string>
   <string name="backup_erase_dialog_message">Deixar de fazer cópia de segurança de palavras-passe de rede Wi-Fi, marcadores, outras configurações e dados da aplicação, bem como excluir todas as cópias nos servidores da Google?</string>
   <string name="backup_inactive_title">Serviço de cópia está inactivo</string>
   <string name="backup_pw_cancel_button_text">Cancelar</string>
-  <string name="backup_pw_set_button_text">Definir palavra-passe da cópia de segurança</string>
+  <string name="backup_pw_set_button_text">Definir senha da cópia de segurança</string>
   <string name="backup_section_title">Cópia e restauro</string>
-  <string name="backup_set_clear_success">Palavra-passe da cópia desligada</string>
-  <string name="backup_set_clear_title">Desligar palavra-passe da cópia</string>
+  <string name="backup_set_clear_success">Senha da cópia desligada</string>
+  <string name="backup_set_clear_title">Desligar senha da cópia</string>
   <string name="backup_set_confirm">OK</string>
   <string name="backup_set_confirm_clear">Desligar</string>
-  <string name="backup_set_enter_new_pw">Introduzir a nova palavra-passe da cópia</string>
-  <string name="backup_set_enter_new_pw_again">Confirmar a nova palavra-passe da cópia</string>
-  <string name="backup_set_enter_old_pw">Introduzir a palavra-passe antiga da cópia</string>
-  <string name="backup_set_enter_pw_title">Introduzir a palavra-passe da cópia</string>
-  <string name="backup_set_error_pw">A palavra-passe introduzida está incorrecta</string>
-  <string name="backup_set_modify_title">Alterar a palavra-passe da cópia</string>
+  <string name="backup_set_enter_new_pw">Introduzir a nova senha da cópia</string>
+  <string name="backup_set_enter_new_pw_again">Confirmar a nova senha da cópia</string>
+  <string name="backup_set_enter_old_pw">Introduzir a senha antiga da cópia</string>
+  <string name="backup_set_enter_pw_title">Introduzir a senha da cópia</string>
+  <string name="backup_set_error_pw">A senha inserida está incorrecta</string>
+  <string name="backup_set_modify_title">Alterar a senha da cópia</string>
   <string name="backup_set_new_continue">Continuar</string>
   <string name="backup_set_new_exit">Sair</string>
   <string name="backup_set_new_pw_confirm_hint">Atenção</string>
-  <string name="backup_set_new_pw_confirm_summary">Os seus itens serão copiados automaticamente agora. Criar uma palavra-passe para as cópias vai parar as cópias automáticas. Continuar mesmo assim?</string>
-  <string name="backup_set_new_pw_title">Introduzir a nova palavra-passe da cópia</string>
-  <string name="backup_set_null_pw">Introduzir a palavra-passe primeiro</string>
-  <string name="backup_set_pw_confirm_title">Confirmar a nova palavra-passe da cópia</string>
+  <string name="backup_set_new_pw_confirm_summary">Os seus itens serão copiados automaticamente agora. Criar uma senha para as cópias vai parar as cópias automáticas. Continuar mesmo assim?</string>
+  <string name="backup_set_new_pw_title">Introduzir a nova senha da cópia</string>
+  <string name="backup_set_null_pw">Introduzir a senha primeiro</string>
+  <string name="backup_set_pw_confirm_title">Confirmar a nova senha da cópia</string>
   <string name="badge_title">Ícone</string>
   <string name="band_mode_failed">Sem sucesso</string>
   <string name="band_mode_loading">A carregar lista de bandas…</string>
@@ -710,7 +710,7 @@ O seu Administrador pode monitorar e gerir configurações, acessos, aplicativos
   <string name="bluetooth_disconnect_title">Desligar?</string>
   <string name="bluetooth_disconnected">Desligado</string>
   <string name="bluetooth_disconnecting">A desligar…</string>
-  <string name="bluetooth_display_passkey_pin_msg">Para emparelhar com: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; Introduza: &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, em seguida, prima Voltar ou Avançar</string>
+  <string name="bluetooth_display_passkey_pin_msg">Para emparelhar com: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; Insira: &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, em seguida, prima Voltar ou Avançar</string>
   <string name="bluetooth_dock_settings">Configurações da estação de ancoragem</string>
   <string name="bluetooth_dock_settings_a2dp">Para música e mídias</string>
   <string name="bluetooth_dock_settings_headset">Como altifalante do telefone</string>
@@ -724,7 +724,7 @@ O seu Administrador pode monitorar e gerir configurações, acessos, aplicativos
   <string name="bluetooth_enable_alphanumeric_pin">PIN contém letras ou símbolos</string>
   <string name="bluetooth_enable_inband_ringing">Activar toques</string>
   <string name="bluetooth_enable_inband_ringing_summary">Permitir que os toques no telefone possam ser tocados nos auscultadores Bluetooth</string>
-  <string name="bluetooth_enter_passkey_msg">Introduza o código de emparelhamento e, em seguida, prima Voltar ou Avançar</string>
+  <string name="bluetooth_enter_passkey_msg">Insira o código de emparelhamento e, em seguida, prima Voltar ou Avançar</string>
   <string name="bluetooth_enter_passkey_other_device">Pode ter que introduzir esta palavra-chave no outro dispositivo</string>
   <string name="bluetooth_enter_pin_other_device">Pode ter que introduzir este PIN no outro dispositivo</string>
   <string name="bluetooth_filter_device_display">Mostrar tudo</string>
@@ -939,7 +939,7 @@ Se já fez alguma das opções acima, adicione a sua Conta Mi novamente senão n
   <string name="bt_ldac_declaration">Quando um dispositivo Bluetooth suporta LDAC, vai ser ligado por defeito. O LDAC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria</string>
   <string name="bt_ldac_dialog_summary">"O LDAC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria
 Esta funcionalidade pode ser desligada nas [Settings]"</string>
-  <string name="bt_ldac_dialog_title">O dispositivo actual suporta LDAC, que foi ligado:</string>
+  <string name="bt_ldac_dialog_title">O dispositivo atual suporta LDAC, que foi ligado:</string>
   <string name="bt_ldac_open_dialog_summary">O LDAC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria. Podem ocorrer problemas devio a limitações do hardware Bluetooth</string>
   <string name="bt_ldac_open_dialog_title">Ligar LDAC?</string>
   <string name="bt_ldac_pre_summary">Fornece uma experiência de áudio de alta qualidade</string>
@@ -1076,7 +1076,7 @@ Esta funcionalidade pode ser desligada nas [Settings]"</string>
   <string name="clear_instant_app_data">Limpar aplicação</string>
   <string name="clear_user_data_text">Limpar dados</string>
   <string name="close_aod">Esta funcionalidade não pode ser combinada com \"Sempre ligado\". Desligue \"Sempre ligado\" primeiro</string>
-  <string name="close_app">Fechar o aplicativo actual</string>
+  <string name="close_app">Fechar o aplicativo atual</string>
   <string name="close_demo_mode">Cancelar</string>
   <string name="close_fod">Não vai poder desbloquear o seu dispositivo utilizando a sua impressão digital com o tela desligado. A impressão digital só vai funcionar com o tela ligado</string>
   <string name="close_fod_aod">Não vai poder desbloquear o seu dispositivo utilizando a sua impressão digital com o tela desligado. O \"Sempre ligado\" também não vai estar disponível. A impressão digital só vai funcionar com o tela ligado</string>
@@ -1122,13 +1122,13 @@ Esta funcionalidade pode ser desligada nas [Settings]"</string>
   <string name="confirm_fingerprint">Verifique a sua impressão digital</string>
   <string name="confirm_fingerprint_icon_content_description">Utilize a sua impressão digital para continuar</string>
   <string name="confirm_fingerprint_msg">Coloque o seu dedo no sensor</string>
-  <string name="confirm_frp_credential_message">O seu dispositivo foi reposto com as configurações de fábrica, pode desbloqueá-lo utilizando a sua palavra-passe anterior</string>
+  <string name="confirm_frp_credential_message">O seu dispositivo foi reposto com as configurações de fábrica, pode desbloqueá-lo utilizando a sua senha anterior</string>
   <string name="confirm_frp_credential_skip_txt">Utilizar conta Google</string>
   <string name="confirm_frp_credential_title">Desbloqueio após reposição de fábrica</string>
-  <string name="confirm_new_backup_pw_prompt">Reintroduzir novamente a sua nova palavra-passe para a cópia de segurança completa</string>
+  <string name="confirm_new_backup_pw_prompt">Reintroduzir novamente a sua nova senha para a cópia de segurança completa</string>
   <string name="confirm_password_with_fingerprint">Utilize a impressão digital</string>
-  <string name="confirm_password_with_password">Introduza a palavra-passe</string>
-  <string name="confirm_privacy_password">Introduza o padrão de Protecção de Privacidade</string>
+  <string name="confirm_password_with_password">Insira a senha</string>
+  <string name="confirm_privacy_password">Insira o padrão de Protecção de Privacidade</string>
   <string name="confirm_privacy_password_fingerprint">Digitalizar impressão ou introduzir padrão de Protecção de Privacidade</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Ligar à rede</string>
@@ -1146,12 +1146,12 @@ Esta funcionalidade pode ser desligada nas [Settings]"</string>
   <string name="controls_label">Controlos</string>
   <string name="controls_subtitle">Ajustar utilização de energia</string>
   <string name="convenience_key_category_title">Controlo de sistema</string>
-  <string name="convert_to_fbe_warning">"Converter a partição de dados para a encriptação baseada em arquivos.
+  <string name="convert_to_fbe_warning">"Converter a partição de dados para a criptografia baseada em arquivos.
   Aviso: Isto vai excluir todos os seus dados.
   Esta funcionalidade está a ser desenvolvida e pode não funcionar correctamente.
   Prima 'Limpar e converter…' para continuar"</string>
-  <string name="convert_to_file_encryption">Converter para a encriptação de arquivos</string>
-  <string name="convert_to_file_encryption_done">Os arquivos estão encriptados</string>
+  <string name="convert_to_file_encryption">Converter para a criptografia de arquivos</string>
+  <string name="convert_to_file_encryption_done">Os arquivos estão criptografados</string>
   <string name="convert_to_file_encryption_enabled">A converter…</string>
   <string name="cool_color">Fria</string>
   <string name="copyright_title">Direitos de autor</string>
@@ -1163,50 +1163,50 @@ Esta funcionalidade pode ser desligada nas [Settings]"</string>
   <string name="credential_storage_type">Tipo de armazenamento</string>
   <string name="credential_storage_type_hardware">Suportado por hardware</string>
   <string name="credential_storage_type_software">Apenas software</string>
-  <string name="credentials_configure_lock_screen_hint">Tem que definir um PIN para o bloqueio de tela ou palavra-passe antes de efectuar o armazenamento de credenciais</string>
+  <string name="credentials_configure_lock_screen_hint">Tem que definir um PIN para o bloqueio de tela ou senha antes de efectuar o armazenamento de credenciais</string>
   <string name="credentials_enabled">O armazenamento de credenciais está ativado</string>
   <string name="credentials_erased">O armazenamento de credenciais foi excluído</string>
   <string name="credentials_install">Instalar do armazenamento</string>
   <string name="credentials_install_summary">Instalar certificados a partir do armazenamento</string>
   <string name="credentials_not_erased">O armazenamento da credencial não pode ser excluído</string>
-  <string name="credentials_old_password">Palavra-passe actual</string>
+  <string name="credentials_old_password">Senha atual</string>
   <string name="credentials_password_too_short">Mínimo de 8 caracteres</string>
   <string name="credentials_reset">Limpar credenciais</string>
   <string name="credentials_reset_hint">Remover todo o conteúdo?</string>
   <string name="credentials_reset_summary">Remover todos os certificados</string>
-  <string name="credentials_reset_warning">Palavra-passe incorrecta. Tem mais uma tentativa antes que o armazenamento de credenciais seja excluído</string>
-  <string name="credentials_reset_warning_plural">Insira a palavra-passe. Tem mais %1$d tentativas para inserir a palavra-passe correcta antes que o armazenamento de credenciais seja excluído</string>
+  <string name="credentials_reset_warning">Senha incorrecta. Tem mais uma tentativa antes que o armazenamento de credenciais seja excluído</string>
+  <string name="credentials_reset_warning_plural">Insira a senha. Tem mais %1$d tentativas para inserir a senha correcta antes que o armazenamento de credenciais seja excluído</string>
   <string name="credentials_settings_not_available">As credenciais não estão disponíveis para este usuário</string>
   <string name="credentials_title">Armazenamento de credenciais</string>
   <string name="credentials_title_verification">Verificação</string>
-  <string name="credentials_unlock_hint">Insira a palavra-passe do armazenamento de credenciais</string>
-  <string name="credentials_wrong_password">Palavra-passe incorrecta</string>
+  <string name="credentials_unlock_hint">Insira a senha do armazenamento de credenciais</string>
+  <string name="credentials_wrong_password">Senha incorrecta</string>
   <string name="crypt_keeper_button_text">Encriptar dispositivo</string>
-  <string name="crypt_keeper_conditions">A encriptação demora uma hora ou mais. Tem de iniciar com a bateria carregada e manter o telefone ligado ao carregador durante o processo. Se interromper o processo, vai perder todos os seus dados</string>
-  <string name="crypt_keeper_conditions_title">Sobre da encriptação do dispositivo</string>
+  <string name="crypt_keeper_conditions">A criptografia demora uma hora ou mais. Tem de iniciar com a bateria carregada e manter o telefone ligado ao carregador durante o processo. Se interromper o processo, vai perder todos os seus dados</string>
+  <string name="crypt_keeper_conditions_title">Sobre da criptografia do dispositivo</string>
   <string name="crypt_keeper_confirm_title">Encriptar?</string>
-  <string name="crypt_keeper_content">Pode encriptar as suas contas, configurações, aplicativos e os seus dados, mídias e outros arquivos</string>
+  <string name="crypt_keeper_content">Pode criptografar as suas contas, configurações, aplicativos e os seus dados, mídias e outros arquivos</string>
   <string name="crypt_keeper_content_title">Encriptar dispositivo</string>
-  <string name="crypt_keeper_data_corrupt_summary">"A palavra-passe introduzida está correcta mas, infelizmente, os dados estão corrompidos. 
+  <string name="crypt_keeper_data_corrupt_summary">"A senha inserida está correcta mas, infelizmente, os dados estão corrompidos. 
 
 Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, vai ter a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google"</string>
   <string name="crypt_keeper_data_corrupt_title">Desencriptação sem sucesso</string>
-  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu dispositivo, assumindo que configurou um bloqueio de tela, vai ser necessário desbloquear o tela para desencriptar o telefone sempre que o ligar. O outro modo de desencriptar é fazer uma reposição dos dados de fábrica, eliminando todos os seus dados</string>
-  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Se encriptou o seu telefone, vai ter que introduzir a sua palavra-passe, PIN ou padrão sempre que reiniciar para o desencriptar</string>
+  <string name="crypt_keeper_decrypt_methods">Após criptografar o seu dispositivo, assumindo que configurou um bloqueio de tela, vai ser necessário desbloquear o tela para desencriptar o telefone sempre que o ligar. O outro modo de desencriptar é fazer uma reposição dos dados de fábrica, eliminando todos os seus dados</string>
+  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Se encriptou o seu telefone, vai ter que introduzir a sua senha, PIN ou padrão sempre que reiniciar para o desencriptar</string>
   <string name="crypt_keeper_decrypt_methods_title">Desencriptar o seu dispositivo</string>
-  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, configurações, aplicativos transferidas e dados, mídias e outros arquivos. Assim que encriptar o telefone, deve introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar uma reposição de dados de fábrica, eliminando todos os seus dados.
+  <string name="crypt_keeper_desc">"Pode criptografar as suas contas, configurações, aplicativos transferidas e dados, mídias e outros arquivos. Assim que criptografar o telefone, deve introduzir um código PIN numérico ou uma senha para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar uma reposição de dados de fábrica, eliminando todos os seus dados.
 
-Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação, vai perder alguns ou todos os seus dados"</string>
-  <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o tela de bloqueio antes de iniciar a encriptação</string>
-  <string name="crypt_keeper_dialog_need_password_title">Tela de bloqueio sem código PIN ou palavra-passe</string>
+Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a criptografia esteja terminada. Se interromper o processo de criptografia, vai perder alguns ou todos os seus dados"</string>
+  <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma senha para o tela de bloqueio antes de iniciar a criptografia</string>
+  <string name="crypt_keeper_dialog_need_password_title">Tela de bloqueio sem código PIN ou senha</string>
   <string name="crypt_keeper_encrypt_title">Encriptar dispositivo</string>
   <string name="crypt_keeper_encrypted_summary">Encriptado</string>
-  <string name="crypt_keeper_enter_password">Introduza a sua palavra-passe</string>
-  <string name="crypt_keeper_failed_summary">"A encriptação foi interrompida e não pôde terminar. Como resultado, os dados no telefone já não estão acessíveis.
+  <string name="crypt_keeper_enter_password">Insira a sua senha</string>
+  <string name="crypt_keeper_failed_summary">"A criptografia foi interrompida e não pôde terminar. Como resultado, os dados no telefone já não estão acessíveis.
 
 Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Quando configurar o telefone após a restauração, vai ter oportunidade de restaurar os dados através da sua conta do Google"</string>
   <string name="crypt_keeper_failed_title">Encriptação sem sucesso</string>
-  <string name="crypt_keeper_final_desc">A operação de encriptação é irreversível e, se a interromper, vai perder dados. A encriptação demora uma hora ou mais, durante a qual o telefone vai reiniciar várias vezes</string>
+  <string name="crypt_keeper_final_desc">A operação de criptografia é irreversível e, se a interromper, vai perder dados. A criptografia demora uma hora ou mais, durante a qual o telefone vai reiniciar várias vezes</string>
   <string name="crypt_keeper_force_power_cycle">Para desbloquear o telefone, desligue-o e volte a ligá-lo</string>
   <string name="crypt_keeper_low_charge_text">Carregue a bateria e tente novamente</string>
   <string name="crypt_keeper_settings_title">Encriptação</string>
@@ -1220,17 +1220,17 @@ Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Qua
   <string name="crypt_keeper_warn_wipe">Aviso: O seu dispositivo vai ser apagado após mais ^1 tentativa(s) falhada(s) de desbloqueio!</string>
   <string name="cryptkeeper_emergency_call">Chamada de emergência</string>
   <string name="cryptkeeper_return_to_call">Voltar à chamada</string>
-  <string name="cryptkeeper_wrong_password">Palavra-passe incorrecta</string>
+  <string name="cryptkeeper_wrong_password">Senha incorrecta</string>
   <string name="cryptkeeper_wrong_pattern">Padrão incorrecto</string>
   <string name="cryptkeeper_wrong_pin">PIN incorrecto</string>
-  <string name="current_backup_pw_prompt">Introduza a sua palavra-passe actual para cópia de segurança completa</string>
-  <string name="current_input_method">Teclado actual</string>
-  <string name="current_screen_lock">Bloqueio de tela actual</string>
+  <string name="current_backup_pw_prompt">Insira a sua senha atual para cópia de segurança completa</string>
+  <string name="current_input_method">Teclado atual</string>
+  <string name="current_screen_lock">Bloqueio de tela atual</string>
   <string name="current_use_ese">A utilizar elemento de segurança integrado</string>
   <string name="current_use_ese_wallet">Está a utilizar a Mi Wallet. Isto permite utilizar o Mi Pay e cartões de transporte NFC</string>
   <string name="current_use_hce_wallet">Está a utilizar a HCE Wallet</string>
   <string name="current_use_uicc_se">A utilizar elemento de segurança no cartão SIM</string>
-  <string name="current_zone">(actual)</string>
+  <string name="current_zone">(atual)</string>
   <string name="custom_carrier_title">Editar nome da operadora</string>
   <string name="custom_wifi_name_title">Editar nome do Wi-Fi</string>
   <string name="cutout_mode_always">Mostrar sempre o entalhe</string>
@@ -1660,10 +1660,10 @@ Pode ver o registo gerado no Explorador"</string>
   <string name="enable_multi_window_summary">Várias atividades na tela ao mesmo tempo</string>
   <string name="enable_opengl_traces_title">Activar traços OpenGL</string>
   <string name="enable_quick_setting">Mostrar nas Configurações rápidas</string>
-  <string name="enable_service_encryption_warning">Se ligar o %1$s, o dispositivo não vai utilizar o bloqueio de tela para optimizar a encriptação de dados</string>
-  <string name="enable_service_password_reason">Uma vez que ligar %1$s afecta a encriptação de dados, o usuário tem de confirmar a sua palavra-passe</string>
-  <string name="enable_service_pattern_reason">Uma vez que ligar %1$s afecta a encriptação de dados, o usuário tem de confirmar o seu padrão</string>
-  <string name="enable_service_pin_reason">Uma vez que ligar %1$s afecta a encriptação de dados, o usuário tem de confirmar o seu PIN</string>
+  <string name="enable_service_encryption_warning">Se ligar o %1$s, o dispositivo não vai utilizar o bloqueio de tela para optimizar a criptografia de dados</string>
+  <string name="enable_service_password_reason">Uma vez que ligar %1$s afecta a criptografia de dados, o usuário tem de confirmar a sua senha</string>
+  <string name="enable_service_pattern_reason">Uma vez que ligar %1$s afecta a criptografia de dados, o usuário tem de confirmar o seu padrão</string>
+  <string name="enable_service_pin_reason">Uma vez que ligar %1$s afecta a criptografia de dados, o usuário tem de confirmar o seu PIN</string>
   <string name="enable_service_title">O serviço vai realizar estas ações:</string>
   <string name="enable_snapshot_screenlock">Toque longo no botão Voltar para tirar foto</string>
   <string name="enable_terminal_summary">Activar terminal para as aplicativos que ofereçam acesso a shell local</string>
@@ -1673,20 +1673,20 @@ Pode ver o registo gerado no Explorador"</string>
   <string name="enabled_authorised_apps_summary">A sua autorização vai ser revogada assim que alterar para aplicativos individuais</string>
   <string name="enabled_authorised_apps_title">Autorização concedida</string>
   <string name="enalbe_identify_iPhone">Identificação do dispositivo</string>
-  <string name="encrypt_talkback_dialog_message_password">Quando introduzir a sua palavra-passe para iniciar este dispositivo, os serviços de acessibilidade, como o %1$s, ainda não estarão disponíveis</string>
+  <string name="encrypt_talkback_dialog_message_password">Quando introduzir a sua senha para iniciar este dispositivo, os serviços de acessibilidade, como o %1$s, ainda não estarão disponíveis</string>
   <string name="encrypt_talkback_dialog_message_pattern">Quando introduzir o seu padrão para iniciar este dispositivo, os serviços de acessibilidade, como o %1$s, ainda não estarão disponíveis</string>
   <string name="encrypt_talkback_dialog_message_pin">Quando introduzir o seu PIN para iniciar este dispositivo, os serviços de acessibilidade, como o %1$s, ainda não estarão disponíveis</string>
-  <string name="encrypt_talkback_dialog_require_password">Exigir palavra-passe?</string>
+  <string name="encrypt_talkback_dialog_require_password">Exigir senha?</string>
   <string name="encrypt_talkback_dialog_require_pattern">Exigir padrão?</string>
   <string name="encrypt_talkback_dialog_require_pin">Exigir PIN?</string>
   <string name="encryption_and_credential_settings_summary">Telefone encriptado</string>
   <string name="encryption_and_credential_settings_title">Encriptação e credenciais</string>
   <string name="encryption_continue_button">Continuar</string>
   <string name="encryption_interstitial_header">Arranque seguro</string>
-  <string name="encryption_interstitial_message_password">"O usuário pode proteger ainda mais este dispositivo, se exigir a sua palavra-passe antes do arranque. Até o dispositivo arrancar, não pode receber chamadas, mensagens ou notificações, incluindo alarmes.
+  <string name="encryption_interstitial_message_password">"O usuário pode proteger ainda mais este dispositivo, se exigir a sua senha antes do arranque. Até o dispositivo arrancar, não pode receber chamadas, mensagens ou notificações, incluindo alarmes.
 
 Isto ajuda a proteger dados em dispositivos perdidos ou roubados"</string>
-  <string name="encryption_interstitial_message_password_for_fingerprint">"Além de utilizar a sua impressão digital para desbloquear o dispositivo, pode proteger ainda mais o dispositivo ao exigir a sua palavra-passe antes do arranque. Até que o dispositivo arranque, não pode receber chamadas, mensagens nem notificações, incluindo alarmes.
+  <string name="encryption_interstitial_message_password_for_fingerprint">"Além de utilizar a sua impressão digital para desbloquear o dispositivo, pode proteger ainda mais o dispositivo ao exigir a sua senha antes do arranque. Até que o dispositivo arranque, não pode receber chamadas, mensagens nem notificações, incluindo alarmes.
 
 Isto ajuda a proteger dados em dispositivos perdidos ou roubados"</string>
   <string name="encryption_interstitial_message_pattern">"O usuário pode proteger ainda mais este dispositivo, se exigir o seu padrão antes do arranque. Até o dispositivo arrancar, não pode receber chamadas, mensagens ou notificações, incluindo alarmes. 
@@ -1701,7 +1701,7 @@ Isto ajuda a proteger dados em dispositivos perdidos ou roubados"</string>
   <string name="encryption_interstitial_message_pin_for_fingerprint">"Além de utilizar a sua impressão digital para desbloquear o dispositivo, pode proteger ainda mais o dispositivo ao exigir o seu PIN antes do arranque. Até que o dispositivo arranque, não pode receber chamadas, mensagens nem notificações, incluindo alarmes.
 
 Isto ajuda a proteger dados em dispositivos perdidos ou roubados"</string>
-  <string name="encryption_progress_summary">A encriptar, não reinicie o dispositivo</string>
+  <string name="encryption_progress_summary">A criptografar, não reinicie o dispositivo</string>
   <string name="enforce_read_external_confirm_message">"Quando o armazenamento USB está protegido, as aplicativos devem solicitar permissão para ler dados de armazenamento externo.
 
 Algumas aplicativos podem não funcionar até serem actualizadas pelos seus programadores"</string>
@@ -1712,9 +1712,9 @@ Algumas aplicativos podem não funcionar até serem actualizadas pelos seus prog
   <string name="enforce_read_external_title">Proteger armazenamento USB</string>
   <string name="enhanced_4g_lte_mode_summary">Utilizar dados LTE para aumentar a voz e as comunicações (recomendado)</string>
   <string name="enhanced_4g_lte_mode_title">Modo 4G LTE avançado</string>
-  <string name="enter_password">Introduza a palavra-passe actual para desencriptar o dispositivo após reiniciar</string>
-  <string name="enter_pattern">Introduza o padrão actual para desencriptar o dispositivo após reiniciar</string>
-  <string name="enter_pin">Introduza o PIN actual para desencriptar o dispositivo após reiniciar</string>
+  <string name="enter_password">Insira a senha atual para desencriptar o dispositivo após reiniciar</string>
+  <string name="enter_pattern">Insira o padrão atual para desencriptar o dispositivo após reiniciar</string>
+  <string name="enter_pin">Insira o PIN atual para desencriptar o dispositivo após reiniciar</string>
   <string name="enterprise_mode">Modo empresarial</string>
   <string name="enterprise_privacy_always_on_vpn_device">A opção VPN sempre ligada está ligada</string>
   <string name="enterprise_privacy_always_on_vpn_personal">A opção VPN sempre ligada está ligada no seu perfil pessoal</string>
@@ -1729,8 +1729,8 @@ Algumas aplicativos podem não funcionar até serem actualizadas pelos seus prog
   <string name="enterprise_privacy_enterprise_set_default_apps">Aplicativos predefinidas</string>
   <string name="enterprise_privacy_exposure_category">Tipos de informação que a sua organização pode ver</string>
   <string name="enterprise_privacy_exposure_changes_category">Alterações efectuadas pelo administrador da sua organização</string>
-  <string name="enterprise_privacy_failed_password_wipe_device">Tentativas de palavra-passe falhadas antes da eliminação de de todos os dados do dispositivoo</string>
-  <string name="enterprise_privacy_failed_password_wipe_work">Tentativas de palavra-passe falhadas antes da eliminação de todos os dados do perfil de trabalho</string>
+  <string name="enterprise_privacy_failed_password_wipe_device">Tentativas de senha falhadas antes da eliminação de de todos os dados do dispositivoo</string>
+  <string name="enterprise_privacy_failed_password_wipe_work">Tentativas de senha falhadas antes da eliminação de todos os dados do perfil de trabalho</string>
   <string name="enterprise_privacy_global_http_proxy">Proxy HTTP global definido</string>
   <string name="enterprise_privacy_header">"Para fornecer acesso aos seus dados de trabalho, a sua organização pode alterar configurações e instalar software no seu dispositivo.
 
@@ -1739,7 +1739,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="enterprise_privacy_input_method_name">Definido como %s</string>
   <string name="enterprise_privacy_installed_packages">Lista de aplicativos no seu dispositivo</string>
   <string name="enterprise_privacy_location_access">Permissões de localização</string>
-  <string name="enterprise_privacy_lock_device">O administrador pode bloquear o dispositivo e repor a palavra-passe</string>
+  <string name="enterprise_privacy_lock_device">O administrador pode bloquear o dispositivo e repor a senha</string>
   <string name="enterprise_privacy_microphone_access">Permissões do microfone</string>
   <string name="enterprise_privacy_network_logs">Registo de tráfego de rede mais recente</string>
   <string name="enterprise_privacy_none">Nenhuma</string>
@@ -1809,7 +1809,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="factory_reset_summary">excluir todos os dados do armazenamento interno do seu telefone</string>
   <string name="failed_to_check_find_device_status_content">Não foi possível verificar o estado de Localizar Dispositivo. Aguarde alguns minutos e tente novamente</string>
   <string name="failed_to_check_find_device_status_title">Não foi possível verificar estado</string>
-  <string name="failed_to_erase_text">Desligue a palavra-passe do tela de bloqueio antes introduzir o código \"1217\"</string>
+  <string name="failed_to_erase_text">Desligue a senha do tela de bloqueio antes introduzir o código \"1217\"</string>
   <string name="failed_to_erase_title">Não foi possível concluir a acção</string>
   <string name="failed_to_open_app_settings_toast">Não foi possível abrir configurações para %1$s</string>
   <string name="failed_to_shut_down_find_device_content">Não foi possível desligar Localizar Dispositivo. Aguarde alguns minutos e tente novamente</string>
@@ -1852,10 +1852,10 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="fingerprint_enable_keyguard_toggle_title">bloqueio de tela</string>
   <string name="fingerprint_enroll_button_add">Adicionar outra</string>
   <string name="fingerprint_enroll_button_next">Seguinte</string>
-  <string name="fingerprint_first_open_screen_password_face_tittle">Rosto (definir uma palavra-passe de tela de bloqueio primeiro)</string>
-  <string name="fingerprint_first_open_screen_password_tittle">Impressões digitais (definir uma palavra-passe do tela de bloqueio primeiro)</string>
+  <string name="fingerprint_first_open_screen_password_face_tittle">Rosto (definir uma senha de tela de bloqueio primeiro)</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Impressões digitais (definir uma senha do tela de bloqueio primeiro)</string>
   <string name="fingerprint_for_keyguard_disabled">As impressões digitais foram desactivadas pelas configurações de segurança</string>
-  <string name="fingerprint_identify_input_password_msg">Introduzir palavra-passe</string>
+  <string name="fingerprint_identify_input_password_msg">Introduzir senha</string>
   <string name="fingerprint_identify_msg">A ler impressão digital…</string>
   <string name="fingerprint_identify_try_again_msg">Não foi possível ler impressão digital. Tente novamente</string>
   <string name="fingerprint_intro_error_max">Adicionou o número máximo de impressões digitais</string>
@@ -1869,14 +1869,14 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="fingerprint_manage">Gerir impressões digitais</string>
   <string name="fingerprint_manage_category_title">Gerir impressões digitais</string>
   <string name="fingerprint_manage_tittle">Impressões digitais</string>
-  <string name="fingerprint_not_identified_msg">Não foi possível ler impressão. Introduza a sua palavra-passe</string>
+  <string name="fingerprint_not_identified_msg">Não foi possível ler impressão. Insira a sua senha</string>
   <string name="fingerprint_not_recognized">Não reconhecido</string>
   <string name="fingerprint_others_title">Outros</string>
   <string name="fingerprint_payment">Pagamentos</string>
   <string name="fingerprint_removal_failed">Não foi possível remover impressão digital. Tente novamente mais tarde</string>
   <string name="fingerprint_swipe_for_notifications_summary">Para verificar as suas notificações, deslize rapidamente para baixo no sensor de impressões digitais situado na parte traseira do seu telefone</string>
   <string name="fingerprint_swipe_for_notifications_title">Impressão digital para ver notificações</string>
-  <string name="fingerprint_unlock_set_unlock_password">Impressão digital + Palavra-passe</string>
+  <string name="fingerprint_unlock_set_unlock_password">Impressão digital + Senha</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Impressão digital + Padrão</string>
   <string name="fingerprint_unlock_set_unlock_pin">Impressão digital + PIN</string>
   <string name="fingerprint_unlock_skip_fingerprint">Continuar sem impressão digital</string>
@@ -1936,7 +1936,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
 "</string>
   <string name="font_size_summary1">"Se o tamanho do texto ainda é muito pequeno, tente "</string>
   <string name="font_size_summary2">Modo Leve</string>
-  <string name="forbidden_switch_apn_string">O APN seleccionado não corresponde ao tipo de rede actual</string>
+  <string name="forbidden_switch_apn_string">O APN seleccionado não corresponde ao tipo de rede atual</string>
   <string name="force_hw_ui">Forçar renderização de GPU</string>
   <string name="force_hw_ui_summary">Forçar a utilização do GPU para aplicativos 2D</string>
   <string name="force_immersive_compatibility_dont_hide">Não ocultar</string>
@@ -1952,13 +1952,13 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="force_stop_dlg_title">Forçar paragem</string>
   <string name="foreground_traffic">Primeiro plano %s</string>
   <string name="forget">Esquecer</string>
-  <string name="forget_password_button_text"><u>Esqueceu a palavra-passe?</u></string>
+  <string name="forget_password_button_text"><u>Esqueceu a senha?</u></string>
   <string name="forget_password_dialog_button_text">Voltar</string>
   <string name="forget_password_dialog_content_four">2. Selecione &amp;lt;font color=#e6e6e6&amp;gt;[Formatar dados]&amp;lt;/font&amp;gt; e aguarde até o dispositivo reiniciar</string>
-  <string name="forget_password_dialog_content_one">Se esqueceu a sua palavra-passe, não vai poder restaurá-la. Pode fazer a reposição da sua palavra-passe após &amp;lt;font color=#ec2700&amp;gt;excluir todos os dados no seu dispositivo&amp;lt;/font&amp;gt; (incluindo fotos, contatos, etc.). Faça uma cópia dos dados antes</string>
+  <string name="forget_password_dialog_content_one">Se esqueceu a sua senha, não vai poder restaurá-la. Pode fazer a reposição da sua senha após &amp;lt;font color=#ec2700&amp;gt;excluir todos os dados no seu dispositivo&amp;lt;/font&amp;gt; (incluindo fotos, contatos, etc.). Faça uma cópia dos dados antes</string>
   <string name="forget_password_dialog_content_three">"1. Desligue o seu dispositivo. Prima os botões &amp;lt;font color=#e6e6e6&amp;gt;[Ligar/Desligar]&amp;lt;/font&amp;gt; e &amp;lt;font color=#e6e6e6&amp;gt;[Volume+]&amp;lt;/font&amp;gt; simultâneamente e segure-os até ver o ícone &amp;lt;img src=''&amp;gt;"</string>
   <string name="forget_password_dialog_content_two">Siga estes passos para excluir os dados:</string>
-  <string name="forget_password_dialog_title">Reposição de palavra-passe</string>
+  <string name="forget_password_dialog_title">Reposição de senha</string>
   <string name="forget_pattern"><u>Esqueceu o padrão?</u></string>
   <string name="forget_privacy_password_setting">Adicionar Conta Mi</string>
   <string name="forget_privacy_password_summary">Utilizar a Conta Mi para repor o seu padrão</string>
@@ -2179,7 +2179,7 @@ Pode alterar esta definição mais tarde em Configurações > Aplicativos e noti
   <string name="input_methods_settings_label_format">Configurações de %1$s</string>
   <string name="input_methods_settings_title">Entrada de texto</string>
   <string name="input_pattern_hint_text">Desenhar padrão de desbloqueio</string>
-  <string name="input_password_hint_text">Introduzir palavra-passe</string>
+  <string name="input_password_hint_text">Introduzir senha</string>
   <string name="input_settings">Configurações de entrada</string>
   <string name="install_all_warning">Os dados deste telefone e os dados pessoais estão mais vulneráveis a ataques de aplicativos de fontes desconhecidas. Ao instalar aplicativos desta fonte, concorda que é o único responsável por qualquer dano causado a este telefone ou pela perda de dados que possa resultar da utilização dessas aplicativos</string>
   <string name="install_applications">Fontes desconhecidas</string>
@@ -2286,7 +2286,7 @@ Pode alterar esta definição mais tarde em Configurações > Aplicativos e noti
   <string name="keywords_keyboard_and_ime">correcção de texto corrigir som vibrar automático idioma gesto sugerir sugestão tema ofensivo palavra escrever emoticons internacional</string>
   <string name="keywords_location">proximidades local histórico relatório</string>
   <string name="keywords_location_mode">precisão</string>
-  <string name="keywords_lockscreen">deslizar para desbloquear, palavra-passe, padrão, pin</string>
+  <string name="keywords_lockscreen">deslizar para desbloquear, senha, padrão, pin</string>
   <string name="keywords_more_default_sms_app">mensagem de texto, mensagens de texto, mensagens</string>
   <string name="keywords_more_mobile_networks">telemóvel operador de telemóvel dados sem fios 4g 3g 2g lte</string>
   <string name="keywords_network_reset">repor restaurar fábrica</string>
@@ -2376,12 +2376,12 @@ Pode alterar esta definição mais tarde em Configurações > Aplicativos e noti
   <string name="local_auto_backup_off">Desligado</string>
   <string name="local_auto_backup_on">Ligado</string>
   <string name="local_auto_backup_section_title">Cópias de segurança automáticas</string>
-  <string name="local_backup_password_summary_change">Toque para alterar ou remover a palavra-passe para as cópias de segurança completas</string>
-  <string name="local_backup_password_summary_none">As cópias de segurança completas não estão actualmente protegidas</string>
-  <string name="local_backup_password_title">Palavra-passe da cópia de segurança</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">A nova palavra-passe e confirmação não são iguais</string>
-  <string name="local_backup_password_toast_success">Nova palavra-passe da cópia de segurança definida</string>
-  <string name="local_backup_password_toast_validation_failure">Erro na definição da palavra-passe da cópia de segurança</string>
+  <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha para as cópias de segurança completas</string>
+  <string name="local_backup_password_summary_none">As cópias de segurança completas não estão atualmente protegidas</string>
+  <string name="local_backup_password_title">Senha da cópia de segurança</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">A nova senha e confirmação não são iguais</string>
+  <string name="local_backup_password_toast_success">Nova senha da cópia de segurança definida</string>
+  <string name="local_backup_password_toast_validation_failure">Erro na definição da senha da cópia de segurança</string>
   <string name="local_backup_section_summary">Configurações das cópias do sistema, contas e aplicativos</string>
   <string name="local_backup_section_title">Cópias de segurança locais</string>
   <string name="locale_default">Predefinido</string>
@@ -2466,9 +2466,9 @@ Pode alterar esta definição mais tarde em Configurações > Aplicativos e noti
   <string name="lock_setup">Configuração concluída</string>
   <string name="lock_sounds_enable_title">Som de bloqueio de tela</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
-  <string name="lockpassword_choose_for_second_user">Definir palavra-passe do Segundo espaço</string>
+  <string name="lockpassword_choose_for_second_user">Definir senha do Segundo espaço</string>
   <string name="lockpassword_choose_lock_generic_header">Escolher bloqueio de tela</string>
-  <string name="lockpassword_choose_your_password_header">Definir palavra-passe</string>
+  <string name="lockpassword_choose_your_password_header">Definir senha</string>
   <string name="lockpassword_choose_your_password_second_space">"Definir PIN para o Segundo espaço.
 Este PIN tem de conter os mesmo dígitos
 que o PIN do Primeiro espaço"</string>
@@ -2476,31 +2476,31 @@ que o PIN do Primeiro espaço"</string>
   <string name="lockpassword_choose_your_pin_header">Definir PIN</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Definir PIN 
 para o Segundo espaço"</string>
-  <string name="lockpassword_choose_your_pin_title" formatted="false">Introduza entre %d a %d dígitos</string>
-  <string name="lockpassword_confirm_for_second_user">Confirmar a sua palavra-passe do Segundo espaço</string>
+  <string name="lockpassword_choose_your_pin_title" formatted="false">Insira entre %d a %d dígitos</string>
+  <string name="lockpassword_confirm_for_second_user">Confirmar a sua senha do Segundo espaço</string>
   <string name="lockpassword_confirm_passwords_dont_match">As palavras-passe não correspondem</string>
   <string name="lockpassword_confirm_pins_dont_match">Os PINs não correspondem</string>
-  <string name="lockpassword_confirm_workspace_password">Verificar palavra-passe do Espaço de trabalho</string>
-  <string name="lockpassword_confirm_your_lock_password_header">Confirmar a sua palavra-passe</string>
+  <string name="lockpassword_confirm_workspace_password">Verificar senha do Espaço de trabalho</string>
+  <string name="lockpassword_confirm_your_lock_password_header">Confirmar a sua senha</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Confirmar o seu padrão</string>
-  <string name="lockpassword_confirm_your_password_generic">Introduza a palavra-passe do dispositivo para continuar</string>
-  <string name="lockpassword_confirm_your_password_header">Confirmar palavra-passe</string>
+  <string name="lockpassword_confirm_your_password_generic">Insira a senha do dispositivo para continuar</string>
+  <string name="lockpassword_confirm_your_password_header">Confirmar senha</string>
   <string name="lockpassword_confirm_your_pattern_generic">Utilize o padrão do dispositivo para continuar</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirmar padrão</string>
-  <string name="lockpassword_confirm_your_pin_generic">Introduza o PIN do dispositivo para continuar</string>
+  <string name="lockpassword_confirm_your_pin_generic">Insira o PIN do dispositivo para continuar</string>
   <string name="lockpassword_confirm_your_pin_header">Confirmar PIN</string>
-  <string name="lockpassword_confirm_your_private_password_header">Confirmar a sua palavra-passe</string>
+  <string name="lockpassword_confirm_your_private_password_header">Confirmar a sua senha</string>
   <string name="lockpassword_confirm_your_private_pattern_header">Confirmar o seu padrão</string>
   <string name="lockpassword_continue_label">Continuar</string>
-  <string name="lockpassword_illegal_character">Palavra-passe contém um caracter inválido</string>
-  <string name="lockpassword_invalid_password">Palavra-passe incorrecta</string>
+  <string name="lockpassword_illegal_character">Senha contém um caracter inválido</string>
+  <string name="lockpassword_invalid_password">Senha incorrecta</string>
   <string name="lockpassword_invalid_pin">PIN incorrecto</string>
   <string name="lockpassword_ok_label">OK</string>
-  <string name="lockpassword_password_recently_used">O administrador do dispositivo não permite utilizar uma palavra-passe recente</string>
+  <string name="lockpassword_password_recently_used">O administrador do dispositivo não permite utilizar uma senha recente</string>
   <string name="lockpassword_password_requires_alpha">Tem de ter pelo menos uma letra</string>
   <string name="lockpassword_password_requires_digit">Tem de ter pelo menos um dígito</string>
   <string name="lockpassword_password_requires_symbol">Tem de ter pelo menos um símbolo</string>
-  <string name="lockpassword_password_set_toast">A palavra-passe foi definida</string>
+  <string name="lockpassword_password_set_toast">A senha foi definida</string>
   <string name="lockpassword_password_too_long">Não pode ter mais do que %d caracteres</string>
   <string name="lockpassword_password_too_short">Deve ter pelo menos %d caracteres</string>
   <string name="lockpassword_pattern_set_toast">O padrão foi definido</string>
@@ -2520,9 +2520,9 @@ para o Segundo espaço"</string>
   <string name="lockpattern_need_to_unlock_wrong">Tente novamente</string>
   <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
   <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
-  <string name="lockpattern_pattern_same_with_others">Deve ser diferente da palavra-passe dos outros espaços</string>
-  <string name="lockpattern_pattern_same_with_owner">Deve ser diferente da palavra-passe do Primeiro espaço</string>
-  <string name="lockpattern_pattern_same_with_security_space">Deve ser diferente da palavra-passe do Segundo espaço</string>
+  <string name="lockpattern_pattern_same_with_others">Deve ser diferente da senha dos outros espaços</string>
+  <string name="lockpattern_pattern_same_with_owner">Deve ser diferente da senha do Primeiro espaço</string>
+  <string name="lockpattern_pattern_same_with_security_space">Deve ser diferente da senha do Segundo espaço</string>
   <string name="lockpattern_recording_incorrect_too_short">Ligue pelo menos %d pontos. Tente novamente</string>
   <string name="lockpattern_recording_inprogress">Levante o dedo quando terminar</string>
   <string name="lockpattern_recording_intro_footer">Premir Menu para obter ajuda</string>
@@ -2545,7 +2545,7 @@ para o Segundo espaço"</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
   <string name="lockpattern_tutorial_continue_label">Seguinte</string>
   <string name="lockscreen_glogin_checking_password">A verificar…</string>
-  <string name="lockscreen_glogin_password_hint">Palavra-passe</string>
+  <string name="lockscreen_glogin_password_hint">Senha</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sessão</string>
   <string name="lockscreen_magazine">Papéis de parede aleatórios</string>
   <string name="lockscreen_magazine_summary">Papéis de parede aleatórios de alta qualidade</string>
@@ -2606,7 +2606,7 @@ para o Segundo espaço"</string>
   <string name="manually_add_network">Adicionar rede</string>
   <string name="master_clear_accounts">"
 
-Está actualmente com sessão iniciada nas seguintes contas:
+Está atualmente com sessão iniciada nas seguintes contas:
 "</string>
   <string name="master_clear_all">excluir toda a sua informação do armazenamento interno do seu telefone? Não pode reverter esta acção!</string>
   <string name="master_clear_apply_step_1"><b>A "Reposição de configurações de fábrica" vai excluir todos os dados do seu telefone</b> incluindo fotos, músicas, notas e outros dados pessoais. Certifique-se que faz uma cópia dos seus dados para o computador</string>
@@ -2849,8 +2849,8 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="model_info">Modelo</string>
   <string name="model_name">Modelo</string>
   <string name="model_number">Modelo do dispositivo</string>
-  <string name="modify_instruction_password_settings">Definir palavra-passe</string>
-  <string name="modify_privacy_password">Alterar palavra-passe</string>
+  <string name="modify_instruction_password_settings">Definir senha</string>
+  <string name="modify_privacy_password">Alterar senha</string>
   <string name="more_account_settings_title">Outras contas</string>
   <string name="more_dangerous_option_hint">As funcionalidades de alto risco incluindo \"%1$s\" estão activas. Toque para alterar as configurações</string>
   <string name="more_installed_services_title">Mais serviços transferidos</string>
@@ -3010,7 +3010,7 @@ Selecione o seu sistema operativo:"</string>
   <string name="networks">Selecção de operador</string>
   <string name="networks_title">Redes móveis</string>
   <string name="never">Nunca</string>
-  <string name="new_backup_pw_prompt">Introduza uma nova palavra-passe para a cópia de segurança completa</string>
+  <string name="new_backup_pw_prompt">Insira uma nova senha para a cópia de segurança completa</string>
   <string name="new_password_to_new_fingerprint_dialog_msg">Adicione a sua impressão digital para desbloquear o seu dispositivo com ela</string>
   <string name="new_password_to_new_fingerprint_dialog_negative_msg">Cancelar</string>
   <string name="new_password_to_new_fingerprint_dialog_positive_msg">Adicionar</string>
@@ -3127,7 +3127,7 @@ Selecione o seu sistema operativo:"</string>
   <string name="notification_channels_other">Outras</string>
   <string name="notification_content_block_summary">Nunca mostrar notificações no painel ou nos dispositivos periféricos</string>
   <string name="notification_content_block_title">Mostrar notificações</string>
-  <string name="notification_fold_description1">A pasta de notificações foi introduzida na MIUI 9. Esta funcionalidade filtra as notificações não importantes e coloca-as numa pasta em separado</string>
+  <string name="notification_fold_description1">A pasta de notificações foi inserida na MIUI 9. Esta funcionalidade filtra as notificações não importantes e coloca-as numa pasta em separado</string>
   <string name="notification_fold_description2">A MIUI vai memorizar as notificações que toca e utilizar critérios de selecção para determinar se são importantes</string>
   <string name="notification_fold_description3">Se as notificações que considera importantes ainda forem para a pasta de notificações, reporte-nos o problema. Nós valorizamos os seus comentários</string>
   <string name="notification_fold_footer_icon_summary">Mostrar o ícone os aplicativos quando as notificações não importantes estiverem agrupadas</string>
@@ -3238,7 +3238,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="others">Outros</string>
   <string name="overlay_display_devices_title">Simular ecrãs secundários</string>
   <string name="overlay_settings">Sobreposição a outras aplicativos</string>
-  <string name="owner_info_settings_edit_text_hint">Introduza o texto a apresentar na tela de bloqueio</string>
+  <string name="owner_info_settings_edit_text_hint">Insira o texto a apresentar na tela de bloqueio</string>
   <string name="owner_info_settings_summary">Nenhum</string>
   <string name="owner_info_settings_title">Mensagem na tela de bloqueio</string>
   <string name="owner_space">Primeiro espaço</string>
@@ -3314,13 +3314,13 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="paper_mode_side_effect_hint">Uma intensidade mais alta pode afectar a maneira como o conteúdo é mostrado</string>
   <string name="passpoint_content">Credenciais de %1$s</string>
   <string name="passpoint_label">Guardada através de</string>
-  <string name="passwordIncorrect">A palavra-passe introduzida está incorrecta</string>
+  <string name="passwordIncorrect">A senha inserida está incorrecta</string>
   <string name="password_entrance_title">Bloqueio de tela</string>
   <string name="password_guard">Bloqueio de tela</string>
   <string name="password_security_settings_title">Segurança</string>
   <string name="password_turned_off_text">Desligado</string>
   <string name="password_turned_on_text">Ligado</string>
-  <string name="password_unlock_title">Desbloqueio com palavra-passe</string>
+  <string name="password_unlock_title">Desbloqueio com senha</string>
   <string name="payment_summary">Predefinido :%1$s</string>
   <string name="peek_notification_icon_title">Mostrar ícones nas notificações</string>
   <string name="performance_category">Desempenho</string>
@@ -3362,7 +3362,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="ping_test_label">Ping</string>
   <string name="play_pause_description">Botão Reproduzir/Pausar</string>
   <string name="please_select_phase2">Autenticação da Fase 2</string>
-  <string name="please_type_passphrase">Palavra-passe</string>
+  <string name="please_type_passphrase">Senha</string>
   <string name="pointer_location">Localização do ponteiro</string>
   <string name="pointer_location_summary">Mostrar coordenadas de toque</string>
   <string name="pointer_settings_category">Rato/trackpad</string>
@@ -3433,7 +3433,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="pref_volume_launch_camera_title">Iniciar câmara</string>
   <string name="pref_volume_wake_summary">Premir os botões de Volume liga o tela</string>
   <string name="pref_volume_wake_title">Ligar tela com botões de Volume</string>
-  <string name="preference_change_password_title">Alterar a palavra-passe</string>
+  <string name="preference_change_password_title">Alterar a senha</string>
   <string name="preferred_app_settings">Predefinições</string>
   <string name="preferred_app_settings_default">Predefinição</string>
   <string name="preferred_app_settings_not_selected">Não seleccionado</string>
@@ -3509,10 +3509,10 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="privacy_close_dlg_button_ok">Desligar</string>
   <string name="privacy_close_dlg_msg">Quando o padrão de Protecção de Privacidade está desligado, os seus itens não vão estar mais protegidos</string>
   <string name="privacy_close_dlg_title">Atenção</string>
-  <string name="privacy_delete_space_dlg_message">Para alterar a palavra-passe do seu Segundo espaço, deve excluir o seu Segundo espaço actual e criar um novo</string>
+  <string name="privacy_delete_space_dlg_message">Para alterar a senha do seu Segundo espaço, deve excluir o seu Segundo espaço atual e criar um novo</string>
   <string name="privacy_dlg_button_cancel">Cancelar</string>
   <string name="privacy_factory_reset_dlg_button_text">Repor</string>
-  <string name="privacy_factory_reset_dlg_message">Se esquecer da sua palavra-passe, vai ter de fazer uma reposição de fábrica para definir uma nova</string>
+  <string name="privacy_factory_reset_dlg_message">Se esquecer da sua senha, vai ter de fazer uma reposição de fábrica para definir uma nova</string>
   <string name="privacy_factory_reset_dlg_title">Fazer cópia dos seus dados</string>
   <string name="privacy_file">Arquivos</string>
   <string name="privacy_gallery">Fotos</string>
@@ -3525,7 +3525,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="privacy_notes">Notas</string>
   <string name="privacy_password">Protecção de Privacidade</string>
   <string name="privacy_password_add_account">Adicionar</string>
-  <string name="privacy_password_add_account_info">Adicionar Conta Mi para poder repor a palavra-passe no caso de a esquecer</string>
+  <string name="privacy_password_add_account_info">Adicionar Conta Mi para poder repor a senha no caso de a esquecer</string>
   <string name="privacy_password_add_account_setting">Contas e privacidade</string>
   <string name="privacy_password_bind_account">Adicionar Conta Mi</string>
   <string name="privacy_password_bind_account_immediate">Adicionar</string>
@@ -3542,7 +3542,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="privacy_password_never_remind">Não perguntar novamente</string>
   <string name="privacy_password_not_add_account">Agora não</string>
   <string name="privacy_password_not_login_account">Não tem sessão iniciada</string>
-  <string name="privacy_password_remind_bind_notlogin_account">Adicione a sua Conta Mi para poder repor a sua palavra-passe no caso de a esquecer</string>
+  <string name="privacy_password_remind_bind_notlogin_account">Adicione a sua Conta Mi para poder repor a sua senha no caso de a esquecer</string>
   <string name="privacy_password_remind_bindaccount_title">Adicionar Conta Mi</string>
   <string name="privacy_password_settings">Utilizar a Protecção de Privacidade</string>
   <string name="privacy_password_settings_next">Seguinte</string>
@@ -3551,7 +3551,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="privacy_password_settings_titles_elder_mode">A Protecção de Privacidade protege os seus arquivos, fotos e notas</string>
   <string name="privacy_password_settings_titles_second_space">A Protecção de Privacidade protege as suas mensagens, fotos e notas</string>
   <string name="privacy_password_title">Protecção de Privacidade</string>
-  <string name="privacy_password_toggle_summary">É necessário palavra-passe sempre que acessar itens privados</string>
+  <string name="privacy_password_toggle_summary">É necessário senha sempre que acessar itens privados</string>
   <string name="privacy_password_use_finger_dialog_mess">Pode também utilizar a sua impressão digital com a Protecção de Privacidade</string>
   <string name="privacy_password_use_finger_dialog_open">Configurações</string>
   <string name="privacy_password_use_finger_dialog_title">Desbloqueio com impressão digital</string>
@@ -3564,12 +3564,12 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="privacy_settings_title">Cópia e restauro</string>
   <string name="privacy_thumbnail_blur_progress_message">Aguarde…</string>
   <string name="privacy_thumbnail_blur_title">Desfocar pré-visualizações</string>
-  <string name="private_gallery_need_to_unlock">Palavra-passe exigida</string>
+  <string name="private_gallery_need_to_unlock">Senha exigida</string>
   <string name="private_gallery_recording_intro_header">Desenhe um padrão de desbloqueio</string>
-  <string name="private_gallery_reset_by_account">Para repor a palavra-passe, inicie sessão na sua Conta Mi</string>
-  <string name="private_sms_need_to_unlock">Palavra-passe exigida</string>
+  <string name="private_gallery_reset_by_account">Para repor a senha, inicie sessão na sua Conta Mi</string>
+  <string name="private_sms_need_to_unlock">Senha exigida</string>
   <string name="private_sms_recording_intro_header">Desenhe um padrão de desbloqueio</string>
-  <string name="private_sms_reset_by_account">Para repor a palavra-passe, inicie a sessão na sua Conta Mi</string>
+  <string name="private_sms_reset_by_account">Para repor a senha, inicie a sessão na sua Conta Mi</string>
   <string name="process_dex2oat_label">Optimização de aplicativos</string>
   <string name="process_mediaserver_label">Servidor de mídias</string>
   <string name="process_provider_in_use_description">Fornecedor %1$s está em utilização</string>
@@ -3655,7 +3655,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="radio_info_call_status_label">Estado da chamada:</string>
   <string name="radio_info_cell_info_refresh_rate">Taxa de atualização de info. da célula:</string>
   <string name="radio_info_cellinfo_label">Informação da célula:</string>
-  <string name="radio_info_current_network_label">Rede actual:</string>
+  <string name="radio_info_current_network_label">Rede atual:</string>
   <string name="radio_info_data_connection_disable">Desactivar ligação de dados</string>
   <string name="radio_info_data_connection_enable">Activar ligação de dados</string>
   <string name="radio_info_data_network_type_label">Tipo de rede de dados:</string>
@@ -3739,7 +3739,7 @@ Interface UT: %5$s"</string>
 Não vai perder quaisquer dados os aplicativos"</string>
   <string name="reset_app_preferences_title">Repor preferências os aplicativos?</string>
   <string name="reset_dashboard_title">Reposição</string>
-  <string name="reset_legacy_password_settings_preface_text">Tem de repor a sua palavra-passe na tela de bloqueio</string>
+  <string name="reset_legacy_password_settings_preface_text">Tem de repor a sua senha na tela de bloqueio</string>
   <string name="reset_network_bluetooth">Bluetooth</string>
   <string name="reset_network_button_text">Repor configurações</string>
   <string name="reset_network_category">Isto vai repor todas configurações de rede, incluindo:</string>
@@ -3755,13 +3755,13 @@ Não vai perder quaisquer dados os aplicativos"</string>
   <string name="reset_network_final_desc">Repor todas as configurações de rede? Não é possível anular esta acção!</string>
   <string name="reset_network_title">Reposição das configurações rede</string>
   <string name="reset_network_wifi">Wi-Fi</string>
-  <string name="reset_second_space_passwd">Repor a palavra-passe do Segundo espaço</string>
+  <string name="reset_second_space_passwd">Repor a senha do Segundo espaço</string>
   <string name="reset_second_space_passwd_cancel">Cancelar</string>
   <string name="reset_second_space_passwd_confirm">Continuar</string>
-  <string name="reset_second_space_passwd_detail">Introduza a palavra-passe da Conta Mi utilizada no Primeiro espaço</string>
+  <string name="reset_second_space_passwd_detail">Insira a senha da Conta Mi utilizada no Primeiro espaço</string>
   <string name="reset_shortcut_manager_throttling">Repor o limite de taxa do ShortcutManager</string>
   <string name="reset_shortcut_manager_throttling_complete">>O limite de taxa do ShortcutManager foi reposto</string>
-  <string name="resetting_second_space_passwd">A repor a palavra-passe do Segundo espaço</string>
+  <string name="resetting_second_space_passwd">A repor a senha do Segundo espaço</string>
   <string name="resolver_settings_label">Ordenar</string>
   <string name="restore_default_apn">A restaurar as configurações APN predefinidas</string>
   <string name="restore_default_apn_completed">A reposição das configurações predefinidas do APN foi concluída</string>
@@ -3770,7 +3770,7 @@ Não vai perder quaisquer dados os aplicativos"</string>
   <string name="restore_dialog_content">Repor o ID do dispositivo vai repor as suas recomendações personalizadas</string>
   <string name="restore_dialog_positive">Repor</string>
   <string name="restore_dialog_title">Atenção</string>
-  <string name="restore_oaid_content">Repor o ID do dispositivo actual vai criar um novo</string>
+  <string name="restore_oaid_content">Repor o ID do dispositivo atual vai criar um novo</string>
   <string name="restore_oaid_positive">Repor</string>
   <string name="restore_oaid_title">Repor o ID do dispositivo</string>
   <string name="restr_pin_enter_admin_pin">Introduzir PIN de administrador</string>
@@ -3788,9 +3788,9 @@ Não vai perder quaisquer dados os aplicativos"</string>
   <string name="restriction_settings_title">Restrições</string>
   <string name="restriction_wifi_config_summary">Permitir modificações às configurações de Wi-Fi e redes móveis</string>
   <string name="restriction_wifi_config_title">Wi-Fi e redes móveis</string>
-  <string name="retail_demo_reset_message">Introduzir a palavra-passe para efectuar a reposição de fábrica no modo demonstração</string>
+  <string name="retail_demo_reset_message">Introduzir a senha para efectuar a reposição de fábrica no modo demonstração</string>
   <string name="retail_demo_reset_next">Seguinte</string>
-  <string name="retail_demo_reset_title">Necessário palavra-passe</string>
+  <string name="retail_demo_reset_title">Necessário senha</string>
   <string name="retry">Tentar novamente</string>
   <string name="rgb_manage_facerecoginition_text">Gerir dados de rosto 2D</string>
   <string name="ring_volume_option_title">Volume do toque</string>
@@ -3899,7 +3899,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Ligação à Internet</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Atualizar a lista de aplicativos que utilizam o Modo de Leitura automaticamente</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Atualizar automaticamente</string>
-  <string name="screen_pinning_description">"Quando esta funcionalidade está ligada, pode utilizar a fixação na tela para manter o tela actual visível até o soltar.
+  <string name="screen_pinning_description">"Quando esta funcionalidade está ligada, pode utilizar a fixação na tela para manter o tela atual visível até o soltar.
 
 Para utilizar a fixação na tela:
 
@@ -3912,7 +3912,7 @@ Para utilizar a fixação na tela:
 4. Deslize rapidamente para cima e, em seguida, toque no ícone Pin"</string>
   <string name="screen_pinning_title">Fixação do tela</string>
   <string name="screen_pinning_unlock_none">Bloquear dispositivo ao soltar</string>
-  <string name="screen_pinning_unlock_password">Pedir palavra-passe antes de soltar</string>
+  <string name="screen_pinning_unlock_password">Pedir senha antes de soltar</string>
   <string name="screen_pinning_unlock_pattern">Pedir padrão de desbloqueio antes de soltar</string>
   <string name="screen_pinning_unlock_pin">Pedir PIN antes de soltar</string>
   <string name="screen_reader_category_title">Leitores de tela</string>
@@ -3928,7 +3928,7 @@ Para utilizar a fixação na tela:
   <string name="screen_timeout_title">Modo de suspensão</string>
   <string name="screen_usage_summary">Tempo durante o qual o tela tem estado ligado desde o carregamento completo</string>
   <string name="screensaver_settings_button">Configurações</string>
-  <string name="screensaver_settings_current">Proteção de tela actual</string>
+  <string name="screensaver_settings_current">Proteção de tela atual</string>
   <string name="screensaver_settings_disabled_prompt">Para controlar o que acontece quando o telefone está ancorado e/ou inactivo, ligue a protecção de tela</string>
   <string name="screensaver_settings_dream_start">Iniciar agora</string>
   <string name="screensaver_settings_summary_dock">Enquanto ancorado</string>
@@ -4095,10 +4095,10 @@ Para utilizar a fixação na tela:
   <string name="search_screen_saver_settings">Protecção de tela</string>
   <string name="search_screen_shot">Capturas de tela;Captura de tela;Capturar</string>
   <string name="search_screen_timeout">Inactividade;Suspender;Bloqueio de tela</string>
-  <string name="search_second_space">Segundo Espaço;Dois espaços;2 espaços;Ocultar aplicativos;Ocultar fotos;Tela de bloqueio;Palavra-passe do tela de bloqueio;Privacidade;Modo de privacidade;Modo privado;Privado;Modo Convidado;Sessão de convidado;Acesso a convidado;Conta de convidado;Convidado</string>
+  <string name="search_second_space">Segundo Espaço;Dois espaços;2 espaços;Ocultar aplicativos;Ocultar fotos;Tela de bloqueio;Senha do tela de bloqueio;Privacidade;Modo de privacidade;Modo privado;Privado;Modo Convidado;Sessão de convidado;Acesso a convidado;Conta de convidado;Convidado</string>
   <string name="search_security_encryption_title">Encriptar dispositivo;Criptografar;Criptografar dispositivo;Criptografar telefone</string>
   <string name="search_security_passwords_title">Palvra-passe;Bloqueio de tela;PIN;Padrão</string>
-  <string name="search_security_privacy_settings_title">Privacidade;Segurança;Fontes desconhecidas;Mostrar palavra-passe;Assinatura da aplicação;Assinaturas da aplicação;Limpar credenciais;Limpar credencial</string>
+  <string name="search_security_privacy_settings_title">Privacidade;Segurança;Fontes desconhecidas;Mostrar senha;Assinatura da aplicação;Assinaturas da aplicação;Limpar credenciais;Limpar credencial</string>
   <string name="search_security_settings">Configurações de privacidade;Segurança;Privacidade</string>
   <string name="search_settings">Pesquisar</string>
   <string name="search_settings_no_results">Sem resultados</string>
@@ -4140,7 +4140,7 @@ Para utilizar a fixação na tela:
   <string name="search_vibrate_when_ringing_title">Vibrar também para chamadas;vibrar;vibração</string>
   <string name="search_virtual_sim">Dados móveis internacionais;Roaming de dados;Roaming de dados móveis</string>
   <string name="search_vpn_enable">Ligar VPN;VPN</string>
-  <string name="search_vpn_settings_password">Palavra-passe VPN;Proteger VPN</string>
+  <string name="search_vpn_settings_password">Senha VPN;Proteger VPN</string>
   <string name="search_vpn_settings_title">VPN;Adicionar VPN;Ligar VPN</string>
   <string name="search_wakeup_for_keyguard_notification_title">Ligar tela para notificações;ligar tela;ligar dispositivo;acordar telefone</string>
   <string name="search_wallpaper_settings_title">Papel de parede;Tela inicial;Tela de bloqueio</string>
@@ -4168,27 +4168,27 @@ Para utilizar a fixação na tela:
   <string name="secondspace_delete_space_title">excluir Segundo espaço</string>
   <string name="secspace_fod_finger_tips">Não foi possível verificar. Tente novamente</string>
   <string name="secspace_fod_finger_title">Verificar a sua impressão digital</string>
-  <string name="secspace_fod_use_password">Introduzir palavra-passe</string>
+  <string name="secspace_fod_use_password">Introduzir senha</string>
   <string name="secure_keyguard_business_title">Bloqueio de tela</string>
-  <string name="secure_lock_encryption_warning">Uma vez que activou um serviço de acessibilidade, o dispositivo não vai utilizar o bloqueio de tela para optimizar a encriptação de dados</string>
+  <string name="secure_lock_encryption_warning">Uma vez que activou um serviço de acessibilidade, o dispositivo não vai utilizar o bloqueio de tela para optimizar a criptografia de dados</string>
   <string name="security_dashboard_summary">Bloqueio de tela, impressão digital</string>
   <string name="security_dashboard_summary_no_fingerprint">Bloqueio de tela</string>
   <string name="security_enable_widgets_disabled_summary">Desactivado pelo administrador</string>
   <string name="security_enable_widgets_title">Activar widgets</string>
-  <string name="security_encryption_alert_dialog_info_first">Definir palavra-passe de tela de bloqueio para ligar esta funcionalidade. Vai ter que introduzir a palavra-passe do tela de bloqueio sempre que reiniciar para desencriptar o dispositivo e utilizá-lo normalmente</string>
+  <string name="security_encryption_alert_dialog_info_first">Definir senha de tela de bloqueio para ligar esta funcionalidade. Vai ter que introduzir a senha do tela de bloqueio sempre que reiniciar para desencriptar o dispositivo e utilizá-lo normalmente</string>
   <string name="security_encryption_alert_dialog_title_first">Definir bloqueio de tela primeiro</string>
   <string name="security_encryption_attention_1">Não vai poder utilizar alarmes enquanto o dispositivo estiver desligado</string>
-  <string name="security_encryption_attention_2">Vai ter que introduzir a palavra-passe do tela de bloqueio sempre que reiniciar para desencriptar o dispositivo. Os reinícios vão levar mais tempo que o normal</string>
+  <string name="security_encryption_attention_2">Vai ter que introduzir a senha do tela de bloqueio sempre que reiniciar para desencriptar o dispositivo. Os reinícios vão levar mais tempo que o normal</string>
   <string name="security_encryption_attention_3">Tem que definir um novo tipo de segurança de tela de bloqueio</string>
-  <string name="security_encryption_attention_4">Certifique-se que memoriza a sua palavra-passe de tela de bloqueio, senão vai ter que fazer uma reposição completa e excluir todos os dados do dispositivo</string>
-  <string name="security_encryption_attention_info">Pode encriptar contas, configurações, aplicativos transferidas e os seus dados, mídias e outros arquivos</string>
+  <string name="security_encryption_attention_4">Certifique-se que memoriza a sua senha de tela de bloqueio, senão vai ter que fazer uma reposição completa e excluir todos os dados do dispositivo</string>
+  <string name="security_encryption_attention_info">Pode criptografar contas, configurações, aplicativos transferidas e os seus dados, mídias e outros arquivos</string>
   <string name="security_encryption_attention_title">Importante</string>
-  <string name="security_encryption_close_dialog_info">Escolher encriptar não utilizando a palavra-passe do tela de bloqueio pode fazer com que alguns serviços Google fiquem indisponíveis</string>
+  <string name="security_encryption_close_dialog_info">Escolher criptografar não utilizando a senha do tela de bloqueio pode fazer com que alguns serviços Google fiquem indisponíveis</string>
   <string name="security_encryption_close_dialog_title">Voltar para a o tipo de segurança predefinido</string>
   <string name="security_encryption_diaglog_continue">Seguinte</string>
   <string name="security_encryption_is_used">Ligado</string>
   <string name="security_encryption_progress_dialog_close">A desencriptar…</string>
-  <string name="security_encryption_progress_dialog_open">A encriptar…</string>
+  <string name="security_encryption_progress_dialog_open">A criptografar…</string>
   <string name="security_encryption_title">Encriptar dispositivo</string>
   <string name="security_input">Teclado seguro</string>
   <string name="security_input_hint">Utilizar teclado seguro quando introduzir palavras-passe</string>
@@ -4289,14 +4289,14 @@ Para utilizar a fixação na tela:
   <string name="settings_safetylegal_title">Informações de segurança</string>
   <string name="settings_shortcut">Atalho das configurações</string>
   <string name="setup_add_fingerprint_failed_retry_text">Não foi possível adicionar impressão digital</string>
-  <string name="setup_choose_unlock_mixed_password">Palavra-passe</string>
-  <string name="setup_choose_unlock_mixpassword_title">Definir palavra-passe</string>
+  <string name="setup_choose_unlock_mixed_password">Senha</string>
+  <string name="setup_choose_unlock_mixpassword_title">Definir senha</string>
   <string name="setup_choose_unlock_password">PIN</string>
   <string name="setup_choose_unlock_password_msg">Introduzir 4 números</string>
   <string name="setup_choose_unlock_password_title">Definir PIN</string>
   <string name="setup_choose_unlock_pattern">Padrão</string>
   <string name="setup_choose_unlock_pattern_title">Desenhar padrão de desbloqueio</string>
-  <string name="setup_choose_unlock_type_title">Definir palavra-passe</string>
+  <string name="setup_choose_unlock_type_title">Definir senha</string>
   <string name="setup_fingerprint_enroll_finish_message">Basta tocar no sensor de impressões digitais para activar e desbloquear o dispositivo</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">Quando vir este ícone, pode utilizar as impressões digitais</string>
   <string name="setup_password_back">Voltar</string>
@@ -4521,7 +4521,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_icc_id">ICCID</string>
   <string name="status_imei">IMEI</string>
   <string name="status_imei_sv">IMEI SV</string>
-  <string name="status_invalid_password">Palavra-passe inválida. Tente novamente</string>
+  <string name="status_invalid_password">Senha inválida. Tente novamente</string>
   <string name="status_latest_area_info">Informações do operador</string>
   <string name="status_meid_number">MEID</string>
   <string name="status_min_number">MIN</string>
@@ -4645,10 +4645,10 @@ Este ^1 está formatado para funcionar apenas neste dispositivo. Não funciona e
 
 Após a formatação, este ^1 apenas vai funcionar neste dispositivo.
 
-<b>A formatação vai excluir todos os dados actualmente armazenados no ^1.</b> Para evitar perder os dados, considere fazer uma cópia de segurança"</string>
+<b>A formatação vai excluir todos os dados atualmente armazenados no ^1.</b> Para evitar perder os dados, considere fazer uma cópia de segurança"</string>
   <string name="storage_wizard_format_confirm_next">excluir e formatar</string>
   <string name="storage_wizard_format_confirm_public_body">"Isto exige que o ^1 seja formatado.
-<b>A formatação vai excluir todos os dados actualmente armazenados no ^1.</b> Para evitar perder os dados, considere fazer uma cópia de segurança"</string>
+<b>A formatação vai excluir todos os dados atualmente armazenados no ^1.</b> Para evitar perder os dados, considere fazer uma cópia de segurança"</string>
   <string name="storage_wizard_format_confirm_public_title">Formatar como armazenamento portátil</string>
   <string name="storage_wizard_format_confirm_third_body">O ^1 está a ser formatado</string>
   <string name="storage_wizard_format_confirm_title">Formatar como armazenamento interno</string>
@@ -4723,7 +4723,7 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="switch_screen_button_order">Trocar a ordem dos botões</string>
   <string name="switch_screen_button_order_desc">Trocar a ordem dos botões Voltar e Menu</string>
   <string name="switch_select_to_speak_on">Selecione para falar</string>
-  <string name="symbols_not_allowed_for_password">A palavra-passe não pode conter símbolos</string>
+  <string name="symbols_not_allowed_for_password">A senha não pode conter símbolos</string>
   <string name="sync_active">Sincronização activa</string>
   <string name="sync_automatically">Sincronização automática da aplicação</string>
   <string name="sync_calendar">Calendário</string>
@@ -4810,7 +4810,7 @@ Uma abordagem da Google à sincronização de dados, que permite acessar contato
   <string name="timed_titlei">Temporizador %d</string>
   <string name="timezone_settings">Fuso horário</string>
   <string name="title_color_calibration">Correcção de cores</string>
-  <string name="title_convert_fbe">Converter para a encriptação baseada em arquivos</string>
+  <string name="title_convert_fbe">Converter para a criptografia baseada em arquivos</string>
   <string name="title_font">Tipo de letra</string>
   <string name="title_font2">Tipo de letra</string>
   <string name="title_font_current">Tipo de letra do sistema</string>
@@ -4822,7 +4822,7 @@ Uma abordagem da Google à sincronização de dados, que permite acessar contato
   <string name="title_layout_current2">Tamanho do texto</string>
   <string name="title_of_auto_launch_manage">Início automático</string>
   <string name="to_close">Desligar</string>
-  <string name="toast_lockscreen_glogin_empty_password">Introduzir palavra-passe</string>
+  <string name="toast_lockscreen_glogin_empty_password">Introduzir senha</string>
   <string name="toast_need_login">Iniciar sessão na sua Conta Mi</string>
   <string name="toast_sta_ap_works_wifi_display_disable">Não é possível transmitir quando o PA Móvel está ligado</string>
   <string name="toggle_auto_speaker_preference_summary">O dispositivo vai trocar para altifalante quando tirar o telefone do ouvido durante as chamadas. Apenas funciona quando o TalkBack estiver ligado</string>
@@ -4915,24 +4915,24 @@ Uma abordagem da Google à sincronização de dados, que permite acessar contato
   <string name="turn_off_common_password_confirm_msg">O bloqueio de tela também vai ser desligado</string>
   <string name="turn_off_keyguard_password_alert_title">Desactivar</string>
   <string name="turn_off_keyguard_password_confirm_msg">Algumas funcionalidades de segurança não vão funcionar sem o seu padrão</string>
-  <string name="turn_off_keyguard_password_wait_dialog">A desligar palavra-passe</string>
-  <string name="turn_off_keyguard_password_with_face_confirm_msg">Após desligar a sua palavra-passe de tela de bloqueio, os dados do rosto guardados serão excluídos. Não vai poder desbloquear o dispositivo utilizando o seu rosto</string>
+  <string name="turn_off_keyguard_password_wait_dialog">A desligar senha</string>
+  <string name="turn_off_keyguard_password_with_face_confirm_msg">Após desligar a sua senha de tela de bloqueio, os dados do rosto guardados serão excluídos. Não vai poder desbloquear o dispositivo utilizando o seu rosto</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Não vai poder utilizar as impressões digitais após desactivar o padrão</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Após desligar a sua palavra-passe de tela de bloqueio, as impressões digitais e dados do rosto guardados serão excluídos. Não vai poder desbloquear o dispositivo utilizando a sua impressão digital ou rosto</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Após desligar a sua senha de tela de bloqueio, as impressões digitais e dados do rosto guardados serão excluídos. Não vai poder desbloquear o dispositivo utilizando a sua impressão digital ou rosto</string>
   <string name="turn_off_radio">Desligar rádio</string>
   <string name="turn_off_security_lock">Desligar bloqueio de tela</string>
-  <string name="turn_on_keyguard_password">Activar a palavra-passe do tela de bloqueio</string>
-  <string name="turn_on_keyguard_password_alert">Memorize a sua palavra-passe. Se a esquecer, não a vai poder restaurar</string>
-  <string name="turn_on_keyguard_password_alert_choose">Memorize a sua palavra-passe. Se a esquecer, vai ter que excluir todos os dados no seu dispositivo e definir uma nova</string>
+  <string name="turn_on_keyguard_password">Activar a senha do tela de bloqueio</string>
+  <string name="turn_on_keyguard_password_alert">Memorize a sua senha. Se a esquecer, não a vai poder restaurar</string>
+  <string name="turn_on_keyguard_password_alert_choose">Memorize a sua senha. Se a esquecer, vai ter que excluir todos os dados no seu dispositivo e definir uma nova</string>
   <string name="turn_on_keyguard_password_alert_foget_cacel">Agora não</string>
   <string name="turn_on_keyguard_password_alert_foget_ok">Entendido</string>
   <string name="turn_on_keyguard_password_alert_foget_ok_time">Entendido(%ds)</string>
-  <string name="turn_on_keyguard_password_alert_forget_content">Memorize a sua palavra-passe. Se a esquecer, vai ter que excluir todos os dados no seu dispositivo, incluindo fotos e contatos, e definir uma nova</string>
-  <string name="turn_on_keyguard_password_alert_forget_title">Memorizar a sua palavra-passe</string>
+  <string name="turn_on_keyguard_password_alert_forget_content">Memorize a sua senha. Se a esquecer, vai ter que excluir todos os dados no seu dispositivo, incluindo fotos e contatos, e definir uma nova</string>
+  <string name="turn_on_keyguard_password_alert_forget_title">Memorizar a sua senha</string>
   <string name="turn_on_radio">Ligar rádio</string>
   <string name="turn_on_security_lock">Escolher bloqueio de tela</string>
   <string name="turn_on_torch">Ligar lanterna</string>
-  <string name="turn_update_keyguard_password_wait_dialog">A modificar palavra-passe…</string>
+  <string name="turn_update_keyguard_password_wait_dialog">A modificar senha…</string>
   <string name="twohours">1 hora</string>
   <string name="under_keyguard">Tela desligado</string>
   <string name="unimportant">Não importante</string>
@@ -4947,11 +4947,11 @@ Uma abordagem da Google à sincronização de dados, que permite acessar contato
   <string name="uninstall_xspace_app_dlg_title">Desinstalar aplicação clonada?</string>
   <string name="unknown">Desconhecido</string>
   <string name="unknown_app">Aplicação desconhecida</string>
-  <string name="unlock_change_lock_password_title">Alterar palavra-passe de desbloqueio</string>
+  <string name="unlock_change_lock_password_title">Alterar senha de desbloqueio</string>
   <string name="unlock_change_lock_pattern_title">Alterar padrão de desbloqueio</string>
   <string name="unlock_change_lock_pin_title">Alterar PIN</string>
-  <string name="unlock_disable_frp_warning_content_password">As funcionalidades de protecção do dispositivo não funcionam sem a palavra-passe</string>
-  <string name="unlock_disable_frp_warning_content_password_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem a palavra-passe.
+  <string name="unlock_disable_frp_warning_content_password">As funcionalidades de protecção do dispositivo não funcionam sem a senha</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem a senha.
 
 As suas impressões digitais guardadas também serão removidas deste dispositivo e não pode desbloquear o telefone, autorizar compras ou iniciar sessão em aplicativos com elas"</string>
   <string name="unlock_disable_frp_warning_content_pattern">As funcionalidades de protecção do dispositivo não funcionam sem o padrão</string>
@@ -4962,7 +4962,7 @@ As suas impressões digitais guardadas também serão removidas deste dispositiv
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem o PIN.
 
 As suas impressões digitais guardadas também serão removidas deste dispositivo e não pode desbloquear o telefone, autorizar compras ou iniciar sessão em aplicativos com elas"</string>
-  <string name="unlock_disable_frp_warning_content_profile">A protecção de perfil não vai funcionar sem a sua palavra-passe</string>
+  <string name="unlock_disable_frp_warning_content_profile">A protecção de perfil não vai funcionar sem a sua senha</string>
   <string name="unlock_disable_frp_warning_content_unknown">As funcionalidades de protecção do dispositivo não funcionam sem o bloqueio de tela</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem o bloqueio de tela.
 
@@ -4977,7 +4977,7 @@ As suas impressões digitais guardadas também serão removidas deste dispositiv
   <string name="unlock_set_unlock_biometric_weak_summary">Segurança fraca</string>
   <string name="unlock_set_unlock_biometric_weak_title">Desbloqueio facial</string>
   <string name="unlock_set_unlock_disabled_summary">Desactivado pelo administrador</string>
-  <string name="unlock_set_unlock_launch_picker_change_summary">Alterar ou desligar o padrão, PIN ou palavra-passe</string>
+  <string name="unlock_set_unlock_launch_picker_change_summary">Alterar ou desligar o padrão, PIN ou senha</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Alterar tela de bloqueio</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">Escolher um método para bloquear o tela</string>
   <string name="unlock_set_unlock_launch_picker_summary_lock_after_timeout">%1$s / %2$s após a suspensão</string>
@@ -4985,7 +4985,7 @@ As suas impressões digitais guardadas também serão removidas deste dispositiv
   <string name="unlock_set_unlock_launch_picker_title">Tela de bloqueio</string>
   <string name="unlock_set_unlock_mode_none">Deslizar</string>
   <string name="unlock_set_unlock_mode_off">Nenhum</string>
-  <string name="unlock_set_unlock_mode_password">Palavra-passe</string>
+  <string name="unlock_set_unlock_mode_password">Senha</string>
   <string name="unlock_set_unlock_mode_pattern">Padrão</string>
   <string name="unlock_set_unlock_mode_pin">PIN</string>
   <string name="unlock_set_unlock_none_summary">Sem segurança</string>
@@ -4993,7 +4993,7 @@ As suas impressões digitais guardadas também serão removidas deste dispositiv
   <string name="unlock_set_unlock_off_title">Nenhum</string>
   <string name="unlock_set_unlock_password_none">Nenhum</string>
   <string name="unlock_set_unlock_password_summary">Segurança elevada</string>
-  <string name="unlock_set_unlock_password_title">Palavra-passe</string>
+  <string name="unlock_set_unlock_password_title">Senha</string>
   <string name="unlock_set_unlock_pattern_summary">Segurança média</string>
   <string name="unlock_set_unlock_pattern_title">Padrão</string>
   <string name="unlock_set_unlock_pin_summary">Segurança média a elevada</string>
@@ -5247,7 +5247,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="user_restrictions_controlled_by">Controlado por %1$s</string>
   <string name="user_restrictions_title">Acesso às aplicativos e conteúdo</string>
   <string name="user_set_lock_button">Definir bloqueio</string>
-  <string name="user_settings_forbidden">Não é possível alterar configurações de administrador no espaço actual. Volte para o Primeiro espaço</string>
+  <string name="user_settings_forbidden">Não é possível alterar configurações de administrador no espaço atual. Volte para o Primeiro espaço</string>
   <string name="user_settings_title">Utilizadores</string>
   <string name="user_setup_button_setup_later">Agora não</string>
   <string name="user_setup_button_setup_now">Configurar agora</string>
@@ -5259,7 +5259,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="user_summary_restricted_not_set_up">Não configurado – Perfil restrito</string>
   <string name="user_summary_restricted_profile">Perfil restrito</string>
   <string name="user_you">Você (%s)</string>
-  <string name="users_and_accounts_summary">Utilizador actual: %1$s</string>
+  <string name="users_and_accounts_summary">Utilizador atual: %1$s</string>
   <string name="users_summary">Sessão iniciada como %1$s</string>
   <string name="verify_apps_over_usb_summary">Verificar as aplicativos instalados via ADB/ADT para detectar comportamentos perigosos</string>
   <string name="verify_apps_over_usb_title">Verificar aplicativos de USB</string>
@@ -5389,7 +5389,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="vpn_not_used">(não utilizado)</string>
   <string name="vpn_off">Desligado</string>
   <string name="vpn_on">Ligado</string>
-  <string name="vpn_password">Palavra-passe</string>
+  <string name="vpn_password">Senha</string>
   <string name="vpn_replace">Substituir</string>
   <string name="vpn_replace_always_on_vpn_disable_message">Já está ligado a uma VPN sempre ligada. Se ligar a outra, a VPN existente será substituída e o modo sempre ligado será desactivado</string>
   <string name="vpn_replace_always_on_vpn_enable_message">A sua VPN existente será substituída e não terá uma ligação à Internet até a VPN estabelecer ligação com sucesso</string>
@@ -5404,12 +5404,12 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="vpn_save_login">Guardar informações da conta</string>
   <string name="vpn_search_domains">Domínios de pesquisa DNS</string>
   <string name="vpn_server">Endereço do servidor</string>
-  <string name="vpn_set_screen_lock_content">Definir uma palavra-passe de tela de bloqueio para salvar as suas configurações VPN</string>
-  <string name="vpn_set_screen_lock_title">Palavra-passe de tela de bloqueio</string>
+  <string name="vpn_set_screen_lock_content">Definir uma senha de tela de bloqueio para salvar as suas configurações VPN</string>
+  <string name="vpn_set_screen_lock_title">Senha de tela de bloqueio</string>
   <string name="vpn_set_vpn_title">Definir a VPN como sempre ligada?</string>
   <string name="vpn_settings_not_available">As configurações de VPN não estão disponíveis para este usuário</string>
-  <string name="vpn_settings_password">Adicionar palavra-passe da VPN</string>
-  <string name="vpn_settings_summary">Proteger as configurações VPN com a palavra-passe do tela de bloqueio</string>
+  <string name="vpn_settings_password">Adicionar senha da VPN</string>
+  <string name="vpn_settings_summary">Proteger as configurações VPN com a senha do tela de bloqueio</string>
   <string name="vpn_settings_title">VPN</string>
   <string name="vpn_show_options">Mostrar opções avançadas</string>
   <string name="vpn_title">VPN</string>
@@ -5443,11 +5443,11 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wapi_cert_select">Certificado WAPI</string>
   <string name="wapi_no">Não</string>
   <string name="wapi_no_vaild_cert">Não tem os certificados necessários. Instalar agora?</string>
-  <string name="wapi_password_empty">Introduzir palavra-passe</string>
-  <string name="wapi_password_hex_format_invalid">Formato de palavra-passe inválido</string>
+  <string name="wapi_password_empty">Introduzir senha</string>
+  <string name="wapi_password_hex_format_invalid">Formato de senha inválido</string>
   <string name="wapi_password_hex_length_invalid">O número de caracteres hexadecimais tem de ser par</string>
-  <string name="wapi_password_length_invalid">A palavra-passe tem de conter entre 8 e 64 caracteres</string>
-  <string name="wapi_psk_type">Tipo de palavra-passe</string>
+  <string name="wapi_password_length_invalid">A senha tem de conter entre 8 e 64 caracteres</string>
+  <string name="wapi_psk_type">Tipo de senha</string>
   <string name="wapi_psk_type_ascii">ASCII</string>
   <string name="wapi_psk_type_hex">Hexadecimal</string>
   <string name="wapi_yes">Sim</string>
@@ -5539,7 +5539,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_cellular_data_fallback_title">Mudar automaticamente para dados móveis</string>
   <string name="wifi_certificate">Certificado</string>
   <string name="wifi_click_login_wlan">Necessita de autorização</string>
-  <string name="wifi_click_share_wlan">Toque para compartilhar palavra-passe</string>
+  <string name="wifi_click_share_wlan">Toque para compartilhar senha</string>
   <string name="wifi_config_info">Configurações de Wi-Fi</string>
   <string name="wifi_configure_settings_preference_summary_wakeup_off">O Wi-Fi não vai ser religado automaticamente</string>
   <string name="wifi_configure_settings_preference_summary_wakeup_on">O Wi-Fi vai ser religado automaticamente</string>
@@ -5554,7 +5554,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_connect_failed_message">Não foi possível ligar à rede Wi-Fi</string>
   <string name="wifi_connected_no_internet">Ligado, sem Internet</string>
   <string name="wifi_connection_management">Gerir ligações Wi-Fi</string>
-  <string name="wifi_context_menu_change_password">Alterar palavra-passe</string>
+  <string name="wifi_context_menu_change_password">Alterar senha</string>
   <string name="wifi_context_menu_change_wapi_certificate">Alterar certificado WAPI</string>
   <string name="wifi_context_menu_connect">Ligar</string>
   <string name="wifi_context_menu_forget">Esquecer</string>
@@ -5618,7 +5618,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_forget">Esquecer</string>
   <string name="wifi_frequency">Frequência</string>
   <string name="wifi_gateway">Gateway</string>
-  <string name="wifi_hide_password">Ocultar palavra-passe</string>
+  <string name="wifi_hide_password">Ocultar senha</string>
   <string name="wifi_hotspot_checkbox_text">Zona Wi-Fi</string>
   <string name="wifi_hotspot_checkbox_text_summary">Utilizar ligação móvel para fornecer rede Wi-Fi</string>
   <string name="wifi_hotspot_configure_ap_text">Configuração de zona Wi-Fi</string>
@@ -5632,10 +5632,10 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_install_credentials">Instalar certificados</string>
   <string name="wifi_ip_address">Endereço IP</string>
   <string name="wifi_ip_settings">Configurações de IP</string>
-  <string name="wifi_ip_settings_invalid_dns">Introduza um endereço DNS válido</string>
-  <string name="wifi_ip_settings_invalid_gateway">Introduza um endereço de gateway válido</string>
-  <string name="wifi_ip_settings_invalid_ip_address">Introduza um endereço IP válido</string>
-  <string name="wifi_ip_settings_invalid_network_prefix_length">Introduza um prefixo de rede de comprimento entre 0 e 32</string>
+  <string name="wifi_ip_settings_invalid_dns">Insira um endereço DNS válido</string>
+  <string name="wifi_ip_settings_invalid_gateway">Insira um endereço de gateway válido</string>
+  <string name="wifi_ip_settings_invalid_ip_address">Insira um endereço IP válido</string>
+  <string name="wifi_ip_settings_invalid_network_prefix_length">Insira um prefixo de rede de comprimento entre 0 e 32</string>
   <string name="wifi_ip_settings_menu_cancel">Cancelar</string>
   <string name="wifi_ip_settings_menu_save">Guardar</string>
   <string name="wifi_limit_optimizations_summary">Limitar bateria utilizada por Wi-Fi</string>
@@ -5692,7 +5692,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_p2p_remembered_groups">Grupos guardados</string>
   <string name="wifi_p2p_settings_title">Wi-Fi Directo</string>
   <string name="wifi_p2p_wps_setup">Configuração WPS</string>
-  <string name="wifi_password">Palavra-passe</string>
+  <string name="wifi_password">Senha</string>
   <string name="wifi_poor_network_detection">Evitar ligações fracas</string>
   <string name="wifi_poor_network_detection_summary">Não utilizar uma rede Wi-Fi excepto se tiver uma boa ligação à Internet</string>
   <string name="wifi_priority_changed" formatted="false">Valor antigo %s | Novo valor %s</string>
@@ -5783,7 +5783,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_share_connected_summary">Está ligado a uma rede Wi-Fi pública que foi partilhada por outro usuário</string>
   <string name="wifi_share_connected_title">Redes Wi-Fi partilhadas MIUI</string>
   <string name="wifi_share_count">Partilhou %d redes</string>
-  <string name="wifi_share_current_network">Rede actual</string>
+  <string name="wifi_share_current_network">Rede atual</string>
   <string name="wifi_share_know">OK</string>
   <string name="wifi_share_list_empty">Não foram encontradas redes partilhadas</string>
   <string name="wifi_share_login">Compartilhar rede Wi-Fi</string>
@@ -5795,7 +5795,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_share_qrcode_title">Compartilhar rede Wi-Fi</string>
   <string name="wifi_share_show_network">Mostrar redes</string>
   <string name="wifi_share_summary1">Os utilizadores MIUI podem compartilhar redes Wi-Fi públicas (cafés, restaurantes, hotéis, etc.) com outros</string>
-  <string name="wifi_share_summary2">Quando outro usuário MIUI partilha a rede, pode ligar-se diretamente a essa rede sem utilizar uma palavra-passe</string>
+  <string name="wifi_share_summary2">Quando outro usuário MIUI partilha a rede, pode ligar-se diretamente a essa rede sem utilizar uma senha</string>
   <string name="wifi_share_summary3">Também pode compartilhar a sua rede Wi-Fi pública com outros utilizadores MIUI</string>
   <string name="wifi_share_turn_off">Desligado</string>
   <string name="wifi_share_turn_on">Ligado</string>
@@ -5803,7 +5803,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_share_upload_finish">Partilhado</string>
   <string name="wifi_share_uploading">A compartilhar…</string>
   <string name="wifi_show_advanced">Mostrar opções avançadas</string>
-  <string name="wifi_show_password">Mostrar palavra-passe</string>
+  <string name="wifi_show_password">Mostrar senha</string>
   <string name="wifi_signal">Potência do sinal</string>
   <string name="wifi_signal_found_msg">Ligar a um PA Wi-Fi?</string>
   <string name="wifi_speed">Velocidade da ligação</string>
@@ -5863,7 +5863,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_wapi_cert_install_button">Instalar</string>
   <string name="wifi_wapi_cert_mgmt_as_dont_exist">O armazenamento não tem o certificado AS. Por favor, verifique</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">O formato de certificado AS está incorrecto! Por favor, instale o certificado AS correcto</string>
-  <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Introduza o nome do certificado AS</string>
+  <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Insira o nome do certificado AS</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Não foi possível criar uma pasta</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">Já existe uma pasta com este nome</string>
   <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Introduzir nome da pasta</string>
@@ -5873,7 +5873,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Insira o nome do certificado de usuário</string>
   <string name="wifi_wapi_cert_uninstall">Desinstalar certificados WAPI</string>
   <string name="wifi_wapi_cert_uninstall_button">Desinstalar</string>
-  <string name="wifi_wapi_certification_dont_exist">A palavra-passe da rede que introduziu está incorrecta</string>
+  <string name="wifi_wapi_certification_dont_exist">A senha da rede que introduziu está incorrecta</string>
   <string name="wifi_wapi_user_cert">Certificado de Utilizador</string>
   <string name="wifi_wps_available_first_item">WPS disponível</string>
   <string name="wifi_wps_available_second_item">" (WPS disponível)"</string>
@@ -5885,9 +5885,9 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_wps_failed_tkip">Não há suporte para a definição de segurança (TKIP) do router wireless</string>
   <string name="wifi_wps_failed_wep">Não há suporte para a definição de segurança (WEP) do router wireless</string>
   <string name="wifi_wps_in_progress">O WPS encontra-se em curso e pode levar algum tempo para concluir</string>
-  <string name="wifi_wps_nfc_enter_password">Introduzir a palavra-passe da rede</string>
+  <string name="wifi_wps_nfc_enter_password">Introduzir a senha da rede</string>
   <string name="wifi_wps_onstart_pbc">Prima o botão de Configuração protegida de Wi-Fi no router. Pode chamar-se \"WPS\" ou estar marcado com o símbolo seguinte:</string>
-  <string name="wifi_wps_onstart_pin">Introduza o PIN %1$s no seu router Wi-Fi. A configuração pode demorar até dois minutos para ficar concluída</string>
+  <string name="wifi_wps_onstart_pin">Insira o PIN %1$s no seu router Wi-Fi. A configuração pode demorar até dois minutos para ficar concluída</string>
   <string name="wifi_wps_overlap_error">Foi detectada outra sessão de Wi-Fi. Tente novamente mais tarde</string>
   <string name="wifi_wps_setup_msg">A iniciar WPS…</string>
   <string name="wifi_wps_setup_title">Instalação Wi-Fi protegida</string>

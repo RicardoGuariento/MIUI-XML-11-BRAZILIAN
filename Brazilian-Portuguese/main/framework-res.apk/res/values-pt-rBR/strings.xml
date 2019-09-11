@@ -21,7 +21,7 @@
   <string name="Midnight">Meia-noite</string>
   <string name="Noon">Meio-dia</string>
   <string name="PinMmi">Alteração de PIN</string>
-  <string name="PwdMmi">Alteração de palavra-passe</string>
+  <string name="PwdMmi">Alteração de senha</string>
   <string name="RestrictedOnAllVoiceTitle">Sem serviço de voz/emergência</string>
   <string name="RestrictedOnDataTitle">Sem serviço de dados</string>
   <string name="RestrictedOnEmergencyTitle">Sem chamadas de emergência</string>
@@ -42,7 +42,7 @@
   <string name="accessibility_shortcut_disabling_service">O atalho de acessibilidade desligou %1$s</string>
   <string name="accessibility_shortcut_enabling_service">O Atalho de acessibilidade ligou %1$s</string>
   <string name="accessibility_shortcut_toogle_warning">"Quando o atalho está ligado, premir ambos os botões de volume durante 3 segundos inicia uma funcionalidade de acessibilidade.
-  Funcionalidade de acessibilidade actual:
+  Funcionalidade de acessibilidade atual:
  %1$s
 
   Pode alterar esta funcionalidade em Configurações &gt; Acessibilidade"</string>
@@ -125,7 +125,7 @@
   <string name="autofill_save_type_address">endereço</string>
   <string name="autofill_save_type_credit_card">cartão de crédito</string>
   <string name="autofill_save_type_email_address">endereço de email</string>
-  <string name="autofill_save_type_password">palavra-passe</string>
+  <string name="autofill_save_type_password">senha</string>
   <string name="autofill_save_type_username">usuário</string>
   <string name="autofill_save_yes">Guardar</string>
   <string name="autofill_state">Estado</string>
@@ -140,7 +140,7 @@ A poupança de bateria desliga-se automaticamente quando o dispositivo está a c
   <string name="beforeOneMonthDurationPast">Há mais de 1 mês</string>
   <string name="bluetooth_a2dp_audio_route_name">Áudio Bluetooth</string>
   <string name="browse">Navegador</string>
-  <string name="bugreport_message">Vai ser recolhida informação sobre o estado actual do seu dispositivo a enviar através de uma mensagem de email. Vai demorar algum tempo até que o relatório de erros esteja pronto para ser enviado. Aguarde um momento</string>
+  <string name="bugreport_message">Vai ser recolhida informação sobre o estado atual do seu dispositivo a enviar através de uma mensagem de email. Vai demorar algum tempo até que o relatório de erros esteja pronto para ser enviado. Aguarde um momento</string>
   <string name="bugreport_title">Criar relatório de erros</string>
   <string name="byteShort">B</string>
   <string name="cancel">Cancelar</string>
@@ -454,7 +454,7 @@ Tem a certeza de que deseja sair desta página?"</string>
   <string name="keyguard_accessibility_camera">Câmara</string>
   <string name="keyguard_accessibility_expand_lock_area">Expandir área de desbloqueio</string>
   <string name="keyguard_accessibility_face_unlock">Desbloqueio através do rosto</string>
-  <string name="keyguard_accessibility_password_unlock">Desbloqueio através de palavra-passe</string>
+  <string name="keyguard_accessibility_password_unlock">Desbloqueio através de senha</string>
   <string name="keyguard_accessibility_pattern_area">Área do padrão</string>
   <string name="keyguard_accessibility_pattern_unlock">Desbloqueio através de padrão</string>
   <string name="keyguard_accessibility_pin_unlock">Desbloqueio através de PIN</string>
@@ -471,13 +471,13 @@ Tem a certeza de que deseja sair desta página?"</string>
   <string name="keyguard_accessibility_widget_reorder_end">Reordenação de widgets concluída</string>
   <string name="keyguard_accessibility_widget_reorder_start">Reordenação de widgets iniciada</string>
   <string name="keyguard_label_text">Para desbloquear, prima Menu e, em seguida, 0</string>
-  <string name="keyguard_password_enter_password_code">Introduzir a palavra-passe para desbloquear</string>
+  <string name="keyguard_password_enter_password_code">Introduzir a senha para desbloquear</string>
   <string name="keyguard_password_enter_pin_code">Introduzir código PIN</string>
   <string name="keyguard_password_enter_pin_password_code">Introduzir PIN para desbloquear</string>
   <string name="keyguard_password_enter_pin_prompt">Novo código PIN</string>
   <string name="keyguard_password_enter_puk_code">Introduzir o PUK e o novo código PIN</string>
   <string name="keyguard_password_enter_puk_prompt">Código PUK</string>
-  <string name="keyguard_password_entry_touch_hint"><font size="17">Toque para introduzir a palavra-passe</font></string>
+  <string name="keyguard_password_entry_touch_hint"><font size="17">Toque para introduzir a senha</font></string>
   <string name="keyguard_password_wrong_pin_code">Código PIN incorrecto</string>
   <string name="kg_enter_confirm_pin_hint">Confirme o código PIN pretendido</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone através de uma conta de email.
@@ -490,16 +490,16 @@ Tente novamente dentro de %d segundos"</string>
   <string name="kg_invalid_puk">Reintroduzir o código PUK correcto. Tentativas repetidas vão desactivar o SIM permanentemente</string>
   <string name="kg_invalid_sim_pin_hint">Introduzir um PIN de 4 a 8 números</string>
   <string name="kg_invalid_sim_puk_hint">Código PUK deve ter 8 números</string>
-  <string name="kg_login_account_recovery_hint">"Esqueceu o nome de usuário ou a palavra-passe?
+  <string name="kg_login_account_recovery_hint">"Esqueceu o nome de usuário ou a senha?
 Visite <b>google.com/accounts/recovery</b>"</string>
   <string name="kg_login_checking_password">A verificar conta…</string>
   <string name="kg_login_instructions">Para desbloquear, inicie sessão com a sua conta Google</string>
-  <string name="kg_login_invalid_input">Utilizador ou palavra-passe inválido</string>
-  <string name="kg_login_password_hint">Palavra-passe</string>
+  <string name="kg_login_invalid_input">Utilizador ou senha inválido</string>
+  <string name="kg_login_password_hint">Senha</string>
   <string name="kg_login_submit_button">Iniciar sessão</string>
   <string name="kg_login_too_many_attempts">Demasiadas tentativas para desenhar padrão</string>
   <string name="kg_login_username_hint">Utilizador (email)</string>
-  <string name="kg_password_instructions">Introduzir palavra-passe</string>
+  <string name="kg_password_instructions">Introduzir senha</string>
   <string name="kg_password_wrong_pin_code">Código PIN incorrecto</string>
   <string name="kg_pattern_instructions">Desenhe o seu padrão</string>
   <string name="kg_pin_instructions">Introduzir PIN</string>
@@ -509,7 +509,7 @@ Visite <b>google.com/accounts/recovery</b>"</string>
   <string name="kg_sim_pin_instructions">Introduzir PIN do SIM</string>
   <string name="kg_sim_unlock_progress_dialog_message">A desbloquear o cartão SIM…</string>
   <string name="kg_too_many_failed_attempts_countdown">Tente novamente dentro de %1$d segundos</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Introduziu a sua palavra-passe incorrectamente %d vezes. 
+  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Introduziu a sua senha incorrectamente %d vezes. 
 
 Tente novamente dentro de %d segundos"</string>
   <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes
@@ -518,7 +518,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Introduziu o seu PIN incorrectamente %d vezes. 
 
 Tente novamente dentro de %d segundos"</string>
-  <string name="kg_wrong_password">Palavra-passe incorrecta</string>
+  <string name="kg_wrong_password">Senha incorrecta</string>
   <string name="kg_wrong_pattern">Padrão incorrecto</string>
   <string name="kg_wrong_pin">PIN incorrecto</string>
   <string name="kilobyteShort">kB</string>
@@ -540,7 +540,7 @@ Para soltar, toque e segure os botões Início e Ligar/Desligar ao mesmo tempo"<
   <string name="lock_to_app_start">Tela fixo</string>
   <string name="lock_to_app_toast">Para soltar este tela, prima e segure os botões Início e Ligar/Desligar ao mesmo tempo</string>
   <string name="lock_to_app_toast_accessible">Para soltar este tela, prima e segure os botões Início e Ligar/Desligar ao mesmo tempo</string>
-  <string name="lock_to_app_unlock_password">Pedir palavra-passe antes de soltar</string>
+  <string name="lock_to_app_unlock_password">Pedir senha antes de soltar</string>
   <string name="lock_to_app_unlock_pattern">Pedir padrão de desbloqueio antes de soltar</string>
   <string name="lock_to_app_unlock_pin">Pedir PIN antes de soltar</string>
   <string name="lockscreen_access_pattern_area">Área do padrão</string>
@@ -557,20 +557,20 @@ Para soltar, toque e segure os botões Início e Ligar/Desligar ao mesmo tempo"<
 Tente novamente dentro de %d segundos"</string>
   <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que serão repostas as respectivas configurações de fábrica</string>
   <string name="lockscreen_forgot_pattern_button_text">Esqueceu o padrão?</string>
-  <string name="lockscreen_glogin_account_recovery_hint">"Esqueceu o nome de usuário ou a palavra-passe?
+  <string name="lockscreen_glogin_account_recovery_hint">"Esqueceu o nome de usuário ou a senha?
 Visite <b>google.com/accounts/recovery</b>"</string>
   <string name="lockscreen_glogin_checking_password">A verificar…</string>
   <string name="lockscreen_glogin_forgot_pattern">Desbloqueio de conta</string>
   <string name="lockscreen_glogin_instructions">Para desbloquear inicie sessão na sua Conta Google</string>
-  <string name="lockscreen_glogin_invalid_input">Utilizador ou palavra-passe inválido</string>
-  <string name="lockscreen_glogin_password_hint">Palavra-passe</string>
+  <string name="lockscreen_glogin_invalid_input">Utilizador ou senha inválido</string>
+  <string name="lockscreen_glogin_password_hint">Senha</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sessão</string>
   <string name="lockscreen_glogin_too_many_attempts">Demasiadas tentativas para desenhar o padrão</string>
   <string name="lockscreen_glogin_username_hint">Utilizador (email)</string>
   <string name="lockscreen_instructions_when_pattern_disabled">Prima Menu para desbloquear</string>
   <string name="lockscreen_instructions_when_pattern_enabled">Prima Menu para desbloquear ou efectuar uma chamada de emergência</string>
   <string name="lockscreen_missing_sim_instructions">Inserir um cartão SIM</string>
-  <string name="lockscreen_missing_sim_instructions_long">O cartão SIM está em falta ou não é legível. Introduza um cartão SIM</string>
+  <string name="lockscreen_missing_sim_instructions_long">O cartão SIM está em falta ou não é legível. Insira um cartão SIM</string>
   <string name="lockscreen_missing_sim_message">Sem cartão SIM no telefone</string>
   <string name="lockscreen_missing_sim_message_short">Sem cartão SIM</string>
   <string name="lockscreen_network_locked_message">Rede bloqueada</string>
@@ -593,7 +593,7 @@ Contacte o seu fornecedor de serviços móveis para obter outro cartão SIM"</st
   <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes.
 
 Tente novamente dentro de %d segundos"</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Introduziu a sua palavra-passe incorrectamente %d vezes. 
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Introduziu a sua senha incorrectamente %d vezes. 
 
 Tente novamente dentro de %d segundos"</string>
   <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Introduziu o seu PIN incorrectamente %d vezes. 
@@ -650,8 +650,8 @@ Tente novamente dentro de %d segundos"</string>
   <string name="more_item_label">Mais</string>
   <string name="move_button_text">Toque no botão para poder mover a janela inteira</string>
   <string name="muted_by">Silenciado por %1$s</string>
-  <string name="needPuk">O seu cartão SIM está bloqueado com PUK. Introduza o código PUK para o desbloquear</string>
-  <string name="needPuk2">Introduza o PUK2 para desbloquear o cartão SIM</string>
+  <string name="needPuk">O seu cartão SIM está bloqueado com PUK. Insira o código PUK para o desbloquear</string>
+  <string name="needPuk2">Insira o PUK2 para desbloquear o cartão SIM</string>
   <string name="network_available_sign_in">Iniciar sessão na rede</string>
   <string name="new_app_action">Iniciar %1$s</string>
   <string name="new_app_description">Parar o aplicativo antiga sem salvar</string>
@@ -713,7 +713,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="package_deleted_device_owner">Eliminado pelo administrador</string>
   <string name="package_installed_device_owner">Instalado pelo administrador</string>
   <string name="package_updated_device_owner">Atualizado pelo administrador</string>
-  <string name="passwordIncorrect">Palavra-passe incorrecta</string>
+  <string name="passwordIncorrect">Senha incorrecta</string>
   <string name="password_keyboard_label_alpha_key">ABC</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="password_keyboard_label_symbol_key">\?123</string>
@@ -757,13 +757,13 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_connection_manager">Permite que o aplicativo faça a gestão das ligações de telecomunicação</string>
   <string name="permdesc_control_incall_experience">Permite que o aplicativo proporcione uma experiência de usuário em chamada</string>
   <string name="permdesc_createNetworkSockets">Permite que o aplicativo crie ligações de rede e utilize protocolos de rede personalizados. O navegador e outras aplicativos fornecem meios para enviar dados para a Internet. Esta permissão não é necessária para enviar dados para a Internet</string>
-  <string name="permdesc_disableKeyguard">Permite que o aplicativo desactive o bloqueio de teclas e qualquer segurança por palavra-passe associada. Por exemplo, o telefone desactiva o bloqueio de teclas quando recebe uma chamada e reactiva o bloqueio de teclas ao terminar a chamada</string>
+  <string name="permdesc_disableKeyguard">Permite que o aplicativo desactive o bloqueio de teclas e qualquer segurança por senha associada. Por exemplo, o telefone desactiva o bloqueio de teclas quando recebe uma chamada e reactiva o bloqueio de teclas ao terminar a chamada</string>
   <string name="permdesc_enableCarMode">Permite que o aplicativo active o Modo Condução</string>
   <string name="permdesc_expandStatusBar">Permite à aplicação expandir ou fechar a barra de estado</string>
   <string name="permdesc_flashlight">Permite à aplicação controlar a lanterna</string>
   <string name="permdesc_getAccounts">Permite que o aplicativo obtenha a lista de contas reconhecidas pelo telefone. Pode incluir qualquer conta criada pelas aplicativos instalados</string>
   <string name="permdesc_getPackageSize">Permite à aplicação obter o código, os dados e o tamanho de cache da mesma</string>
-  <string name="permdesc_getTasks">Permite que o aplicativo recupere informações sobre de tarefas executadas actual e recentemente. Isto pode permitir que o aplicativo descubra informações sobre de quais as aplicativos utilizadas no dispositivo</string>
+  <string name="permdesc_getTasks">Permite que o aplicativo recupere informações sobre de tarefas executadas atual e recentemente. Isto pode permitir que o aplicativo descubra informações sobre de quais as aplicativos utilizadas no dispositivo</string>
   <string name="permdesc_handoverStatus">Permite que esta aplicação receba informações sobre das transferências actuais do Android Beam</string>
   <string name="permdesc_install_shortcut">Permite que uma aplicação adicione atalhos ao tela principal sem a intervenção do usuário</string>
   <string name="permdesc_invokeCarrierSetup">Permite que o titular invoque o aplicativo de configuração fornecida pela operadora. Nunca deve ser necessário para aplicativos normais</string>
@@ -813,7 +813,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_sim_communication">Permite que o aplicativo envie comandos para o SIM. Esta acção é muito perigosa</string>
   <string name="permdesc_statusBar">Permite à aplicação desactivar a barra de estado ou adicionar e remover ícones do sistema</string>
   <string name="permdesc_statusBarService">Permite que o aplicativo seja apresentada na barra de estado</string>
-  <string name="permdesc_subscribedFeedsRead">Permite à aplicação obter detalhes sobre dos feeds actualmente sincronizados</string>
+  <string name="permdesc_subscribedFeedsRead">Permite à aplicação obter detalhes sobre dos feeds atualmente sincronizados</string>
   <string name="permdesc_systemAlertWindow">Permite que o aplicativo se sobreponha a outras aplicativos ou partes do tela. Pode interferir com a utilização normal os aplicativos e alterar a forma como as outras aplicativos aparecem</string>
   <string name="permdesc_transmitIr">Permite que o aplicativo utilize o transmissor de infravermelhos do telefone</string>
   <string name="permdesc_uninstall_shortcut">Permite que o aplicativo remova atalhos do tela principal sem a intervenção do usuário</string>
@@ -984,11 +984,11 @@ para a conta %s"</string>
   <string name="phoneTypeWorkPager">Pager do trabalho</string>
   <string name="policydesc_disableCamera">Previnir a utilização de todas as câmaras do dispositivo</string>
   <string name="policydesc_disableKeyguardFeatures">Previnir a utilização de algumas funcionalidades na protecção do teclado</string>
-  <string name="policydesc_encryptedStorage">Exigir que os dados armazenados da aplicação sejam encriptados</string>
-  <string name="policydesc_expirePassword">Controlar a frequência com que a palavra-passe do bloqueio de tela deve ser alterada</string>
+  <string name="policydesc_encryptedStorage">Exigir que os dados armazenados da aplicação sejam criptografados</string>
+  <string name="policydesc_expirePassword">Controlar a frequência com que a senha do bloqueio de tela deve ser alterada</string>
   <string name="policydesc_forceLock">Controlar como e quando ocorre o bloqueio de tela</string>
   <string name="policydesc_limitPassword">Controlar o comprimento e os caracteres permitidos nas palavras-passe de desbloqueio de tela</string>
-  <string name="policydesc_resetPassword">Alterar a palavra-passe de desbloqueio de tela</string>
+  <string name="policydesc_resetPassword">Alterar a senha de desbloqueio de tela</string>
   <string name="policydesc_setGlobalProxy">Definir o proxy global do dispositivo a ser utilizado quando a política estiver activa. Só o primeiro administrador do dispositivo define o proxy global efectivo</string>
   <string name="policydesc_watchLogin">Monitorizar o número de palavras-passe incorrectas introduzidas ao desbloquear o tela e bloquear o telefone caso tenham sido introduzidas demasiadas palavras-passe incorrectas</string>
   <string name="policydesc_watchLogin_secondaryUser">Monitorizar o número de palavras-passe incorrectas introduzidas ao desbloquear o tela e bloquear o telefone ou excluir todos os dados deste usuário se forem introduzidas demasiadas palavras-passe incorrectas</string>
@@ -996,10 +996,10 @@ para a conta %s"</string>
   <string name="policydesc_wipeData_secondaryUser">excluir os dados deste usuário neste telefone sem aviso</string>
   <string name="policylab_disableCamera">Desactivar câmaras</string>
   <string name="policylab_disableKeyguardFeatures">Desactivar funcionalidades na protecção do teclado</string>
-  <string name="policylab_encryptedStorage">Definir encriptação do armazenamento</string>
-  <string name="policylab_expirePassword">Definir validade da palavra-passe do bloqueio de tela</string>
+  <string name="policylab_encryptedStorage">Definir criptografia do armazenamento</string>
+  <string name="policylab_expirePassword">Definir validade da senha do bloqueio de tela</string>
   <string name="policylab_forceLock">Bloquear o tela</string>
-  <string name="policylab_limitPassword">Definir as regras da palavra-passe</string>
+  <string name="policylab_limitPassword">Definir as regras da senha</string>
   <string name="policylab_resetPassword">Alterar o bloqueio de tela</string>
   <string name="policylab_setGlobalProxy">Definir o proxy global do dispositivo</string>
   <string name="policylab_watchLogin">Monitorizar tentativas de desbloqueio de tela</string>
@@ -1054,7 +1054,7 @@ para a conta %s"</string>
   <string name="restr_pin_create_pin">Criar PIN para modificar restrições</string>
   <string name="restr_pin_enter_admin_pin">Introduzir PIN de administrador</string>
   <string name="restr_pin_enter_new_pin">Novo PIN</string>
-  <string name="restr_pin_enter_old_pin">PIN actual</string>
+  <string name="restr_pin_enter_old_pin">PIN atual</string>
   <string name="restr_pin_enter_pin">Introduzir PIN</string>
   <string name="restr_pin_error_doesnt_match">PINs não correspondem. Tente novamente</string>
   <string name="restr_pin_error_too_short">PIN é muito curto. Deve ter pelo menos 4 dígitos</string>
@@ -1087,7 +1087,7 @@ para a conta %s"</string>
   
 Ouvir níveis elevados de volume durante longos períodos pode ser prejudicial para a sua audição"</string>
   <string name="save_password_label">Confirmar</string>
-  <string name="save_password_message">Quer que o navegador memorize esta palavra-passe?</string>
+  <string name="save_password_message">Quer que o navegador memorize esta senha?</string>
   <string name="save_password_never">Nunca</string>
   <string name="save_password_notnow">Agora não</string>
   <string name="save_password_remember">Memorizar</string>
@@ -1219,10 +1219,10 @@ Ouvir níveis elevados de volume durante longos períodos pode ser prejudicial p
   <string name="time_picker_increment_hour_button">Aumentar horas</string>
   <string name="time_picker_increment_minute_button">Aumentar minutos</string>
   <string name="time_picker_increment_set_pm_button">Definir PM</string>
-  <string name="time_picker_input_error">Introduza uma hora válida</string>
+  <string name="time_picker_input_error">Insira uma hora válida</string>
   <string name="time_picker_minute_label">minuto</string>
   <string name="time_picker_mode">relógio</string>
-  <string name="time_picker_prompt_label">Introduza a hora</string>
+  <string name="time_picker_prompt_label">Insira a hora</string>
   <string name="time_picker_radial_mode_description">Mude para o modo de relógio para a introdução da hora</string>
   <string name="time_picker_text_input_mode_description">Mude para o modo de introdução de texto para a introdução da hora</string>
   <string name="toolbar_collapse_description">Fechar</string>
@@ -1246,7 +1246,7 @@ Ouvir níveis elevados de volume durante longos períodos pode ser prejudicial p
   <string name="usb_storage_activity_title">Armazenamento em massa USB</string>
   <string name="usb_storage_button_mount">Ligar armazenamento USB</string>
   <string name="usb_storage_error_message">Existe um problema ao utilizar o armazenamento USB como armazenamento em massa USB</string>
-  <string name="usb_storage_message">Ligou-se ao computador através de USB. Toque no botão em baixo se pretender copiar arquivos entre o computador e o armazenamento USB do Android</string>
+  <string name="usb_storage_message">Ligou-se ao computador através de USB. Toque no botão abaixo se pretender copiar arquivos entre o computador e o armazenamento USB do Android</string>
   <string name="usb_storage_notification_message">Toque para copiar arquivos para/do computador</string>
   <string name="usb_storage_notification_title">USB ligado</string>
   <string name="usb_storage_stop_button_mount">Desligar armazenamento USB</string>
@@ -1262,7 +1262,7 @@ Ouvir níveis elevados de volume durante longos períodos pode ser prejudicial p
   <string name="usb_tether_notification_title">PA Móvel ligado</string>
   <string name="use_a_different_app">Utilizar outra aplicação</string>
   <string name="user_owner_label">Pessoal</string>
-  <string name="user_switched">Utilizador actual %1$s</string>
+  <string name="user_switched">Utilizador atual %1$s</string>
   <string name="user_switching_message">A mudar para %1$s…</string>
   <string name="validity_period">Validade:</string>
   <string name="volume_alarm">Volume do alarme</string>

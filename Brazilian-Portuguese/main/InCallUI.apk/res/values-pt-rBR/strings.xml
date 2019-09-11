@@ -13,7 +13,7 @@
   <string name="callFailed_dsac_restricted_normal">As chamadas normais estão restritas pelo controlo de acesso</string>
   <string name="callFailed_fdn_only">As chamadas efectuadas estão restritas por FDN</string>
   <string name="callFailed_incoming_cb_enabled">As chamadas recebidas estão a ser barradas</string>
-  <string name="callFailed_invalid_credentials">Utilizador ou palavra-passe incorrecto</string>
+  <string name="callFailed_invalid_credentials">Utilizador ou senha incorrecto</string>
   <string name="callFailed_limitExceeded">Limite ACM excedido</string>
   <string name="callFailed_noSignal">Sem sinal</string>
   <string name="callFailed_number_unreachable">Número inacessível</string>

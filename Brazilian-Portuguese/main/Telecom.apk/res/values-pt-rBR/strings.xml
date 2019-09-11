@@ -12,8 +12,8 @@
   <string name="change_default_dialer_no_previous_app_set_text">Utilizar %s como aplicação Telefone predefinida?</string>
   <string name="change_default_dialer_with_previous_app_set_text">Utilizar %1$s em vez de %2$s como aplicação Telefone predefinida?</string>
   <string name="close">Desligar</string>
-  <string name="dial_conference_fail_prompt">Não é possível efectuar chamadas de conferência diretamente porque a rede actual não suporta VoLTE</string>
-  <string name="dial_vt_fail_prompt">A rede actual não suporta VoLTE. Trocar para chamadas de voz normais?</string>
+  <string name="dial_conference_fail_prompt">Não é possível efectuar chamadas de conferência diretamente porque a rede atual não suporta VoLTE</string>
+  <string name="dial_vt_fail_prompt">A rede atual não suporta VoLTE. Trocar para chamadas de voz normais?</string>
   <string name="duplicate_video_call_not_allowed">Não é possível adicionar a chamada neste momento</string>
   <string name="enable_account_preference_title">Contas de chamadas</string>
   <string name="handle_restricted">RESTRINGIDO</string>

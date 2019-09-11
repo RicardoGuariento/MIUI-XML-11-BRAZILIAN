@@ -4,7 +4,7 @@
   <string name="android_beam">Android Beam</string>
   <string name="app_name">Serviço NFC</string>
   <string name="ask_nfc_tap">Toque noutro dispositivo para concluir</string>
-  <string name="beam_busy">O Beam está ocupado. Tente novamente quando a transferência actual estiver concluída</string>
+  <string name="beam_busy">O Beam está ocupado. Tente novamente quando a transferência atual estiver concluída</string>
   <string name="beam_canceled">Partilha cancelada</string>
   <string name="beam_complete">Partilha concluída</string>
   <string name="beam_failed">Não foi possível compartilhar</string>

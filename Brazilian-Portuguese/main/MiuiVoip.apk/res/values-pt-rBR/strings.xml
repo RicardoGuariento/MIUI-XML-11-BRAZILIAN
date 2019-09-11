@@ -12,7 +12,7 @@
   <string name="app_name_which_call">Aplicação:%s</string>
   <string name="app_version_which_call">Versão da aplicação:%s</string>
   <string name="confirm_activation">Activar</string>
-  <string name="cur_activated_number_tag">%s (número actual)</string>
+  <string name="cur_activated_number_tag">%s (número atual)</string>
   <string name="engine_activate_successfully">Mi Voice ativado</string>
   <string name="engine_activate_unsuccessfully">Não foi possível activar o Mi Voice</string>
   <string name="engine_activating">Aguarde…</string>

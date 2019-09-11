@@ -70,7 +70,7 @@
   <string name="dialog_insufficient_space_on_cache">Não é possível concluir a transferência. Não existe espaço suficiente no armazenamento interno</string>
   <string name="dialog_insufficient_space_on_external">Não é possível concluir a transferência. Não existe espaço suficiente no armazenamento externo</string>
   <string name="dialog_media_not_found">Não é possível transferir. O dispositivo externo não está disponível</string>
-  <string name="dialog_msg_disabled_net">%1$s transferências restritas na rede actual. Toque nas configurações de rede para ir para o aplicativo de Segurança</string>
+  <string name="dialog_msg_disabled_net">%1$s transferências restritas na rede atual. Toque nas configurações de rede para ir para o aplicativo de Segurança</string>
   <string name="dialog_msg_recommend">Não vai poder ver anúncios depois de desligar</string>
   <string name="dialog_queued_body">Este arquivo foi adicionado à lista de transferências pendentes</string>
   <string name="dialog_speed_cancel">Cancelar</string>

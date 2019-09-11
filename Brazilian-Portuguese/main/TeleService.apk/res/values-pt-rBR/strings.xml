@@ -86,7 +86,7 @@
   <string name="callFailed_dsac_restricted_normal">As chamadas normais estão restritas pelo controlo de acesso</string>
   <string name="callFailed_fdn_only">As chamadas efectuadas estão restritas por FDN</string>
   <string name="callFailed_incoming_cb_enabled">As chamadas recebidas estão a ser barradas</string>
-  <string name="callFailed_invalid_credentials">Utilizador ou palavra-passe incorrecto</string>
+  <string name="callFailed_invalid_credentials">Utilizador ou senha incorrecto</string>
   <string name="callFailed_limitExceeded">Limite ACM excedido</string>
   <string name="callFailed_low_battery">Bateria fraca</string>
   <string name="callFailed_number_unreachable">Número inacessível</string>
@@ -219,7 +219,7 @@
   <string name="change_default_data_card">SIM de dados móveis predefinido</string>
   <string name="change_default_data_card_summary">Parece que alterou os cartões SIM. Definir este cartão como predefinido para a ligação de dados móveis?</string>
   <string name="change_num">Atualizar</string>
-  <string name="change_password">Alterar a palavra-passe do barramento</string>
+  <string name="change_password">Alterar a senha do barramento</string>
   <string name="change_pin">Alterar PIN do SIM</string>
   <string name="change_pin2">Alterar PIN2</string>
   <string name="clir_choices_hide_number">Ocultar número</string>
@@ -238,7 +238,7 @@
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="confirmPin2Label">Confirme o novo PIN2</string>
   <string name="confirmPinLabel">Confirme o novo PIN</string>
-  <string name="confirm_password_label">Confirme a nova palavra-passe</string>
+  <string name="confirm_password_label">Confirme a nova senha</string>
   <string name="confirm">Confirmar</string>
   <string name="confirm_pin2_label">Confirme o novo PIN2</string>
   <string name="confirm_pin_label">Confirme o novo PIN</string>
@@ -427,7 +427,7 @@
   <string name="enhanced_4g_lte_mode_title">Modo 4G LTE Avançado</string>
   <string name="enterName">Nome</string>
   <string name="enterNumber">Número de telefone</string>
-  <string name="enter_callbarring_password">Introduzir uma palavra-passe (4 dígitos) para o barramento das chamadas</string>
+  <string name="enter_callbarring_password">Introduzir uma senha (4 dígitos) para o barramento das chamadas</string>
   <string name="enter_input" formatted="false">A mensagem USSD tem de ter entre %d e %d caracteres. Tente novamente</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin_text">PIN do SIM:</string>
@@ -454,7 +454,7 @@
   <string name="fdn_contact_deleted">Número de marcação fixa excluído</string>
   <string name="fdn_contact_updated">Número de marcação fixa atualizado</string>
   <string name="fdn_disabled">Números de marcação fixa desligado</string>
-  <string name="fdn_enable_puk2_requested">Palavra-passe incorrecta, o PIN2 está bloqueado. Altere o PIN2 e tente novamente</string>
+  <string name="fdn_enable_puk2_requested">Senha incorrecta, o PIN2 está bloqueado. Altere o PIN2 e tente novamente</string>
   <string name="fdn_enabled">Números de marcação fixa estão activos</string>
   <string name="fdn_failed">Falha de FDN</string>
   <string name="fdn_full">FDN não foi atualizado porque a lista está cheia</string>
@@ -496,7 +496,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="incall_error_local_low_battery">Chamada falhou devido a bateria fraca</string>
   <string name="incall_error_low_battery">Chamada falhou devido a bateria fraca</string>
   <string name="incall_error_missing_voicemail_number">Número de Voice Mail desconhecido</string>
-  <string name="incall_error_no_phone_number_supplied">Para ligar, introduza um número válido</string>
+  <string name="incall_error_no_phone_number_supplied">Para ligar, insira um número válido</string>
   <string name="incall_error_out_of_service">Rede móvel indisponível</string>
   <string name="incall_error_out_of_service_wfc">A rede móvel não está disponível. Ligue-se a uma rede sem fios para fazer uma chamada</string>
   <string name="incall_error_power_off">Desligue o Modo Avião para fazer chamadas</string>
@@ -511,7 +511,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="incall_error_wfc_only_no_wireless_network">Ligue-se a uma rede sem fios para fazer uma chamada</string>
   <string name="incall_status_dialed_mmi">Iniciar a sequência MMI…</string>
   <string name="international_calls">Apenas internacionais</string>
-  <string name="input_password">Introduzir palavra-passe</string>
+  <string name="input_password">Introduzir senha</string>
   <string name="international_disable">Notícias internacionais está desligado</string>
   <string name="international_enable">Notícias internacionais está ligado</string>
   <string name="international_roaming_setting">Dados em roaming</string>
@@ -520,13 +520,13 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="invalidPin2">Introduzir um PIN2 que tenha entre 4 a 8 números</string>
   <string name="invalidPsw">O PIN introduzido é inválido</string>
   <string name="invalidPuk2">Introduzir um PUK2 que tenha 8 números</string>
-  <string name="invalid_password">Introduzir uma palavra-passe com 4 números</string>
+  <string name="invalid_password">Introduzir uma senha com 4 números</string>
   <string name="invalid_pin">Introduzir um PIN que tenha entre 4 a 8 números</string>
   <string name="invalid_pin2">Introduzir um PIN2 que tenha entre 4 a 8 números</string>
   <string name="invalid_puk">Introduzir um PUK que tenha entre 4 a 8 números</string>
   <string name="invalid_puk2">Introduzir um PUK2 que tenha 8 números</string>
-  <string name="ivr_mo_area_code_settings">Código de área actual</string>
-  <string name="ivr_mo_area_code_settings_hint">Introduzir código de área actual</string>
+  <string name="ivr_mo_area_code_settings">Código de área atual</string>
+  <string name="ivr_mo_area_code_settings_hint">Introduzir código de área atual</string>
   <string name="ivr_parameter_settings">Configurações dos parâmetros IVR</string>
   <string name="ivr_type_settings">Configurações de plano de dados</string>
   <string name="ivr_type_settings_hint">Introduzir o seu código de plano de dados</string>
@@ -542,7 +542,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="labelCW">Chamada em espera</string>
   <string name="labelCallerId">Identificação de chamadas</string>
   <string name="labelCbCancelAll">Desligar o barramento de chamadas</string>
-  <string name="labelCbChangePassword">Alterar palavra-passe</string>
+  <string name="labelCbChangePassword">Alterar senha</string>
   <string name="labelCdmaMore_with_label">Configurações de chamada CDMA (%s)</string>
   <string name="labelGSMMore">Configurações de chamadas GSM</string>
   <string name="labelGsmMore_with_label">Configurações de chamadas GSM (%s)</string>
@@ -691,7 +691,7 @@ Vai ser utilizada a rede preferida"</string>
   <string name="networks_title">Redes móveis</string>
   <string name="newPin2Label">Novo PIN2</string>
   <string name="newPinLabel">Novo PIN</string>
-  <string name="new_password_label">Nova palavra-passe de 4 dígitos</string>
+  <string name="new_password_label">Nova senha de 4 dígitos</string>
   <string name="new_pin2_label">Novo PIN2</string>
   <string name="new_pin_label">Novo PIN</string>
   <string name="no_call_barring">Barramento de chamadas desligado</string>
@@ -717,7 +717,7 @@ Vai ser utilizada a rede preferida"</string>
   <string name="ok">OK</string>
   <string name="oldPin2Label">PIN2 antigo</string>
   <string name="oldPinLabel">PIN antigo</string>
-  <string name="old_password_label">Palavra-passe actual 4 dígitos</string>
+  <string name="old_password_label">Senha atual 4 dígitos</string>
   <string name="old_pin2_label">PIN2</string>
   <string name="old_pin_label">PIN antigo</string>
   <string name="onHold">Em espera</string>
@@ -769,8 +769,8 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções"
   <string name="other_settings">Outras configurações de chamada</string>
   <string name="other_settings_category">Outros</string>
   <string name="overseas_roaming_setting">Dados em roaming</string>
-  <string name="password_changed">Palavra-passe alterada</string>
-  <string name="password_title">Palavra-passe</string>
+  <string name="password_changed">Senha alterada</string>
+  <string name="password_title">Senha</string>
   <string name="path_answer_state_setting_title">Aplicativos de sistema/Telefone/Configurações das chamadas recebidas</string>
   <string name="path_antispam_setting">Aplicativos de sistema/Telefone/Lista de bloqueio</string>
   <string name="path_app_name">Aplicativos de sistema/Telefone</string>
@@ -938,16 +938,16 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="proxy_address_title">Endereço de proxy de saída</string>
   <string name="pstn_connection_service_label">Cartões SIM integrados</string>
   <string name="pstn_phone">Chamada de telemóvel</string>
-  <string name="psw_enter_new">Nova palavra-passe</string>
-  <string name="psw_enter_old">Palavra-passe antiga</string>
-  <string name="psw_reenter_new">Introduzir palavra-passe novamente</string>
+  <string name="psw_enter_new">Nova senha</string>
+  <string name="psw_enter_old">Senha antiga</string>
+  <string name="psw_reenter_new">Introduzir senha novamente</string>
   <string name="puk2_blocked">PUK2 bloqueado permanentemente</string>
   <string name="puk2_label">Introduzir código PUK2</string>
   <string name="puk2_requested">Código incorrecto. O cartão SIM está bloqueado. Introduzir PUK2</string>
   <string name="puk_label">Introduzir código PUK</string>
   <string name="puk_lock_warning">"
 O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
-  <string name="puk_requested">Palavra-passe incorrecta. O PIN está bloqueado. É necessário PUK</string>
+  <string name="puk_requested">Senha incorrecta. O PIN está bloqueado. É necessário PUK</string>
   <string name="puk_unlock_failed">Desbloqueio com PUK sem sucesso</string>
   <string name="puk_unlock_success">Desbloqueio com PUK com sucesso</string>
   <string name="puk_unlocked">O cartão SIM foi desbloqueado. O telefone está a desbloquear…</string>
@@ -964,7 +964,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="registration_status_checking_status">A verificar…</string>
   <string name="registration_status_done">A receber chamadas</string>
   <string name="registration_status_failed_try_later">Não é possível registar a conta (%s)</string>
-  <string name="registration_status_invalid_credentials">O usuário ou palavra-passe que introduziu está incorrecto</string>
+  <string name="registration_status_invalid_credentials">O usuário ou senha que introduziu está incorrecto</string>
   <string name="registration_status_no_data">Não existe nenhuma ligação à rede</string>
   <string name="registration_status_no_wifi_data">Não está ligado a nenhuma rede Wi-Fi</string>
   <string name="registration_status_not_receiving">Não está a receber chamadas</string>
@@ -1164,7 +1164,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="telocation_setting">Localização</string>
   <string name="telocation_show_settings">Configurações de visualização</string>
   <string name="third_party_account_summary">Esta conta está ser utilizada por %s</string>
-  <string name="throttle_current_usage">Dados utilizados no período actual</string>
+  <string name="throttle_current_usage">Dados utilizados no período atual</string>
   <string name="throttle_data_rate_reduced_subtext">"%1$s máximo excedido
 Velocidade de transmissão de dados reduzida para %2$d Kb/s"</string>
   <string name="throttle_data_usage">Utilização de dados</string>
@@ -1216,7 +1216,7 @@ Contacte a sua operadora se este problema persistir"</string>
   <string name="voice_report_incoming_call">A chamar</string>
   <string name="voice_report_unknown_num">Número desconhecido</string>
   <string name="voice_service_cannot_call_notification_content">Pode encontrar problemas de ligação ao tentar fazer chamadas</string>
-  <string name="voice_service_cannot_call_notification_title">Não é possível fazer chamadas na rede actual</string>
+  <string name="voice_service_cannot_call_notification_title">Não é possível fazer chamadas na rede atual</string>
   <string name="voice_service_switch_summary">Ligar para poder utilizar a funcionalidade VoLTE em redes VoLTE</string>
   <string name="voice_service_switch_title">Serviços de chamada VoLTE</string>
   <string name="voice_service_warning_dialog_body">"Este tablet suporta chamadas VoLTE em redes 4G. Certifique-se que as redes a que o seu dispositivo está ligado suportam esta funcionalidade.
@@ -1276,7 +1276,7 @@ As chamadas de emergência apenas estão disponíveis com rede móvel"</string>
   <string name="wificall_switch_summary">Utilize o Wi-Fi para efectuar chamadas sempre que possível</string>
   <string name="wificall_switch_title">Chamadas Wi-Fi</string>
   <string name="wild_prompt_str">Substituir o caracter universal por</string>
-  <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>
+  <string name="wrong_password">A senha que introduziu está incorrecta</string>
   <string name="xdivert_summary">Configurações CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
 </resources>

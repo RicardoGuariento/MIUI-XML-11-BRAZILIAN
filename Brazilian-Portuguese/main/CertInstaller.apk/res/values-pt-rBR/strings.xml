@@ -8,7 +8,7 @@
   <string name="cert_too_large_error">Não foi possível instalar porque o tamanho do certificado é demasiado grande</string>
   <string name="credential_info">O pacote contém:</string>
   <string name="credential_name">Nome do certificado:</string>
-  <string name="credential_password">Introduza a palavra-passe para extrair os certificados</string>
+  <string name="credential_password">Insira a senha para extrair os certificados</string>
   <string name="credential_usage_label">Utilização de credenciais:</string>
   <string name="done_label">Concluído</string>
   <string name="extracting_pkcs12">A extrair…</string>
@@ -18,7 +18,7 @@
   <string name="n_cacrts">%d certificados da AC</string>
   <string name="name_char_error">Escreva um nome que contenha apenas letras e números</string>
   <string name="name_credential_dialog_title">Atribua um nome ao certificado</string>
-  <string name="name_empty_error">Introduza um nome</string>
+  <string name="name_empty_error">Insira um nome</string>
   <string name="no_cert_file_found">Não foi encontrado qualquer arquivo de certificado no armazenamento USB</string>
   <string name="no_cert_to_saved">Não há certificado para instalar</string>
   <string name="one_cacrt">um certificado da AC</string>
@@ -26,8 +26,8 @@
   <string name="one_userkey">chave para um usuário</string>
   <string name="only_primary_user_allowed">Apenas o proprietário deste dispositivo pode instalar certificados</string>
   <string name="p12_description">Certificados no armazenamento de chaves PKCS12</string>
-  <string name="password_empty_error">Introduza a palavra-passe</string>
-  <string name="password_error">Introduza a palavra-passe correcta</string>
+  <string name="password_empty_error">Insira a senha</string>
+  <string name="password_error">Insira a senha correcta</string>
   <string name="pick_file_title">Escolher um certificado</string>
   <string name="pkcs12_file_password_dialog_title">Extrair de %s</string>
   <string name="pkcs12_password_dialog_title">Extrair certificado</string>

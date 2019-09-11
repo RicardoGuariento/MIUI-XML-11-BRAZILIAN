@@ -126,7 +126,7 @@
   <string name="lv_home_localt">Dispositivo</string>
   <string name="lv_home_recent">Recentes</string>
   <string name="lv_home_settings">Configurações</string>
-  <string name="lv_input_password">Introduzir palavra-passe</string>
+  <string name="lv_input_password">Introduzir senha</string>
   <string name="lv_local_folder">Pastas</string>
   <string name="lv_local_video">Vídeos</string>
   <string name="lv_media_type_unsported">Não é possível reproduzir este formato</string>
@@ -148,7 +148,7 @@
   <string name="lv_screenrecord_slience">"Your system doesn't support recording sound. The recordings are silent."</string>
   <string name="lv_screenrecord_success">Recorded successfully. You can share now.</string>
   <string name="lv_send_title">Enviar</string>
-  <string name="lv_set_password">Definir palavra-passe para ver vídeos ocultos</string>
+  <string name="lv_set_password">Definir senha para ver vídeos ocultos</string>
   <string name="lv_setting">Configurações</string>
   <string name="lv_share_tips">Took a screenshot successfully. You can share it now.</string>
   <string name="lv_skip_update">Agora não</string>
@@ -157,7 +157,7 @@
   <string name="lv_storage_root_dir">Já está na pasta raiz</string>
   <string name="lv_subtitle_add_subtitle_failed">Não foi possível adicionar legendas. Certifique-se que o arquivo não está corrompido</string>
   <string name="lv_subtitle_changed">Novas legendas</string>
-  <string name="lv_subtitle_current_dir">Pasta actual</string>
+  <string name="lv_subtitle_current_dir">Pasta atual</string>
   <string name="lv_subtitle_folder_up">Pasta anterior</string>
   <string name="lv_subtitle_font_color_title">Cor</string>
   <string name="lv_subtitle_font_size_title">Tamanho</string>
@@ -390,9 +390,9 @@ Check out other videos!"</string>
   <string name="t_lv_check_unhide_file">Seleccionar vídeos para mostrar</string>
   <string name="t_lv_downloading_new_version">A transferir actualizações…</string>
   <string name="t_lv_no_new_version">Vídeos está atualizado</string>
-  <string name="t_lv_password_limit">A palavra-passe deve ter pelo menos 4 caracteres</string>
-  <string name="t_lv_password_null">A palavra-passe não pode ser vazia</string>
-  <string name="t_lv_password_wrong">Palavra-passe incorrecta. Tente novamente</string>
+  <string name="t_lv_password_limit">A senha deve ter pelo menos 4 caracteres</string>
+  <string name="t_lv_password_null">A senha não pode ser vazia</string>
+  <string name="t_lv_password_wrong">Senha incorrecta. Tente novamente</string>
   <string name="t_lv_search_null">Introduzir palavras-chave para pesquisar</string>
   <string name="t_lv_subtitle_padding_default_hint">Adjusting subtitles…</string>
   <string name="t_network_error">Ocorreu um erro de rede</string>

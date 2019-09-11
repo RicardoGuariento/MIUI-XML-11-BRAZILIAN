@@ -37,7 +37,7 @@
   <string name="author_dynamic">Estado</string>
   <string name="author_dynamic_no_resource">Sem resultados</string>
   <string name="automatically_update_using_theme_tips">Atualizar automaticamente</string>
-  <string name="backup_theme_dialog_message">Fazer cópia do seu tema actual?</string>
+  <string name="backup_theme_dialog_message">Fazer cópia do seu tema atual?</string>
   <string name="backup_theme_dialog_ok">Fazer cópia</string>
   <string name="backup_theme_fail_trial_rights_message">Não é possível fazer cópias de itens de avaliação</string>
   <string name="backup_theme_name">Cópia de temas</string>
@@ -72,7 +72,7 @@
   <string name="current_using_desktop_wallpaper_text">Tela inicial</string>
   <string name="current_using_lockscreen_wallpaper_text">Tela de bloqueio</string>
   <string name="current_using_float_wallpaper_text">Transparente</string>
-  <string name="current_version">Versão actual: %1$s</string>
+  <string name="current_version">Versão atual: %1$s</string>
   <string name="current_version_incompatible">Não compatível</string>
   <string name="deleting">A excluir…</string>
   <string name="description_author">Autor</string>
@@ -248,7 +248,7 @@ Para desligar esta funcionalidade, vá a Configurações &gt; Sons e vibração 
   <string name="online_precust_plant">Plantas</string>
   <string name="online_precust_scenery">Cenários</string>
   <string name="online_search_hint">Pesquisar recursos online</string>
-  <string name="password_toggle_content_description">Mostrar palavra-passe</string>
+  <string name="password_toggle_content_description">Mostrar senha</string>
   <string name="playing_ringtone">A reproduzir</string>
   <string name="pref_privacy_policy">Política de Privacidade</string>
   <string name="present_local_fonts">Os meus tipos de letra</string>
@@ -300,7 +300,7 @@ Para desligar esta funcionalidade, vá a Configurações &gt; Sons e vibração 
   <string name="resource_comment_all_comments">Todos os comentários</string>
   <string name="resource_comment_average_score">Pontuações</string>
   <string name="resource_comment_bad_comments">Negativo</string>
-  <string name="resource_comment_current_version">Versão actual</string>
+  <string name="resource_comment_current_version">Versão atual</string>
   <string name="resource_comment_detainment_fail">Rejeitar</string>
   <string name="resource_comment_detainment_msg">Ainda não enviou o seu comentário. Rejeitar alterações?</string>
   <string name="resource_comment_detainment_success">Manter</string>

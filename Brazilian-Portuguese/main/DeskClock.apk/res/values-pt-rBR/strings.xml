@@ -100,7 +100,7 @@
   <string name="life_post_setting_close_title">Fechar relatórios matinais</string>
   <string name="life_post_setting_open_background_subtitle">Mostrar imagens de fundo para alarmes</string>
   <string name="life_post_setting_open_background_title">Imagem de fundo</string>
-  <string name="life_post_setting_open_desc">Desligar alarmes repetitivos entre as 04:00 e as 10:00 para ouvir o estado actual do tempo</string>
+  <string name="life_post_setting_open_desc">Desligar alarmes repetitivos entre as 04:00 e as 10:00 para ouvir o estado atual do tempo</string>
   <string name="life_post_setting_open_subtitle">Receber informações sobre do tempo quando desliga o alarme entre as 4:00 e 9:30</string>
   <string name="life_post_setting_open_summary">Incluir informações sobre do tempo no primeiro alarme desligado entre as 4:00 e 10:00</string>
   <string name="life_post_setting_open_title">Receber relatórios matinais</string>

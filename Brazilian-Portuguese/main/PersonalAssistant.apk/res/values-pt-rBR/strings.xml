@@ -262,7 +262,7 @@
   <string name="function_jd_title">JD</string>
   <string name="function_keyguard_dialog_cancel">Cancelar</string>
   <string name="function_keyguard_dialog_confirm">Definir</string>
-  <string name="function_keyguard_dialog_content">Definir uma palavra-passe de tela de bloqueio para proteger os seus pagamentos</string>
+  <string name="function_keyguard_dialog_content">Definir uma senha de tela de bloqueio para proteger os seus pagamentos</string>
   <string name="function_keyguard_dialog_title">Funcionalidade não suportada</string>
   <string name="function_mistore_favorite">Favoritos</string>
   <string name="function_mistore_title">Mi Store</string>

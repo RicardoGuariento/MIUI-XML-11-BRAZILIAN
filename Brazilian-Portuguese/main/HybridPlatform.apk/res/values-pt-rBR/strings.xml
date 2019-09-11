@@ -96,7 +96,7 @@
   <string name="msg_camera_framework_bug">Ocorreu um erro na câmara. Pode ter que reiniciar o dispositivo</string>
   <string name="msg_default_status">Coloque um código de barra dentro do rectângulo para o digitalizar</string>
   <string name="notification_creating_shortcut_for">A criar atalho para %s</string>
-  <string name="password_toggle_content_description">Alterar visibilidade da palavra-passe</string>
+  <string name="password_toggle_content_description">Alterar visibilidade da senha</string>
   <string name="permission_desc_install_shortcut">criar atalhos</string>
   <string name="permission_desc_location">utilizar a localização do dispositivo</string>
   <string name="permission_desc_read_phone_state">ler o estado do telefone</string>

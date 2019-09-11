@@ -206,8 +206,8 @@
   <string name="wifi_details">Wi-Fi:</string>
   <string name="wifi_exist_fail">O PA Móvel \"%1$s\" já existe. Elimine-o e tente novamente</string>
   <string name="wifi_open_fail">Não é possível ligar o Wi-Fi</string>
-  <string name="wifi_psd_toolong">A palavra-passe é demasiado longa. Introduza-a manualmente</string>
-  <string name="wifi_pwd">Palavra-passe:</string>
+  <string name="wifi_psd_toolong">A senha é demasiado longa. Insira-a manualmente</string>
+  <string name="wifi_pwd">Senha:</string>
   <string name="wifi_security">Segurança:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wx_not_installed_toast">Esta função necessita de abrir o WeChat. Instale o WeChat</string>

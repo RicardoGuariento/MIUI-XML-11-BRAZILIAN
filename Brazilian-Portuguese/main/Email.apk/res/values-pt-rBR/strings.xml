@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="SMTP_independent_verification_text">Verificação independente SMTP</string>
-  <string name="SMTP_password_text">Palavra-passe</string>
+  <string name="SMTP_password_text">Senha</string>
   <string name="SMTP_username_text">Nome de usuário</string>
   <string name="account_add_title">Seleccionar um serviço de email</string>
   <string name="account_duplicate_dlg_message_fmt">Este nome de usuário já existe para a conta \"%s\"</string>
@@ -9,7 +9,7 @@
   <string name="account_failure">A sessão expirou</string>
   <string name="account_name_toast">Já existe uma conta com este nome</string>
   <string name="account_options_sync_title">Sincronizar</string>
-  <string name="account_password_spaces_error">Essa palavra-passe inicia ou termina com um ou mais caracteres de espaço. Muitos servidores não suportam palavras-passe com espaços</string>
+  <string name="account_password_spaces_error">Essa senha inicia ou termina com um ou mais caracteres de espaço. Muitos servidores não suportam palavras-passe com espaços</string>
   <string name="account_security_dialog_content_fmt">%s solicita que actualize as suas configurações de segurança</string>
   <string name="account_security_dialog_title">Atualização de segurança</string>
   <string name="account_security_policy_explanation_fmt">O servidor %s requer a permissão de controlo remoto de algumas funcionalidades de segurança do seu dispositivo Android</string>
@@ -31,8 +31,8 @@
   <string name="account_settings_edit_quick_responses_summary">Editar mensagens de resposta predefinidas</string>
   <string name="account_settings_enforced_label">Políticas</string>
   <string name="account_settings_enforced_summary">Nenhuma</string>
-  <string name="account_settings_incoming_summary">Utilizador, palavra-passe e outras configurações do servidor</string>
-  <string name="account_settings_login_dialog_content_fmt">"O usuário ou a palavra-passe de %s estão incorrectos.
+  <string name="account_settings_incoming_summary">Utilizador, senha e outras configurações do servidor</string>
+  <string name="account_settings_login_dialog_content_fmt">"O usuário ou a senha de %s estão incorrectos.
  Deseja actualizá-los agora?"</string>
   <string name="account_settings_login_dialog_reason_fmt">Não foi possível iniciar sessão em %1$s. O servidor diz: %2$s</string>
   <string name="account_settings_login_dialog_title">Não foi possível iniciar sessão</string>
@@ -72,11 +72,11 @@
   <string name="account_setup_autodiscover_dlg_authfail_message">Confirme se as informações da sua conta estão correctas</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Não foi possível configurar conta</string>
   <string name="account_setup_basics_email_label">Endereço de email</string>
-  <string name="account_setup_basics_login_gmail_without_proxy">Utilizar a ligação actual</string>
+  <string name="account_setup_basics_login_gmail_without_proxy">Utilizar a ligação atual</string>
   <string name="account_setup_basics_manual_setup_action">Configuração manual</string>
   <string name="account_setup_basics_mi_mail_login_help">Pode ser necessário verificar a sua conta via SMS para receber emails</string>
-  <string name="account_setup_basics_password_label">Palavra-passe</string>
-  <string name="account_setup_basics_password_label_authcode">Introduza a palavra-passe ou código de verificação</string>
+  <string name="account_setup_basics_password_label">Senha</string>
+  <string name="account_setup_basics_password_label_authcode">Insira a senha ou código de verificação</string>
   <string name="account_setup_basics_title">Adicionar conta</string>
   <string name="account_setup_check_settings_check_incoming_msg">A validar as configurações do servidor…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">A validar as configurações SMTP…</string>
@@ -90,8 +90,8 @@
   <string name="account_setup_failed_auth_required">O método de autenticação não é suportados pelo servidor</string>
   <string name="account_setup_failed_certificate_inaccessible">Este certificado é inválido ou não está acessível</string>
   <string name="account_setup_failed_certificate_required">É necessário o certificado de cliente. Deseja ligar ao servidor com um certificado de cliente?</string>
-  <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique o nome de usuário ou a palavra-passe e tente novamente</string>
-  <string name="account_setup_failed_dlg_auth_message">Utilizador ou palavra-passe incorrecto</string>
+  <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique o nome de usuário ou a senha e tente novamente</string>
+  <string name="account_setup_failed_dlg_auth_message">Utilizador ou senha incorrecto</string>
   <string name="account_setup_failed_dlg_bar_title">Dicas para iniciar sessão em %s</string>
   <string name="account_setup_failed_dlg_certificate_message">Não é possível ligar ao servidor com segurança</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Não é possível ligar ao servidor com segurança.
@@ -103,8 +103,8 @@
   <string name="account_setup_failed_dlg_server_message_fmt">"Não é possível ligar ao servidor.
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">Não foi possível configurar a conta</string>
-  <string name="account_setup_failed_dlg_todo1">Configure a conta como mostrado em baixo ou tente iniciar sessão com EXCHANGE</string>
-  <string name="account_setup_failed_dlg_todo2">Configure a conta como mostrado em baixo</string>
+  <string name="account_setup_failed_dlg_todo1">Configure a conta como mostrado abaixo ou tente iniciar sessão com EXCHANGE</string>
+  <string name="account_setup_failed_dlg_todo2">Configure a conta como mostrado abaixo</string>
   <string name="account_setup_failed_dlg_unknown_auth_message">Erro desconhecido</string>
   <string name="account_setup_failed_ioerror">Não foi possível abrir a ligação com o servidor</string>
   <string name="account_setup_failed_protocol_unsupported">Introduziu um endereço de servidor incorrecto ou o servidor requer uma versão do protocolo que o Email não suporta</string>
@@ -116,7 +116,7 @@
   <string name="account_setup_incoming_delete_policy_never_label">Nunca</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">Opcional</string>
   <string name="account_setup_incoming_imap_path_prefix_label">Prefixo do caminho IMAP</string>
-  <string name="account_setup_incoming_password_label">Palavra-passe</string>
+  <string name="account_setup_incoming_password_label">Senha</string>
   <string name="account_setup_incoming_port_label">Porta</string>
   <string name="account_setup_incoming_security_label">Tipo de segurança</string>
   <string name="account_setup_incoming_security_none_label">Nenhum</string>
@@ -154,7 +154,7 @@
   <string name="account_setup_security_policies_required_fmt">O servidor %s requer a permissão de controlo remoto de algumas funcionalidades de segurança do seu dispositivo Android. Deseja concluir a configuração desta conta?</string>
   <string name="account_setup_security_required_title">Administração de segurança remota</string>
   <string name="account_setup_server_acc_manager_title">Contas</string>
-  <string name="account_setup_username_password_toast">Introduza um endereço de email e palavra-passe válida</string>
+  <string name="account_setup_username_password_toast">Insira um endereço de email e senha válida</string>
   <string name="account_sync_off">A sincronização da conta está desactivada</string>
   <string name="account_sync_settings_settings">Sincronizar contatos e calendário</string>
   <string name="account_sync_settingstip_description">Sincronização</string>
@@ -253,7 +253,7 @@
   <string name="cc_heading">"Cc: "</string>
   <string name="change_folders_selection_dialog_title">Alterar pastas</string>
   <string name="change_sync_settings">Alterar configurações de sincronização</string>
-  <string name="changepw_dialog_tips">Reintroduzir a palavra-passe de %s</string>
+  <string name="changepw_dialog_tips">Reintroduzir a senha de %s</string>
   <string name="changepw_dialog_tips_please_clikc_btn">Veja o código de verificação em %s e inicie sessão novamente</string>
   <string name="chat_item_msg_people_unit">pessoas</string>
   <string name="chat_item_msg_user_etc">etc.</string>
@@ -442,7 +442,7 @@
   <string name="file_deleted_success">Ficheiro excluído</string>
   <string name="file_not_found">Não foi possível encontrar o arquivo</string>
   <string name="file_not_found_redownload">Não foi possível encontrar o arquivo</string>
-  <string name="file_rar_not_support">Não é possível abrir arquivos RAR encriptados</string>
+  <string name="file_rar_not_support">Não é possível abrir arquivos RAR criptografados</string>
   <string name="file_save_path_dialog_cancel">Entendido</string>
   <string name="file_save_path_dialog_ok">Alterar agora</string>
   <string name="file_save_term">Termos de gravação de arquivos</string>
@@ -524,14 +524,14 @@
   <string name="help_and_info">Ajuda</string>
   <string name="help_weixin_title">"Se tiver alguma dúvida, sinta-se à vontade para nos deixar um comentário na nossa conta oficial do WeChat: "</string>
   <string name="hide_elided">▼ Ocultar texto citado</string>
-  <string name="hide_password">Ocultar palavra-passe</string>
+  <string name="hide_password">Ocultar senha</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
   <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Responder a todos</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_or_pop3_name">IMAP/POP3</string>
-  <string name="imap_password_error">A palavra-passe para o servidor de entrada de correio está errada</string>
+  <string name="imap_password_error">A senha para o servidor de entrada de correio está errada</string>
   <string name="import_button_text">Importar</string>
   <string name="import_from_other_account">Importar de outras contas</string>
   <string name="info_actionbar_normal_detail">Promoções</string>
@@ -539,7 +539,7 @@
   <string name="info_switch_summary">Mostrar promoções no topo da caixa de entrada</string>
   <string name="info_switch_title">Promoções</string>
   <string name="inline_picture_deleted">A transferir imagem perdida…</string>
-  <string name="input_password_prompt">Introduza a sua palavra-passe:</string>
+  <string name="input_password_prompt">Insira a sua senha:</string>
   <string name="interact_with_server_error">Não foi possível ligar ao servidor</string>
   <string name="invalid_recipient">O endereço %s é inválido</string>
   <string name="invalid_recipient_title">Erro de destinatário</string>
@@ -554,7 +554,7 @@
   <string name="log_save_path">Localização dos arquivos de registo</string>
   <string name="login">Iniciar sessão</string>
   <string name="login139">Iniciar sessão com China Mobile</string>
-  <string name="login_err_message">A palavra-passe introduzida não é válida. Pode necessitar dum código de verificação para iniciar sessão. Se necessitar de repor a sua palavra-passe, visite https://email.163.com/</string>
+  <string name="login_err_message">A senha inserida não é válida. Pode necessitar dum código de verificação para iniciar sessão. Se necessitar de repor a sua senha, visite https://email.163.com/</string>
   <string name="login_failed_ticker">Não é possível iniciar sessão em %s</string>
   <string name="login_failed_tip">Número de WeChat de ajuda:</string>
   <string name="login_failed_title">Não é possível iniciar a sessão</string>
@@ -699,7 +699,7 @@
   <string name="notify_channel_send_fail">Envio falhado</string>
   <string name="notify_channel_service">Sincronização em segundo plano</string>
   <string name="oauth_error_description">Não foi possível autenticar</string>
-  <string name="oauth_gmail_login_notify">Introduza o usuário e palavra-passe da sua conta Google na seguinte página de início de sessão</string>
+  <string name="oauth_gmail_login_notify">Insira o usuário e senha da sua conta Google na seguinte página de início de sessão</string>
   <string name="oauth_login_continue">Continuar</string>
   <string name="oauth_login_continue_qq">Obter código de autorização e iniciar sessão &gt;</string>
   <string name="oauth_login_usr_proxy">Proxy</string>
@@ -723,7 +723,7 @@
   <string name="outbox_alert_description_auth_error">Erro do servidor durante sincronização da caixa de saída</string>
   <string name="outbox_alert_description_cannot_authenticate">Não foi possível autenticar %s</string>
   <string name="outbox_alert_description_email_size_error">O tamanho máximo do Email foi atingido</string>
-  <string name="outbox_alert_description_fail_authentication">Utilizador ou palavra-passe incorrecto</string>
+  <string name="outbox_alert_description_fail_authentication">Utilizador ou senha incorrecto</string>
   <string name="outbox_alert_description_fail_network">Não foi possível ligar à rede</string>
   <string name="outbox_alert_description_http_error">Erro HTTP do servidor durante sincronização da caixa de saída</string>
   <string name="outbox_alert_description_insufficient_storage_error">Espaço de armazenamento insuficiente no servidor</string>
@@ -748,14 +748,14 @@
   <string name="overlays_tip_23">Abra as permissões das janelas flutuantes e disfrute da caixa de entrada configurada automaticamente</string>
   <string name="overlays_title">Abrir permissões das janelas flutuantes</string>
   <string name="parase_setup_data">A obter dados…</string>
-  <string name="password_expire_warning_content_title">A palavra-passe do tela de bloqueio está a expirar</string>
-  <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a palavra-passe do seu tela de bloqueio, ou os dados da %s serão excluídos. Deseja alterar isso agora?</string>
-  <string name="password_expire_warning_dialog_title">A palavra-passe do tela de bloqueio está a expirar</string>
-  <string name="password_expire_warning_ticker_fmt">\"%s\" solicita que altere a sua palavra-passe ou PIN do tela de bloqueio</string>
-  <string name="password_expired_content_title">A palavra-passe do tela de bloqueio está expirada</string>
-  <string name="password_expired_dialog_content_fmt">Os dados da %s estão a ser excluídos do seu dispositivo. Pode restaurá-los alterando o PIN ou a palavra-passe do seu tela de bloqueio. Deseja alterar agora?</string>
-  <string name="password_expired_dialog_title">A palavra-passe do tela de bloqueio está expirada</string>
-  <string name="password_expired_ticker">A sua palavra-passe ou PIN do tela de bloqueio expirou</string>
+  <string name="password_expire_warning_content_title">A senha do tela de bloqueio está a expirar</string>
+  <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a senha do seu tela de bloqueio, ou os dados da %s serão excluídos. Deseja alterar isso agora?</string>
+  <string name="password_expire_warning_dialog_title">A senha do tela de bloqueio está a expirar</string>
+  <string name="password_expire_warning_ticker_fmt">\"%s\" solicita que altere a sua senha ou PIN do tela de bloqueio</string>
+  <string name="password_expired_content_title">A senha do tela de bloqueio está expirada</string>
+  <string name="password_expired_dialog_content_fmt">Os dados da %s estão a ser excluídos do seu dispositivo. Pode restaurá-los alterando o PIN ou a senha do seu tela de bloqueio. Deseja alterar agora?</string>
+  <string name="password_expired_dialog_title">A senha do tela de bloqueio está expirada</string>
+  <string name="password_expired_ticker">A sua senha ou PIN do tela de bloqueio expirou</string>
   <string name="path_about_account_setting">Email/Configurações/Contas</string>
   <string name="path_about_add_account">Email/Configurações/Adicionar conta</string>
   <string name="path_about_battery_saver">Email/Configurações/Poupança de bateria</string>
@@ -766,8 +766,8 @@
   <string name="path_about_email_setting">Email/Configurações</string>
   <string name="path_about_send_feed_back">Email/Configurações/Enviar comentários</string>
   <string name="path_about_upload_logs">Email/Configurações/Enviar registos</string>
-  <string name="perference_change_pw_notnull_tips">Insira a sua palavra-passe</string>
-  <string name="perference_change_pw_ok_tips">Palavra-passe alterada</string>
+  <string name="perference_change_pw_notnull_tips">Insira a sua senha</string>
+  <string name="perference_change_pw_ok_tips">Senha alterada</string>
   <string name="perference_setup_pop_del">Remover o email do servidor</string>
   <string name="perference_setup_recv_tag">Servidor de emails recebidos</string>
   <string name="perference_setup_send_tag">Servidor de emails enviados</string>
@@ -779,7 +779,7 @@
   <string name="phone">telefone</string>
   <string name="photo_load_failed">Não foi possível carregar a imagem</string>
   <string name="photo_view_count">%1$d de %2$d</string>
-  <string name="please_fill_in_your_mailbox_information2">Introduza as informações da sua caixa de correio</string>
+  <string name="please_fill_in_your_mailbox_information2">Insira as informações da sua caixa de correio</string>
   <string name="policy_app_blacklist">Não permitir aplicativos especificadas</string>
   <string name="policy_app_whitelist">Permitir apenas aplicativos especificadas</string>
   <string name="policy_bluetooth_restricted">Restringir a utilização de Bluetooth</string>
@@ -802,10 +802,10 @@
   <string name="policy_html_truncation">Restringir tamanho do email em HTML</string>
   <string name="policy_password_expiration">Exigir expiração de palavras-passe</string>
   <string name="policy_password_history">Restringir a reutilização de palavras-passe antigas</string>
-  <string name="policy_require_encryption">Exigir encriptação do dispositivo</string>
+  <string name="policy_require_encryption">Exigir criptografia do dispositivo</string>
   <string name="policy_require_manual_sync_roaming">Permitir sincronização manual apenas em roaming</string>
-  <string name="policy_require_password">Exigir palavra-passe no dispositivo</string>
-  <string name="policy_require_sd_encryption">Exigir encriptação do cartão SD</string>
+  <string name="policy_require_password">Exigir senha no dispositivo</string>
+  <string name="policy_require_sd_encryption">Exigir criptografia do cartão SD</string>
   <string name="policy_require_smime">Exigir mensagens em SMIME</string>
   <string name="policy_screen_timeout">Exigir dispositivo inactivo para bloquear tela</string>
   <string name="policy_text_truncation">Restringir o tamanho do email em texto</string>
@@ -952,12 +952,12 @@ Aguarde até estar totalmente sincronizado"</string>
 \u0009 (Verifique se a hora está em sincronização automática)"</string>
   <string name="ser_resp_err_map_landing_more_failure">Demasiadas tentativas de início de sessão falhadas</string>
   <string name="ser_resp_err_map_landing_too_frequently">Demasiadas tentativas de início de sessão</string>
-  <string name="ser_resp_err_map_mailbox_locked">A conta de email está protegida por palavra-passe</string>
+  <string name="ser_resp_err_map_mailbox_locked">A conta de email está protegida por senha</string>
   <string name="ser_resp_err_map_mailbox_not_open">Sem contas de email</string>
   <string name="ser_resp_err_map_max_connections">Demasiadas tentativas de ligação</string>
   <string name="ser_resp_err_map_nouser">O usuário não existe</string>
   <string name="ser_resp_err_map_or">%1$s ou %2$s</string>
-  <string name="ser_resp_err_map_pserr">Utilizador ou palavra-passe incorrecto</string>
+  <string name="ser_resp_err_map_pserr">Utilizador ou senha incorrecto</string>
   <string name="ser_resp_err_map_serclosed">%s servidor fechado</string>
   <string name="ser_resp_err_map_ssl">"Escolher 'SSL/TLS (Aceitar todos os certificados)' em 'Tipo de segurança'"</string>
   <string name="service_protocol_discribe"><u>"Eu li e concordei com os Termos de Serviço do WPS Mail"</u></string>
@@ -970,7 +970,7 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="show_elided">▶ Mostrar citação</string>
   <string name="show_images">Transferir e mostrar imagens</string>
   <string name="show_more_attachment">Mais anexos</string>
-  <string name="show_password">Mostrar palavra-passe</string>
+  <string name="show_password">Mostrar senha</string>
   <string name="signature">"
 
 
@@ -981,7 +981,7 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="sms_tip">Erro na autenticação. Verifique se o antivírus não interceptou a SMS</string>
-  <string name="smtp_password_error">A palavra-passe do servidor de correio de saída está incorrecta</string>
+  <string name="smtp_password_error">A senha do servidor de correio de saída está incorrecta</string>
   <string name="sort_attachment">Ordenar por</string>
   <string name="storage">Armazenamento</string>
   <string name="str_select_all">Seleccionar tudo</string>
@@ -1093,7 +1093,7 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar configura
   <string name="wipe_account_fail_title">Erro ao excluir informações pessoais</string>
   <string name="wipe_account_fail_description_remind">Devido a restrições de utilização de dados, pode haver dados residuais no Calendário e Contatos após excluir a conta, elimine-a manualmente</string>
   <string name="wps_title">Email WPS</string>
-  <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>
+  <string name="wrong_password">A senha que introduziu está incorrecta</string>
   <string name="yes">Sim</string>
   <string name="you_are_in_mobile_network">Utilizar dados móveis para enviar registos?</string>
   <string name="zip_viewer_no_file">Sem arquivos</string>
