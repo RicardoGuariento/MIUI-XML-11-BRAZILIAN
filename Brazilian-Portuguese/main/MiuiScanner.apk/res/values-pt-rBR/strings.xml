@@ -131,7 +131,7 @@
   <string name="place_barcode_into_rectangle">Alinhar o código com o quadrado</string>
   <string name="plant_fail">Não foi possível reconhecer</string>
   <string name="plant_loading">A identificar…</string>
-  <string name="plant_reg_fail_2">Não foi possível reconhecer este objecto. O Digitalizador apenas identifica plantas</string>
+  <string name="plant_reg_fail_2">Não foi possível reconhecer este objeto. O Digitalizador apenas identifica plantas</string>
   <string name="plant_support">" (suporte técnico)"</string>
   <string name="plant_title">Digitalize a planta que quer identificar</string>
   <string name="preparing_sd">A preparar armazenamento interno…</string>

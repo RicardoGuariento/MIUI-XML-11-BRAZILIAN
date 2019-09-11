@@ -78,7 +78,7 @@
   <string name="call_sender">Ligar ao remetente</string>
   <string name="cannot_add_picture_and_video">Não é possível adicionar um vídeo e uma imagem no mesmo diapositivo</string>
   <string name="cannot_add_slide_anymore">Não é possível adicionar mais diapositivos</string>
-  <string name="cannot_forward_drm_obj">O objecto DRM incluído na mensagem não pode ser reencaminhado</string>
+  <string name="cannot_forward_drm_obj">O objeto DRM incluído na mensagem não pode ser reencaminhado</string>
   <string name="cannot_get_details">Não é possível obter detalhes</string>
   <string name="cannot_resend_audio">Não foi possível enviar a gravação</string>
   <string name="cannot_send_message">Não é possível enviar a mensagem</string>

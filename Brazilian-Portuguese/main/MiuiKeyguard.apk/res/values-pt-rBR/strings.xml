@@ -36,7 +36,7 @@
   <string name="face_data_siggesstion_next">Seguinte</string>
   <string name="face_data_siggesstion_next_time">Seguinte (%ds)</string>
   <string name="face_data_suggesstion_first">Desbloquear o seu dispositivo utilizando o seu rosto é menos seguro que utilizar uma palavra-passe de tela de bloqueio</string>
-  <string name="face_data_suggesstion_second">Certifique-se que o seu rosto não está coberto por nenhum objecto e está claramente visível</string>
+  <string name="face_data_suggesstion_second">Certifique-se que o seu rosto não está coberto por nenhum objeto e está claramente visível</string>
   <string name="face_unlock_adjust_distance">Certifique-se que a distância entre o seu rosto e o tela é boa</string>
   <string name="face_unlock_be_on_the_screen">Segure o dispositivo em frente ao seu rosto</string>
   <string name="face_unlock_by_notification_screen_on_msg">Pode desbloquear o dispositivo utilizando o seu rosto sempre que houver notificações. Isto gasta mais bateria</string>

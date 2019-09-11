@@ -40,8 +40,8 @@
   <string name="ai_album_open_switch_button_title">Análise de fotos</string>
   <string name="ai_album_requesting_title">A IA ainda está a processar as suas fotos. Volte novamente mais tarde</string>
   <string name="ai_album_setting_key_word">Procurar fotos</string>
-  <string name="ai_album_setting_sub_title">Permita que a IA identifique pessoas, lugares e objectos nas suas fotos para as conseguir localizar mais rápido</string>
-  <string name="ai_album_setting_title">Identificação de objectos nas fotos</string>
+  <string name="ai_album_setting_sub_title">Permita que a IA identifique pessoas, lugares e objetos nas suas fotos para as conseguir localizar mais rápido</string>
+  <string name="ai_album_setting_title">Identificação de objetos nas fotos</string>
   <string name="album_already_exists_check">Ver</string>
   <string name="album_already_exists_msg">O álbum \"%s\" já existe</string>
   <string name="album_already_forced_top">Já está no topo</string>
@@ -1177,14 +1177,14 @@ para personalizar a galeria"</string>
   <string name="screen_save_dialog_btn_cancel">Cancelar</string>
   <string name="screen_save_dialog_btn_delete">excluir captura de tela</string>
   <string name="screen_save_dialog_btn_save">Guardar na galeria</string>
-  <string name="search_backup_full_screen">Ligue a sincronização com a Xiaomi Cloud para encontrar mais objectos</string>
+  <string name="search_backup_full_screen">Ligue a sincronização com a Xiaomi Cloud para encontrar mais objetos</string>
   <string name="search_backup_now">Ligar</string>
   <string name="search_backup_sub_title">Ligar para encontrar mais fotos</string>
   <string name="search_backup_title">Sincronização com a Xiaomi Cloud</string>
   <string name="search_clear_histories">Limpar</string>
   <string name="search_connection_error">Não foi possível ligar à rede</string>
   <string name="search_connection_error_and_set">Toque para verificar as configurações de rede</string>
-  <string name="search_empty_title">Localize fotos com pessoas, lugares e objectos na sua galeria</string>
+  <string name="search_empty_title">Localize fotos com pessoas, lugares e objetos na sua galeria</string>
   <string name="search_error">Ocorreu um erro</string>
   <string name="search_error_and_retry">Ocorreu um erro. Toque para tentar novamente</string>
   <string name="search_failed_mark_feedback_false_negative">Não foi possível adicionar</string>
@@ -1206,7 +1206,7 @@ para personalizar a galeria"</string>
   <string name="search_login_now">Iniciar sessão</string>
   <string name="search_login_sub_title">Inicie sessão para encontrar mais fotos</string>
   <string name="search_login_title">Conta Mi</string>
-  <string name="search_login_title_full_screen">Inicie sessão na sua Conta Mi para encontrar mais objectos</string>
+  <string name="search_login_title_full_screen">Inicie sessão na sua Conta Mi para encontrar mais objetos</string>
   <string name="search_mark_feedback_false_negative_title">OK</string>
   <string name="search_mark_feedback_false_positive_title">Corrigir</string>
   <string name="search_net_error">Ocorreu um erro de rede. Ligue-se a uma rede diferente e tente novamente</string>
@@ -1217,7 +1217,7 @@ para personalizar a galeria"</string>
   <string name="search_retry">Tente novamente</string>
   <string name="search_select_network">Seleccionar rede</string>
   <string name="search_set_network_connection">Configurações de rede</string>
-  <string name="search_setting_sub_title">Pesquise por pessoas, lugares e objectos nas suas fotos</string>
+  <string name="search_setting_sub_title">Pesquise por pessoas, lugares e objetos nas suas fotos</string>
   <string name="search_setting_title">Encontrar fotos na galeria</string>
   <string name="search_syncing">A sincronizar dados</string>
   <string name="search_title_album">Álbum</string>
@@ -1393,7 +1393,7 @@ para personalizar a galeria"</string>
   <string name="text_edit_sub_menu_text">Bolhas</string>
   <string name="text_tab_bubble">Bolhas</string>
   <string name="text_tab_watermark">"Marcas d'água"</string>
-  <string name="things_album_empty_title">As fotos podem ser ordenadas pelos objectos nelas contidos</string>
+  <string name="things_album_empty_title">As fotos podem ser ordenadas pelos objetos nelas contidos</string>
   <string name="thursday">Quinta-feira</string>
   <string name="thursday_short">Qui</string>
   <string name="thursday_shortest">Q</string>

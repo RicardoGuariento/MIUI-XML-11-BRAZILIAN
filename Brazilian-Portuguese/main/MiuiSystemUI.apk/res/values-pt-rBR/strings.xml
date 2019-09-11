@@ -585,7 +585,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_data_siggesstion_next">Seguinte</string>
   <string name="face_data_siggesstion_next_time">Seguinte (%ds)</string>
   <string name="face_data_suggesstion_first">Desbloquear o seu dispositivo utilizando o seu rosto é menos seguro que utilizar uma palavra-passe de tela de bloqueio</string>
-  <string name="face_data_suggesstion_second">Certifique-se que o seu rosto não está coberto por nenhum objecto e está claramente visível</string>
+  <string name="face_data_suggesstion_second">Certifique-se que o seu rosto não está coberto por nenhum objeto e está claramente visível</string>
   <string name="face_unlock_adjust_distance">Certifique-se que a distância entre o seu rosto e o tela é boa</string>
   <string name="face_unlock_be_on_the_screen">Segure o dispositivo em frente ao seu rosto</string>
   <string name="face_unlock_by_notification_screen_on_msg">Pode desbloquear o dispositivo utilizando o seu rosto sempre que houver notificações. Isto gasta mais bateria</string>
@@ -1541,7 +1541,7 @@ Deslize para baixo para bloquear"</string>
   <string name="structure_face_data_open_cameraing">A iniciar Câmara…</string>
   <string name="structure_face_data_rgb_input_face">Coloque o seu rosto dentro do círculo</string>
   <string name="structure_face_data_suggestion_text">Certifique-se que todas as partes do seu rosto estão visíveis. Não utilize chapéus, óculos de sol ou outros acessórios que possam cobrir o seu rosto</string>
-  <string name="structure_face_data_suggestion_warning_text">Nota: Utilizar o rosto 3D é menos seguro que utilizar uma palavra-passe. Pessoas ou objectos parecidos podem desbloquear o seu dispositivo</string>
+  <string name="structure_face_data_suggestion_warning_text">Nota: Utilizar o rosto 3D é menos seguro que utilizar uma palavra-passe. Pessoas ou objetos parecidos podem desbloquear o seu dispositivo</string>
   <string name="structure_face_delete_data_dialog_msg">Não foi possível iniciar Câmara. Tente novamente</string>
   <string name="structure_face_delete_data_dialog_msg_retry">Tente novamente</string>
   <string name="structure_face_delete_data_dialog_title">Não foi possível iniciar Câmara</string>
@@ -1564,7 +1564,7 @@ Deslize para baixo para bloquear"</string>
   <string name="structure_face_unlock_model_other_suggestion_3d">"3D face recognition is relatively secure. It's highly unlikely that your device can be unlocked with your photo when this feature is on. However, it might be unlocked by people or objects that look like you."</string>
   <string name="structure_face_unlock_model_other_title">Reconhecimento do rosto</string>
   <string name="structure_face_unlock_not_same_person">Tem de concluir todos os passos sozinho. Não troque com ninguém</string>
-  <string name="structure_face_unlock_really_person">Parece que substituiu o seu rosto por um objecto</string>
+  <string name="structure_face_unlock_really_person">Parece que substituiu o seu rosto por um objeto</string>
   <string name="structure_face_unlock_tof_covered">Não foi possível adicionar dados do rosto. Afaste-se do tela</string>
   <string name="switch_bar_off">Desligado</string>
   <string name="switch_bar_on">Ligado</string>

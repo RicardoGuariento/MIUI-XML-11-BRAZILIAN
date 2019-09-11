@@ -67,11 +67,11 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="ai_scene_top_moon_off">Modo luz fraca</string>
   <string name="ai_scene_top_tip">Modo Lua</string>
   <string name="audio_focus_exit_button_text">Desligar Focagem Áudio</string>
-  <string name="autozoom_click_hint">Toque num objecto para o manter em foco enquanto se mexe. Mantenha-se a pelo menos 3 metros para um efeito melhor</string>
+  <string name="autozoom_click_hint">Toque num objeto para o manter em foco enquanto se mexe. Mantenha-se a pelo menos 3 metros para um efeito melhor</string>
   <string name="autozoom_disabled_hint">O rastreio foi parado</string>
-  <string name="autozoom_hint">Rastreio de objectos</string>
+  <string name="autozoom_hint">Rastreio de objetos</string>
   <string name="autozoom_landscape_hint">Utilize o modo retrato para um melhor efeito</string>
-  <string name="back_bokeh_use_hint">Certifique-se que o objecto não está a mais de 1,5 metros</string>
+  <string name="back_bokeh_use_hint">Certifique-se que o objeto não está a mais de 1,5 metros</string>
   <string name="beauty_body">Figura</string>
   <string name="beauty_body_body">Fino</string>
   <string name="beauty_body_head">Cabeça</string>
@@ -163,9 +163,9 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="do_not_remind_me">Não mostrar novamente</string>
   <string name="dual_camera_lens_covered_toast">A lente está tapada</string>
   <string name="dual_camera_lowlight_toast">A iluminação é muito baixa</string>
-  <string name="dual_camera_too_close_toast">A câmara está demasiado perto do objecto</string>
+  <string name="dual_camera_too_close_toast">A câmara está demasiado perto do objeto</string>
   <string name="dual_camera_use_hint">O modo Estéreo ajuda-o a utilizar o efeito desfocar.
-O objecto não pode estar a mais de dois metros</string>
+O objeto não pode estar a mais de dois metros</string>
   <string name="edit_blusher">Rouge</string>
   <string name="edit_chin">Queixo</string>
   <string name="edit_eye_large">Olhos grandes</string>
@@ -229,7 +229,7 @@ e criar uma espectacular"</string>
 Limpe a lente da câmara para um efeito melhor"</string>
   <string name="lens_dirty_detected_title_back">A lente da câmara traseira está suja</string>
   <string name="lens_dirty_detected_title_front">A lente da câmara frontal está suja</string>
-  <string name="lighting_hint_needed">Coloque o seu objecto na luz</string>
+  <string name="lighting_hint_needed">Coloque o seu objeto na luz</string>
   <string name="lighting_hint_title">Iluminação de estúdio</string>
   <string name="lighting_hint_too_close">Mova a câmara para longe</string>
   <string name="lighting_hint_too_far">Mova a câmara para perto</string>
@@ -270,7 +270,7 @@ no modo Retrato"</string>
   <string name="live_sticker_updating">A actualizar…</string>
   <string name="lying_direct_hint">Orientação actual</string>
   <string name="macro_mode">Macro</string>
-  <string name="macro_mode_tip">A distância entre as lentes e o objecto não deve exceder 10cm</string>
+  <string name="macro_mode_tip">A distância entre as lentes e o objeto não deve exceder 10cm</string>
   <string name="message_snap_double_confirm">Toque longo no botão Volume liga o NFC. Substituir esta funcionalidade?</string>
   <string name="module_name_beauty">Embelezar</string>
   <string name="module_name_capture">Foto</string>
@@ -286,7 +286,7 @@ no modo Retrato"</string>
   <string name="network_access_user_notice_title">A ligar à Internet</string>
   <string name="no_storage">Inserir cartão SD antes de utilizar a câmara</string>
   <string name="not_enough_space">Armazenamento interno está cheio</string>
-  <string name="object_track_enable_toast">Para seleccionar um objecto toque simultaneamente nos dois pontos diagonais à volta do seu limite</string>
+  <string name="object_track_enable_toast">Para seleccionar um objeto toque simultaneamente nos dois pontos diagonais à volta do seu limite</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Alinhe a seta com a linha de referência</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Continue…</string>
   <string name="pano_how_to_use_prompt_slow_down">Abrande…</string>
@@ -313,11 +313,11 @@ no modo Retrato"</string>
   <string name="portrait_bokeh_first_tips">"Utilize o Modo Retrato para desfocar
 o fundo nas suas fotos"</string>
   <string name="portrait_bokeh_text">Modo Retrato</string>
-  <string name="portrait_bokeh_tips">Coloque o objecto a 1.5 metros</string>
+  <string name="portrait_bokeh_tips">Coloque o objeto a 1.5 metros</string>
   <string name="portrait_mode_depth_effect_success_hint">Efeito de profundidade</string>
   <string name="portrait_mode_lowlight_hint">Está demasiado escuro</string>
-  <string name="portrait_mode_too_close_hint">Está demasiado perto do objecto</string>
-  <string name="portrait_mode_too_far_hint">Coloque o objecto a mais ou menos 2 metros</string>
+  <string name="portrait_mode_too_close_hint">Está demasiado perto do objeto</string>
+  <string name="portrait_mode_too_far_hint">Coloque o objeto a mais ou menos 2 metros</string>
   <string name="portrait_mode_use_hint_for_bokeh">"Experimente o Modo Retrato.
 Mantenha a pessoa nítida ao desfocar o fundo"</string>
   <string name="portrait_mode_use_hint">"O Modo Retrato desfoca o fundo
@@ -338,8 +338,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_asd_night_title">Melhorar fotos com pouca luz automaticamente</string>
   <string name="pref_camera_asd_popup_title">Notificar quando o flash for necessário</string>
   <string name="pref_camera_audio_capture_title">Áudio</string>
-  <string name="pref_camera_auto_capture_when_stable_title">Capturar objectos selecionados quando estiverem parados</string>
-  <string name="pref_camera_auto_capture_when_stable_summary">Para seleccionar um objecto, toque nas duas diagonais à volta do seu limite. Quando o objecto estiver parado, a câmara vai tirar uma foto automaticamente</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Capturar objetos selecionados quando estiverem parados</string>
+  <string name="pref_camera_auto_capture_when_stable_summary">Para seleccionar um objeto, toque nas duas diagonais à volta do seu limite. Quando o objeto estiver parado, a câmara vai tirar uma foto automaticamente</string>
   <string name="pref_camera_auto_chroma_flash_title">Flash chroma</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Centralizado</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Média de frames</string>
@@ -528,7 +528,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_touchafaec_entry_off">Desligado</string>
   <string name="pref_camera_touchafaec_entry_on">Ligado</string>
   <string name="pref_camera_ubifocus_title">Refocar</string>
-  <string name="pref_camera_ultra_wide_ldc_description">Corrigir objectos distorcidos automaticamente</string>
+  <string name="pref_camera_ultra_wide_ldc_description">Corrigir objetos distorcidos automaticamente</string>
   <string name="pref_camera_ultra_wide_ldc_title">Correção de distorção em disparos amplos</string>
   <string name="pref_camera_ultra_wide_mode_title">Modo ângulo amplo</string>
   <string name="pref_camera_video_bokeh_off">Efeito desfocar desligado</string>
@@ -668,7 +668,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="toast_saving">A salvar fotos…</string>
   <string name="toast_start_audio_capture">Fazer um som para tirar uma foto</string>
   <string name="ubi_focus_capture_fail">Não foi possível tirar foto</string>
-  <string name="ubifocus_capture_warning_message">Para melhorar o resultado da foto os objectos devem estar a menos de um metro de distância da lente</string>
+  <string name="ubifocus_capture_warning_message">Para melhorar o resultado da foto os objetos devem estar a menos de um metro de distância da lente</string>
   <string name="ultra_pixel_photography_32mp_close_tip">32MP desligado</string>
   <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
   <string name="ultra_pixel_photography_48mp_close_tip">48MP desligado</string>
