@@ -359,7 +359,7 @@
   <string name="receiver_song1">Voz masculina</string>
   <string name="receiver_song2">Voz feminina</string>
   <string name="record">Gravar</string>
-  <string name="refresh_results">Actualizar resultados</string>
+  <string name="refresh_results">Atualizar resultados</string>
   <string name="remove_headset">Remova os auscultadores</string>
   <string name="remove_headset_second">Remova os auscultadores em %s segundo(s)</string>
   <string name="reset_times">Reset times is 5,You Can Click BACK KEY.</string>

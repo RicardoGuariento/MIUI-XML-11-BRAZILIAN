@@ -226,7 +226,7 @@
   <string name="contact_detail_miprofile_privacy_settings">Necessária permissão para ver</string>
   <string name="contact_detail_miprofile_request">Trocar cartões de contacto</string>
   <string name="contact_detail_miprofile_request_fail_toast">"Não foi possível enviar o pedido"</string>
-  <string name="contact_detail_miprofile_request_subtitle">Actualizar informação deste contacto automaticamente</string>
+  <string name="contact_detail_miprofile_request_subtitle">Atualizar informação deste contacto automaticamente</string>
   <string name="contact_detail_miprofile_request_success_toast">Pedido enviado</string>
   <string name="contact_detail_miprofile_save">Toque para obter cartão de contacto</string>
   <string name="contact_detail_miprofile_save_fail_toast">Não foi possível obter o cartão de contacto</string>
@@ -409,7 +409,7 @@
   <string name="dialog_voicemail_airplane_mode_message">Para ligar para o Voice Mail, desligue o Modo Avião</string>
   <string name="dialog_voicemail_not_ready_message">Para configurar o Voice Mail, vá a Menu &gt; Configurações</string>
   <string name="directory_search_label">Páginas amarelas</string>
-  <string name="disclaimer_text">"As páginas amarelas obtêm informação sobre o seu saldo enviando uma SMS. A sua operadora pode actualizar esta informação com algum atraso. Se detectar algum erro, pode reportá-lo para nos ajudar a melhorar o serviço. 
+  <string name="disclaimer_text">"As páginas amarelas obtêm informação sobre o seu saldo enviando uma SMS. A sua operadora pode atualizar esta informação com algum atraso. Se detectar algum erro, pode reportá-lo para nos ajudar a melhorar o serviço. 
 
 Para prevenir perguntas frequentes, actualizamos a informação do saldo uma vez por dia"</string>
   <string name="disclaimer_title">Aviso legal</string>
@@ -591,7 +591,7 @@ Motivo: \"%s\""</string>
   <string name="local_invisible_directory">Outros</string>
   <string name="local_profile_title">O meu perfil</string>
   <string name="local_search_label">Todos os contatos</string>
-  <string name="locale_change_in_progress">A lista de contatos está a ser actualizada para reflectir a alteração do idioma</string>
+  <string name="locale_change_in_progress">A lista de contatos está a ser atualizada para reflectir a alteração do idioma</string>
   <string name="login_ok">Iniciar sessão</string>
   <string name="low_memory_toast">Não é possível continuar devido à falta de memória</string>
   <string name="lunarBirthdayLabelsGroup">Aniversário lunar</string>
@@ -715,7 +715,7 @@ Motivo: \"%s\""</string>
   <string name="miprofile_switch_off_alertdialog_message">Não vai poder trocar cartões de contacto com outras pessoas</string>
   <string name="miprofile_switch_on_alertdialog_message">Trocar cartões de contacto para ver fotos de perfil actualizadas</string>
   <string name="miprofile_switch_on_alertdialog_positive">Ligar</string>
-  <string name="miprofile_switch_on_alertdialog_title">Actualizar foto de perfil</string>
+  <string name="miprofile_switch_on_alertdialog_title">Atualizar foto de perfil</string>
   <string name="missing_name">(Sem nome)</string>
   <string name="mobile_equipment_identification">Identificação de Equipamento Móvel</string>
   <string name="missing_required_permission">Desactivou uma permissão necessária</string>
@@ -930,9 +930,9 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="profile_display_name">Configurar o meu perfil</string>
   <string name="profile_name">O meu perfil</string>
   <string name="profile_name_photo">Foto</string>
-  <string name="pull_to_refresh_pull_label">Puxe para actualizar</string>
+  <string name="pull_to_refresh_pull_label">Puxe para atualizar</string>
   <string name="pull_to_refresh_refreshing_label">Aguarde…</string>
-  <string name="pull_to_refresh_release_label">Largue para actualizar</string>
+  <string name="pull_to_refresh_release_label">Largue para atualizar</string>
   <string name="qr_card_card">Código QR</string>
   <string name="qrcode_card_title">Código QR</string>
   <string name="quick_dial_setting_delete_dialog_message">excluir número atribuido?</string>
@@ -965,7 +965,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="recent_updates">Actualizações recentes</string>
   <string name="redirect_calls_to_vm_confirm_message">Antes de configurar o Voice Mail verifique os Termos e Condições do contrato com o seu fornecedor de telecomunicações</string>
   <string name="redirect_calls_to_vm_confirm_text">OK</string>
-  <string name="refresh">Actualizar</string>
+  <string name="refresh">Atualizar</string>
   <string name="relationLabelsGroup">Relação</string>
   <string name="removePhoto">Remover foto</string>
   <string name="remove_blacklist">Desbloquear</string>
@@ -1173,10 +1173,10 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="unknown_details_add_to_contact">Existente</string>
   <string name="unknown_details_new_contact">Novo</string>
   <string name="update_sim_contact_photo_toast">Não é possível definir fotos para contatos do SIM</string>
-  <string name="upgrade_in_progress">A lista de contatos está a ser actualizada</string>
-  <string name="upgrade_out_of_memory">"Os contatos estão em processo de actualização.
+  <string name="upgrade_in_progress">A lista de contatos está a ser atualizada</string>
+  <string name="upgrade_out_of_memory">"Os contatos estão em processo de atualização.
 
-O processo de actualização requer aproximadamente %sMB de armazenamento interno.
+O processo de atualização requer aproximadamente %sMB de armazenamento interno.
 
 Escolher uma das seguintes opções:"</string>
   <string name="upgrade_out_of_memory_retry">Tentar novamente</string>

@@ -39,7 +39,7 @@
   <string name="currency_update_connect_to_get_data">As taxas de câmbio são fornecidas por Webull. Ligue-se à rede para obter as últimas informações</string>
   <string name="currency_update_support">As taxas de câmbio são fornecidas por Webull</string>
   <string name="currency_update_time_format">As taxas de câmbio são fornecidas por Webull (%s)</string>
-  <string name="currency_update_updating">A actualizar taxas…</string>
+  <string name="currency_update_updating">A atualizar taxas…</string>
   <string name="current_rate_remind_commercial"/>
   <string name="current_rate_remind_fund"/>
   <string name="dateformat">dd-MM-yyyy</string>
@@ -170,7 +170,7 @@
   <string name="preference_alert_follow_wechat">Copiar e colar no WeChat</string>
   <string name="preference_alert_follow_wechat_button">Copiar</string>
   <string name="preference_check_update_summary_current_version">Versão actual: %s</string>
-  <string name="preference_check_update_summary_new_version">Actualização disponível: %s</string>
+  <string name="preference_check_update_summary_new_version">Atualização disponível: %s</string>
   <string name="preference_check_update_title">Verificar actualizações</string>
   <string name="preference_feedback_title">FAQ</string>
   <string name="preference_follow_qq_group">Grupo QQ:523274279</string>
@@ -453,6 +453,6 @@
   <string name="xiaomi_update_dialog_message">"Versão %1$s
 Tamanho: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Versão %1$s
-Tamanho actualização delta: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">Actualização %1$s!</string>
+Tamanho atualização delta: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">Atualização %1$s!</string>
 </resources>

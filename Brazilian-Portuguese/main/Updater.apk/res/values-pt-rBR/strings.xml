@@ -2,7 +2,7 @@
 <resources>
   <string name="app_name">Actualizações</string>
   <string name="battery_islow">"<font color='#f37981'>Ligue o carregador</font>"</string>
-  <string name="battery_islow_desc">O nível da bateria é demasiado fraco para instalar a actualização. Ligue o carregador e tente novamente mais tarde</string>
+  <string name="battery_islow_desc">O nível da bateria é demasiado fraco para instalar a atualização. Ligue o carregador e tente novamente mais tarde</string>
   <string name="btn_changelog">Alterações</string>
   <string name="btn_download">Transferir (%1$s)</string>
   <string name="btn_install">Verificar MD5 e instalar</string>
@@ -32,14 +32,14 @@
 Os dados não serão excluídos"</string>
   <string name="install_title">Tem a certeza que quer continuar?</string>
   <string name="menu_title_current_version_log">O que há de novo?</string>
-  <string name="menu_title_pick_rom_file">Escolher pacote de actualização</string>
+  <string name="menu_title_pick_rom_file">Escolher pacote de atualização</string>
   <string name="menu_title_recovery">Reiniciar no modo restauro</string>
   <string name="message_checkbox">Ocultar mensagens futuras da equipa Xiaomi.eu</string>
   <string name="message_title">Aviso</string>
   <string name="new_version">Nova versão encontrada</string>
   <string name="no_info">Sem informação disponível</string>
   <string name="no_network">Sem acesso à rede</string>
-  <string name="no_update">Já está actualizado ou existe problemas no servidor. Verifique no site xiaomi.eu</string>
+  <string name="no_update">Já está atualizado ou existe problemas no servidor. Verifique no site xiaomi.eu</string>
   <string name="no_xioamieu">"Está a utilizar uma ROM Xiaomi.eu.
 Não estão disponíveis actualizações"</string>
   <string name="notif_cancel">Cancelar</string>
@@ -55,7 +55,7 @@ Não estão disponíveis actualizações"</string>
   <string name="pick_title">Escolha utilizando:</string>
   <string name="recovery_desc">O dispositivo vai reiniciar para o modo restauro. Continuar?</string>
   <string name="server_error">O servidor não está a responder. A aplicação pode não funcionar correctamente</string>
-  <string name="share_desc">A versão da MIUI foi actualizada para %1$s. Veja as alterações em: %2$s</string>
+  <string name="share_desc">A versão da MIUI foi atualizada para %1$s. Veja as alterações em: %2$s</string>
   <string name="share_title">Compartilhar com</string>
   <string name="version">Instalado actualmente:</string>
   <string name="version_type">MIUI 10 | %1$s | (Semanal)</string>

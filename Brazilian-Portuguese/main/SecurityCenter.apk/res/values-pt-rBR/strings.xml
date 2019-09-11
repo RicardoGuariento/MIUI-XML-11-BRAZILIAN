@@ -58,8 +58,8 @@
   <string name="activity_title_white_list">Excepções</string>
   <string name="ad_btn_default_text">Saber mais</string>
   <string name="ad_split_screen_title">Saia do modo tela dividido para desbloquear</string>
-  <string name="ad_update_time">Última actualização: %s</string>
-  <string name="ad_update_time_unKnown">Última actualização: desconhecida</string>
+  <string name="ad_update_time">Última atualização: %s</string>
+  <string name="ad_update_time_unKnown">Última atualização: desconhecida</string>
   <string name="adb_install_no_network">Ligue-se à rede e tente novamente</string>
   <string name="adb_install_open">A permitir…</string>
   <string name="adb_install_open_error">Não foi possível permitir. Verifique a sua ligação à rede</string>
@@ -76,12 +76,12 @@
   <string name="address">Endereço</string>
   <string name="address_choose_hint">%1$s, %2$s, e %3$d outras localizações</string>
   <string name="adjust_sms_cmd"><u>Ajustar o template de calibração SMS</u></string>
-  <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualizado há mais de um mês</string>
-  <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualizado há mais de uma semana</string>
-  <string name="adjust_traffic_carrier_summary_oneweek_before">Actualizado há 1 semana</string>
-  <string name="adjust_traffic_carrier_summary_today">Actualizado hoje às %s</string>
-  <string name="adjust_traffic_carrier_summary_two_day_before">Actualizado há 2 dias</string>
-  <string name="adjust_traffic_carrier_summary_yesterday">Actualizado ontem às %s</string>
+  <string name="adjust_traffic_carrier_summary_more_onemonth_before">Atualizado há mais de um mês</string>
+  <string name="adjust_traffic_carrier_summary_more_oneweek_before">Atualizado há mais de uma semana</string>
+  <string name="adjust_traffic_carrier_summary_oneweek_before">Atualizado há 1 semana</string>
+  <string name="adjust_traffic_carrier_summary_today">Atualizado hoje às %s</string>
+  <string name="adjust_traffic_carrier_summary_two_day_before">Atualizado há 2 dias</string>
+  <string name="adjust_traffic_carrier_summary_yesterday">Atualizado ontem às %s</string>
   <string name="adjust_traffic_data">Definir utilização de dados</string>
   <string name="after_the_lock_screen">Bloquear aplicativos juntamente com o tela</string>
   <string name="alert_back_diving_mode_summary">Desligar o modo imersivo?</string>
@@ -117,15 +117,15 @@
   <string name="antivirus_privacy_dialog_summary">Esta funcionalidade encripta e envia o ID do seu dispositivo para o Avast, AVL e servidores do Tencent (%s)</string>
   <string name="antivirus_privacy_dialog_summary_link">Política de Privacidade</string>
   <string name="antivirus_privacy_dialog_title">Política de Privacidade</string>
-  <string name="antivirus_sec_network_unavailable">Segurança não consegue actualizar porque restringiu a ligação à Internet. Permitir que Segurança se ligue à Internet?</string>
-  <string name="antivirus_toast_already_update">Actualizado</string>
+  <string name="antivirus_sec_network_unavailable">Segurança não consegue atualizar porque restringiu a ligação à Internet. Permitir que Segurança se ligue à Internet?</string>
+  <string name="antivirus_toast_already_update">Atualizado</string>
   <string name="antivirus_toast_network_unavailable">Não foi possível ligar à rede</string>
-  <string name="antivirus_toast_update_failed">Não foi possível actualizar</string>
-  <string name="antivirus_toast_update_success">Actualizado com sucesso</string>
-  <string name="antivirus_toast_updating">A actualizar…</string>
+  <string name="antivirus_toast_update_failed">Não foi possível atualizar</string>
+  <string name="antivirus_toast_update_success">Atualizado com sucesso</string>
+  <string name="antivirus_toast_updating">A atualizar…</string>
   <string name="antivirus_update_btn_contiue">Continuar</string>
   <string name="antivirus_update_btn_open">Permitir</string>
-  <string name="antivirus_update_btn_update">Actualizar</string>
+  <string name="antivirus_update_btn_update">Atualizar</string>
   <string name="apn_exception_summary">Testar configurações APN da operadora</string>
   <string name="apn_exception_title">Verificar as configurações de APN</string>
   <string name="app_bg_restrict_dialog_message">Restringir o acesso à rede em segundo plano pode fazer com que o aplicativo deixe de funcionar normalmente</string>
@@ -311,7 +311,7 @@
   <string name="apps_item_summary_sms">A %s tem acesso às suas mensagens e pode causar problemas de segurança</string>
   <string name="apps_item_summary_system_rooted">O acesso root foi autorizado. Reponha as configurações predefinidas para evitar riscos de segurança</string>
   <string name="apps_item_summary_system_update">Alguns erros foram corrigidos na nova versão para tornar os pagamentos mais seguros</string>
-  <string name="apps_item_title_system">Actualização de sistema</string>
+  <string name="apps_item_title_system">Atualização de sistema</string>
   <string name="apps_item_virus_cleanup_success">Limpo com sucesso</string>
   <string name="apps_item_virus_cleanup_text">Limpar</string>
   <string name="apps_item_virus_summary_installed">Aplicação instalada</string>
@@ -516,7 +516,7 @@
   <string name="button_text_next_step_timer">Passo seguinte (%d)</string>
   <string name="button_text_open_now">Abrir</string>
   <string name="button_text_reject">Rejeitar</string>
-  <string name="button_text_update_now">Actualizar</string>
+  <string name="button_text_update_now">Atualizar</string>
   <string name="button_to_setting">Configurações</string>
   <string name="byteShort">B</string>
   <string name="call_address">Lista de bloqueio de áreas</string>
@@ -738,7 +738,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="dlg_remove_whitelist">Remover estes números das excepções?</string>
   <string name="dlg_remove_whitelist_ing">A remover…</string>
   <string name="dlg_remove_whitelist_title">Remover</string>
-  <string name="dlg_sec_network_unavailable">Segurança não pode ser actualizada devido à restrição de Internet. Permitir que Segurança se ligue à Internet?</string>
+  <string name="dlg_sec_network_unavailable">Segurança não pode ser atualizada devido à restrição de Internet. Permitir que Segurança se ligue à Internet?</string>
   <string name="dlg_title_not_open_stranger_identify">Identificação de chamadas</string>
   <string name="dlg_white_address_antispam_message">Adicionar esta localização às excepções?</string>
   <string name="dlg_white_antispam_hint">Excepções</string>
@@ -1184,7 +1184,7 @@ medical card"</string>
   <string name="hints_virus_apk_summary">%s (apk)</string>
   <string name="hints_virus_app_list_item_summary">aplicação</string>
   <string name="hints_virus_app_summary">%s (aplicação)</string>
-  <string name="hints_virus_lib_update_default_summary">Última actualização desconhecida</string>
+  <string name="hints_virus_lib_update_default_summary">Última atualização desconhecida</string>
   <string name="hot">Em destaque</string>
   <string name="hot_today">Em destaque hoje</string>
   <string name="i_know">Entendido</string>
@@ -1217,14 +1217,14 @@ medical card"</string>
   <string name="item_mms">Filtrar mensagens indesejadas</string>
   <string name="item_system_auto_download">Transferir actualizações automaticamente</string>
   <string name="item_usb_debug">Depuração USB</string>
-  <string name="item_virus_lib">Actualizar as configurações de vírus automaticamente</string>
+  <string name="item_virus_lib">Atualizar as configurações de vírus automaticamente</string>
   <string name="label_callwait">Notificações de chamada em espera</string>
   <string name="label_mi_stats">Analítica Mi</string>
   <string name="last_check_canceled">Verificação anterior foi cancelada</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Dias úteis</string>
   <string name="legal_workday_invalidate">Segunda a Sexta (info. de feriados expirada) </string>
-  <string name="legal_workday_invalidate_message">Toque para actualizar os feriados</string>
+  <string name="legal_workday_invalidate_message">Toque para atualizar os feriados</string>
   <string name="legal_workday_message">(Ignorar feriados)</string>
   <string name="leisure_usage_dialog_message">"Chegou ao limite de utilização de dados móveis.
 
@@ -1277,7 +1277,7 @@ Pode ter custos adicionais se utilizar a ligação de dados móveis novamente"</
   <string name="low_memory_warning_dialog_ok_button">Limpar</string>
   <string name="low_memory_warning_dialog_title">Sem espaço livre suficiente</string>
   <string name="main_activity_content_summary_root">Acesso root</string>
-  <string name="main_activity_content_summary_update">Actualização de sistema</string>
+  <string name="main_activity_content_summary_update">Atualização de sistema</string>
   <string name="main_alert_message_no_imsi">Nenhum cartão SIM detectado</string>
   <string name="main_alert_message_open_traffic_ctrl">É recomendada a restrição da utilização de dados</string>
   <string name="main_bill_remained">Saldo</string>
@@ -1389,7 +1389,7 @@ da operadora"</string>
   <string name="menu_item_virus_cloud_scan_title">Configurações online</string>
   <string name="menu_item_virus_install_monitor_summary">Verificar se as aplicativos contêm vírus antes de instalar</string>
   <string name="menu_item_virus_install_monitor_title">Verificar antes de instalar</string>
-  <string name="menu_item_virus_lib_auto_update_summary">Actualizado em %s</string>
+  <string name="menu_item_virus_lib_auto_update_summary">Atualizado em %s</string>
   <string name="menu_no_block">Desbloquear</string>
   <string name="menu_remove">excluir</string>
   <string name="menu_report_block">Spam</string>
@@ -1398,7 +1398,7 @@ da operadora"</string>
   <string name="menu_sms">Enviar mensagem</string>
   <string name="menu_summary_antispam">Bloquear chamadas e mensagens</string>
   <string name="menu_summary_antivirus">Procurar por vírus no dispositivo</string>
-  <string name="menu_summary_app_manager">Actualizar e desinstalar aplicativos</string>
+  <string name="menu_summary_app_manager">Atualizar e desinstalar aplicativos</string>
   <string name="menu_summary_garbage_cleanup">Sem lixo</string>
   <string name="menu_summary_garbage_cleanup_ex">Limpar %s de lixo</string>
   <string name="menu_summary_networkassistants">Gerir o seu plano de dados</string>
@@ -1600,7 +1600,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="optimize_result_button_realname_now">Verificar</string>
   <string name="optimize_result_button_see_detaills">Detalhes</string>
   <string name="optimize_result_button_to_set">Definir</string>
-  <string name="optimize_result_button_update_now">Actualizar</string>
+  <string name="optimize_result_button_update_now">Atualizar</string>
   <string name="optimize_result_summary_sucurity_risk">Algumas configurações de segurança estão desligadas. Ligue estas funcionalidades para ter mais segurança:</string>
   <string name="optimize_result_summary_system_default_settings">Utilizar as aplicativos MIUI predefinidas aumenta o nível de estabilidade e segurança do sistema</string>
   <string name="optimize_result_title_uninstall_apps">Desinstalar aplicativos</string>
@@ -1868,7 +1868,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pref_more_settings">Configurações adicionais</string>
   <string name="pref_new_installed_preconfig_title">Configurações predefinidas para novas aplicativos</string>
   <string name="pref_normal_traffic_limit">Quando atingir o seu plano de dados</string>
-  <string name="pref_open_adjust_traffic">Actualizar utilização de dados todos os dias com estatísticas da sua operadora</string>
+  <string name="pref_open_adjust_traffic">Atualizar utilização de dados todos os dias com estatísticas da sua operadora</string>
   <string name="pref_operator_not_set">A operadora não está definida</string>
   <string name="pref_over_traffic_limit">Quando atingir o seu plano de dados</string>
   <string name="pref_package_traffic_settings">Plano de dados</string>
@@ -2018,7 +2018,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="safe_result_item_info_system_antivirus">Protecção dos vírus de phishing</string>
   <string name="safe_result_item_info_system_root">Root seguro</string>
   <string name="safe_result_item_info_system_scan">Monitorização dos pagamentos está ligada</string>
-  <string name="safe_result_item_info_system_version">A versão MIUI está actualizada</string>
+  <string name="safe_result_item_info_system_version">A versão MIUI está atualizada</string>
   <string name="safepay_alert_dialog_button_continue">Continuar</string>
   <string name="safepay_alert_dialog_button_fix">Corrigir</string>
   <string name="sc_allow_network_dialog_message">Restringiu o acesso à rede e localização de Segurança. Conceda a Segurança as permissões necessárias para utilizar esta funcionalidade</string>
@@ -2040,11 +2040,11 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="section_title_system">Segurança do sistema</string>
   <string name="security_center_slogan">Mantenha o seu dispositivo rápido e seguro</string>
   <string name="security_scan_optimizing">A optimizar…</string>
-  <string name="securityadd_install_fail">Não foi possível actualizar o plugin. Tente novamente</string>
+  <string name="securityadd_install_fail">Não foi possível atualizar o plugin. Tente novamente</string>
   <string name="securityadd_update_tips_cancle">Agora não</string>
   <string name="securityadd_update_tips_message">Actualize o plugin do serviço de Segurança para ter acesso às últimas funcionalidades. %1$dMB serão transferidos</string>
-  <string name="securityadd_update_tips_now">Actualizar</string>
-  <string name="securityadd_update_tips_title">Actualizar</string>
+  <string name="securityadd_update_tips_now">Atualizar</string>
+  <string name="securityadd_update_tips_title">Atualizar</string>
   <string name="securitycenter_tab_title">Segurança</string>
   <string name="see_detail">Detalhes</string>
   <string name="see_more_content">Actualize o centro de jogos para ver mais destaques</string>
@@ -2096,8 +2096,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="sms_malicious_url">Bloquear SMS com URLs maliciosos</string>
   <string name="sms_prefix">Lista de bloqueio de prefixos</string>
   <string name="sms_service">Bloquear SMS de serviços</string>
-  <string name="sms_smart_engine_update">Actualizar automaticamente filtro de mensagens</string>
-  <string name="sms_smart_engine_update_now">Actualizar</string>
+  <string name="sms_smart_engine_update">Atualizar automaticamente filtro de mensagens</string>
+  <string name="sms_smart_engine_update_now">Atualizar</string>
   <string name="sms_stranger_block">Bloqueado</string>
   <string name="sorted_dialog_title">Ordenar por</string>
   <string name="sp_background_risk_dialog_summary">, verifique e corrija os riscos de pagamento</string>
@@ -2291,7 +2291,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="summary_garbage_lib">Utilize as últimas configurações para remover spyware, adware ou outro tipo de lixo indesejado</string>
   <string name="summary_install_virus">Verificar por vírus nas aplicativos antes da instalação</string>
   <string name="summary_mifi_insurance">Obter um plano de substituição de hardware durante um ano</string>
-  <string name="summary_miui_update">Actualização disponível para %s</string>
+  <string name="summary_miui_update">Atualização disponível para %s</string>
   <string name="summary_mms">Bloquear spam de SMS automaticamente</string>
   <string name="summary_network_switch">Permitir que Segurança ligue à Internet</string>
   <string name="summary_never_flow_verify">Este número não foi verificado com a sua operadora</string>
@@ -2407,7 +2407,7 @@ Nós respeitamos e protegemos a sua privacidade"</string>
   <string name="tc_diagnostic_status_updating">A testar…</string>
   <string name="tc_diagnostic_success_notification_summary">Reportar este problema para ajudar a MIUI a melhorar as ferramentas de diagnóstico</string>
   <string name="tc_diagnostic_success_notification_title">Rede e marca da operadora correctos</string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Resultado: Rede e marca da operadora definidos correctamente&lt;br/&gt;&lt;br/&gt;Não foi possível concluir o ajuste:&lt;br/&gt;1. As estatísticas da operadora podem não ser confiáveis no início ou fim do mês.&lt;br/&gt;2. O assistente de rede não foi actualizado.&lt;br/&gt;&lt;br/&gt;Reportar este problema para ajudar a MIUI a melhorar as ferramentas de diagnóstico&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Resultado: Rede e marca da operadora definidos correctamente&lt;br/&gt;&lt;br/&gt;Não foi possível concluir o ajuste:&lt;br/&gt;1. As estatísticas da operadora podem não ser confiáveis no início ou fim do mês.&lt;br/&gt;2. O assistente de rede não foi atualizado.&lt;br/&gt;&lt;br/&gt;Reportar este problema para ajudar a MIUI a melhorar as ferramentas de diagnóstico&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Diagnósticos da operadora</string>
   <string name="tc_diagnostic_upload_button">Reportar</string>
   <string name="tc_diagnostic_upload_no_network">Obrigado pelo seu comentário! O seu relatório vai ser submetido quando se ligar à rede</string>
@@ -2421,18 +2421,18 @@ Nós respeitamos e protegemos a sua privacidade"</string>
   <string name="tc_sms_report_get_default">Não vai ter custos nas mensagens utilizadas para obter o saldo e utilização de dados de sua operadora</string>
   <string name="tc_sms_report_get_sms">Obter SMS</string>
   <string name="tc_sms_report_get_sms2">Obter SMS</string>
-  <string name="tc_sms_report_get_sms_again">Actualizar SMS</string>
+  <string name="tc_sms_report_get_sms_again">Atualizar SMS</string>
   <string name="tc_sms_report_get_sms_bill">Obter SMS</string>
   <string name="tc_sms_report_get_sms_calltime">Obter SMS</string>
   <string name="tc_sms_report_get_sms_failure">Não foi possível obter a utilização de dados</string>
-  <string name="tc_sms_report_get_sms_successs">Utilização de dados actualizada com sucesso</string>
+  <string name="tc_sms_report_get_sms_successs">Utilização de dados atualizada com sucesso</string>
   <string name="tc_sms_report_get_sms_timeout">Pedido expirado</string>
   <string name="tc_sms_report_get_success">Recebida a SMS com o relatório da utilização de dados da sua operadora. Certifique-se de que é detalhado e envie para nós</string>
   <string name="tc_sms_report_get_success_notify_body">Certifique-se que o relatório é detalhado e envie-o para a MIUI</string>
   <string name="tc_sms_report_get_success_notify_title">Recebido o SMS com relatório da utilização de dados</string>
   <string name="tc_sms_report_geting_sms">A obter informação de SMS…</string>
   <string name="tc_sms_report_notify_correction_body">Ir para o aplicativo de utilização de dados em Segurança e tente novamente manualmente</string>
-  <string name="tc_sms_report_notify_correction_failure_title">Não é possível actualizar informações da utilização de dados</string>
+  <string name="tc_sms_report_notify_correction_failure_title">Não é possível atualizar informações da utilização de dados</string>
   <string name="tc_sms_report_notify_get_failure_body">Não foi possível enviar dados de relatório de utilização. Certifique-se de que está ligado a uma rede móvel</string>
   <string name="tc_sms_report_notify_get_failure_title">Não é possível obter o relatório de utilização de dados</string>
   <string name="tc_sms_report_notify_get_timeout_body">O processo expirou. Confirme com a sua operadora se o código de inquérito SMS que introduziu está correcto</string>
@@ -2441,8 +2441,8 @@ Nós respeitamos e protegemos a sua privacidade"</string>
   <string name="tc_sms_report_receive_content_null">Ajude a melhorar esta funcionalidade!&lt;br/	Veja como:&lt;br/	1. Vá a \"Verifique o comando SMS\" e \"Número de destinatário\"&lt;br/	2. Toque \"Obter modelo SMS\"&lt;br/	3. Aguarde até receber uma mensagem da sua operadora &lt;br/	4. Toque \"Enviar para a MIUI\"</string>
   <string name="tc_sms_report_receive_num">Número do destinatário</string>
   <string name="tc_sms_report_send_num">Número de telefone da operadora #</string>
-  <string name="tc_sms_report_summary">Ajude-nos a melhorar esta função através do envio de um relatório quando a sua informação de utilização de dados estiver incorrecta ou não actualizar</string>
-  <string name="tc_sms_report_tips_dialog_message">A utilização de dados usa uma SMS especialmente formatada para obter a sua mais recente utilização de dados da sua operadora. Se esta funcionalidade não está a funcionar normalmente, tente actualizar o formato SMS utilização de dados. O novo formato actualizado vai ser enviado para os nossos servidores</string>
+  <string name="tc_sms_report_summary">Ajude-nos a melhorar esta função através do envio de um relatório quando a sua informação de utilização de dados estiver incorrecta ou não atualizar</string>
+  <string name="tc_sms_report_tips_dialog_message">A utilização de dados usa uma SMS especialmente formatada para obter a sua mais recente utilização de dados da sua operadora. Se esta funcionalidade não está a funcionar normalmente, tente atualizar o formato SMS utilização de dados. O novo formato atualizado vai ser enviado para os nossos servidores</string>
   <string name="tc_sms_report_tips_dialog_title">Utilização de dados de SMS</string>
   <string name="tc_sms_report_title">Reportar erro da utilização de dados</string>
   <string name="tc_sms_report_toast_text">A obter informação…</string>
@@ -2473,7 +2473,7 @@ Nós respeitamos e protegemos a sua privacidade"</string>
   <string name="tips_of_auto_launch_manage">Prevenir aplicativos raramente utilizadas de iniciar automaticamente</string>
   <string name="title_app_lock_disable">Bloquear aplicativos</string>
   <string name="title_app_update">Actualizações disponíveis</string>
-  <string name="title_auto_update">Actualizar automaticamente</string>
+  <string name="title_auto_update">Atualizar automaticamente</string>
   <string name="title_background_connection">Não consegue utilizar %s em segundo plano?</string>
   <string name="title_block_calls_from_cantacts">Perdeu chamadas dos seus contatos?</string>
   <string name="title_block_calls_from_strangers">Perdeu chamadas importantes?</string>
@@ -2503,14 +2503,14 @@ Nós respeitamos e protegemos a sua privacidade"</string>
   <string name="title_flow_verify_failed">Não é possível ajustar 5 dias seguidos</string>
   <string name="title_garbage_clean">O tamanho da cache os aplicativos chegou a %s</string>
   <string name="title_garbage_less">Cache da aplicação pequena</string>
-  <string name="title_garbage_lib">Actualizar as configurações do lixo</string>
+  <string name="title_garbage_lib">Atualizar as configurações do lixo</string>
   <string name="title_install_virus_no">Monitor de instalação desligado</string>
   <string name="title_install_virus_yes">Monitor de instalação ligado</string>
   <string name="title_like">Gostar</string>
   <string name="title_limit_traffic_per_day">Limite diário de dados</string>
   <string name="title_mifi_insurance">Garantia extendida</string>
-  <string name="title_miui_update">Actualização disponível</string>
-  <string name="title_miui_update_latest">A MIUI está actualizada</string>
+  <string name="title_miui_update">Atualização disponível</string>
+  <string name="title_miui_update_latest">A MIUI está atualizada</string>
   <string name="title_mms_no">Filtro de mensagens desactivado</string>
   <string name="title_mms_yes">Filtro de mensagens ativado</string>
   <string name="title_network_switch">Ligação de rede</string>
@@ -2555,17 +2555,17 @@ Nós respeitamos e protegemos a sua privacidade"</string>
   <string name="toast_root_apply_reject">Negado o acesso root a %s</string>
   <string name="toast_set_success">Ligado com sucesso</string>
   <string name="toast_show_notification">Fixado na área de notificações</string>
-  <string name="toast_update_fail">Não foi possível actualizar</string>
+  <string name="toast_update_fail">Não foi possível atualizar</string>
   <string name="toast_update_nonetwork">Não foi possível ligar à rede</string>
-  <string name="toast_update_notneed">Actualizado</string>
-  <string name="toast_update_success">Actualizado com sucesso</string>
+  <string name="toast_update_notneed">Atualizado</string>
+  <string name="toast_update_success">Atualizado com sucesso</string>
   <string name="top_game">Top Jogos</string>
   <string name="top_load_fail_detail">Não foi possível carregar. Toque para tentar novamente</string>
   <string name="top_no_network_detial">Não foi possível carregar. Verifique a ligação de rede e tente novamente</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Plano mensal alterado para %s</string>
-  <string name="traffic_alert_auto_modify_notification_titile">Plano de dados actualizado</string>
+  <string name="traffic_alert_auto_modify_notification_titile">Plano de dados atualizado</string>
   <string name="traffic_alert_auto_modify_package_summary">Ajustar pacote de dados automaticamente consoante a informação de operadora</string>
-  <string name="traffic_config_alert_auto_modify">Actualizar plano de dados automaticamente</string>
+  <string name="traffic_config_alert_auto_modify">Atualizar plano de dados automaticamente</string>
   <string name="traffic_config_alert_body">"O seu plano na operadora mostra:%s
 
 Vai aproveitar esta?"</string>
@@ -2586,7 +2586,7 @@ Passou dados extra"</string>
   <string name="traffic_correction_failed">Não é possível obter informações</string>
   <string name="traffic_correction_start_correction">A conversar com os servidores da operadora…</string>
   <string name="traffic_correction_start_correction_failed">Pedido falhou, por favor, verifique as configurações da operadora</string>
-  <string name="traffic_correction_success">Utilização de dados actualizada</string>
+  <string name="traffic_correction_success">Utilização de dados atualizada</string>
   <string name="traffic_correction_success_notify_message">Toque para ver detalhes</string>
   <string name="traffic_limit_error_alert_body">Os seus dados restantes para este mês (%1$s) são maiores que o seu plano mensal (%2$s). Marcar dados extra como pacote de carregamento?</string>
   <string name="traffic_limit_error_alert_package">"

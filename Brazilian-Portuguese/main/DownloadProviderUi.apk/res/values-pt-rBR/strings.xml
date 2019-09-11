@@ -258,7 +258,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="rank">Tabelas</string>
   <string name="rank_data_empty">Tabela sem dados</string>
   <string name="rank_guide_confirm">Verifique</string>
-  <string name="rank_guide_content">A tabela é actualizada diariamente para mostrar as aplicativos mais populares</string>
+  <string name="rank_guide_content">A tabela é atualizada diariamente para mostrar as aplicativos mais populares</string>
   <string name="rank_guide_title">Aplicativos que outras pessoas instalam</string>
   <string name="rebind_btn">Adicionar novamente</string>
   <string name="recommend_downloading">A transferir…</string>
@@ -304,7 +304,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="search_input_empty_toast">Pesquisar ou introduzir URL</string>
   <string name="search_input_hint">Pesquisar ou introduzir URL</string>
   <string name="search_nonetwork_prompt">Verifique a sua ligação de rede e tente novamente</string>
-  <string name="search_nonetwork_refresh">Actualizar</string>
+  <string name="search_nonetwork_refresh">Atualizar</string>
   <string name="search_recommend_empty">Sem itens</string>
   <string name="search_vif_empty">Sem itens recomendados</string>
   <string name="search_vif_score_text">Classificação: %1$s</string>
@@ -341,7 +341,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="sniff_search_assoicate_sizeinfo">Tamanho: %1$s</string>
   <string name="sniff_search_install">Instalar</string>
   <string name="sniff_shortcut_cloudconfig_btn">Entendi</string>
-  <string name="sniff_shortcut_cloudconfig_context">A actualizar fonte…</string>
+  <string name="sniff_shortcut_cloudconfig_context">A atualizar fonte…</string>
   <string name="sniff_shortcut_cloudconfig_title">Aguarde…</string>
   <string name="sniff_shortcut_create">Atalho criado</string>
   <string name="sniff_shortcut_exist">Atalho já existe</string>

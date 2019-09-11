@@ -95,8 +95,8 @@ Não é possível utilizar o teclado ou a barra de navegação para aumentar o z
   <string name="accessibility_toggle_master_mono_summary">Combinar canais ao reproduzir áudio</string>
   <string name="accessibility_toggle_master_mono_title">Áudio mono</string>
   <string name="accessibility_toggle_large_text_preference_title">Texto grande</string>
-  <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Actualizar ampliação do tela na transição de aplicativos</string>
-  <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Actualizar automaticamente a ampliação do tela</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Atualizar ampliação do tela na transição de aplicativos</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Atualizar automaticamente a ampliação do tela</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Ampliação do tela</string>
   <string name="accessibility_vpn_settings_info">Configuração da VPN</string>
   <string name="accessibility_wifi_off">Wi-Fi desligado</string>
@@ -359,9 +359,9 @@ O seu Administrador pode monitorar e gerir configurações, acessos, aplicativos
   <string name="applications_settings_summary">Gerir aplicativos, configurar atalhos de inicialização rápida</string>
   <string name="applications_settings_title">Aplicativos</string>
   <string name="apply_fingerprint_to_category_title">Utilização de impressões digitais</string>
-  <string name="apply_now_button_text">Actualizar</string>
+  <string name="apply_now_button_text">Atualizar</string>
   <string name="apply_password_to_category_title">Desbloqueio necessário</string>
-  <string name="apply_update_fail">Erro na actualização</string>
+  <string name="apply_update_fail">Erro na atualização</string>
   <string name="approve_title">Certificação</string>
   <string name="apps_storage">Armazenamento de aplicativos</string>
   <string name="apps_with_restrictions_header">Aplicativos com restrições</string>
@@ -815,7 +815,7 @@ O seu Administrador pode monitorar e gerir configurações, acessos, aplicativos
   <string name="bluetooth_sap_profile_summary_use_for">Utilizar para acesso ao SIM</string>
   <string name="bluetooth_sap_request">Pedido de acesso ao SIM</string>
   <string name="bluetooth_scan_for_devices">Pesquisar dispositivos</string>
-  <string name="bluetooth_search_for_devices">Actualizar</string>
+  <string name="bluetooth_search_for_devices">Atualizar</string>
   <string name="bluetooth_searching_for_devices">A pesquisar…</string>
   <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Áudio Bluetooth aptX modo adaptável</string>
   <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Activar áudio Bluetooth
@@ -918,7 +918,7 @@ Taxa de amostragem"</string>
   <string name="bootloader_status_summary">Verificar se o dispositivo está bloqueado</string>
   <string name="bootloader_status_unlocked">Desbloqueado</string>
   <string name="bootloader_status_unlocked_info">Este dispositivo está desbloqueado</string>
-  <string name="bootloader_summary">Restaurar ou actualizar o dispositivo via USB</string>
+  <string name="bootloader_summary">Restaurar ou atualizar o dispositivo via USB</string>
   <string name="breathing_light_color_menu_title">Cor do LED</string>
   <string name="breathing_light_color_summary">Cor do LED ao receber novas notificações</string>
   <string name="breathing_light_freq_summary">Pulsar quando houver novas notificações</string>
@@ -1463,7 +1463,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_miui_version">Versão MIUI</string>
   <string name="device_miui_version_for_POCO">Versão MIUI (para POCO)</string>
   <string name="device_miui_version_parameters">Versão MIUI</string>
-  <string name="device_miui_version_update">Actualização MIUI disponível</string>
+  <string name="device_miui_version_update">Atualização MIUI disponível</string>
   <string name="device_name">Nome do dispositivo</string>
   <string name="device_name_input_error">Erro ao salvar o nome do dispositivo</string>
   <string name="device_name_input_hint">Introduzir nome</string>
@@ -1487,7 +1487,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="dial_application_title">Telefone</string>
   <string name="dial_pad_tones_title">Sons do teclado</string>
   <string name="dialog_chose_item">Selecione um item para mostrar</string>
-  <string name="dialog_content_login">Iniciar sessão na sua Conta Mi para actualizar?</string>
+  <string name="dialog_content_login">Iniciar sessão na sua Conta Mi para atualizar?</string>
   <string name="dialog_no">Não</string>
   <string name="dialog_restrict_all_mobile_summary">A ligação de dados móveis %s vai ser restringida para todas as aplicativos</string>
   <string name="dialog_restrict_all_mobile_title">Restringir dados móveis %s</string>
@@ -1963,7 +1963,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="forget_privacy_password_setting">Adicionar Conta Mi</string>
   <string name="forget_privacy_password_summary">Utilizar a Conta Mi para repor o seu padrão</string>
   <string name="forget_wifi_message">O seu telefone vai deixar de ligar a esta rede automaticamente</string>
-  <string name="found_new_version">Actualização disponível</string>
+  <string name="found_new_version">Atualização disponível</string>
   <string name="fourhours">2 horas</string>
   <string name="fp_nav_center_back_to_home_title">Toque no botão Início para voltar ao tela inicial</string>
   <string name="free_memory">Disponível</string>
@@ -2016,8 +2016,8 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e os 
   <string name="gadget_state_turning_on">a ligar</string>
   <string name="gadget_sync">Sincronizar</string>
   <string name="gadget_title">Controlo de energia</string>
-  <string name="gadget_toggle_bluetooth">A actualizar a configurações de Bluetooth</string>
-  <string name="gadget_toggle_wifi">A actualizar as configurações de Wi-Fi</string>
+  <string name="gadget_toggle_bluetooth">A atualizar a configurações de Bluetooth</string>
+  <string name="gadget_toggle_wifi">A atualizar as configurações de Wi-Fi</string>
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="gallery_privacy_password_role_instruction">As suas fotos privadas serão armazenadas aqui</string>
   <string name="game_booster">Jogo;Jogos;Turbo;Modo jogo</string>
@@ -2354,7 +2354,7 @@ Pode alterar esta definição mais tarde em Configurações > Aplicativos e noti
   <string name="legal_information">Informações legais</string>
   <string name="legal_workday">Dias Úteis</string>
   <string name="legal_workday_invalidate">Segunda a Sexta (info. de feriados expirada) </string>
-  <string name="legal_workday_invalidate_message">Toque para actualizar informações de feriados</string>
+  <string name="legal_workday_invalidate_message">Toque para atualizar informações de feriados</string>
   <string name="legal_workday_message">(Ignorar feriados)</string>
   <string name="license_title">Licença</string>
   <string name="lift_to_wake_title">Activar ao levantar</string>
@@ -2577,7 +2577,7 @@ para o Segundo espaço"</string>
   <string name="main_netcheck_summary">Testar ligação por erros de rede</string>
   <string name="main_running_process_description">Processo principal em utilização</string>
   <string name="main_toolbar_statistic">Estatísticas de utilização de dados</string>
-  <string name="make_sure_cancel_update">Cancelar actualização?</string>
+  <string name="make_sure_cancel_update">Cancelar atualização?</string>
   <string name="man_add_application">Adicionar aplicativos de início automático</string>
   <string name="manage_device_admin">Aplicativos de administração do dispositivo</string>
   <string name="manage_facerecoginition_text">Gerir dados de rostos</string>
@@ -2714,7 +2714,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="menu_show_percentage">Mostrar percentagens</string>
   <string name="menu_show_system">Mostrar sistema</string>
   <string name="menu_stats_last_unplugged">Desligado desde %1$s</string>
-  <string name="menu_stats_refresh">Actualizar</string>
+  <string name="menu_stats_refresh">Atualizar</string>
   <string name="menu_stats_total">Totais de utilização</string>
   <string name="menu_stats_unplugged">%1$s desde que foi desligado</string>
   <string name="menu_use_uss">Utilizar Uss</string>
@@ -2980,7 +2980,7 @@ Selecione o seu sistema operativo:"</string>
   <string name="navigation_type_radio_text_virtual_key">Botões</string>
   <string name="navigation_type_settings">Navegação do sistema</string>
   <string name="nearby_wifi">Redes disponíveis</string>
-  <string name="need_reboot_now">Reiniciar para instalar a actualização</string>
+  <string name="need_reboot_now">Reiniciar para instalar a atualização</string>
   <string name="netcheck_title">Diagnósticos de rede</string>
   <string name="network_assistant">Utilização de dados</string>
   <string name="network_changed_noti_summary">A utilizar dados móveis</string>
@@ -3087,8 +3087,8 @@ Selecione o seu sistema operativo:"</string>
   <string name="no_vr_listeners">Nenhuma aplicação instalada pediu para ser executada como serviço de assistente de RV</string>
   <string name="no_update_found">Já está a utilizar a versão mais recente do MIUI</string>
   <string name="no_updates_found">Já está utilizar a versão mais recente do MIUI</string>
-  <string name="no_updates_warning">O seu sistema está actualizado</string>
-  <string name="no_updates_warning2">Vai receber um aviso quando houver uma nova actualização</string>
+  <string name="no_updates_warning">O seu sistema está atualizado</string>
+  <string name="no_updates_warning2">Vai receber um aviso quando houver uma nova atualização</string>
   <string name="noise_suppression">Supressão do ruído ambiente</string>
   <string name="none">Nenhuma</string>
   <string name="normal">Normal</string>
@@ -3155,8 +3155,8 @@ Selecione o seu sistema operativo:"</string>
   <string name="notification_pulse_title">LED de notificações</string>
   <string name="notification_reboot_btn">Reiniciar</string>
   <string name="notification_reboot_summary_hm">Toque para reiniciar o seu dispositivo</string>
-  <string name="notification_reboot_title">Reiniciar para aplicar actualização</string>
-  <string name="notification_reboot_title_hm">Reiniciar para aplicar actualização</string>
+  <string name="notification_reboot_title">Reiniciar para aplicar atualização</string>
+  <string name="notification_reboot_title_hm">Reiniciar para aplicar atualização</string>
   <string name="notification_ringtone_title">Toque de notificação predefinido</string>
   <string name="notification_shade_shortcut_title">Atalho nas notificações</string>
   <string name="notification_show_lights_title">LED de notificações</string>
@@ -3171,8 +3171,8 @@ Selecione o seu sistema operativo:"</string>
   <string name="notification_toggle_off">Desligado</string>
   <string name="notification_toggle_on">Ligado</string>
   <string name="notification_unknown_sound_title">Som fornecido pela aplicação</string>
-  <string name="notification_update_new_version">Actualização disponível</string>
-  <string name="notification_update_now">Actualizar agora</string>
+  <string name="notification_update_new_version">Atualização disponível</string>
+  <string name="notification_update_now">Atualizar agora</string>
   <string name="notification_vibrate_title">Vibração</string>
   <string name="notification_volume_option_title">Volume das notificações</string>
   <string name="notification_volume_title">Notificação</string>
@@ -3653,7 +3653,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="radio_info_band_mode_label">Seleccionar a banda do rádio</string>
   <string name="radio_info_call_redirect_label">Reencaminhamento da chamada:</string>
   <string name="radio_info_call_status_label">Estado da chamada:</string>
-  <string name="radio_info_cell_info_refresh_rate">Taxa de actualização de info. da célula:</string>
+  <string name="radio_info_cell_info_refresh_rate">Taxa de atualização de info. da célula:</string>
   <string name="radio_info_cellinfo_label">Informação da célula:</string>
   <string name="radio_info_current_network_label">Rede actual:</string>
   <string name="radio_info_data_connection_disable">Desactivar ligação de dados</string>
@@ -3695,8 +3695,8 @@ Interface UT: %5$s"</string>
   <string name="radio_info_signal_location_label">Localização:</string>
   <string name="radio_info_signal_strength_label">Força do sinal:</string>
   <string name="radio_info_smsc_label">SMSC:</string>
-  <string name="radio_info_smsc_refresh_label">Actualizar</string>
-  <string name="radio_info_smsc_update_label">Actualizar</string>
+  <string name="radio_info_smsc_refresh_label">Atualizar</string>
+  <string name="radio_info_smsc_update_label">Atualizar</string>
   <string name="radio_info_toggle_dns_check_label">Trocar DNS</string>
   <string name="radio_info_voice_network_type_label">Tipo de rede de voz:</string>
   <string name="rank_title">Classificações</string>
@@ -3895,10 +3895,10 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_paper_mode_turn_on">Ligado</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Não mostrar novamente</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Permitir</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para actualizar a lista de aplicativos que utilizam o Modo de Leitura, é necessário ligar à Internet</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para atualizar a lista de aplicativos que utilizam o Modo de Leitura, é necessário ligar à Internet</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Ligação à Internet</string>
-  <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizar a lista de aplicativos que utilizam o Modo de Leitura automaticamente</string>
-  <string name="screen_paper_mode_update_white_pkg_list_title">Actualizar automaticamente</string>
+  <string name="screen_paper_mode_update_white_pkg_list_summary">Atualizar a lista de aplicativos que utilizam o Modo de Leitura automaticamente</string>
+  <string name="screen_paper_mode_update_white_pkg_list_title">Atualizar automaticamente</string>
   <string name="screen_pinning_description">"Quando esta funcionalidade está ligada, pode utilizar a fixação na tela para manter o tela actual visível até o soltar.
 
 Para utilizar a fixação na tela:
@@ -4237,7 +4237,7 @@ Para utilizar a fixação na tela:
   <string name="security_settings_title">Segurança e localização</string>
   <string name="security_status">Estado da segurança</string>
   <string name="security_status_title">Estado da segurança</string>
-  <string name="security_update">Actualização de segurança</string>
+  <string name="security_update">Atualização de segurança</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_application">Seleccionar aplicação</string>
   <string name="select_device_admin_msg">Aplicativos de administração do dispositivo</string>
@@ -4279,9 +4279,9 @@ Para utilizar a fixação na tela:
   <string name="settings_license_activity_loading">A carregar…</string>
   <string name="settings_license_activity_title">Licenças de terceiros</string>
   <string name="settings_license_activity_unavailable">Ocorreu um erro ao carregar as licenças</string>
-  <string name="settings_new_version_btn">Actualizar</string>
+  <string name="settings_new_version_btn">Atualizar</string>
   <string name="settings_notify_need_backup">Faça uma cópia das suas configurações para a Xiaomi Cloud para as acessarpós trocar de telefone</string>
-  <string name="settings_notify_new_version">Actualização disponível. Toque para ver detalhes</string>
+  <string name="settings_notify_new_version">Atualização disponível. Toque para ver detalhes</string>
   <string name="settings_notify_phone_recycled">O seu número de telefone foi reciclado. Tente adicionar um número de telefone diferente</string>
   <string name="settings_safetylegal_activity_loading">A carregar…</string>
   <string name="settings_safetylegal_activity_title">Informações de segurança</string>
@@ -4318,7 +4318,7 @@ Para utilizar a fixação na tela:
   <string name="show_fc">Forçar o encerramento os aplicativos</string>
   <string name="show_fc_summary">Mostrar as aplicativos que foram forçadas a encerrar</string>
   <string name="show_hw_layers_updates">Mostrar actualizações de hardware</string>
-  <string name="show_hw_layers_updates_summary">Quando o hardware é actualizado fica verde</string>
+  <string name="show_hw_layers_updates_summary">Quando o hardware é atualizado fica verde</string>
   <string name="show_hw_screen_updates">Mostrar actualizações da GPU</string>
   <string name="show_hw_screen_updates_summary">Mostrar vistas dentro da janela quando desenhado com a GPU</string>
   <string name="show_ime">Mostrar teclado virtual</string>
@@ -4408,7 +4408,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="sim_pins_dont_match">PINs não coincidem</string>
   <string name="sim_pref_divider">Cartão SIM preferido para</string>
   <string name="sim_preferred_message">%1$s é o único SIM no seu dispositivo. Pretende utilizar este SIM para dados de telemóvel, chamadas e mensagens SMS?</string>
-  <string name="sim_preferred_title">Actualizar o cartão SIM preferido?</string>
+  <string name="sim_preferred_title">Atualizar o cartão SIM preferido?</string>
   <string name="sim_radio_off">Desligado</string>
   <string name="sim_reenter_new">Insira novamente o PIN</string>
   <string name="sim_select_card">Seleccionar um cartão SIM</string>
@@ -4756,14 +4756,14 @@ Uma abordagem da Google à sincronização de dados, que permite acessar contato
   <string name="system_and_device_section_title">Configurações de sistema</string>
   <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">Aplicativos de sistema</string>
-  <string name="system_apps_updater">Actualizar aplicativos de sistema</string>
+  <string name="system_apps_updater">Atualizar aplicativos de sistema</string>
   <string name="system_backup_section_title">Cópias de segurança</string>
   <string name="system_dashboard_summary">Idiomas, hora, cópia de segurança, actualizações</string>
   <string name="system_package">As actualizações do sistema não podem ser instaladas em fontes externas</string>
   <string name="system_shortcut_wake">Ligar com os atalhos dos botões</string>
   <string name="system_storage">Armazenamento do sistema</string>
   <string name="system_ui_settings">Mostrar SystemUI Tuner</string>
-  <string name="system_update_settings_list_item_title">Actualizar sistema</string>
+  <string name="system_update_settings_list_item_title">Atualizar sistema</string>
   <string name="talkback_watermark_enable">"Marca d'água TalkBack"</string>
   <string name="tap_to_wake">Tocar para activar</string>
   <string name="tap_to_wake_summary">Tocar duas vezes em qualquer ponto do tela para activar o dispositivo</string>
@@ -5006,8 +5006,8 @@ As suas impressões digitais guardadas também serão removidas deste dispositiv
   <string name="unmount_inform_text">O armazenamento USB vai ser desmontado</string>
   <string name="unrestrict_max_aspect_ratio_title">Estas aplicativos estão optimizadas para o modo tela inteiro</string>
   <string name="untitled_apn">Sem título</string>
-  <string name="update_new_version">Actualização disponível</string>
-  <string name="update_progress_for_updates">A actualizar (%s)</string>
+  <string name="update_new_version">Atualização disponível</string>
+  <string name="update_progress_for_updates">A atualizar (%s)</string>
   <string name="upload_audio_log">A iniciar registo de áudio</string>
   <string name="upload_debug_log_summary">As estatísticas de utilização que nos ajudam a localizar e resolver problemas podem conter informações pessoais</string>
   <string name="upload_debug_log_title">Programa de Experiência do Utilizador</string>
@@ -5173,10 +5173,10 @@ As suas impressões digitais guardadas também serão removidas deste dispositiv
 
 Ao adicionar um novo usuário, essa pessoa tem de configurar o respectivo espaço.
 
-Qualquer usuário pode actualizar aplicativos para todos os outros utilizadores"</string>
+Qualquer usuário pode atualizar aplicativos para todos os outros utilizadores"</string>
   <string name="user_add_user_message_short">"Ao adicionar um novo usuário, essa pessoa tem de configurar o respectivo espaço.
 
-Qualquer usuário pode actualizar aplicativos para todos os outros utilizadores"</string>
+Qualquer usuário pode atualizar aplicativos para todos os outros utilizadores"</string>
   <string name="user_add_user_or_profile_menu">Adicionar usuário ou perfil</string>
   <string name="user_add_user_title">Adicionar novo usuário</string>
   <string name="user_add_user_type_title">Adicionar</string>
@@ -5296,12 +5296,12 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="virus_scan_app_stop_scan">Parar a verificação</string>
   <string name="virus_scan_app_uninstall">Remover %d</string>
   <string name="virus_scan_app_waiting">A aguardar…</string>
-  <string name="virus_scanner_auto_update">Actualizar automaticamente</string>
+  <string name="virus_scanner_auto_update">Atualizar automaticamente</string>
   <string name="virus_scanner_date_formater">dd/MM/yyyy</string>
   <string name="virus_scanner_lib_already_latest">Já está a utilizar as configurações mais recentes</string>
-  <string name="virus_scanner_lib_update_failed">Não foi possível actualizar</string>
-  <string name="virus_scanner_lib_updating">A actualizar as configurações…</string>
-  <string name="virus_scanner_manual_update">Actualizado em %s</string>
+  <string name="virus_scanner_lib_update_failed">Não foi possível atualizar</string>
+  <string name="virus_scanner_lib_updating">A atualizar as configurações…</string>
+  <string name="virus_scanner_manual_update">Atualizado em %s</string>
   <string name="virus_scanner_provider">Fornecido por %s</string>
   <string name="virus_scanner_scan">Toque para verificar</string>
   <string name="virus_scanner_scanning">A verificar…</string>
@@ -5312,7 +5312,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="virus_scanner_select_single">Apenas utilizar configurações de fontes seguras</string>
   <string name="virus_scanner_select_trust_lib">Seleccionar configurações de vírus</string>
   <string name="virus_scanner_title">Antivírus</string>
-  <string name="virus_scanner_update_lib">Actualizar configurações</string>
+  <string name="virus_scanner_update_lib">Atualizar configurações</string>
   <string name="visibility_override_title">No tela de bloqueio</string>
   <string name="voice_category">Voz</string>
   <string name="voice_helper_title">Assistente de voz</string>
@@ -5753,7 +5753,7 @@ Toque em "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente</string>
   <string name="wifi_setup_forget">Esquecer</string>
   <string name="wifi_setup_next">Seguinte</string>
   <string name="wifi_setup_not_connected">Não ligado</string>
-  <string name="wifi_setup_refresh_list">Actualizar lista</string>
+  <string name="wifi_setup_refresh_list">Atualizar lista</string>
   <string name="wifi_setup_save">Guardar</string>
   <string name="wifi_setup_skip">Ignorar</string>
   <string name="wifi_setup_status_connecting">A ligar…</string>
@@ -5849,7 +5849,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_type_approval_title">Tipo de aprovação</string>
   <string name="wifi_unchanged">(não alterado)</string>
   <string name="wifi_unspecified">(não especificado)</string>
-  <string name="wifi_update">Actualizar estatísticas</string>
+  <string name="wifi_update">Atualizar estatísticas</string>
   <string name="wifi_verbose_logging">Activar registo extenso do Wi-Fi</string>
   <string name="wifi_verbose_logging_summary">Aumentar o nível de reg. de Wi-Fi, mostrar por RSSI de SSID no seleccionador de Wi-Fi</string>
   <string name="wifi_wakeup">Ligar Wi-Fi automaticamente</string>

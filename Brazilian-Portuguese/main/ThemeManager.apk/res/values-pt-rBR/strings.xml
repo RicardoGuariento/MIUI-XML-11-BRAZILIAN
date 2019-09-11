@@ -18,7 +18,7 @@
   <string name="ad_app_is_downloading">A transferir…</string>
   <string name="add_resource_detail_fail">Não é possível adicionar recurso</string>
   <string name="all_resources">Todos</string>
-  <string name="already_latest_version">Actualizado</string>
+  <string name="already_latest_version">Atualizado</string>
   <string name="app_ad_title">Recomendações diárias</string>
   <string name="app_disable_transparent_wallpaper">Sem papel de parede transparente</string>
   <string name="app_enable_transparent_wallpaper">Com papel de parede transparente</string>
@@ -36,7 +36,7 @@
   <string name="author_dialog_message">Deixar de seguir esta conta?</string>
   <string name="author_dynamic">Estado</string>
   <string name="author_dynamic_no_resource">Sem resultados</string>
-  <string name="automatically_update_using_theme_tips">Actualizar automaticamente</string>
+  <string name="automatically_update_using_theme_tips">Atualizar automaticamente</string>
   <string name="backup_theme_dialog_message">Fazer cópia do seu tema actual?</string>
   <string name="backup_theme_dialog_ok">Fazer cópia</string>
   <string name="backup_theme_fail_trial_rights_message">Não é possível fazer cópias de itens de avaliação</string>
@@ -54,7 +54,7 @@
   <string name="change_host_hint">Alterar host</string>
   <string name="change_wallpaper">Papel de parede</string>
   <string name="character_counter_content_description">Limite de caracteres excedido em %1$d de %2$d</string>
-  <string name="check_has_new_version">Actualização disponível</string>
+  <string name="check_has_new_version">Atualização disponível</string>
   <string name="classification_more_understand_you">Selecione a sua categoria favorita</string>
   <string name="close">Fechar</string>
   <string name="common_applying">A aplicar…</string>
@@ -80,7 +80,7 @@
   <string name="description_download">Transferido</string>
   <string name="description_size">Tamanho</string>
   <string name="description_summary">Resumo</string>
-  <string name="description_uploadtime">Actualização</string>
+  <string name="description_uploadtime">Atualização</string>
   <string name="description_version">Versão</string>
   <string name="description_version_szie">Versão: %1$s Tamanho: %2$s</string>
   <string name="desktop_effects">Efeitos de tela inicial</string>
@@ -261,7 +261,7 @@ Para desligar esta funcionalidade, vá a Configurações &gt; Sons e vibração 
   <string name="provision_second_title">Seleccionar um temas predefinidos</string>
   <string name="provision_title">Escolher um tema</string>
   <string name="pull_down_view_error_message">Sem ligação à Internet. Verifique a sua ligação e tente novamente</string>
-  <string name="pull_down_view_refresh">Actualizar</string>
+  <string name="pull_down_view_refresh">Atualizar</string>
   <string name="pull_down_view_title">O que há de novo</string>
   <string name="purchased_list">Adquiridos</string>
   <string name="purchased_list_current">Temas optimizados</string>
@@ -341,7 +341,7 @@ Para desligar esta funcionalidade, vá a Configurações &gt; Sons e vibração 
   <string name="resource_delete_all">excluir %1$d tema(s) seleccionado(s)?</string>
   <string name="resource_delete_confirm">excluir este(s) tema(s)?</string>
   <string name="resource_delta_update_failed">A transferir tema novamente…</string>
-  <string name="resource_delta_update_successful">Tema actualizado</string>
+  <string name="resource_delta_update_successful">Tema atualizado</string>
   <string name="resource_delta_update_total">%1$d actualizações guardadas %2$s</string>
   <string name="resource_detail">Detalhes</string>
   <string name="resource_detail_comment_title">Comentários</string>
@@ -398,7 +398,7 @@ Para desligar esta funcionalidade, vá a Configurações &gt; Sons e vibração 
   <string name="resource_is_off_shelf_can_not_share">Não é possível compartilhar. O item já não está disponível</string>
   <string name="resource_list_title">Seleccionados recentemente</string>
   <string name="resource_local_picker">Escolher toque</string>
-  <string name="resource_menu_refresh">Actualizar</string>
+  <string name="resource_menu_refresh">Atualizar</string>
   <string name="resource_mute">Nenhum</string>
   <string name="resource_my">Dispositivo</string>
   <string name="resource_network_diagnostics"><u>Testes de rede</u></string>
@@ -484,7 +484,7 @@ Para desligar esta funcionalidade, vá a Configurações &gt; Sons e vibração 
   <string name="resource_trial_hours_minutes">(teste: %1$dh %2$dm)</string>
   <string name="resource_trial_minutes">(teste: %1$dm)</string>
   <string name="resource_unknow_error">Ocorreu um erro desconhecido</string>
-  <string name="resource_update">Actualizar</string>
+  <string name="resource_update">Atualizar</string>
   <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">A aguardar</string>
   <string name="resource_waiting_pause">Pausar</string>
@@ -525,9 +525,9 @@ Para desligar esta funcionalidade, vá a Configurações &gt; Sons e vibração 
   <string name="theme_apply_failured">Não foi possível aplicar</string>
   <string name="theme_apply_success">Aplicado com sucesso</string>
   <string name="theme_applying">A aplicar…</string>
-  <string name="theme_batch_update_all">Actualizar tudo</string>
-  <string name="theme_batch_update_dlg_title">Actualizar tema</string>
-  <string name="theme_batch_updating_text">A actualizar (%1$d)</string>
+  <string name="theme_batch_update_all">Atualizar tudo</string>
+  <string name="theme_batch_update_dlg_title">Atualizar tema</string>
+  <string name="theme_batch_updating_text">A atualizar (%1$d)</string>
   <string name="theme_bug_report">Comentários</string>
   <string name="theme_changed_failed_message">Não é possível aplicar tema</string>
   <string name="theme_changed_message">Tema aplicado</string>
@@ -562,7 +562,7 @@ Para desligar esta funcionalidade, vá a Configurações &gt; Sons e vibração 
   <string name="theme_component_title_ringtone">Toques</string>
   <string name="theme_component_title_statusbar">Barra de estado</string>
   <string name="theme_component_title_wallpaper">Tela inicial</string>
-  <string name="theme_current_using_has_update">Actualização de tema disponível</string>
+  <string name="theme_current_using_has_update">Atualização de tema disponível</string>
   <string name="theme_description_title_customized">Personalizado</string>
   <string name="theme_description_title_default">Predefinido</string>
   <string name="theme_detail_tab_comment">Comentários</string>
@@ -577,7 +577,7 @@ Para desligar esta funcionalidade, vá a Configurações &gt; Sons e vibração 
   <string name="theme_favorite_list_empty">Ainda não adicionou nenhum tema aos favoritos</string>
   <string name="theme_favorite_waiting">Aguarde…</string>
   <string name="theme_fresh_man_notifaction">Novos temas disponíveis</string>
-  <string name="theme_immediately_apply_tip">Aplicar actualização do tema agora?</string>
+  <string name="theme_immediately_apply_tip">Aplicar atualização do tema agora?</string>
   <string name="theme_import_from_sdcard">Importar</string>
   <string name="theme_is_external_priority_storage">Guardar no cartão SD</string>
   <string name="theme_is_external_priority_storage_summary">A aplicação Temas vai reiniciar imediatamente para aplicar esta alteração</string>
@@ -642,10 +642,10 @@ Para desligar esta funcionalidade, vá a Configurações &gt; Sons e vibração 
   <string name="uid_change_dialog_title">Reiniciar dispositivo</string>
   <string name="unable_connect_network">Não foi possível ligar à rede</string>
   <string name="up_to_the_end">É tudo por agora. Venha mais tarde</string>
-  <string name="update_immediately">Actualizar agora</string>
-  <string name="using_theme_has_update_tips">Está disponível uma actualização para este tema</string>
+  <string name="update_immediately">Atualizar agora</string>
+  <string name="using_theme_has_update_tips">Está disponível uma atualização para este tema</string>
   <string name="using_theme_next_automatic_update">Actualizações automáticas</string>
-  <string name="using_theme_next_automatic_update_summary">Actualizar temas automaticamente Wi-Fi quando o tela estiver bloqueado</string>
+  <string name="using_theme_next_automatic_update_summary">Atualizar temas automaticamente Wi-Fi quando o tela estiver bloqueado</string>
   <string name="using_theme_show_ad">Recomendações</string>
   <string name="version_update">Verificar actualizações</string>
   <string name="video_ad_click">Experimentar agora</string>

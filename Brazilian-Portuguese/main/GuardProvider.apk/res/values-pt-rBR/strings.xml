@@ -37,7 +37,7 @@
   <string name="hello_world">Olá mundo!</string>
   <string name="menu_settings">Configurações</string>
   <string name="tencent_dialog_cloudscan">Enviar e verificar os nomes e detalhes os aplicativos utilizando configurações de vírus online</string>
-  <string name="tencent_dialog_dbupdate">Actualizar configurações de vírus automaticamente</string>
+  <string name="tencent_dialog_dbupdate">Atualizar configurações de vírus automaticamente</string>
   <string name="tencent_dialog_header">Esta funcionalidade encripta e envia o ID do seu dispositivo para os servidores Tencent(%s)</string>
   <string name="tencent_dialog_policy">Política de Privacidade</string>
   <string name="tencent_dialog_title">Política de Privacidade de Tencent</string>

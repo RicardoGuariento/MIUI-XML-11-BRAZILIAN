@@ -11,7 +11,7 @@
   <string name="account_options_sync_title">Sincronizar</string>
   <string name="account_password_spaces_error">Essa palavra-passe inicia ou termina com um ou mais caracteres de espaço. Muitos servidores não suportam palavras-passe com espaços</string>
   <string name="account_security_dialog_content_fmt">%s solicita que actualize as suas configurações de segurança</string>
-  <string name="account_security_dialog_title">Actualização de segurança</string>
+  <string name="account_security_dialog_title">Atualização de segurança</string>
   <string name="account_security_policy_explanation_fmt">O servidor %s requer a permissão de controlo remoto de algumas funcionalidades de segurança do seu dispositivo Android</string>
   <string name="account_security_title">Segurança do dispositivo</string>
   <string name="account_set_up_change_type_note">Para alterar o tipo de conta entre POP3 e IMAP, elimine a sua conta e crie uma nova com as configurações desejadas</string>
@@ -36,8 +36,8 @@
  Deseja actualizá-los agora?"</string>
   <string name="account_settings_login_dialog_reason_fmt">Não foi possível iniciar sessão em %1$s. O servidor diz: %2$s</string>
   <string name="account_settings_login_dialog_title">Não foi possível iniciar sessão</string>
-  <string name="account_settings_mail_check_frequency_dialog_title">É necessário actualizar o Email manualmente para sincronizar</string>
-  <string name="account_settings_mail_check_frequency_dialog_title_eas">Quando altera para manual, é necessário actualizar manualmente para sincronizar os emails e o calendário</string>
+  <string name="account_settings_mail_check_frequency_dialog_title">É necessário atualizar o Email manualmente para sincronizar</string>
+  <string name="account_settings_mail_check_frequency_dialog_title_eas">Quando altera para manual, é necessário atualizar manualmente para sincronizar os emails e o calendário</string>
   <string name="account_settings_mail_check_frequency_label">Frequência de sincronização</string>
   <string name="account_settings_mibill_resolve_label">Gerir contas automaticamente</string>
   <string name="account_settings_name_label">Nome</string>
@@ -264,7 +264,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Limpar aprovações de fotos?</string>
   <string name="clear_display_images_whitelist_title">Limpar aprovações de fotos</string>
   <string name="click_download_all_content">[ Toque para transferir conteúdo ]</string>
-  <string name="click_to_reload">Toque na tela para actualizar</string>
+  <string name="click_to_reload">Toque na tela para atualizar</string>
   <string name="collapse_recipient_details">Ocultar detalhes do destinatário</string>
   <string name="compose">Escrever</string>
   <string name="compose_attachment_number_limit">Não pode adicionar mais do que 10 anexos</string>
@@ -360,7 +360,7 @@
   <string name="delete_message_flow_keywords">excluir fluxo de mensagens;excluir redireccionamento</string>
   <string name="deleted">Eliminada</string>
   <string name="device_activity_btn_str">Activar</string>
-  <string name="device_activity_lint_str">Activar actualização completa de serviço de correio e activar configurações de segurança</string>
+  <string name="device_activity_lint_str">Activar atualização completa de serviço de correio e activar configurações de segurança</string>
   <string name="device_admin_description">Activar as políticas de segurança especificadas pelo servidor</string>
   <string name="device_admin_label">Email</string>
   <string name="device_not_activiey_lint1">O Gestor de dispositivos não está activo</string>
@@ -456,7 +456,7 @@
   <string name="folder_drafts_name_en0">Rascunhos</string>
   <string name="folder_drafts_name_en1">Rascunho</string>
   <string name="folder_drafts_name_en2">[Gmail]/Rascunhos</string>
-  <string name="folder_empty_to_fresh">O email não está sincronizado. Puxe para actualizar</string>
+  <string name="folder_empty_to_fresh">O email não está sincronizado. Puxe para atualizar</string>
   <string name="folder_junk_name_cn0">Spam</string>
   <string name="folder_junk_name_cn1">Lixo</string>
   <string name="folder_junk_name_cn2">[Gmail]/Spam</string>
@@ -607,7 +607,7 @@
   <string name="meeting_recurring">Quando: %s (recorrente)</string>
   <string name="meeting_responded_failed">Sem resposta</string>
   <string name="meeting_tentative">Tentativa: %s</string>
-  <string name="meeting_updated">Actualizado: %s</string>
+  <string name="meeting_updated">Atualizado: %s</string>
   <string name="meeting_when">Quando: %s</string>
   <string name="meeting_where">Onde: %s</string>
   <string name="megabytes">%sMB</string>
@@ -827,7 +827,7 @@
   <string name="prompt_title">Perguntar</string>
   <string name="protocol_setting_toast">Toque no canto superior direito para ir às configurações depois de concordar</string>
   <string name="pull_load_more">Puxe para carregar mais</string>
-  <string name="pull_to_refresh">Puxe para actualizar</string>
+  <string name="pull_to_refresh">Puxe para atualizar</string>
   <string name="push_wps_better_confirm_download">Transferir</string>
   <string name="push_wps_better_confirm_exit">Agora não</string>
   <string name="push_wps_better_confirm_message">Tente utilizar WPS Office para abrir este anexo</string>
@@ -887,10 +887,10 @@
   <string name="recommend_protocal">Protocolo recomendado</string>
   <string name="reduce_the_receiving_frequencye_summary">Sincronizar caixa de entrada com menos frequência quando Não incomodar está ligado</string>
   <string name="reduce_the_receiving_frequencye_title">Sincronizar com menos frequência</string>
-  <string name="refresh">Actualizar</string>
-  <string name="refreshing">A actualizar…</string>
+  <string name="refresh">Atualizar</string>
+  <string name="refreshing">A atualizar…</string>
   <string name="refreshing_done">Concluída</string>
-  <string name="release_to_refresh">Largue para actualizar</string>
+  <string name="release_to_refresh">Largue para atualizar</string>
   <string name="remind_attachment_size_limit">Os seus emails devem ser menores que %sMB</string>
   <string name="remote_search_body_too_large_prompt">"O email é demasiado longo.
 Aguarde até estar totalmente sincronizado"</string>
@@ -928,10 +928,10 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="search_title">Email unificado</string>
   <string name="search_txt_size_limit_prompt">Os termos de pesquisa devem ser maiores que 3 caracteres</string>
   <string name="security_changed_ticker_fmt">A conta \"%s\" alterou as suas configurações de segurança. Não é necessário nenhuma acção do usuário</string>
-  <string name="security_needed_ticker_fmt">A conta \"%s\" exige a actualização das configurações de segurança</string>
+  <string name="security_needed_ticker_fmt">A conta \"%s\" exige a atualização das configurações de segurança</string>
   <string name="security_notification_content_change_title">Políticas de segurança alteradas</string>
   <string name="security_notification_content_unsupported_title">Os requisitos de segurança não podem ser cumpridos</string>
-  <string name="security_notification_content_update_title">É necessário uma actualização de segurança</string>
+  <string name="security_notification_content_update_title">É necessário uma atualização de segurança</string>
   <string name="security_unsupported_ticker_fmt">A conta \"%s\" não pode ser sincronizada devido a requisitos de segurança</string>
   <string name="see_more_content">Ver mais</string>
   <string name="select_attachment_type">Seleccionar anexo de</string>
@@ -1054,10 +1054,10 @@ Remover conta?"</string>
   <string name="unread_string">conversa não lida</string>
   <string name="unzip_file_failed">Não foi possível descompactar arquivo</string>
   <string name="update_date_format_templete">HH:mm \'do dia\' d \'de\' MMMM</string>
-  <string name="update_domain_summary">Actualizar configurações e lista de domínios</string>
-  <string name="update_domain_title">Actualizar configurações de domínios</string>
+  <string name="update_domain_summary">Atualizar configurações e lista de domínios</string>
+  <string name="update_domain_title">Atualizar configurações de domínios</string>
   <string name="update_to_wps_mail">Disfrute de mais funcionalidade com WPS Mail</string>
-  <string name="updated_at">Actualizado às %1$s</string>
+  <string name="updated_at">Atualizado às %1$s</string>
   <string name="upload_log">Enviar</string>
   <string name="upload_log_failed">Não foi possível enviar registos</string>
   <string name="upload_log_no">Cancelar</string>
@@ -1079,7 +1079,7 @@ Remover conta?"</string>
   <string name="wait_for_manual_sync_body">"Esta conta não está configurada para sincronizar automaticamente.
 Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar configurações de sincronização</b> para configurar esta conta para sincronizar emails automaticamente</string>
   <string name="wait_for_sync_title">A aguardar sincronização</string>
-  <string name="wait_while_update_db">Aguarde um momento durante a actualização de base de dados</string>
+  <string name="wait_while_update_db">Aguarde um momento durante a atualização de base de dados</string>
   <string name="webview_logout">Pode tentar iniciar sessão novamente</string>
   <string name="webview_logout_cancel">Agora não</string>
   <string name="webview_logout_sure">Tentar novamente</string>

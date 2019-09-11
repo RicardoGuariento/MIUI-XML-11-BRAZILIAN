@@ -62,7 +62,7 @@
   <string name="dlg_quick_delete_title">Eliminação rápida</string>
   <string name="dlg_restore_message">A restaurar…</string>
   <string name="dlg_stick_message">A fixar…</string>
-  <string name="dlg_title_password_reset">Actualizar o seu padrão</string>
+  <string name="dlg_title_password_reset">Atualizar o seu padrão</string>
   <string name="dlg_title_set_password">Definir padrão</string>
   <string name="dlg_title_use_privacy_password">Utilizar o padrão de Protecção de Privacidade</string>
   <string name="dlg_unhide_message">A mostrar…</string>
@@ -80,7 +80,7 @@
   <string name="error_note_not_exist">A nota não existe</string>
   <string name="error_send_empty_note">Não é possível enviar uma nota vazia</string>
   <string name="error_send_empty_note_to_weibo">Não é possível enviar uma nota vazia para o Weibo</string>
-  <string name="error_unsupport_content">Esta nota contém conteúdo não suportado. Toque aqui para actualizar</string>
+  <string name="error_unsupport_content">Esta nota contém conteúdo não suportado. Toque aqui para atualizar</string>
   <string name="error_widget_exist_for_send_to_desktop">Esta nota já existe na tela inicial</string>
   <string name="exceed_todo_text_limitation">A descrição da tarefa é demasiado longa</string>
   <string name="first_enter_custom_folder_hint">Pode mudar o nome ou excluir pastas aqui</string>

@@ -218,7 +218,7 @@
   <string name="change_data_sim_4g_only_prompt">O SIM %1$s apenas suporta 4G. Quando o SIM %2$s não for o predefinido para dados móveis pode não funcionar normalmente. Trocar agora</string>
   <string name="change_default_data_card">SIM de dados móveis predefinido</string>
   <string name="change_default_data_card_summary">Parece que alterou os cartões SIM. Definir este cartão como predefinido para a ligação de dados móveis?</string>
-  <string name="change_num">Actualizar</string>
+  <string name="change_num">Atualizar</string>
   <string name="change_password">Alterar a palavra-passe do barramento</string>
   <string name="change_pin">Alterar PIN do SIM</string>
   <string name="change_pin2">Alterar PIN2</string>
@@ -253,8 +253,8 @@
   <string name="contactAddSuccess">Contacto adicionado ao SIM</string>
   <string name="contactPhoto">Foto do contacto</string>
   <string name="contactScreen">Adicionar/Editar contacto SIM</string>
-  <string name="contactUpdateFailed">Contacto actualizado no SIM</string>
-  <string name="contactUpdateSuccess">Contacto actualizado no SIM</string>
+  <string name="contactUpdateFailed">Contacto atualizado no SIM</string>
+  <string name="contactUpdateSuccess">Contacto atualizado no SIM</string>
   <string name="contactdeleteFailed">Não é possível excluir contatos do SIM</string>
   <string name="contactdeleteSuccess">Contacto excluído do SIM</string>
   <string name="corporate_unlock_failed">O pedido de desbloqueio do cartão SIM da empresa falhou</string>
@@ -452,13 +452,13 @@
   <string name="fdn_check_failure">Algumas funcionalidades de chamadas não estão disponíveis porque os Números de Marcação Fixa estão activos</string>
   <string name="fdn_contact_added">Número de marcação fixa adicionado</string>
   <string name="fdn_contact_deleted">Número de marcação fixa excluído</string>
-  <string name="fdn_contact_updated">Número de marcação fixa actualizado</string>
+  <string name="fdn_contact_updated">Número de marcação fixa atualizado</string>
   <string name="fdn_disabled">Números de marcação fixa desligado</string>
   <string name="fdn_enable_puk2_requested">Palavra-passe incorrecta, o PIN2 está bloqueado. Altere o PIN2 e tente novamente</string>
   <string name="fdn_enabled">Números de marcação fixa estão activos</string>
   <string name="fdn_failed">Falha de FDN</string>
-  <string name="fdn_full">FDN não foi actualizado porque a lista está cheia</string>
-  <string name="fdn_invalid_number">FDN não foi actualizado porque o número não pode exceder 20 dígitos</string>
+  <string name="fdn_full">FDN não foi atualizado porque a lista está cheia</string>
+  <string name="fdn_invalid_number">FDN não foi atualizado porque o número não pode exceder 20 dígitos</string>
   <string name="fdn_list_with_label">Lista FDN (%s)</string>
   <string name="fdn_summary">Restringir chamadas para lista FDN ou para números com determinados prefixos</string>
   <string name="fdn_with_label">Números de marcação fixa (%s)</string>
@@ -833,7 +833,7 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções"
 Tem mais %d tentativas"</string>
   <string name="pin2_changed">PIN2 alterado com sucesso</string>
   <string name="pin2_error_exception">Erro do cartão SIM ou da rede</string>
-  <string name="pin2_invalid">FDN não foi actualizado porque introduziu um PIN incorrecto</string>
+  <string name="pin2_invalid">FDN não foi atualizado porque introduziu um PIN incorrecto</string>
   <string name="pin2_invalid_or_name_is_too_long">Introduziu um PIN inválido ou o nome que introduziu é muito longo</string>
   <string name="pin2_lock_warning">"
 As funções relacionadas com o PIN2 serão bloqueadas depois de outra tentativa falhada"</string>
@@ -1193,8 +1193,8 @@ O período seguinte tem início dentro de %2$d dias (%3$s)"</string>
   <string name="unknown">Número privado</string>
   <string name="unlock_failed">O pedido de desbloqueio do cartão SIM falhou</string>
   <string name="unlock_success">Cartão SIM desbloqueado</string>
-  <string name="updating_fdn_contact">A actualizar número de marcação fixa…</string>
-  <string name="updating_settings">A actualizar configurações…</string>
+  <string name="updating_fdn_contact">A atualizar número de marcação fixa…</string>
+  <string name="updating_settings">A atualizar configurações…</string>
   <string name="updating_title">Telefone</string>
   <string name="uplmn_list_setting_add_plmn">Novo PLMN</string>
   <string name="uplmn_list_setting_title">Redes preferidas</string>

@@ -607,7 +607,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_unlock_passwork">Utilizar palavra-passe</string>
   <string name="face_unlock_passwork_and_fingerprint">Utilizar palavra-passe ou impressão digital</string>
   <string name="face_unlock_quality">Não foi possível ver o seu rosto</string>
-  <string name="face_unlock_reenter_content">O desbloqueio por rosto está a ser actualizado. Toque para gravar os dados novamente</string>
+  <string name="face_unlock_reenter_content">O desbloqueio por rosto está a ser atualizado. Toque para gravar os dados novamente</string>
   <string name="face_unlock_reenter_title">Grave os dados do seu rosto novamente</string>
   <string name="face_unlock_reveal_eye">Mostre os seus olhos</string>
   <string name="face_unlock_reveal_mouth">Mostre os seus lábios</string>
@@ -626,7 +626,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_unlock_success_stay_screen_msg">Manter-se na tela de bloqueio após o rosto ser verificado. Deslizar para cima para abrir o tela inicial</string>
   <string name="face_unlock_success_stay_screen_title">Manter-se na tela de bloqueio após desbloquear</string>
   <string name="failed_to_open_app_settings_toast">Não foi possível abrir configurações de %1$s</string>
-  <string name="fingerprint_add_text">O interface foi actualizado. Adicione a sua impressão digital novamente</string>
+  <string name="fingerprint_add_text">O interface foi atualizado. Adicione a sua impressão digital novamente</string>
   <string name="fingerprint_add_title">Adicionar impressão digital</string>
   <string name="fingerprint_again_identified_msg">A sua impressão digital está activa. Utilize-a para desbloquear o dispositivo ou introduzir a palavra-passe</string>
   <string name="fingerprint_dialog_touch_sensor">Toque no sensor de impressões digitais</string>
@@ -1658,7 +1658,7 @@ O telefone pode sobreaquecer se:
   <string name="user_add_user">Adicionar usuário</string>
   <string name="user_add_user_message_short">"Ao adicionar um novo usuário, essa pessoa tem de configurar o respectivo espaço.
 
-Qualquer usuário pode actualizar aplicativos para todos os outros utilizadores"</string>
+Qualquer usuário pode atualizar aplicativos para todos os outros utilizadores"</string>
   <string name="user_add_user_title">Adicionar novo usuário?</string>
   <string name="user_guide_for_notification">Deslize para baixo para abrir a área de notificações</string>
   <string name="user_guide_for_toggle">A lista de atalhos pode ser deslocada horizontalmente</string>
@@ -1697,7 +1697,7 @@ Qualquer usuário pode actualizar aplicativos para todos os outros utilizadores"
   <string name="vpn_title">VPN ativada</string>
   <string name="vpn_title_long">Ligar a VPN utilizando %s</string>
   <string name="wallpaper_global_des_drop_down_notify_text">Soltar para ver detalhes</string>
-  <string name="weather_publish_time">Actualizado às %1$s</string>
+  <string name="weather_publish_time">Atualizado às %1$s</string>
   <string name="wifi_connected_no_internet">Ligado, sem Internet</string>
   <string name="wifi_disabled_by_recommendation_provider">Não ligado devido à fraca qualidade da rede</string>
   <string name="wifi_disabled_generic">Desactivado</string>

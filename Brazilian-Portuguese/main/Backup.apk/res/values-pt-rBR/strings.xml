@@ -51,7 +51,7 @@
   <string name="backup_report">Ver detalhes</string>
   <string name="backup_security_tips_message">Algumas aplicativos não podem ser copiadas ou restauradas</string>
   <string name="backup_security_tips_title">As cópias podem não funcionar</string>
-  <string name="backup_update">Actualizar</string>
+  <string name="backup_update">Atualizar</string>
   <string name="batch_delete_backup_confirm">excluir as cópias selecionadas?</string>
   <string name="btn_got_it">Entendido</string>
   <string name="button_backup">Fazer cópia</string>
@@ -121,9 +121,9 @@ https://appleid.apple.com/#!&amp;page=signin para desactivar"</string>
   <string name="delete_backup_title">excluir cópias</string>
   <string name="delete_failed_backup_confirm">Esta cópia contem erros</string>
   <string name="deselect_all">Desmarcar tudo</string>
-  <string name="dialog_app_upgrade_download">Actualizar</string>
+  <string name="dialog_app_upgrade_download">Atualizar</string>
   <string name="dialog_app_upgrade_exit">Sair</string>
-  <string name="dialog_app_upgrade_message">Nova versão de Mi Mover disponível. Actualizar agora?</string>
+  <string name="dialog_app_upgrade_message">Nova versão de Mi Mover disponível. Atualizar agora?</string>
   <string name="dialog_backup_password_auto_backup_tips">Não é possível copiar itens automaticamente quando a palavra-passe da cópia está ativada. Desactive a palavra-passe da cópia primeiro</string>
   <string name="dialog_backup_password_backup_tips">Não é possível copiar itens quando a palavra-passe da cópia está ativada. Desactive a palavra-passe da cópia</string>
   <string name="dialog_backup_password_cancel">Cancelar</string>
@@ -315,7 +315,7 @@ Não altere ou mude o nome dos arquivos de cópia"</string>
   <string name="read_encrypt_fail">Não é possível ler cópias encriptadas</string>
   <string name="reconnect">Ligar novamente</string>
   <string name="recreate_soft_ap_tips">Toque no botão abaixo para tentar novamente</string>
-  <string name="refresh">Actualizar</string>
+  <string name="refresh">Atualizar</string>
   <string name="remote_receive">Receber</string>
   <string name="restore">Restaurar</string>
   <string name="restore_backup">Restaurar</string>
@@ -635,6 +635,6 @@ Não feche a página até a ligação estar estabelecida"</string>
   <string name="xiaomi_update_dialog_message">"A introduzir versão %1$s
 Tamanho: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"A introduzir versão %1$s
-Tamanho da actualização delta: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">Actualização disponível</string>
+Tamanho da atualização delta: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">Atualização disponível</string>
 </resources>

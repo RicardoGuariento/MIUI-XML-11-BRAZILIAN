@@ -26,7 +26,7 @@
   <string name="activity_main_one_alert"/>
   <string name="activity_main_time_format">EEEE</string>
   <string name="activity_main_pub_time">Publicado às %1$s</string>
-  <string name="activity_main_update_time">Actualizado %1$s</string>
+  <string name="activity_main_update_time">Atualizado %1$s</string>
   <string name="activity_main_update_time_expire">Dados expirados</string>
   <string name="activity_main_update_time_right_now">agora mesmo</string>
   <string name="activity_minute_rain_location_fail_msg">Não foi possível obter uma localização precisa. Alterado para a cidade actual</string>
@@ -58,7 +58,7 @@
   <string name="aqi_detail_unit">Unidade: µg/m³</string>
   <string name="aqi_first_sub_desc_locate">Estação: %1$s (%2$s distante)</string>
   <string name="aqi_first_sub_desc_no_locate">Média de IQA em %1$s</string>
-  <string name="aqi_publish_time">Actualizado às %1$s</string>
+  <string name="aqi_publish_time">Atualizado às %1$s</string>
   <string name="aqi_short_desc">Qualidade do ar %1$s</string>
   <string name="aqi_sub_desc">IQA</string>
   <string name="aqi_top_pollution">Mais poluidores</string>
@@ -98,11 +98,11 @@
   <string name="daily_forecast_detail">Detalhes da previsão</string>
   <string name="daily_forecast_detail_date">d/MM</string>
   <string name="daily_forecast_no_data">"Não foi possível obter informação do tempo.
- Puxe para actualizar ou verifique as configurações de rede"</string>
+ Puxe para atualizar ou verifique as configurações de rede"</string>
   <string name="data_provided_by"/>
   <string name="edit_alert_city_title">Gerir alertas</string>
   <string name="edit_city">Gerir localizações</string>
-  <string name="empty_view_net_loading">A actualizar…</string>
+  <string name="empty_view_net_loading">A atualizar…</string>
   <string name="empty_view_net_unavailable">Não foi possível ligar à rede</string>
   <string name="empty_view_refresh">Tente novamente</string>
   <string name="eu_region_version_first_start_network_msg">Ao utilizar este produto, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais. Ao tocar em \"Concordar\", concorda com %1$s e %2$s da Xiaomi</string>
@@ -178,12 +178,12 @@ Toque na tela para adicionar ou repor cidade"</string>
   <string name="minute_rain_feedback_subtitle">Diga-me que tempo está</string>
   <string name="minute_rain_feedback_text">Comentários</string>
   <string name="minute_rain_feedback_title">O tempo não parece correcto</string>
-  <string name="minute_rain_let_go_refresh">Solte para actualizar</string>
+  <string name="minute_rain_let_go_refresh">Solte para atualizar</string>
   <string name="minute_rain_no_data">Sem dados</string>
   <string name="minute_rain_now">Agora</string>
   <string name="minute_rain_progress_indicator_original_time">- -</string>
-  <string name="minute_rain_pull_down_refresh">Puxe para actualizar</string>
-  <string name="minute_rain_refreshing_now">A actualizar…</string>
+  <string name="minute_rain_pull_down_refresh">Puxe para atualizar</string>
+  <string name="minute_rain_refreshing_now">A atualizar…</string>
   <string name="missing_required_permission">Desactivou uma permissão necessária</string>
   <string name="more_details">Mais detalhes</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
@@ -220,8 +220,8 @@ Toque na tela para adicionar ou repor cidade"</string>
   <string name="privacy_revoke_failed">Não foi possível revogar a autorização. Tente novamente mais tarde</string>
   <string name="privacy_revoke_success">Autorização revogada com sucesso</string>
   <string name="privacy_settings">Política de Privacidade</string>
-  <string name="pull_fresh_updated">Actualizado com sucesso</string>
-  <string name="pull_fresh_updating">A actualizar…</string>
+  <string name="pull_fresh_updated">Atualizado com sucesso</string>
+  <string name="pull_fresh_updating">A atualizar…</string>
   <string name="radar_cloud_image_title">Mapa</string>
   <string name="radar_cloud_update_time">Antes de %1$s</string>
   <string name="rainfall_settings_summary">Alertas de precipitação</string>
@@ -273,12 +273,12 @@ Toque na tela para adicionar ou repor cidade"</string>
   <string name="unit">Unidades</string>
   <string name="unit_temperature">Temperatura</string>
   <string name="unit_wind">Velocidade do vento</string>
-  <string name="update_night_setting_summary_text">Actualizar informações do tempo entre as 23:00 e a 7:00</string>
-  <string name="update_night_setting_title_text">Actualizar à noite automaticamente</string>
-  <string name="update_notification_info">A actualizar dados em segundo plano…</string>
-  <string name="update_setting_title_text">Informações de actualização do tempo</string>
-  <string name="updated_a_moment_ago">Actualizado há momentos atrás</string>
-  <string name="updating">A actualizar…</string>
+  <string name="update_night_setting_summary_text">Atualizar informações do tempo entre as 23:00 e a 7:00</string>
+  <string name="update_night_setting_title_text">Atualizar à noite automaticamente</string>
+  <string name="update_notification_info">A atualizar dados em segundo plano…</string>
+  <string name="update_setting_title_text">Informações de atualização do tempo</string>
+  <string name="updated_a_moment_ago">Atualizado há momentos atrás</string>
+  <string name="updating">A atualizar…</string>
   <string name="user_agreement">Termos de Utilização</string>
   <string name="view_forecast_item_yesterday">Ontem</string>
   <string name="view_indexes_item_today">Hoje</string>

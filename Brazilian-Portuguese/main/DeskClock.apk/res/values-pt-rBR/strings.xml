@@ -76,9 +76,9 @@
   <string name="force_touch_enter_timer">Temporizador</string>
   <string name="full_wday_month_day_no_year">"EEEE, d 'de' MMMM"</string>
   <string name="go_back">Voltar</string>
-  <string name="holiday_update">Está disponível uma actualizar para feriados</string>
-  <string name="holiday_update_fail">Não foi possível actualizar</string>
-  <string name="holiday_update_loading">A actualizar…</string>
+  <string name="holiday_update">Está disponível uma atualizar para feriados</string>
+  <string name="holiday_update_fail">Não foi possível atualizar</string>
+  <string name="holiday_update_loading">A atualizar…</string>
   <string name="holiday_update_success">Todos os itens estão actualizados</string>
   <string name="hour_unit">H +</string>
   <string name="install_weather_app_error">Não foi possível carregar o aplicativo</string>
@@ -113,7 +113,7 @@
   <string name="life_post_wake_up_percentage_title">Fãs Mi atrás de si</string>
   <string name="life_post_wake_up_time_title">Hora de despertar</string>  
   <string name="life_post_weather_invalid">Toque para obter a informação do tempo</string>
-  <string name="life_post_weather_no_network">Ligue-se à rede para actualizar a informação do tempo</string>
+  <string name="life_post_weather_no_network">Ligue-se à rede para atualizar a informação do tempo</string>
   <string name="life_post_weather_temperature_centigrade">°</string>
   <string name="loading_ringtone">A carregar o toque…</string>
   <string name="menu_add_worldclock">Adicionar cidade</string>
@@ -260,7 +260,7 @@
   <string name="turn_off_this_repeat_alarm">Desligar este alarme repetitivo</string>
   <string name="upcoming_alarm">Próximo alarme: %s</string>
   <string name="upcoming_alarm_hint">Pode desligar este alarme agora</string>
-  <string name="update_notification_info">A actualizar dados em segundo plano…</string>
+  <string name="update_notification_info">A atualizar dados em segundo plano…</string>
   <string name="user_agreement">Termos de Utilização</string>
   <string name="vibrate_pref_summary">Vibrar quando o alarme toca</string>
   <string name="vibrate_when_ringing">Vibrar quando tocar</string>

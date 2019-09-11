@@ -102,10 +102,10 @@ para poder vê-las em qualquer momento"</string>
   <string name="enable">Ligar</string>
   <string name="encrypt_space_delete_dialog_click_message">"*Se não necessita de mover dados, %s"</string>
   <string name="encrypt_space_delete_dialog_click_message_action">elimine e crie o Segundo espaço agora</string>
-  <string name="encrypt_space_delete_dialog_message">Está prestes a actualizar o Android. Após a actualização, os dados do Segundo espaço vão tornar-se incompatíveis. Para evitar isto, mova todos os dados para o Primeiro espaço, elimine o Segundo espaço e crie-o novamente</string>
+  <string name="encrypt_space_delete_dialog_message">Está prestes a atualizar o Android. Após a atualização, os dados do Segundo espaço vão tornar-se incompatíveis. Para evitar isto, mova todos os dados para o Primeiro espaço, elimine o Segundo espaço e crie-o novamente</string>
   <string name="encrypt_space_delete_dialog_positive_text">Mover dados</string>
   <string name="encrypt_space_delete_dialog_title">Atenção</string>
-  <string name="encrypt_space_delete_notification_message">Elimine o seu Segundo espaço e crie um novo para actualizar o seu dispositivo com sucesso</string>
+  <string name="encrypt_space_delete_notification_message">Elimine o seu Segundo espaço e crie um novo para atualizar o seu dispositivo com sucesso</string>
   <string name="encrypt_space_delete_notification_title">Segundo espaço</string>
   <string name="ent_activating">A activar…</string>
   <string name="ent_activation">Activar</string>
@@ -302,21 +302,21 @@ Caso contrário, pode não conseguir entrar no Segundo espaço através do tela 
   <string name="scanner_fingerprint_tips_desc">Seleccionar uma impressão digital existente para entrar no Segundo espaço. Não vai poder utilizá-la no Primeiro espaço</string>
   <string name="scanner_fingerprint_tips_title">Ir para o Segundo espaço através de impressão digital</string>
   <string name="scanner_second_space_fingerprint">Digitalizar impressão digital do Segundo espaço</string>
-  <string name="sdcardfs_dialog_message">MIUI 9 tem um novo sistema de arquivos. Os seus dados antigos podem ser incompatíveis. Para resolver este problema, siga os passos para instalar uma actualização. O seu dispositivo vai reiniciar duas vezes durante a instalação</string>
-  <string name="sdcardfs_dialog_title">Actualização importante</string>
-  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 tem um novo sistema de arquivos. Os seus dados antigos podem ser incompatíveis. Para actualizar, mova os dados do Segundo espaço, reinicie o seu dispositivo e crie o Segundo espaço novamente.
-Se não actualizar, as aplicativos clonadas podem não funcionar correctamente também"</string>
+  <string name="sdcardfs_dialog_message">MIUI 9 tem um novo sistema de arquivos. Os seus dados antigos podem ser incompatíveis. Para resolver este problema, siga os passos para instalar uma atualização. O seu dispositivo vai reiniciar duas vezes durante a instalação</string>
+  <string name="sdcardfs_dialog_title">Atualização importante</string>
+  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 tem um novo sistema de arquivos. Os seus dados antigos podem ser incompatíveis. Para atualizar, mova os dados do Segundo espaço, reinicie o seu dispositivo e crie o Segundo espaço novamente.
+Se não atualizar, as aplicativos clonadas podem não funcionar correctamente também"</string>
   <string name="sdcradfs_dialog_in_owner_title">Segundo espaço</string>
-  <string name="sdcradfs_dialog_in_sec_message">Para actualizar, deve excluir o Segundo espaço e criá-lo novamente. Mova os dados do Segundo espaço para o Primeiro e reinicie o seu dispositivo.
-Se não actualizar, as aplicativos clonadas podem não funcionar correctamente também"</string>
-  <string name="sdcradfs_dialog_in_sec_title">Actualização importante</string>
+  <string name="sdcradfs_dialog_in_sec_message">Para atualizar, deve excluir o Segundo espaço e criá-lo novamente. Mova os dados do Segundo espaço para o Primeiro e reinicie o seu dispositivo.
+Se não atualizar, as aplicativos clonadas podem não funcionar correctamente também"</string>
+  <string name="sdcradfs_dialog_in_sec_title">Atualização importante</string>
   <string name="search_input_txt_na">"<font color='#ff0000'>%s</font>"</string>
   <string name="search_result_text">Não foi possível encontrar aplicativos</string>
   <string name="secondSpace">Segundo espaço</string>
   <string name="second_owner_finger_print">Impressão digital do Segundo espaço</string>
-  <string name="second_space_desktop_tips_dialog_message">Após esta actualização, os ícones para mover dados e gerir o Segundo espaço não vão estar disponíveis na tela inicial. Pode acessar estas funcionalidades nas Configurações</string>
+  <string name="second_space_desktop_tips_dialog_message">Após esta atualização, os ícones para mover dados e gerir o Segundo espaço não vão estar disponíveis na tela inicial. Pode acessar estas funcionalidades nas Configurações</string>
   <string name="second_space_desktop_tips_dialog_positive_text">Entendido</string>
-  <string name="second_space_desktop_tips_dialog_title">Actualização importante</string>
+  <string name="second_space_desktop_tips_dialog_title">Atualização importante</string>
   <string name="second_space_finger_printf_desc">Adicionar uma impressão digital utilizada especificamente para entrar no Segundo espaço</string>
   <string name="second_space_finger_printf_title">Impressão digital do Segundo espaço</string>
   <string name="select_existed_fingerprint">Seleccionar impressão digital</string>

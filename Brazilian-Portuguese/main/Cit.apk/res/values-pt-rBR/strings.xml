@@ -342,7 +342,7 @@ Depois de inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o re
   <string name="cit_wifi_ap_scan_retry">A pesquisar novamente…</string>
   <string name="cit_wifi_ap_scanning">A pesquisar…</string>
   <string name="cit_wifi_fail_to_scan">Não foi possível pesquisar redes</string>
-  <string name="cit_wifi_state_refresh">Actualizar</string>
+  <string name="cit_wifi_state_refresh">Atualizar</string>
   <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Teste de funcionamento do microfone frontal</string>
   <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Teste de funcionamento do microfone frontal para o altifalante.
 

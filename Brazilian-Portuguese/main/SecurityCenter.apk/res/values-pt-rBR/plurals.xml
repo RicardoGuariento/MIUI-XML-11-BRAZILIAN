@@ -258,7 +258,7 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     </plurals>
     <plurals name="menu_text_app_manager_ex">
         <item quantity="other">%d actualizações disponíveis</item>
-        <item quantity="one">%d actualização disponível</item>
+        <item quantity="one">%d atualização disponível</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d itens seguros</item>
@@ -306,7 +306,7 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Actualizações disponíveis para %d aplicativos</item>
-        <item quantity="one">Actualização disponível para %d aplicação</item>
+        <item quantity="one">Atualização disponível para %d aplicação</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d dias desde o último check-up</item>

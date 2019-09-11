@@ -65,7 +65,7 @@
   <string name="no_network">Não foi possível ligar à rede. Verifique a sua ligação e tente novamente</string>
   <string name="no_tasks">Sem transferências</string>
   <string name="open_changed_file_message">"O arquivo que está a tentar abrir foi alterado.
-1. Faça novamente a transferência do arquivo para o actualizar
+1. Faça novamente a transferência do arquivo para o atualizar
 2. Carregue-a para a sua conta"</string>
   <string name="open_changed_file_title">Alteração aplicada</string>
   <string name="operating">A processar…</string>
@@ -90,7 +90,7 @@
   <string name="operation_pasting">A colar…</string>
   <string name="operation_pause">Pausar</string>
   <string name="operation_pause_all">Pausar tudo</string>
-  <string name="operation_refresh">Actualizar</string>
+  <string name="operation_refresh">Atualizar</string>
   <string name="operation_rename">Mudar o nome</string>
   <string name="operation_rename_message">Mudar o nome da pasta</string>
   <string name="operation_renaming">A mudar o nome…</string>

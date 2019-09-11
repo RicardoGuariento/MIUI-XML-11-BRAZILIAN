@@ -262,9 +262,9 @@
   <string name="hybrid_locating_fail">Não foi possível encontrar a sua localização</string>
   <string name="hybrid_network_access_denied">Acesso à rede negado</string>
   <string name="hybrid_network_unavaliable">Não é possível ligar à rede</string>
-  <string name="hybrid_pull_to_refresh_pull_label">Puxe para actualizar…</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Puxe para atualizar…</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Aguarde…</string>
-  <string name="hybrid_pull_to_refresh_release_label">Largue para actualizar…</string>
+  <string name="hybrid_pull_to_refresh_release_label">Largue para atualizar…</string>
   <string name="hybrid_service_unavailiable">Serviço indisponível</string>
   <string name="hybrid_try_again">Tente novamente</string>
   <string name="i_know">Entendido</string>
@@ -347,8 +347,8 @@ Esta mensagem pode não ser solicitada"</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
   <string name="msg_type_sms_rcs">SMS, MMS e mensagens pela Internet</string>
   <string name="msglist_continue_to_pull_for_more">Descer para ver mais</string>
-  <string name="msglist_more_refreshing">A actualizar…</string>
-  <string name="msglist_no_more_to_refresh">Já actualizado</string>
+  <string name="msglist_more_refreshing">A atualizar…</string>
+  <string name="msglist_no_more_to_refresh">Já atualizado</string>
   <string name="msglist_release_to_more">Largue para ver mais</string>
   <string name="multimedia_message">Mensagem mídias</string>
   <string name="multimedia_notification">Notificação de mensagem mídias</string>
@@ -534,8 +534,8 @@ Esta mensagem pode não ser solicitada"</string>
   <string name="privacy_password_set_password">Definir</string>
   <string name="privacy_password_title1">Definir padrão</string>
   <string name="privacy_password_title2">Utilizar padrão de Protecção de Privacidade</string>
-  <string name="privacy_password_title3">Actualizar o seu padrão</string>
-  <string name="privacy_password_title4">Padrão actualizado</string>
+  <string name="privacy_password_title3">Atualizar o seu padrão</string>
+  <string name="privacy_password_title4">Padrão atualizado</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="private_message">Mensagens privadas</string>
   <string name="private_new_notification">Notificações de mensagens</string>
@@ -561,7 +561,7 @@ Esta mensagem pode não ser solicitada"</string>
   <string name="recommend_bar_title_smart_message">Mensagens inteligentes</string>
   <string name="recording_failed">Não foi possível gravar</string>
   <string name="refill_now">Recarregar agora</string>
-  <string name="refreshing">Actualizar…</string>
+  <string name="refreshing">Atualizar…</string>
   <string name="release_cancel">Solte para cancelar</string>
   <string name="remove">Remover</string>
   <string name="remove_music">Remover música</string>
@@ -630,7 +630,7 @@ Esta mensagem pode não ser solicitada"</string>
   <string name="select_top_text">Texto no início</string>
   <string name="send">Enviar</string>
   <string name="send_message_dlg_check_hint">Não mostrar novamente</string>
-  <string name="send_message_dlg_mgs">Aviso CMCC: Tem de registar o seu dispositivo com a plataforma de gestão de dispositivos para fornecer o pós-serviço grátis (Pós-serviço é uma plataforma por CMCC que pode gerir os dispositivos e terminais. É fornecido um serviço de ajustes remotos e aplicativos de actualização). Para efeitos de registo e inscrição vai ser enviada uma mensagem gratuita sobre a informação do seu dispositivo. A mensagem vai ser enviada apenas uma vez (não enviar de Hong Kong, Macau, Taiwan e roaming internacional). Selecione OK para aceitar o registo e usar o serviço. Selecione Cancelar para desistir e nenhum serviço vai ser fornecido a partir CMCC</string>
+  <string name="send_message_dlg_mgs">Aviso CMCC: Tem de registar o seu dispositivo com a plataforma de gestão de dispositivos para fornecer o pós-serviço grátis (Pós-serviço é uma plataforma por CMCC que pode gerir os dispositivos e terminais. É fornecido um serviço de ajustes remotos e aplicativos de atualização). Para efeitos de registo e inscrição vai ser enviada uma mensagem gratuita sobre a informação do seu dispositivo. A mensagem vai ser enviada apenas uma vez (não enviar de Hong Kong, Macau, Taiwan e roaming internacional). Selecione OK para aceitar o registo e usar o serviço. Selecione Cancelar para desistir e nenhum serviço vai ser fornecido a partir CMCC</string>
   <string name="send_message_dlg_title">Gestão de dispositivos</string>
   <string name="send_message_notification_msg">Toque para ver os detalhes solicitados</string>
   <string name="send_message_notification_tickerText">O dispositivo está a solicitar permissão</string>
@@ -724,7 +724,7 @@ Esta mensagem pode não ser solicitada"</string>
   <string name="text_message">Mensagem de texto</string>
   <string name="timed_message_expired_title_2">Enviá-las agora?</string>
   <string name="timed_message_to">para</string>
-  <string name="title_allow_network_access">Actualizar informações automaticamente</string>
+  <string name="title_allow_network_access">Atualizar informações automaticamente</string>
   <string name="title_collapse_sp_messages">Agrupar notificações</string>
   <string name="title_hide_verification_code">Ocultar auto. OTP na tela de bloqueio</string>
   <string name="title_show_blocked_messages">Mostrar SMS bloqueadas</string>

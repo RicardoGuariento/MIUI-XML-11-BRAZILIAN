@@ -18,7 +18,7 @@
   <string name="cloud_service_state_open_reminder">Ligue a sincronização com a Xiaomi Cloud para sincronizar as gravações</string>
   <string name="cloud_status_full_dialog_cancel">Agora não</string>
   <string name="cloud_status_full_dialog_msg">O seu armazenamento na nuvem está cheio, não é possível sincronizar gravações. Actualize a sua conta para ter mais espaço de armazenamento</string>
-  <string name="cloud_status_full_dialog_ok">Actualizar</string>
+  <string name="cloud_status_full_dialog_ok">Atualizar</string>
   <string name="cloud_status_full_dialog_title">Armazenamento na Xiaomi Cloud cheio</string>
   <string name="data_connection_body">Utilizar a sua ligação de dados móveis para transferir este arquivo vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
   <string name="data_connection_button_text">OK</string>

@@ -3,7 +3,7 @@
   <string name="hybrid_provider">Fornecido por %1$s</string>
   <string name="mibi_app_name">Mi Credits</string>
   <string name="mibi_applock_dialog_cancel">Agora não</string>
-  <string name="mibi_applock_dialog_content">Devido à actualização de sistema, o seu padrão de bloqueio actual expirou. Defina um novo</string>
+  <string name="mibi_applock_dialog_content">Devido à atualização de sistema, o seu padrão de bloqueio actual expirou. Defina um novo</string>
   <string name="mibi_applock_dialog_ok">Configurar</string>
   <string name="mibi_applock_dialog_title">Definir um novo padrão de bloqueio</string>
   <string name="mibi_balance_payment_title">Mi Credits</string>
@@ -138,7 +138,7 @@ Contacte o serviço de clientes da Xiaomi"</string>
   <string name="mibi_license_title">Termos e condições</string>
   <string name="mibi_list_item_bottom_hint">Chegou ao fim desta lista</string>
   <string name="mibi_login">Iniciar sessão</string>
-  <string name="mibi_memu_refresh">Actualizar</string>
+  <string name="mibi_memu_refresh">Atualizar</string>
   <string name="mibi_menu_lock">Adicionar Bloqueio de aplicativos</string>
   <string name="mibi_menu_qa">FAQ</string>
   <string name="mibi_menu_shotcut">Colocar na tela inicial</string>

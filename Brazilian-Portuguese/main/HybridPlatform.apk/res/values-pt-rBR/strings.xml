@@ -29,7 +29,7 @@
   <string name="app_manager_app_info_label">Informações</string>
   <string name="app_manager_app_info_name">Nome da aplicação</string>
   <string name="app_manager_app_info_pkg">Nome do arquivo</string>
-  <string name="app_manager_app_info_upgrade_time">Última actualização</string>
+  <string name="app_manager_app_info_upgrade_time">Última atualização</string>
   <string name="app_manager_app_info_version">Versão da aplicação</string>
   <string name="app_manager_app_version_name">"Versão: "</string>
   <string name="app_manager_cache_size">Cache</string>
@@ -132,6 +132,6 @@
 Tamanho: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">"A introduzir a versão %1$s
 Tamanho delta: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_title">Actualização %1$s!</string>
+  <string name="xiaomi_update_sdk_dialog_title">Atualização %1$s!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Armazenamento indisponível. Verifique o cartão SD</string>
 </resources>

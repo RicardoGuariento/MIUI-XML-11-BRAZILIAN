@@ -13,9 +13,9 @@
   <string name="atrace_start">A gravar registo…</string>
   <string name="base_info">Informação de base</string>
   <string name="cloud_addr_info">Informação da nuvem</string>
-  <string name="cloud_china_addr">Actualizar dados do servidor chinês</string>
-  <string name="cloud_international_addr">Actualizar dados do servidor internacional</string>
-  <string name="cloud_staging_addr">Actualizar dados do servidor desenvolvimento</string>
+  <string name="cloud_china_addr">Atualizar dados do servidor chinês</string>
+  <string name="cloud_international_addr">Atualizar dados do servidor internacional</string>
+  <string name="cloud_staging_addr">Atualizar dados do servidor desenvolvimento</string>
   <string name="config_classify">Ordenar por configurações da aplicação</string>
   <string name="config_description">A MIUI consegue identificar as aplicativos com processos em segundo plano (p.e. aplicativos de mensagens e navegação, leitores de música) e poupar bateria de modo a que não influencie as atividades mais importantes em segundo plano</string>
   <string name="config_mode_title">Configurações de segundo plano</string>
@@ -91,8 +91,8 @@ A poupança de bateria vai monitorar as aplicativos mais importantes selectivame
   <string name="sleepmode_privacy_link">Saiba mais sobre da segurança e privacidade</string>
   <string name="sleepmode_privacy_title">Modo Inactivo</string>
   <string name="sucess">Concluído</string>
-  <string name="update_profile_failture_not_connect_wifi">Não foi possível actualizar. Ligue-se ao Wi-Fi e tente novamente</string>
-  <string name="update_profile_sucess">Actualizado com sucesso</string>
+  <string name="update_profile_failture_not_connect_wifi">Não foi possível atualizar. Ligue-se ao Wi-Fi e tente novamente</string>
+  <string name="update_profile_sucess">Atualizado com sucesso</string>
   <string name="vip_feedback">Comentários VIP</string>
   <string name="vip_feedback_enable">Ligar comentários VIP</string>
   <string name="warm_configure">Configurações de controlo de temperatura</string>

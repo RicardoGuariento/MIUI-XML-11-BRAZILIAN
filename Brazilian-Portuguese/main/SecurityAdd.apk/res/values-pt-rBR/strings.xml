@@ -29,7 +29,7 @@
   <string name="game_booster">Acelerador de jogos</string>
   <string name="gamebooster_network_dialog_message">Permitir que Segurança se ligue à rede para utilizar todas as funcionalidades do Acelerador de jogos?</string>
   <string name="gamebooster_network_dialog_title">Algumas funcionalidades não estão disponíveis</string>
-  <string name="gamebox_no_network_btn">Actualizar</string>
+  <string name="gamebox_no_network_btn">Atualizar</string>
   <string name="gb_alipays_can_not_complete">Não é possível concluir o pagamento. Instalar para continuar</string>
   <string name="gb_weixinpay_can_not_complete">Não é possível concluir o pagamento. Instalar para continuar</string>
   <string name="gdpr_msg">Para utilizar as funcionalidades básicas de Segurança, tem de concordar que a Xiaomi vai recolher, processar e utilizar os seus dados pessoais de acordo com a nossa <a href="https://privacy.mi.com/all/%1$s_%2$s">Politíca de Privacidade</a></string>

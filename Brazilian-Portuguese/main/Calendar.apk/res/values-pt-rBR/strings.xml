@@ -347,7 +347,7 @@
   <string name="preferences_week_start_day_dialog">Início da semana</string>
   <string name="preferences_week_start_day_title">Início da semana</string>
   <string name="pull_to_refresh_hint">Puxe para carregar eventos de %1$d</string>
-  <string name="refresh">Actualizar</string>
+  <string name="refresh">Atualizar</string>
   <string name="refreshing_hint">Aguarde…</string>
   <string name="reminder_later">Lembrar mais tarde</string>
   <string name="reminder_overdue">Expirado</string>
@@ -410,11 +410,11 @@
   <string name="setting_about_summary">"Versão "</string>
   <string name="setting_accounts">Contas do calendário</string>
   <string name="setting_daysoff_no_update">Os feriados estão actualizados</string>
-  <string name="setting_daysoff_update">Actualizar informação sobre feriados</string>
+  <string name="setting_daysoff_update">Atualizar informação sobre feriados</string>
   <string name="setting_daysoff_update_cta_cancel">Permitir que o Calendário se ligue à Internet primeiro</string>
   <string name="setting_daysoff_update_net_err">Não foi possível verificar actualizações. Aguarde um momento e tente novamente</string>
-  <string name="setting_daysoff_update_schedule">A actualizar…</string>
-  <string name="setting_daysoff_update_success">Actualizado com sucesso</string>
+  <string name="setting_daysoff_update_schedule">A atualizar…</string>
+  <string name="setting_daysoff_update_success">Atualizado com sucesso</string>
   <string name="setting_desc_import_todo">Importar tarefas programadas de Notas</string>
   <string name="setting_features_title">Configurações das funcionalidades</string>
   <string name="setting_holiday_display_desc">Os cartões de feriados estão localizados em baixo do calendário na página inicial</string>

@@ -100,7 +100,7 @@
   <string name="feedback_select_upload_log_not_select_desc">Não seleccionou \"Adicionar registos\"</string>
   <string name="feedback_select_upload_log_select_desc">\"Adicionar registos\" seleccionado</string>
   <string name="feedback_status_answered">Respondido</string>
-  <string name="feedback_status_change_notification_title">O estado do seu relatório foi actualizado</string>
+  <string name="feedback_status_change_notification_title">O estado do seu relatório foi atualizado</string>
   <string name="feedback_status_collect_log_failed">Não foi possível obter registos</string>
   <string name="feedback_status_commit_failed_title">Não foi possível enviar relatório</string>
   <string name="feedback_status_commit_in_queue_title">A aguardar…</string>
@@ -267,10 +267,10 @@
   <string name="post_miui_bbs_failed">Não foi possível publicar no fórum MIUI</string>
   <string name="privacy_category_title">Privacidade</string>
   <string name="privacy_policy_title">Política de Privacidade</string>
-  <string name="pull_to_refresh_pull_label">Puxe para actualizar</string>
-  <string name="pull_to_refresh_refreshing_label">A actualizar…</string>
-  <string name="pull_to_refresh_release_label">Largue para actualizar</string>
-  <string name="refresh">Actualizar</string>
+  <string name="pull_to_refresh_pull_label">Puxe para atualizar</string>
+  <string name="pull_to_refresh_refreshing_label">A atualizar…</string>
+  <string name="pull_to_refresh_release_label">Largue para atualizar</string>
+  <string name="refresh">Atualizar</string>
   <string name="related_question_answer_details">Questões relacionadas</string>
   <string name="reply">Responder</string>
   <string name="reply_failed">Não foi possível responder</string>

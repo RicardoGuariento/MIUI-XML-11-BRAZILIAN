@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_not_found">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
-  <string name="allow_network_hint">Ligue \"Actualizar informações automaticamente\" ou verifique a sua ligação de rede</string>
-  <string name="already_updated">Actualizado</string>
+  <string name="allow_network_hint">Ligue \"Atualizar informações automaticamente\" ou verifique a sua ligação de rede</string>
+  <string name="already_updated">Atualizado</string>
   <string name="back_to_message_list">Voltar para a lista de mensagens</string>
   <string name="button_close">Close</string>
   <string name="click_to_update">Toque para verificar actualizações</string>
@@ -28,9 +28,9 @@
   <string name="hybrid_locating_fail">Não foi possível encontrar a sua localização</string>
   <string name="hybrid_network_access_denied">Acesso à rede negado</string>
   <string name="hybrid_network_unavaliable">Não é possível ligar à rede</string>
-  <string name="hybrid_pull_to_refresh_pull_label">Puxe para actualizar…</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Puxe para atualizar…</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Aguarde…</string>
-  <string name="hybrid_pull_to_refresh_release_label">Largue para actualizar…</string>
+  <string name="hybrid_pull_to_refresh_release_label">Largue para atualizar…</string>
   <string name="hybrid_service_unavailiable">O serviço não está disponível</string>
   <string name="hybrid_try_again">Tente novamente</string>
   <string name="menu_forward">Reencaminhar</string>
@@ -48,6 +48,6 @@
   <string name="sms_card_partner_label">"Cartão SMS de parceiro: "</string>
   <string name="summary_pref_cm_smart_sms">Templates, números de serviço SMS e muito mais</string>
   <string name="text_message">Mensagem de texto</string>
-  <string name="updating">A actualizar…</string>
+  <string name="updating">A atualizar…</string>
   <string name="view_message_details">Ver detalhes</string>
 </resources>

@@ -6,7 +6,7 @@
   <string name="account_order">Histórico de encomendas</string>
   <string name="account_title">Perfil</string>
   <string name="account_type_name">Conta Mi</string>
-  <string name="account_updating_device">A actualizar…</string>
+  <string name="account_updating_device">A atualizar…</string>
   <string name="account_updating_device_failed">Não foi possível iniciar sessão</string>
   <string name="account_verify_password">Já está a utilizar este serviço noutro dispositivo. Por motivos de segurança a sua Conta Mi necessita de ser verificada neste dispositivo</string>
   <string name="account_yellowpage_favorite">Favoritos</string>
@@ -20,10 +20,10 @@
   <string name="antispam_curr_version">Versão actual: %d</string>
   <string name="antispam_data_downloading">A transferir informação do autor da chamada</string>
   <string name="antispam_data_downloading_error">Não foi possível ligar à rede</string>
-  <string name="antispam_local_newest">A versão actual está actualizada</string>
+  <string name="antispam_local_newest">A versão actual está atualizada</string>
   <string name="antispam_network_remind_summary">Transferir actualizações utilizando dados móveis?</string>
   <string name="antispam_network_remind_title">Aviso de utilização de dados</string>
-  <string name="antispam_pull_newest">Actualizar para a versão %d com sucesso</string>
+  <string name="antispam_pull_newest">Atualizar para a versão %d com sucesso</string>
   <string name="antispam_update_version">Verificar actualizações</string>
   <string name="app_label">Páginas amarelas</string>
   <string name="app_recommendation_install">Instalar</string>
@@ -209,9 +209,9 @@
   <string name="phone_event_setting_notice_text">Ao utilizar esta funcionalidade está a concordar com a nossa %1$s e %2$s</string>
   <string name="phone_event_setting_notice_text_with_contacts_permission">Ao utilizar esta funcionalidade está a concordar com a nossa %1$s e %2$s. É necessário permissão para acessar seus contatos</string>
   <string name="photo_count">%d total</string>
-  <string name="pull_to_refresh_pull_label">Puxe para actualizar…</string>
+  <string name="pull_to_refresh_pull_label">Puxe para atualizar…</string>
   <string name="pull_to_refresh_refreshing_label">Aguarde…</string>
-  <string name="pull_to_refresh_release_label">Solte para actualizar…</string>
+  <string name="pull_to_refresh_release_label">Solte para atualizar…</string>
   <string name="quick_yellow_page_tab_call_log">Registo de chamadas</string>
   <string name="quick_yellow_page_tab_phones">Telefone</string>
   <string name="recharge_actual_price">Preço:</string>
@@ -244,7 +244,7 @@
 
 Total: %3$s EUR"</string>
   <string name="recharge_user_confirm_title">Confirmar carregamento</string>
-  <string name="refresh">Actualizar</string>
+  <string name="refresh">Atualizar</string>
   <string name="remember_preference">Memorizar preferência</string>
   <string name="remind_another_time">Não mostrar novamente</string>
   <string name="remind_user_confirm">OK</string>
@@ -276,7 +276,7 @@ Total: %3$s EUR"</string>
   <string name="turn_on_online_antispam_enable">Ligar</string>
   <string name="turn_on_online_antispam_summary">Ligar a identificação de chamadas para reconhecer números desconhecidos</string>
   <string name="turn_on_online_antispam_title">Ligar a identificação de chamadas</string>
-  <string name="turn_on_phone_event_dialog_title">Actualizar a base de dados de identificação de chamadas</string>
+  <string name="turn_on_phone_event_dialog_title">Atualizar a base de dados de identificação de chamadas</string>
   <string name="turn_on_phone_event_summary">Enviar estado do telefone dos números de serviço</string>
   <string name="turn_on_phone_event_title">Receber informações de serviço</string>
   <string name="turn_on_smart_antispam_hint">Identificar chamadas de números desconhecidos utilizando a base de dados online</string>

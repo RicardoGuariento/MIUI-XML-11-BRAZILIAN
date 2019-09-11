@@ -59,9 +59,9 @@
   <string name="artist_name">Artista</string>
   <string name="artist_news">Notícias</string>
   <string name="audio_picker_title">Escolher uma música</string>
-  <string name="auto_update">Actualizar automaticamente</string>
-  <string name="auto_update_tip">Pode actualizar aplicativos de sistema utilizando dados móveis. Pode gerar custos adicionais</string>
-  <string name="auto_upgrade">Actualizar automaticamente</string>
+  <string name="auto_update">Atualizar automaticamente</string>
+  <string name="auto_update_tip">Pode atualizar aplicativos de sistema utilizando dados móveis. Pode gerar custos adicionais</string>
+  <string name="auto_upgrade">Atualizar automaticamente</string>
   <string name="available_playlist_name_format">Nova lista de reprodução %d</string>
   <string name="avoid_to_use_traffic_summary">Mostrar aviso de utilização de dados móveis</string>
   <string name="avoid_to_use_traffic_title">Utilizar dados móveis para reproduzir músicas</string>
@@ -615,7 +615,7 @@
   <string name="text_separator">|</string>
   <string name="ticket_summary">Comprar bilhetes para espectáculos, concertos e outros eventos</string>
   <string name="ticket_title">Mostrar bilhetes</string>
-  <string name="time_to_upgrade">Actualizar Música</string>
+  <string name="time_to_upgrade">Atualizar Música</string>
   <string name="title_online_recommend">Destaque listas de reprodução</string>
   <string name="title_search_history">Histórico de pesquisa</string>
   <string name="title_search_hot">Populares</string>
@@ -636,9 +636,9 @@
   <string name="ultra_high_quality">Elevada</string>
   <string name="unknown_album_name">Álbum desconhecido</string>
   <string name="unknown_artist_name">Artista desconhecido</string>
-  <string name="update_now">Actualizar agora</string>
-  <string name="upgrade_music">Actualizar Música</string>
-  <string name="upgrade_music_message">As actualizações estão prontas. Reinicie para actualizar</string>
+  <string name="update_now">Atualizar agora</string>
+  <string name="upgrade_music">Atualizar Música</string>
+  <string name="upgrade_music_message">As actualizações estão prontas. Reinicie para atualizar</string>
   <string name="user_agreement">Termos de Utilização</string>
   <string name="v7_preference_off">Desligado</string>
   <string name="v7_preference_on">Ligado</string>

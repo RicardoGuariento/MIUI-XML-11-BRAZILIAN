@@ -63,7 +63,7 @@
   <string name="enable_alert_speech_title">Dizer mensagem de alerta</string>
   <string name="enable_alert_vibrate_summary">Vibrar em alerta</string>
   <string name="enable_alert_vibrate_title">Vibrar</string>
-  <string name="enable_channel_50_alerts_summary">O canal 50 é utilizado no Brasil para informações de actualização de área</string>
+  <string name="enable_channel_50_alerts_summary">O canal 50 é utilizado no Brasil para informações de atualização de área</string>
   <string name="enable_channel_50_alerts_title">Mostrar transmissões do canal 50</string>
   <string name="enable_channel_60_alerts_summary">Canal 60 é utilizado na Índia para informações específicas de Operador</string>
   <string name="enable_channel_60_alerts_title">Mostrar transmissões do canal 60</string>

@@ -80,8 +80,8 @@
     <string-array name="title_app_info">
         <item>Origem da instalação</item>
         <item>Hora da instalação</item>
-        <item>Origem da última actualização</item>
-        <item>Data da última actualização</item>
+        <item>Origem da última atualização</item>
+        <item>Data da última atualização</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>Utilização de dados</item>

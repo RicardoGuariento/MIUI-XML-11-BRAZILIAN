@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activate_xiaomi_account">Activar este dispositivo</string>
-  <string name="adding_or_updating_account">A actualizar conta…</string>
+  <string name="adding_or_updating_account">A atualizar conta…</string>
   <string name="app_name">Localizar Dispositivo</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">Não foi possível desbloquear. %s</string>

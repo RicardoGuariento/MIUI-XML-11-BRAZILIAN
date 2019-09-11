@@ -226,7 +226,7 @@
   <string name="hints_app_uninstall_residual">Limpar resíduos de arquivos desinstalados?</string>
   <string name="hints_cache_header_left">Arquivos de cache</string>
   <string name="hints_cache_msd_desc">excluir actualizações delta não vai influenciar a utilização de aplicativos</string>
-  <string name="hints_cache_msd_title">Actualização delta</string>
+  <string name="hints_cache_msd_title">Atualização delta</string>
   <string name="hints_cleanfinish">Limpeza concluída</string>
   <string name="hints_deepclean_list_item_from">De %s</string>
   <string name="hints_deepclean_scanning">A verificar %s</string>
@@ -312,10 +312,10 @@
   <string name="menu_view">Ver na pasta</string>
   <string name="month_day_format">dd MMMM</string>
   <string name="msg_cleanup_db_update_checking">A verificar actualizações…</string>
-  <string name="msg_cleanup_db_update_time_unknown">Última actualização: Desconhecida</string>
-  <string name="msg_update_error_code_already_running">A actualizar…</string>
+  <string name="msg_cleanup_db_update_time_unknown">Última atualização: Desconhecida</string>
+  <string name="msg_update_error_code_already_running">A atualizar…</string>
   <string name="msg_update_error_code_network_error">Não é possível ligar à rede</string>
-  <string name="msg_update_error_code_no_newer_db">Limpeza está actualizado</string>
+  <string name="msg_update_error_code_no_newer_db">Limpeza está atualizado</string>
   <string name="msg_update_error_code_success">Concluído</string>
   <string name="msg_update_error_code_unknown_error">Servidores ocupados. Aguarde um momento e tente novamente</string>
   <string name="name_debuglog_dir">Registo de depuração BSP</string>
@@ -358,7 +358,7 @@
   <string name="pref_category_title_other_clean_settings">Configurações adicionais</string>
   <string name="pref_content_cleanup_white_list_none">Nenhuma</string>
   <string name="pref_summary_auto_clean_and_alert">Programar limpeza para iniciar automaticamente</string>
-  <string name="pref_summary_auto_update_cleanup_db">Última actualização %s</string>
+  <string name="pref_summary_auto_update_cleanup_db">Última atualização %s</string>
   <string name="pref_summary_cleanup_white_list">Prevenir que os arquivos selecionados sejam limpos</string>
   <string name="pref_summary_expand_cache_group">Mostrar detalhes da cache automaticamente</string>
   <string name="pref_summary_garbage_auto_clean_content">Escolha quais os itens a limpar automaticamente</string>
@@ -368,7 +368,7 @@
   <string name="pref_summary_open_optimizer_cloud_scan">Carregar e comparar os nomes dos arquivos desconhecidos com as configurações online</string>
   <string name="pref_title_apps_cleanup_size">​Quando o tamanho da cache atingir</string>
   <string name="pref_title_auto_clean_content_choose">Escolher itens a limpar</string>
-  <string name="pref_title_auto_update_cleanup_db">Actualizar automaticamente</string>
+  <string name="pref_title_auto_update_cleanup_db">Atualizar automaticamente</string>
   <string name="pref_title_choose_engine">Configurações</string>
   <string name="pref_title_clean_alert">Limpar automaticamente</string>
   <string name="pref_title_cleanup_white_list">Excepções</string>
@@ -423,7 +423,7 @@
   <string name="summary_delete_cache">Limpar cache os aplicativos selecionadas?</string>
   <string name="summary_delete_large_file">excluir arquivos selecionados?</string>
   <string name="summary_delete_video">excluir vídeos selecionados?</string>
-  <string name="summary_optimizer">Esta funcionalidade envia os nomes das pastas para actualizar a base de dados online do Cheetah Mobile e requer o ID do seu dispositivo</string>
+  <string name="summary_optimizer">Esta funcionalidade envia os nomes das pastas para atualizar a base de dados online do Cheetah Mobile e requer o ID do seu dispositivo</string>
   <string name="sys_cache_on_sdcard_item_name">Cache</string>
   <string name="text_optimizer">Enviar nomes das pastas</string>
   <string name="there_is_no">Limpeza concluída. Volte mais tarde</string>
@@ -437,7 +437,7 @@
   <string name="tips_of_cloud_service">Inicie sessão na sua Conta Mi para utilizar mais serviços Mi</string>
   <string name="tips_of_connect">Ligar à Internet para utilizar um conjunto completo de funcionalidades de segurança</string>
   <string name="tips_of_garbage_cloud_scan">Encontrar lixo oculto com a verificação na nuvem</string>
-  <string name="tips_of_garbage_data_set">Actualizar base de dados da Limpeza para encontrar mais lixo no seu dispositivo</string>
+  <string name="tips_of_garbage_data_set">Atualizar base de dados da Limpeza para encontrar mais lixo no seu dispositivo</string>
   <string name="tips_of_network_speed_set">Ver a velocidade da rede na barra de estado</string>
   <string name="tips_of_operators_set">Ajustar estatísticas de utilização de dados automaticamente</string>
   <string name="tips_of_package_set">Definir o seu plano de dados e controlar a quantidade de tráfego que utiliza</string>

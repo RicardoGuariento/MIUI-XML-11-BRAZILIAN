@@ -54,7 +54,7 @@
   <string name="face_unlock_passwork">Utilizar palavra-passe</string>
   <string name="face_unlock_passwork_and_fingerprint">Utilizar palavra-passe ou rosto</string>
   <string name="face_unlock_quality">Não foi possível ver o seu rosto</string>
-  <string name="face_unlock_reenter_content">O desbloqueio por rosto está a ser actualizado. Toque para gravar os dados novamente</string>
+  <string name="face_unlock_reenter_content">O desbloqueio por rosto está a ser atualizado. Toque para gravar os dados novamente</string>
   <string name="face_unlock_reenter_title">Grave os dados do seu rosto novamente</string>
   <string name="face_unlock_reveal_eye">Mostre os seus olhos</string>
   <string name="face_unlock_reveal_mouth">Mostre os seus lábios</string>
@@ -62,7 +62,7 @@
   <string name="face_unlock_rotated_left">Vire a sua cabeça para a direita</string>
   <string name="face_unlock_rotated_right">Vire a sua cabeça para a esquerda</string>
   <string name="face_unlock_stay_away_screen">Mantenha-se 25 a 40 cm afastado do tela</string>
-  <string name="fingerprint_add_text">O interface foi actualizado. Adicione a sua impressão digital novamente</string>
+  <string name="fingerprint_add_text">O interface foi atualizado. Adicione a sua impressão digital novamente</string>
   <string name="fingerprint_add_title">Adicionar impressão digital</string>
   <string name="fingerprint_again_identified_msg">A sua impressão digital está activa. Utilize-a para desbloquear o dispositivo ou introduzir a palavra-passe</string>
   <string name="fingerprint_enter_second_psw_msg">Introduzir a palavra-passe do Segundo espaço para poder utilizar as impressões digitais</string>

@@ -84,7 +84,7 @@
   <string name="android_upgrading_complete">A concluir o arranque</string>
   <string name="android_upgrading_fstrim">A optimizar armazenamento</string>
   <string name="android_upgrading_starting_apps">A iniciar aplicativos</string>
-  <string name="android_upgrading_title">O Android está a ser actualizado…</string>
+  <string name="android_upgrading_title">O Android está a ser atualizado…</string>
   <string name="anr_activity_application">%2$s não está a responder</string>
   <string name="anr_activity_process">%1$s não está a responder</string>
   <string name="anr_application_process">%1$s não está a responder</string>
@@ -712,7 +712,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="owner_name">Proprietário</string>
   <string name="package_deleted_device_owner">Eliminado pelo administrador</string>
   <string name="package_installed_device_owner">Instalado pelo administrador</string>
-  <string name="package_updated_device_owner">Actualizado pelo administrador</string>
+  <string name="package_updated_device_owner">Atualizado pelo administrador</string>
   <string name="passwordIncorrect">Palavra-passe incorrecta</string>
   <string name="password_keyboard_label_alpha_key">ABC</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
@@ -1026,10 +1026,10 @@ para a conta %s"</string>
   <string name="reboot_safemode_title">Reiniciar no modo de segurança</string>
   <string name="reboot_to_reset_message">A reiniciar…</string>
   <string name="reboot_to_reset_title">Reposição de dados de fábrica</string>
-  <string name="reboot_to_update_package">A processar o pacote de actualização…</string>
-  <string name="reboot_to_update_prepare">A preparar para actualizar…</string>
+  <string name="reboot_to_update_package">A processar o pacote de atualização…</string>
+  <string name="reboot_to_update_prepare">A preparar para atualizar…</string>
   <string name="reboot_to_update_reboot">A reiniciar…</string>
-  <string name="reboot_to_update_title">Actualização do sistema Android</string>
+  <string name="reboot_to_update_title">Atualização do sistema Android</string>
   <string name="recent_tasks_title">Recente</string>
   <string name="relationTypeAssistant">Assistente</string>
   <string name="relationTypeBrother">Irmão</string>

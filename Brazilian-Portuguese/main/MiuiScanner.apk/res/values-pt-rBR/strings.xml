@@ -139,7 +139,7 @@
   <string name="qr_code_details">Detalhes do código QR:</string>
   <string name="recognize">Digitalizar</string>
   <string name="recognize_fail">Não foi possível ler o código</string>
-  <string name="refresh">Actualizar</string>
+  <string name="refresh">Atualizar</string>
   <string name="scan_result">Resultados</string>
   <string name="sdk_not_ready">A preparar SDK. Tente novamente mais tarde</string>
   <string name="search_menu_title">Pesquisa</string>

@@ -16,11 +16,11 @@
   <string name="debug_tool_message">Está prestes a copiar a base de dados do seu calendário para o cartão SD/armazenamento USB que pode ser lida por qualquer aplicação e enviar a base de dados por email. Lembre-se de excluir a cópia assim que o email que está prestes a enviar for recebido</string>
   <string name="debug_tool_start_button">Iniciar</string>
   <string name="holiday_data_no_network">Não é possível ligar à rede. Verifique a sua ligação de dados e tente novamente</string>
-  <string name="holiday_data_update_failed">Não foi possível actualizar. Verifique a sua ligação de dados e tente novamente</string>
-  <string name="holiday_data_update_succeed">Actualização concluída</string>
-  <string name="holiday_data_updating">A actualizar…</string>
-  <string name="holiday_update_summary">Toque para actualizar a informação do calendário</string>
-  <string name="holiday_update_title">Actualização disponível</string>
+  <string name="holiday_data_update_failed">Não foi possível atualizar. Verifique a sua ligação de dados e tente novamente</string>
+  <string name="holiday_data_update_succeed">Atualização concluída</string>
+  <string name="holiday_data_updating">A atualizar…</string>
+  <string name="holiday_update_summary">Toque para atualizar a informação do calendário</string>
+  <string name="holiday_update_title">Atualização disponível</string>
   <string name="provider_label">Calendário</string>
-  <string name="upgrade_msg">A actualizar base de dados do calendário…</string>
+  <string name="upgrade_msg">A atualizar base de dados do calendário…</string>
 </resources>

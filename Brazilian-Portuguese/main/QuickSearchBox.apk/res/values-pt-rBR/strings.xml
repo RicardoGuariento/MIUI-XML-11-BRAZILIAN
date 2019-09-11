@@ -117,12 +117,12 @@ Pode alterar esta definição em Configurações &gt; Aplicativos de sistema &gt
   <string name="system_search_category_title">Telefone</string>
   <string name="top_clicked">Itens frequentes</string>
   <string name="update_check">Verificar actualizações</string>
-  <string name="update_right_now">Actualizar</string>
-  <string name="update_title">Actualização disponível</string>
+  <string name="update_right_now">Atualizar</string>
+  <string name="update_title">Atualização disponível</string>
   <string name="update_version_alpha">Alpha</string>
   <string name="update_version_dev">Beta</string>
   <string name="update_version_stable">Estável</string>
-  <string name="updated_title">A MIUI está actualizada</string>
+  <string name="updated_title">A MIUI está atualizada</string>
   <string name="voice_search_hint_title">Tente dizer:</string>
   <string name="web_search_results">Google</string>
 </resources>

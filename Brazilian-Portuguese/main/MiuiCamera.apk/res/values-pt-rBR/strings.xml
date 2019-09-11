@@ -267,7 +267,7 @@ no modo Retrato"</string>
   <string name="live_speed_normal">Regular</string>
   <string name="live_speed_slow">Lento</string>
   <string name="live_sticker_network_error_hint">Erro de rede</string>
-  <string name="live_sticker_updating">A actualizar…</string>
+  <string name="live_sticker_updating">A atualizar…</string>
   <string name="lying_direct_hint">Orientação actual</string>
   <string name="macro_mode">Macro</string>
   <string name="macro_mode_tip">A distância entre as lentes e o objeto não deve exceder 10cm</string>
@@ -678,6 +678,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="ultra_wide_close_tip">Ângulo amplo desligado</string>
   <string name="ultra_wide_mode">Ângulo amplo</string>
   <string name="ultra_wide_mode_use_hint_text">"Utilize este modo para incluir mais da cena na sua foto.
+O modo ângulo amplo vem ajudar quando não se consegue mover para longe da cena"</string>
+<string name="ultra_wide_mode_use_hint_text_sat">"Experimente o modo 0.6X grande angular incluir mais da cena na sua foto.
 O modo ângulo amplo vem ajudar quando não se consegue mover para longe da cena"</string>
   <string name="ultra_wide_open_tip">Wide angle mode</string>
   <string name="ultra_wide_recommend_tip_hint">Try wide angle mode</string>
