@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Serviço de rádio</string>
+  <string name="notification_rec_title">Toque para ver gravação</string>
+  <string name="record_completed">Gravação concluída</string>
+</resources>
