@@ -1506,7 +1506,7 @@ Deslize para baixo para bloquear"</string>
   <string name="stream_alarm">Alarmes</string>
   <string name="stream_bluetooth_sco">Bluetooth</string>
   <string name="stream_dtmf">Multifrequência de duas tonalidades</string>
-  <string name="stream_music">Multimédia</string>
+  <string name="stream_music">Multimídia</string>
   <string name="stream_notification">Notificações</string>
   <string name="stream_ring">Toques</string>
   <string name="stream_system">Sistema</string>

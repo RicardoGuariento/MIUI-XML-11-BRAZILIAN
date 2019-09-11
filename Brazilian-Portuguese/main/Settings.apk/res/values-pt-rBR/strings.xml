@@ -2649,11 +2649,11 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="max_fingerprint_number_reached">Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma nova impressão digital, elimine primeiro uma impressão digital existente</string>
   <string name="maximum_memory_use">Utilização máxima da memória</string>
   <string name="media_button">Botão mídias</string>
-  <string name="media_category">Multimédia</string>
+  <string name="media_category">Multimídia</string>
   <string name="media_feedback_enable_title">Vibrar com o ritmo</string>
   <string name="media_volume_option_title">Volume mídias</string>
   <string name="media_volume_summary">Definir volume para música e vídeos</string>
-  <string name="media_volume_title">Multimédia</string>
+  <string name="media_volume_title">Multimídia</string>
   <string name="mem_details_title">Detalhes da memória</string>
   <string name="mem_state_subtitle">Estados da memória</string>
   <string name="mem_use_free_type">Livre</string>
@@ -2681,7 +2681,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="memory_maximum_usage">Utilização máxima</string>
   <string name="memory_media_cache_usage">Dados em cache</string>
   <string name="memory_media_misc_usage">Diversos</string>
-  <string name="memory_media_usage">Multimédia</string>
+  <string name="memory_media_usage">Multimídia</string>
   <string name="memory_music_usage">Áudio (música, toques, podcasts, etc.)</string>
   <string name="memory_performance">Desempenho</string>
   <string name="memory_rightvalue">Total: %s</string>
@@ -2752,7 +2752,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="misc_files_selected_count">selecionados %1$d de %2$d</string>
   <string name="miui_allow_alarm">Alarmes</string>
   <string name="miui_allow_light">LED de notificações</string>
-  <string name="miui_allow_music">Multimédia</string>
+  <string name="miui_allow_music">Multimídia</string>
   <string name="miui_allow_vibrate">Vibrações</string>
   <string name="miui_data_usage_menu_metered">Pontos de Acesso Móvel</string>
   <string name="miui_experience_optimization">Ligar optimização MIUI</string>

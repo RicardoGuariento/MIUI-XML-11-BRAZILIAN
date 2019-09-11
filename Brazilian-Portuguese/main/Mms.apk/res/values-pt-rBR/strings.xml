@@ -462,7 +462,7 @@ Esta mensagem pode não ser solicitada"</string>
   <string name="pref_forward_title">Reencaminhar</string>
   <string name="pref_hide_verification_code_summary">Ocultar automaticamente OTP nas notificações de mensagens no bloqueio de tela com segurança</string>
   <string name="pref_messages_to_save">Definir o número de mensagens a salvar</string>
-  <string name="pref_mms_settings_title">Mensagens Multimédia (MMS)</string>
+  <string name="pref_mms_settings_title">Mensagens Multimídia (MMS)</string>
   <string name="pref_msg_trash_bin_title">Mensagens eliminadas</string>
   <string name="pref_notification_settings_title">Notificações</string>
   <string name="pref_other_title">Configurações adicionais</string>

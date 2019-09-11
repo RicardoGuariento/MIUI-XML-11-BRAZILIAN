@@ -844,7 +844,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permgrouplab_location">Localização</string>
   <string name="permgrouplab_microphone">Microfone</string>
   <string name="permgrouplab_phone">Telefone</string>
-  <string name="permgrouplab_sensors">Sensores de corpo</string>
+  <string name="permgrouplab_sensors">Sensores corporais</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Armazenamento</string>
   <string name="permission">Permissão</string>
@@ -1270,7 +1270,7 @@ Ouvir níveis elevados de volume durante longos períodos pode ser prejudicial p
   <string name="volume_call">Volume em chamada</string>
   <string name="volume_icon_description_bluetooth">Bluetooth</string>
   <string name="volume_icon_description_incall">Chamada</string>
-  <string name="volume_icon_description_media">Multimédia</string>
+  <string name="volume_icon_description_media">Multimídia</string>
   <string name="volume_icon_description_notification">Notificação</string>
   <string name="volume_icon_description_ringer">Toque</string>
   <string name="volume_music">Volume mídias</string>

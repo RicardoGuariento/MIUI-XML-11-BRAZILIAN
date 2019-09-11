@@ -271,8 +271,8 @@
   <string name="app_permission_use_group_mic_des">Gravar áudio</string>
   <string name="app_permission_use_group_phone">Telefone</string>
   <string name="app_permission_use_group_phone_des">Ler e adicionar itens ao histórico de chamadas, efectuar e acessaro estado das chamadas</string>
-  <string name="app_permission_use_group_sensor">Sensores de corpo</string>
-  <string name="app_permission_use_group_sensor_des">Ler os dados gerados pelos sensores de corpo</string>
+  <string name="app_permission_use_group_sensor">Sensores corporais</string>
+  <string name="app_permission_use_group_sensor_des">Ler os dados gerados pelos sensores corporais</string>
   <string name="app_permission_use_group_sms">Mensagens</string>
   <string name="app_permission_use_group_sms_des">Enviar, receber e ler mensagens</string>
   <string name="app_permission_use_group_storage">Armazenamento</string>

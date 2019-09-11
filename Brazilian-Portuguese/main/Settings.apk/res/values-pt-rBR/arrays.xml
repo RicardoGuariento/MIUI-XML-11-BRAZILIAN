@@ -49,7 +49,7 @@
         <item>Local</item>
         <item>Pessoal</item>
         <item>Mensagens</item>
-        <item>Multimédia</item>
+        <item>Multimídia</item>
         <item>Dispositivo</item>
     </string-array>
     <string-array name="app_ops_labels">
@@ -108,7 +108,7 @@
         <item>Utilizar SIP</item>
         <item>Processar chamada</item>
         <item>Impressão digital</item>
-        <item>Sensores de corpo</item>
+        <item>Sensores corporais</item>
         <item>Ler transmissões celulares</item>
         <item>Localização falsa</item>
         <item>Ler o armazenamento</item>
@@ -174,7 +174,7 @@
         <item>utilizar SIP</item>
         <item>processar chamada</item>
         <item>impressão digital</item>
-        <item>sensores de corpo</item>
+        <item>sensores corporais</item>
         <item>ler transmissões celulares</item>
         <item>localização falsa</item>
         <item>ler o armazenamento</item>
@@ -723,7 +723,7 @@
     </string-array>
     <string-array name="default_vol_stream_entries">
         <item>Toque</item>
-        <item>Multimédia</item>
+        <item>Multimídia</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nunca</item>

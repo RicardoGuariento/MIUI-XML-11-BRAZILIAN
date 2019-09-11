@@ -590,7 +590,7 @@
   <string name="stock_web_bottom_text">Open the client to view more info</string>
   <string name="stock_web_lable">Stocks</string>
   <string name="study_parent">Documentos</string>
-  <string name="system_favorite_dialog_link">Security &amp; privacy</string>
+  <string name="system_favorite_dialog_link">Security e privacy</string>
   <string name="system_favorite_dialog_message">Add your favorites from other apps here.</string>
   <string name="system_favorite_dialog_negative">Cancel</string>
   <string name="system_favorite_dialog_positive">Allow</string>

@@ -263,7 +263,7 @@ Todos os dados existentes da aplicação serão guardados"</string>
   <string name="permission_action_prompt">Perguntar</string>
   <string name="permission_action_reject">Negar</string>
   <string name="permission_group_title_charges_related">Telefone</string>
-  <string name="permission_group_title_media_related">Multimédia</string>
+  <string name="permission_group_title_media_related">Multimídia</string>
   <string name="permission_group_title_others">Outras</string>
   <string name="permission_group_title_privacy_related">Privacidade</string>
   <string name="permission_group_title_settings_related">Configurações</string>

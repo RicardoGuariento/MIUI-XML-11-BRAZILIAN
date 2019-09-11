@@ -582,7 +582,7 @@ efeitos de fotos"</string>
   <string name="filter_category_portrait">Retrato</string>
   <string name="filter_category_scene">Paisagem</string>
   <string name="filter_category_sky">Céu</string>
-  <string name="filter_film_blackwhite">P&amp;B</string>
+  <string name="filter_film_blackwhite">Preto e branco</string>
   <string name="filter_film_dew">Sereno</string>
   <string name="filter_film_fade">Desvanecer</string>
   <string name="filter_film_film">Filme</string>
@@ -1136,7 +1136,7 @@ para personalizar a galeria"</string>
   <string name="remove_to_album_title">Unir com</string>
   <string name="remove_to_other_album">Unir com uma pessoa diferente</string>
   <string name="removed_from_favorites_desc">Removido dos favoritos</string>
-  <string name="remover_edit_type_free">Objectos</string>
+  <string name="remover_edit_type_free">Objetos</string>
   <string name="remover_edit_type_line">Linhas</string>
   <string name="remover_erase_aera_too_big">A área de remoção é demasiado grande</string>
   <string name="remover_menu_processing">A processar</string>
@@ -1229,7 +1229,7 @@ para personalizar a galeria"</string>
   <string name="search_title_people">Pessoas</string>
   <string name="search_title_recommend">Recomendado</string>
   <string name="search_title_suggestion">Sugestões</string>
-  <string name="search_title_tag">Objectos</string>
+  <string name="search_title_tag">Objetos</string>
   <string name="searching_cast_devices">A procurar projector…</string>
   <string name="secret_album_card_description">O melhor sítio para os seus segredos</string>
   <string name="secret_album_card_title">Álbuns ocultos</string>

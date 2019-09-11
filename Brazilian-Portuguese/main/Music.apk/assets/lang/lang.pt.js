@@ -145,7 +145,7 @@
   "enter_garbage_clean": "Limpar armazenamento interno",
   "insufficient_space": "Sem espaço suficiente no armazenamento interno do dispositivo",
   "keep_queued_download": "Manter",
-  "media_filter": "Multimédia",
+  "media_filter": "Multimídia",
   "menu_all_task_pause": "Pausar tudo",
   "menu_all_task_start": "Iniciar tudo",
   "menu_enter_edit_mode": "Editor",
