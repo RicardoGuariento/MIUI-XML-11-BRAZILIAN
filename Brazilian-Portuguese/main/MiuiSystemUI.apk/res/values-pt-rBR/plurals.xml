@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="accessibility_recent_task_enter">
-        <item quantity="other">Abriu os Recentes. Aplicações disponíveis: %d</item>
-        <item quantity="one">Abriu os Recentes. Aplicações disponíveis: %d</item>
+        <item quantity="other">Abriu os Recentes. Aplicativos disponíveis: %d</item>
+        <item quantity="one">Abriu os Recentes. Aplicativos disponíveis: %d</item>
     </plurals>
     <plurals name="accessibility_recent_task_first_enter_tips">
-        <item quantity="other">Abriu os Recentes. Aplicações disponíveis: %d. Deslizar para cima para remover, deslizar para baixo para bloquear</item>
-        <item quantity="one">Abriu os Recentes. Aplicações disponíveis: %d. Deslizar para cima para remover, deslizar para baixo para bloquear</item>
+        <item quantity="other">Abriu os Recentes. Aplicativos disponíveis: %d. Deslizar para cima para remover, deslizar para baixo para bloquear</item>
+        <item quantity="one">Abriu os Recentes. Aplicativos disponíveis: %d. Deslizar para cima para remover, deslizar para baixo para bloquear</item>
     </plurals>
     <plurals name="auto_disconnect_timer_tip">
         <item quantity="other">A desligar em %1$d segundos</item>
@@ -129,7 +129,7 @@
         <item quantity="one">%1$d atalho vai ser mostrado na área de notificações</item>
     </plurals>
     <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d aplicações recentes</item>
+        <item quantity="other">%d aplicativos recentes</item>
         <item quantity="one">%d aplicação recente</item>
     </plurals>
     <plurals name="view_realtime_clear">

@@ -5,8 +5,8 @@
         <item quantity="one">Uma sugestão de preenchimento automático</item>
     </plurals>
     <plurals name="bugreport_countdown">
-        <item quantity="other">A tirar captura de ecrã para reporte de erros em %d segundos</item>
-        <item quantity="one">A tirar captura de ecrã para reporte de erros em %d segundo</item>
+        <item quantity="other">A tirar captura de tela para reporte de erros em %d segundos</item>
+        <item quantity="one">A tirar captura de tela para reporte de erros em %d segundo</item>
     </plurals>
     <plurals name="duration_days_relative">
         <item quantity="other">%d dias atrás</item>

@@ -166,7 +166,7 @@
         <item>4K (seguro)</item>
         <item>4K (redimensionado)</item>
         <item>4K (redimensionado, seguro)</item>
-        <item>720p, 1080p (ecrã duplo)</item>
+        <item>720p, 1080p (tela duplo)</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Desligado</item>
@@ -217,7 +217,7 @@
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Desligado</item>
-        <item>No ecrã como barras</item>
+        <item>No tela como barras</item>
         <item>Em adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
@@ -250,7 +250,7 @@
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>A carregar</item>
-        <item>MTP (Protocolo de transferência de multimédia)</item>
+        <item>MTP (Protocolo de transferência de mídias)</item>
         <item>PTP (Protocolo de transferência de imagens)</item>
         <item>RNDIS (Ethernet USB)</item>
         <item>Fonte de áudio</item>

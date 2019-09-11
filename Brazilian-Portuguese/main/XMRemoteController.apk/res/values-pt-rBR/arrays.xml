@@ -27,8 +27,8 @@
     </string-array>
     <string-array name="assistant_tab">
         <item>Vídeos</item>
-        <item>Capturas de ecrã</item>
-        <item>Aplicações</item>
+        <item>Capturas de tela</item>
+        <item>Aplicativos</item>
     </string-array>
     <string-array name="epg_channel_tab">
         <item>Concluídos</item>

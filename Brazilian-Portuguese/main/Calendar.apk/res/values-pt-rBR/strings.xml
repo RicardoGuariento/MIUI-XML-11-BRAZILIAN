@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessbility_suggestion_dropdown_closed">Sem sugestões</string>
-  <string name="accessbility_suggestion_dropdown_opened">Sugestão de contactos aberta</string>
+  <string name="accessbility_suggestion_dropdown_opened">Sugestão de contatos aberta</string>
   <string name="accessibility_add_attendee">Adicionar participante</string>
   <string name="accessibility_alarm_remind">Alarme dos lembretes</string>
   <string name="accessibility_all_day">Evento de dia inteiro</string>  
@@ -67,7 +67,7 @@
   <string name="chinese_leap">Intercalar</string>
   <string name="chips_action_cancel">Cancelar</string>
   <string name="chips_action_copy">Copiar</string>
-  <string name="chips_permission_text">Permitir sugestão de contactos</string>
+  <string name="chips_permission_text">Permitir sugestão de contatos</string>
   <string name="chongsha">Fantasmas</string>
   <string name="close_alarm">Desligar</string>
   <string name="copy_email">Copiar endereço de email</string>
@@ -108,16 +108,16 @@
   <string name="date_interval_start">De</string>
   <string name="date_interval_tab">Intervalo de datas</string>
   <string name="date_interval_text_to">A %1$s</string>
-  <string name="date_jump_hint">Ir directamente para uma data</string>
+  <string name="date_jump_hint">Ir diretamente para uma data</string>
   <string name="date_jump_title">Ir para a data</string>
   <string name="date_today">" (hoje)"</string>
   <string name="day_view_new_event_hint">+ Novo evento</string>
   <string name="default_reminder_later_time">Intervalo predefinido para \"Lembrar mais tarde\"</string>
   <string name="default_reminder_mode">Lembretes</string>
-  <string name="delete_recurring_event_title">Eliminar %s?</string>
-  <string name="delete_this_event_title">Eliminar este evento?</string>
-  <string name="description_calendar">Aplicações de sistema/Calendário</string>
-  <string name="description_calendar_edit_event">Aplicações de sistema/Calendário/Contas do calendário</string>
+  <string name="delete_recurring_event_title">excluir %s?</string>
+  <string name="delete_this_event_title">excluir este evento?</string>
+  <string name="description_calendar">Aplicativos de sistema/Calendário</string>
+  <string name="description_calendar_edit_event">Aplicativos de sistema/Calendário/Contas do calendário</string>
   <string name="description_calendar_huangli"/>
   <string name="description_calendar_subscribe_group"/>
   <string name="directory_searching_fmt">A pesquisar %s…</string>
@@ -133,7 +133,7 @@
   <string name="edit_event_all_day_label">Todo o dia</string>
   <string name="edit_event_anniversary_name_empty_hint">Introduza o nome do evento</string>
   <string name="edit_event_anniversary_name_hint">Evento</string>
-  <string name="edit_event_birthday_import_from_contact">Importar aniversários dos contactos</string>
+  <string name="edit_event_birthday_import_from_contact">Importar aniversários dos contatos</string>
   <string name="edit_event_birthday_name_empty_hint">Introduza um nome</string>
   <string name="edit_event_birthday_name_hint">Nome</string>
   <string name="edit_event_birthday_reminder_time">Hora do lembrete</string>
@@ -169,13 +169,13 @@
   <string name="empty_event">Não é possível criar eventos vazios</string>
   <string name="event_account">Conta</string>
   <string name="event_action_arrive_station">Estação de chegada</string>
-  <string name="event_action_delete">Eliminar</string>
+  <string name="event_action_delete">excluir</string>
   <string name="event_action_edit">Editar</string>
   <string name="event_all_day_label">Todo o dia</string>
   <string name="event_create">Novo evento</string>
   <string name="event_created_fail_text">Não foi possível criar um lembrete do evento</string>
   <string name="event_created_text">Lembrete do evento criado com sucesso</string>
-  <string name="event_delete">Eliminar evento</string>
+  <string name="event_delete">excluir evento</string>
   <string name="event_edit">Editar evento</string>
   <string name="event_info_descrip">Descrição</string>
   <string name="event_info_end">Fim</string>
@@ -213,7 +213,7 @@
   <string name="from_google_group_calendar">Calendário Google</string>
   <string name="gadget_no_events">Sem eventos para breve no calendário</string>
   <string name="gadget_title">Calendário</string>
-  <string name="guide_card_hint_text">Importar aniversários dos contactos</string>
+  <string name="guide_card_hint_text">Importar aniversários dos contatos</string>
   <string name="guide_card_close">Fechar</string>
   <string name="guide_card_import">Importar</string>
   <string name="guide_card_primary_text">Importar aniversário de amigos</string>
@@ -255,7 +255,7 @@
   <string name="lunar_to_solar"/>
   <string name="match_ed">Concluído</string>
   <string name="match_not_started">Não iniciado</string>
-  <string name="menu_general_preferences">Definições</string>
+  <string name="menu_general_preferences">Configurações</string>
   <string name="menu_reminder_preferences">Lembretes</string>
   <string name="missing_name">(Sem nome)</string>
   <string name="missing_required_permission">Restringiu permissões necessárias</string>
@@ -268,9 +268,9 @@
   <string name="miuishare_no_network">Não foi possível ligar à rede</string>
   <string name="miuishare_publish">Enviar</string>
   <string name="miuishare_share_done">Partilhado com sucesso</string>
-  <string name="miuishare_share_editor_title">Partilhar</string>
+  <string name="miuishare_share_editor_title">Compartilhar</string>
   <string name="miuishare_title_more">Mais</string>
-  <string name="miuishare_title_share">Partilhar</string>
+  <string name="miuishare_title_share">Compartilhar</string>
   <string name="modify_all">Alterar todos os eventos da série</string>
   <string name="modify_all_following">Alterar este e todos os eventos futuros</string>
   <string name="modify_event">Alterar apenas este evento</string>
@@ -298,7 +298,7 @@
   <string name="no_contact_birthday_hint">Sem aniversários para importar</string>
   <string name="no_events_hint">Sem eventos</string>
   <string name="no_network">"Não foi possível ligar à rede.
- Verifique as definições de rede e tente novamente"</string>
+ Verifique as configurações de rede e tente novamente"</string>
   <string name="no_network_btn">Tente novamente</string>
   <string name="no_title_label">(Sem título)</string>
   <string name="no_visiable_calendar_message">É necessário adicionar uma conta do calendário. Toque em \"Adicionar conta\" para continuar</string>
@@ -308,13 +308,13 @@
   <string name="notification_channel_name">Lembretes do calendário</string>
   <string name="notification_open_setting_button_exit">Não, obrigado</string>
   <string name="notification_open_setting_button_ok">Permitir</string>
-  <string name="notification_open_setting_message">Não vai receber notificações acerca de eventos até dar permissão ao Calendário para lhe enviar notificações</string>
+  <string name="notification_open_setting_message">Não vai receber notificações sobre de eventos até dar permissão ao Calendário para lhe enviar notificações</string>
   <string name="notification_open_setting_title">Permitir notificações de Calendário?</string>
   <string name="olympic_rank">Posição</string>
   <string name="olympic_total">Total</string>
   <string name="olympic_vs">VS</string>
   <string name="online_reminder_header_text">Memorizar</string>
-  <string name="path_calendar_settings">Calendário/Definições</string>
+  <string name="path_calendar_settings">Calendário/Configurações</string>
   <string name="pengzu">PANG</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
   <string name="pref_reminder_time">Hora do lembrete</string>
@@ -339,7 +339,7 @@
   <string name="preferences_notification_ringtone_title">Som</string>
   <string name="preferences_popup_alert_smart_summary">A MIUI vai identificar automaticamente quais os eventos mais relevantes</string>
   <string name="preferences_popup_alert_smart_summary_new">Eventos sensíveis ao tempo são os eventos com um tempo exacto</string>
-  <string name="preferences_popup_alert_smart_tips">Substituir as notificações tradicionais por alertas pop-up para evitar perder eventos importantes. Os alertas pop não vão aparecer quando estiver a jogar ou a ver vídeos em ecrã inteiro</string>
+  <string name="preferences_popup_alert_smart_tips">Substituir as notificações tradicionais por alertas pop-up para evitar perder eventos importantes. Os alertas pop não vão aparecer quando estiver a jogar ou a ver vídeos em tela inteiro</string>
   <string name="preferences_popup_alert_title">Alertas pop-up</string>
   <string name="preferences_title">Calendário</string>
   <string name="preferences_use_home_tz_descrip">Mostrar calendários e horários de eventos no seu fuso horário quando viajar</string>
@@ -402,7 +402,7 @@
   <string name="search_menu_title">Pesquisa</string>
   <string name="select_date">Ir para a data</string>
   <string name="select_today_tip">Hoje</string>
-  <string name="setting">Definições</string>
+  <string name="setting">Configurações</string>
   <string name="set_as_wallpaper">Definir como papel de parede</string>
   <string name="setting_about_calendar_version">"Versão do Calendário "</string>
   <string name="setting_about_imei">"IMEI "</string>
@@ -416,19 +416,19 @@
   <string name="setting_daysoff_update_schedule">A actualizar…</string>
   <string name="setting_daysoff_update_success">Actualizado com sucesso</string>
   <string name="setting_desc_import_todo">Importar tarefas programadas de Notas</string>
-  <string name="setting_features_title">Definições das funcionalidades</string>
+  <string name="setting_features_title">Configurações das funcionalidades</string>
   <string name="setting_holiday_display_desc">Os cartões de feriados estão localizados em baixo do calendário na página inicial</string>
   <string name="setting_holiday_reminder">Lembretes de feriados</string>
   <string name="setting_others">Adicionais</string>
   <string name="setting_sms_import">Importar eventos de SMS</string>
-  <string name="setting_title_about">Acerca de</string>
+  <string name="setting_title_about">Sobre de</string>
   <string name="setting_title_holiday_display">Mostrar feriados</string>
   <string name="setting_title_import_todo">Importar tarefas</string>
-  <string name="share_title">Partilhar</string>
+  <string name="share_title">Compartilhar</string>
   <string name="show_day_view">Mostrar dia</string>
   <string name="shortcut_new_event">Adicionar evento</string>
   <string name="shortcut_next_agenda">Próximo evento</string>
-  <string name="shortcut_settings">Definições</string>
+  <string name="shortcut_settings">Configurações</string>
   <string name="sms_import_description">Melhorar a gestão de envio das SMS</string>
   <string name="solar_lunar_convert_date"/>
   <string name="solar_lunar_convert_description"/>
@@ -443,7 +443,7 @@
   <string name="taishen">Filho de Deus</string>
   <string name="talk_back_month">Mês</string>
   <string name="talk_back_read_date">%1$s (%2$s segundo o calendário lunar)</string>
-  <string name="talk_back_setting">Definições</string>
+  <string name="talk_back_setting">Configurações</string>
   <string name="talk_back_tab_switch">Trocar vistas</string>
   <string name="template_announce_item_index">Evento %1$s de %2$s</string>
   <string name="text_year">Ano</string>
@@ -488,7 +488,7 @@
   <string name="user_notice_button_exit">Sair</string>
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_declaration_ignore">Não mostrar novamente</string>
-  <string name="user_notice_message">Tem de concordar com os nossos %1$s e %2$s antes de utilizar o Calendário. O Calendário necessita de aceder à sua localização, contactos e mensagens e à Internet. Concorda?</string>
+  <string name="user_notice_message">Tem de concordar com os nossos %1$s e %2$s antes de utilizar o Calendário. O Calendário necessita de acessar à sua localização, contatos e mensagens e à Internet. Concorda?</string>
   <string name="user_notice_title">Atenção</string>
   <string name="user_notification">Notificações</string>
   <string name="user_notification_descrip">Mostrar notificações quando o calendário for iniciado</string>

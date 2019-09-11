@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="about_smart_antispam_summary">Acerca desta funcionalidade</string>
+  <string name="about_smart_antispam_summary">Sobre desta funcionalidade</string>
   <string name="about_telephone_fraud">Proteja-se contra fraudes</string>
   <string name="account_address">Endereços</string>
   <string name="account_order">Histórico de encomendas</string>
@@ -43,14 +43,14 @@
   <string name="callrecordview_item_op_time_rejected">Rejeitada</string>
   <string name="callrecordview_item_op_time_short_incoming">"Recebida: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Efectuada: "</string>
-  <string name="check_network">Definições de rede</string>
+  <string name="check_network">Configurações de rede</string>
   <string name="choose_upload">Escolher ficheiro para enviar</string>
   <string name="colon">": "</string>
-  <string name="confirm_delete_all_call_log_title">Eliminar registos de chamadas?</string>
-  <string name="confirm_delete_call_log_title">Eliminar registos de chamadas?</string>
+  <string name="confirm_delete_all_call_log_title">excluir registos de chamadas?</string>
+  <string name="confirm_delete_call_log_title">excluir registos de chamadas?</string>
   <string name="confirm_to_add_blacklist">Bloquear este número?</string>
   <string name="confirm_to_remove_blacklist">Desbloquear este número?</string>
-  <string name="confirm_to_send_to_desktop">Colocar %s no ecrã inicial?</string>
+  <string name="confirm_to_send_to_desktop">Colocar %s na tela inicial?</string>
   <string name="contact_detail_calllog_call_note_tips">Notas de chamada</string>
   <string name="contact_detail_calllog_call_record_tips">Chamadas gravadas</string>
   <string name="content_desc_send_sms">Enviar SMS</string>
@@ -59,7 +59,7 @@
   <string name="custom_mark_category">Personalizado</string>
   <string name="data_error">Ocorreu um erro</string>
   <string name="data_error_w">Ocorreu um erro</string>
-  <string name="delete">Eliminar</string>
+  <string name="delete">excluir</string>
   <string name="do_not_remind_me">Não mostrar novamente</string>
   <string name="dont_enable">Desligar</string>
   <string name="download_completed">Ficheiro guardado em %s</string>
@@ -88,7 +88,7 @@
   <string name="general_favorite_title">Favoritos</string>
   <string name="general_follow_hint">Seguir %1$s para receber actualizações importantes</string>
   <string name="general_follow_hint_title">Sugestão</string>
-  <string name="general_menu_delete_recent">Eliminar recente</string>
+  <string name="general_menu_delete_recent">excluir recente</string>
   <string name="general_menu_unfavorite">Remover dos favoritos</string>
   <string name="general_menu_unfollow">Não seguir</string>
   <string name="general_no_yellow_page">A lista está vazia</string>
@@ -137,12 +137,12 @@
   <string name="menu_call_ip_number">Marcar chamada IP</string>
   <string name="menu_copy_text">Copiar para área de transferências</string>
   <string name="menu_correct_yellow_page">Reportar erros</string>
-  <string name="menu_delete_call_log">Eliminar registos de chamadas</string>
+  <string name="menu_delete_call_log">excluir registos de chamadas</string>
   <string name="menu_delete_one">Remover dos registos de chamadas</string>
   <string name="menu_enroll_in_yellow_page">Iniciar sessão nas páginas amarelas</string>
   <string name="menu_remove_black_list">Remover da lista de bloqueio</string>
   <string name="menu_remove_from_favorite">Remover dos favoritos</string>
-  <string name="menu_save_contact">Guardar número nos contactos</string>
+  <string name="menu_save_contact">Guardar número nos contatos</string>
   <string name="minimum_price">Mínimo %d EUR</string>
   <string name="mishop_web_payment_title">Pagamento Mi Store</string>
   <string name="miuishare_account_activate_confirmation">Activação necessária</string>
@@ -153,13 +153,13 @@
   <string name="miuishare_account_need_activate">A partilha Weibo necessita que a sua conta Weibo esteja ligada com a conta Xiaomi que ainda não está activada. Activar a sua conta agora?</string>
   <string name="miuishare_account_need_login">A partilha Weibo necessita que a sua conta Weibo esteja ligada com a conta Xiaomi que ainda não iniciou sessão. Iniciar sessão agora?</string>
   <string name="miuishare_app_name">Partilha MIUI</string>
-  <string name="miuishare_no_network">Sem redes para partilhar</string>
+  <string name="miuishare_no_network">Sem redes para compartilhar</string>
   <string name="miuishare_publish">Enviar</string>
   <string name="miuishare_qzone_title">Qzone</string>
   <string name="miuishare_share_done">O conteúdo partilhado foi enviado</string>
-  <string name="miuishare_share_editor_title">Partilhar</string>
+  <string name="miuishare_share_editor_title">Compartilhar</string>
   <string name="miuishare_title_more">Mais</string>
-  <string name="miuishare_title_share">Partilhar</string>
+  <string name="miuishare_title_share">Compartilhar</string>
   <string name="miuishare_wechat_timeline_title">Momentos Wechat</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="more_coupons">Todos os cupões</string>
@@ -207,7 +207,7 @@
   <string name="payment_unknown_status_summary">Verifique a sua ligação de rede e tente novamente</string>
   <string name="payment_unknown_status_title">Não foi possível confirmar o estado do pagamento</string>
   <string name="phone_event_setting_notice_text">Ao utilizar esta funcionalidade está a concordar com a nossa %1$s e %2$s</string>
-  <string name="phone_event_setting_notice_text_with_contacts_permission">Ao utilizar esta funcionalidade está a concordar com a nossa %1$s e %2$s. É necessário permissão para aceder aos seus contactos</string>
+  <string name="phone_event_setting_notice_text_with_contacts_permission">Ao utilizar esta funcionalidade está a concordar com a nossa %1$s e %2$s. É necessário permissão para acessar seus contatos</string>
   <string name="photo_count">%d total</string>
   <string name="pull_to_refresh_pull_label">Puxe para actualizar…</string>
   <string name="pull_to_refresh_refreshing_label">Aguarde…</string>
@@ -248,14 +248,14 @@ Total: %3$s EUR"</string>
   <string name="remember_preference">Memorizar preferência</string>
   <string name="remind_another_time">Não mostrar novamente</string>
   <string name="remind_user_confirm">OK</string>
-  <string name="remind_user_suspect_number_message">Aviso: Deve verificar sempre primeiro a identidade do autor da chamada ou vídeo antes de partilhar a sua informação pessoal</string>
+  <string name="remind_user_suspect_number_message">Aviso: Deve verificar sempre primeiro a identidade do autor da chamada ou vídeo antes de compartilhar a sua informação pessoal</string>
   <string name="remind_user_suspect_number_title">Números suspeitos</string>
   <string name="rmb">EUR</string>
   <string name="scan">Verificar</string>
   <string name="select_package_before_buy">Seleccionar pacote</string>
-  <string name="send_shortcut_already_exists">O atalho do ecrã inicial já existe</string>
+  <string name="send_shortcut_already_exists">O atalho do tela inicial já existe</string>
   <string name="send_shortcut_failed">Não é possível enviar</string>
-  <string name="send_shortcut_success">Colocado no ecrã inicial</string>
+  <string name="send_shortcut_success">Colocado na tela inicial</string>
   <string name="sending_shortcut">A enviar…</string>
   <string name="service_unavailiable">Serviço indisponível</string>
   <string name="sim1">SIM 1</string>
@@ -283,7 +283,7 @@ Total: %3$s EUR"</string>
   <string name="turn_on_smart_antispam_summary">Identificar e enviar os números de telefone desconhecidos do registo de chamadas e mensagens de texto</string>
   <string name="turn_on_smart_antispam_title">Identificação de chamadas</string>
   <string name="turn_on_yellowpage_service_title">Utilizar a identificação de chamadas</string>
-  <string name="uploads_disabled">O envio de ficheiros está desactivado</string>
+  <string name="uploads_disabled">O envio de arquivos está desactivado</string>
   <string name="user_agreement2">" Termos de Serviço"</string>
   <string name="user_agreement4">Política de Privacidade</string>
   <string name="user_notice_identify_summary_format">O seu telefone vai utilizar a base de dados da MIUI para bloquear chamadas indesejadas quando estiver ligado ao Wi-Fi. Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
@@ -298,7 +298,7 @@ Total: %3$s EUR"</string>
   <string name="yellow_page_website">Página oficial</string>
   <string name="yellowpage_navigation_network_location_enable">Permitir</string>
   <string name="yellowpage_navigation_network_location_enable_later">Agora não</string>
-  <string name="yellowpage_navigation_network_location_enabled">O acesso à localização está ligado. Pode desligá-lo em qualquer altura nas Definições</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Melhorar os resultados da pesquisa permitindo às Páginas amarelas aceder às suas informações de localização</string>
+  <string name="yellowpage_navigation_network_location_enabled">O acesso à localização está ligado. Pode desligá-lo em qualquer altura nas Configurações</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Melhorar os resultados da pesquisa permitindo às Páginas amarelas acessar às suas informações de localização</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Acesso à localização</string>
 </resources>

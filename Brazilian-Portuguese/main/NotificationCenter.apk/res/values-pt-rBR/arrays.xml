@@ -3,8 +3,8 @@
     <string-array name="drop_down_menu">
         <item>Ordenar por hora recebida</item>
         <item>Ordenar por número de notificações</item>
-        <item>Aplicações que podem mostrar notificações</item>
-        <item>Aplicações que não podem mostrar notificações</item>
+        <item>Aplicativos que podem mostrar notificações</item>
+        <item>Aplicativos que não podem mostrar notificações</item>
     </string-array>
     <string-array name="lock_screen_display_rules_no_password">
         <item>Mostrar conteúdo das notificações</item>

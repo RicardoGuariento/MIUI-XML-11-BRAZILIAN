@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="backup_items_sysdata_tailer">
-        <item quantity="other">%d ficheiros de sistema</item>
+        <item quantity="other">%d arquivos de sistema</item>
         <item quantity="one">%d ficheiro de sistema</item>
     </plurals>
     <plurals name="backup_items_app_tailer">
-        <item quantity="other">%d ficheiros de aplicações</item>
-        <item quantity="one">%d ficheiro de aplicações</item>
+        <item quantity="other">%d arquivos de aplicativos</item>
+        <item quantity="one">%d ficheiro de aplicativos</item>
     </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d itens</item>

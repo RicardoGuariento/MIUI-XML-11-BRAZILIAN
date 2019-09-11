@@ -27,36 +27,36 @@
         <item quantity="one">%1$d minuto atrás</item>
     </plurals>
     <plurals name="batch_delete_msg">
-        <item quantity="other">Eliminar %1$d contactos?</item>
-        <item quantity="one">Eliminar %1$d contacto?</item>
+        <item quantity="other">excluir %1$d contatos?</item>
+        <item quantity="one">excluir %1$d contacto?</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
-        <item quantity="other">Eliminar %1$d contactos</item>
-        <item quantity="one">Eliminar %1$d contacto</item>
+        <item quantity="other">excluir %1$d contatos</item>
+        <item quantity="one">excluir %1$d contacto</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Tocou %1$d vezes</item>
         <item quantity="one">Tocou %1$d vez</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%1$d contactos ou fotos ainda não foram sincronizados</item>
+        <item quantity="other">%1$d contatos ou fotos ainda não foram sincronizados</item>
         <item quantity="one">%1$d contacto ou foto ainda não foi sincronizado</item>
     </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">Eliminar %1$d contactos do cartão SIM?</item>
-        <item quantity="one">Eliminar contacto do cartão SIM?</item>
+        <item quantity="other">excluir %1$d contatos do cartão SIM?</item>
+        <item quantity="one">excluir contacto do cartão SIM?</item>
     </plurals>
     <plurals name="contacts_count">
-        <item quantity="other">%1$d contactos</item>
+        <item quantity="other">%1$d contatos</item>
         <item quantity="one">%1$d contacto</item>
     </plurals>
     <plurals name="device_import_done_toast">
-        <item quantity="other">%1$d contactos importados</item>
+        <item quantity="other">%1$d contatos importados</item>
         <item quantity="one">%1$d contacto importado</item>
     </plurals>
     <plurals name="device_import_progress_toast_plurals">
-        <item quantity="other">%1$d contactos importados</item>
-        <item quantity="one">%1$d contactos importados</item>
+        <item quantity="other">%1$d contatos importados</item>
+        <item quantity="one">%1$d contatos importados</item>
     </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Bloquear %1$d números de telefone?</item>
@@ -67,15 +67,15 @@
         <item quantity="one">Desbloquear %1$d número de telefone?</item>
     </plurals>
     <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">Cartão SIM pode armazenar %1$d contactos</item>
+        <item quantity="other">Cartão SIM pode armazenar %1$d contatos</item>
         <item quantity="one">Cartão SIM pode armazenar um contacto</item>
     </plurals>
     <plurals name="foundTooManyContacts_plurals">
-        <item quantity="other">Encontrou mais de %d contactos</item>
+        <item quantity="other">Encontrou mais de %d contatos</item>
         <item quantity="one">Encontrou mais de %d contacto</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">%1$d contactos adicionados</item>
+        <item quantity="other">%1$d contatos adicionados</item>
         <item quantity="one">%1$d contacto adicionado</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
@@ -87,15 +87,15 @@
         <item quantity="one">%1$d número</item>
     </plurals>
     <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Copiados %d contactos</item>
+        <item quantity="other">Copiados %d contatos</item>
         <item quantity="one">Copiado um contacto</item>
     </plurals>
     <plurals name="hint_account_contacts">
-        <item quantity="other">Encontrou %1$d contactos</item>
+        <item quantity="other">Encontrou %1$d contatos</item>
         <item quantity="one">Encontrou %1$d contacto</item>
     </plurals>
     <plurals name="hint_search_contacts">
-        <item quantity="other">%1$d contactos</item>
+        <item quantity="other">%1$d contatos</item>
         <item quantity="one">%1$d contacto</item>
     </plurals>
     <plurals name="hint_search_emails">
@@ -107,19 +107,19 @@
         <item quantity="one">%1$d número</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">%d contactos</item>
+        <item quantity="other">%d contatos</item>
         <item quantity="one">1 contacto</item>
     </plurals>
     <plurals name="listTotalAllContacts">
-        <item quantity="other">%d contactos</item>
+        <item quantity="other">%d contatos</item>
         <item quantity="one">1 contacto</item>
     </plurals>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d contactos com números de telefone</item>
+        <item quantity="other">%d contatos com números de telefone</item>
         <item quantity="one">1 contacto com número de telefone</item>
     </plurals>
     <plurals name="merge_contact_message_plurals">
-        <item quantity="other">%1$d contactos com informações iguais</item>
+        <item quantity="other">%1$d contatos com informações iguais</item>
         <item quantity="one">%1$d contacto com informações iguais</item>
     </plurals>
     <plurals name="merge_info">
@@ -160,11 +160,11 @@
         <item quantity="one">%1$d favorito</item>
     </plurals>
     <plurals name="pick_recent_contacts_list_title">
-        <item quantity="other">%1$d contactos recentes</item>
+        <item quantity="other">%1$d contatos recentes</item>
         <item quantity="one">%1$d contacto recente</item>
     </plurals>
     <plurals name="pick_recent_list_title">
-        <item quantity="other">%1$d contactos recentes</item>
+        <item quantity="other">%1$d contatos recentes</item>
         <item quantity="one">%1$d contacto recente</item>
     </plurals>
     <plurals name="searchFoundContacts">

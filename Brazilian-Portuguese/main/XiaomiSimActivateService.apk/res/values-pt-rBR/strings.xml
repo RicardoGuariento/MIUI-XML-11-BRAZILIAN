@@ -118,7 +118,7 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="phone_verify_text">%1$s não vai obter o seu número de telefone apenas verificar se é válido. Concorda?</string>
   <string name="phone_verify_title">Permitir que %1$s verifique o seu número de telefone</string>
   <string name="privacy_revoke_failed_msg">AA activação necessita de autorização para que as Mensagens possam obter o seu número de telefone</string>
-  <string name="privacy_revoke_tips">Após revogar a autorização, a aplicação vai parar de reunir dados e eliminar todos os seus dados dos servidores. Revogar a autorização mesmo assim?</string>
+  <string name="privacy_revoke_tips">Após revogar a autorização, o aplicativo vai parar de reunir dados e excluir todos os seus dados dos servidores. Revogar a autorização mesmo assim?</string>
   <string name="sim_unactivated_title">O seu cartão SIM não está activado</string>
   <string name="waiting_sim_in_service">A aguardar pela activação do SIM</string>
 </resources>

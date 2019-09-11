@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_sd_fail">Não foi possível aceder ao armazenamento USB</string>
+  <string name="access_sd_fail">Não foi possível acessaro armazenamento USB</string>
   <string name="accessibility_ai_scene_off">Câmara IA desligada</string>
   <string name="accessibility_ai_scene_on">Câmara IA ligada</string>
   <string name="accessibility_audio_shutter_bg">Som do disparo</string>
@@ -18,8 +18,8 @@
   <string name="accessibility_camera_picker">Trocar câmara frontal e traseira</string>
   <string name="accessibility_camera_picker_finish">Trocadas com sucesso</string>
   <string name="accessibility_camera_shutter_finish">Tirou uma foto com sucesso</string>
-  <string name="accessibility_camera_ultra_wide_bokeh_off">Modo ecrã inteiro desligado</string>
-  <string name="accessibility_camera_ultra_wide_bokeh_on">Modo ecrã inteiro ligado</string>
+  <string name="accessibility_camera_ultra_wide_bokeh_off">Modo tela inteiro desligado</string>
+  <string name="accessibility_camera_ultra_wide_bokeh_on">Modo tela inteiro ligado</string>
   <string name="accessibility_closed">Desligou</string>
   <string name="accessibility_effect_mode_button">Botão de efeitos</string>
   <string name="accessibility_filter_close_panel">Menu de filtros fechado</string>
@@ -50,8 +50,8 @@
   <string name="accessibility_pull_down_to_open_camera">Puxar para abrir a câmara</string>
   <string name="accessibility_review_thumbnail">Foto mais recente</string>
   <string name="accessibility_selected">Itens seleccionados</string>
-  <string name="accessibility_setting">Definições</string>
-  <string name="accessibility_setting_button">Botão de definições adicionais</string>
+  <string name="accessibility_setting">Configurações</string>
+  <string name="accessibility_setting_button">Botão de configurações adicionais</string>
   <string name="accessibility_shutter_button">Botão de disparo</string>
   <string name="accessibility_stereo_button">Modo Câmara Dupla</string>
   <string name="accessibility_ultra_pixel_photography_32mp_off">32MP desligado</string>
@@ -136,7 +136,7 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="config_name_hht">Nocturno</string>
   <string name="config_name_magic">Magia</string>
   <string name="config_name_scene">Cenário</string>
-  <string name="config_name_setting">Definições</string>
+  <string name="config_name_setting">Configurações</string>
   <string name="config_name_sound">Áudio</string>
   <string name="config_name_straighten">Endireitar</string>
   <string name="config_name_super_resolution">Super resolução</string>
@@ -145,13 +145,13 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="confirm_install_scanner_message">O Digitalizador permite digitalizar códigos QR, códigos de barras,etc. Não tem de ligar à Internet para o instalar</string>
   <string name="confirm_install_scanner_title">Instalar o Digitalizador</string>
   <string name="confirm_location_alert">Guardar localização das fotos</string>
-  <string name="confirm_location_message">Etiquetar as suas fotos e vídeos com as localizações de onde foram tiradas. Outras aplicações podem aceder a esta informação assim como às imagens guardadas</string>
+  <string name="confirm_location_message">Etiquetar as suas fotos e vídeos com as localizações de onde foram tiradas. Outras aplicativos podem acessar esta informação assim como às imagens guardadas</string>
   <string name="confirm_location_title">Guardar localização das fotos?</string>
   <string name="confirm_recording_fail_calling_alert">Não é possível gravar durante uma chamada</string>
   <string name="confirm_recording_fail_recorder_busy_alert">Outra aplicação pode já estar a usar o microfone para gravar</string>
   <string name="confirm_recording_fail_title">Não é possível gravar</string>
-  <string name="confirm_restore_message">Restaurar as definições predefinidas da câmara?</string>
-  <string name="confirm_restore_title">Restaurar definições predefinidas</string>
+  <string name="confirm_restore_message">Restaurar as configurações predefinidas da câmara?</string>
+  <string name="confirm_restore_title">Restaurar configurações predefinidas</string>
   <string name="custom_watermark_contains_senstive_words">"A marca d'água não pode conter termos restringidos (%1$s)"</string>
   <string name="custom_watermark_tips">"Este texto vai aparecer na segunda linha da sua marca d'água. Apenas pode conter 18 caracteres"</string>
   <string name="custom_watermark_too_many_words">O texto que introduziu é demasiado longo</string>
@@ -211,9 +211,9 @@ se rodar o seu telefone"</string>
   <string name="front_camera_hint_text_rotate">Rode o seu telefone</string>
   <string name="hand_gesture_open_tip">Mostre a sua palma para a câmara para iniciar o temporizador</string>
   <string name="hand_gesture_tip">Disparo por palma</string>
-  <string name="hibernate_hint">Toque no ecrã para ligar a Câmara</string>
+  <string name="hibernate_hint">Toque na tela para ligar a Câmara</string>
   <string name="hint_ae_af_lock">A focagem/exposição automática foi bloqueada</string>
-  <string name="hint_ae_af_lock_extra">A focagem/exposição automática foi bloqueada. Troque para Google Lens nas definições da Câmara</string>
+  <string name="hint_ae_af_lock_extra">A focagem/exposição automática foi bloqueada. Troque para Google Lens nas configurações da Câmara</string>
   <string name="hint_ae_lock">A exposição automática foi bloqueada</string>
   <string name="hine_hht">"Com luz fraca, a câmara vai tirar várias fotos
 e criar uma com o mínimo de ruído"</string>
@@ -245,7 +245,7 @@ no modo Retrato"</string>
   <string name="lighting_pattern_stage">Estúdio</string>
   <string name="live_edit_exit_confirm">Parar</string>
   <string name="live_edit_exit_message">Parar agora?</string>
-  <string name="live_edit_share_title">Partilhar</string>
+  <string name="live_edit_share_title">Compartilhar</string>
   <string name="live_error_confirm">Ajustar tempo</string>
   <string name="live_error_message">Algumas funcionalidades não funcionam correctamente quando a hora do sistema está incorrecta</string>
   <string name="live_error_title">A hora do sistema está incorrecta</string>
@@ -258,8 +258,8 @@ no modo Retrato"</string>
   <string name="live_music_local_title">Dispositivo</string>
   <string name="live_music_network_exception">Erro de rede</string>
   <string name="live_music_network_exception_tips">Ocorreu um erro de rede. Toque para tentar novamente</string>
-  <string name="live_reverse_confirm">Eliminar</string>
-  <string name="live_reverse_message">Eliminar o item capturado anteriormente?</string>
+  <string name="live_reverse_confirm">excluir</string>
+  <string name="live_reverse_message">excluir o item capturado anteriormente?</string>
   <string name="live_speed_extreme_fast">Super rápido</string>
   <string name="live_speed_extreme_slow">Super lento</string>
   <string name="live_speed_fast">Rápido</string>
@@ -282,7 +282,7 @@ no modo Retrato"</string>
   <string name="module_name_professional">Pro</string>
   <string name="module_name_square">Quadrado</string>
   <string name="module_name_video">Vídeo</string>
-  <string name="multi_window_mode_not_supported">A câmara não funciona no modo ecrã dividido</string>
+  <string name="multi_window_mode_not_supported">A câmara não funciona no modo tela dividido</string>
   <string name="network_access_user_notice_title">A ligar à Internet</string>
   <string name="no_storage">Inserir cartão SD antes de utilizar a câmara</string>
   <string name="not_enough_space">Armazenamento interno está cheio</string>
@@ -292,7 +292,7 @@ no modo Retrato"</string>
   <string name="pano_how_to_use_prompt_slow_down">Abrande…</string>
   <string name="pano_how_to_use_prompt_to_move">Comece a mover devagar</string>
   <string name="pano_how_to_use_prompt_start">Toque na seta para mudar direcção e comece a mover-se lentamente</string>
-  <string name="path_settings">Aplicações de sistema/Câmara/Definições</string>
+  <string name="path_settings">Aplicativos de sistema/Câmara/Configurações</string>
   <string name="popup_tip_3d_beauty_intro_text">Beleza 3D</string>
   <string name="portait_effect_entry_blackwhite">Preto e branco</string>
   <string name="portait_effect_entry_cool">Menta</string>
@@ -322,7 +322,7 @@ o fundo nas suas fotos"</string>
 Mantenha a pessoa nítida ao desfocar o fundo"</string>
   <string name="portrait_mode_use_hint">"O Modo Retrato desfoca o fundo
 e traz as pessoas que estão na frente"</string>
-  <string name="pref_advance_settings">Definições adicionais</string>
+  <string name="pref_advance_settings">Configurações adicionais</string>
   <string name="pref_ai_detect">Detecção IA</string>
   <string name="pref_audio_focus_entry_front">Frente</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
@@ -330,7 +330,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_audio_focus_title">Focagem Áudio</string>
   <string name="pref_burst_shoot_title">Disparo Contínuo</string>
   <string name="pref_camcorder_settings">Vídeo</string>
-  <string name="pref_camcorder_settings_category">Definições da câmara</string>
+  <string name="pref_camcorder_settings_category">Configurações da câmara</string>
   <string name="pref_camera_ai_scene_title">Câmara IA</string>
   <string name="pref_camera_antibanding_entry_0">Desligado</string>
   <string name="pref_camera_antibanding_entry_3">Automático</string>
@@ -344,7 +344,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Centralizado</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Média de frames</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Medição pontual</string>
-  <string name="pref_camera_autoexposure_title">Definições de exposição automática</string>
+  <string name="pref_camera_autoexposure_title">Configurações de exposição automática</string>
   <string name="pref_camera_beautify_entry_auto">Desligado</string>
   <string name="pref_camera_beautify_entry_high">Alto</string>
   <string name="pref_camera_beautify_entry_low">Baixo</string>
@@ -421,13 +421,13 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_jpegquality_title">Qualidade de imagem</string>
   <string name="pref_camera_long_press_shutter_feature_title">Premir e segurar o botão de disparo</string>
   <string name="pref_camera_long_press_viewfinder_lock_ae_af">Bloqueio AE/AF</string>
-  <string name="pref_camera_long_press_viewfinder_title">Definições do visor</string>
+  <string name="pref_camera_long_press_viewfinder_title">Configurações do visor</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Disparo Contínuo</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focagem</string>
   <string name="pref_camera_long_pressing_shutter_title">Prima e segure o botão de disparo para bloquear AE/AF/AWB</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Bloqueio AE/AF</string>
-  <string name="pref_camera_lying_summary">Notificar acerca da orientação actual</string>
-  <string name="pref_camera_lying_title">Notificações acerca da orientação</string>
+  <string name="pref_camera_lying_summary">Notificar sobre da orientação actual</string>
+  <string name="pref_camera_lying_title">Notificações sobre da orientação</string>
   <string name="pref_camera_magic_mirror_title">Espelho Mágico</string>
   <string name="pref_camera_manual_mode_title">Manual</string>
   <string name="pref_camera_mfnr_sat_enable_title">Ligar MFNR</string>
@@ -471,7 +471,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_picturesize_entry_3328x1872">6M(3328x1872)</string>
   <string name="pref_camera_picturesize_entry_4208x2368">10M(4208x2368)</string>
   <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
-  <string name="pref_camera_picturesize_entry_fullscreen">Ecrã inteiro</string>
+  <string name="pref_camera_picturesize_entry_fullscreen">Tela inteiro</string>
   <string name="pref_camera_picturesize_entry_standard">Padrão 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Frame da câmara</string>
   <string name="pref_camera_portrait_mode_entry_off">O Modo Retrato está desligado</string>
@@ -502,7 +502,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_scenemode_title">Modo de Cena</string>
   <string name="pref_camera_settings">Dispositivo</string>
   <string name="pref_camera_settings_category">Câmara</string>
-  <string name="pref_camera_settings_title">Definições</string>
+  <string name="pref_camera_settings_title">Configurações</string>
   <string name="pref_camera_sharpness_title">Nitidez</string>
   <string name="pref_camera_show_gender_age_config_title">Idade e género</string>
   <string name="pref_camera_show_gender_age_entry_alias">Mostrar idade quando Embelezar estiver ligado</string>
@@ -513,7 +513,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_show_gender_age_title">Idade e género</string>
   <string name="pref_camera_snap_enable_title">Modo Disparo Contínuo</string>
   <string name="pref_camera_snap_entry_off">Desligado</string>
-  <string name="pref_camera_snap_entry_summary">Prima e segure o botão de Volume- com o ecrã desligado para tirar uma foto</string>
+  <string name="pref_camera_snap_entry_summary">Prima e segure o botão de Volume- com o tela desligado para tirar uma foto</string>
   <string name="pref_camera_snap_entry_take_movie">Disparo Contínuo (vídeos)</string>
   <string name="pref_camera_snap_entry_take_picture">Disparo Contínuo (fotos)</string>
   <string name="pref_camera_snap_label_take_movie">Vídeos</string>
@@ -578,7 +578,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_retain_camera_mode_title">Guardar modo anterior</string>
   <string name="pref_scan_qrcode_summary">Apenas a câmara traseira pode digitalizar códigos QR no modo \"Foto\"</string>
   <string name="pref_scan_qrcode_title">Digitalizar códigos QR</string>
-  <string name="pref_setting_title">Definições</string>
+  <string name="pref_setting_title">Configurações</string>
   <string name="pref_simple_hdr_entry_off">Desligado</string>
   <string name="pref_simple_hdr_entry_on">Ligado</string>
   <string name="pref_skin_beautify_color_title">Cores</string>
@@ -627,7 +627,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="record_back_pressed_hint">Prima Voltar novamente para terminar a gravação</string>
   <string name="screen_on_proximity_sensor_hint">Para desligar esta funcionalidade, prima os botões Volume + e Voltar simultaneamente</string>
   <string name="screen_on_proximity_sensor_summary">Não tape a área dos auriculares</string>
-  <string name="search_settings">Definições da câmara;Qualidade;Qualidade de imagem;Localização de imagem;Localização de foto;Detecção de rosto;Sons da câmara</string>
+  <string name="search_settings">Configurações da câmara;Qualidade;Qualidade de imagem;Localização de imagem;Localização de foto;Detecção de rosto;Sons da câmara</string>
   <string name="see_qrcode_detals">Ver detalhes do código QR</string>
   <string name="setting_top_text">Modos da câmara</string>
   <string name="simple_mode_button_asd_flash">Desligar Flash</string>
@@ -665,7 +665,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="time_lapse_error">Tamanho de vídeo inválido para gravação de Time Lapse</string>
   <string name="title_snap_double_confirm">Confirme novamente</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">O Disparo Contínuo não é suportado quando a captura de áudio está ligada</string>
-  <string name="toast_saving">A guardar fotos…</string>
+  <string name="toast_saving">A salvar fotos…</string>
   <string name="toast_start_audio_capture">Fazer um som para tirar uma foto</string>
   <string name="ubi_focus_capture_fail">Não foi possível tirar foto</string>
   <string name="ubifocus_capture_warning_message">Para melhorar o resultado da foto os objectos devem estar a menos de um metro de distância da lente</string>
@@ -673,8 +673,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
   <string name="ultra_pixel_photography_48mp_close_tip">48MP desligado</string>
   <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
-  <string name="ultra_wide_bokeh_close_tip">Modo ecrã inteiro desligado</string>
-  <string name="ultra_wide_bokeh_open_tip">Modo ecrã inteiro</string>
+  <string name="ultra_wide_bokeh_close_tip">Modo tela inteiro desligado</string>
+  <string name="ultra_wide_bokeh_open_tip">Modo tela inteiro</string>
   <string name="ultra_wide_close_tip">Ângulo amplo desligado</string>
   <string name="ultra_wide_mode">Ângulo amplo</string>
   <string name="ultra_wide_mode_use_hint_text">"Utilize este modo para incluir mais da cena na sua foto.
@@ -697,7 +697,7 @@ O modo ângulo amplo vem ajudar quando não se consegue mover para longe da cena
   <string name="view_privacy_policy">Ver Política de Privacidade</string>
   <string name="wait">Aguarde…</string>
   <string name="wideselfie_press_shoot_key_to_start">Toque no botão de disparo</string>
-  <string name="wideselfie_result_image_lossless">Não foi possível guardar o panorama</string>
+  <string name="wideselfie_result_image_lossless">Não foi possível salvar o panorama</string>
   <string name="wideselfie_rotate_slowly">Rode o telefone de lado lentamente</string>
   <string name="wideselfie_rotate_to_back">Incline o telefone para trás</string>
   <string name="wideselfie_rotate_to_front">Incline o telefone para a frente</string>

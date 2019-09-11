@@ -5,7 +5,7 @@
         <item quantity="one">Item a aguardar sincronização: %d</item>
     </plurals>
     <plurals name="dirty_contacts_count">
-        <item quantity="other">" %d contactos"</item>
+        <item quantity="other">" %d contatos"</item>
         <item quantity="one">" %d contacto"</item>
     </plurals>
     <plurals name="dirty_mms_count">

@@ -13,9 +13,9 @@ vá a %s noutro dispositivo ligado"</string>
   <string name="open_wifi_connect_and_use_data_summary">A utilizar dados móveis. Toque para trocar para Wi-Fi</string>
   <string name="open_wifi_connect_summary">Toque para ver detalhes</string>
   <string name="open_wifi_connect_title">Ligado a %1$s</string>
-  <string name="permdesc_accessDrm">Permitir que a aplicação aceda a conteúdo protegido por DRM</string>
+  <string name="permdesc_accessDrm">Permitir que o aplicativo aceda a conteúdo protegido por DRM</string>
   <string name="policy_name">Protocolo:%s</string>
-  <string name="pre_installed_apps">Aplicações pré-instaladas</string>
+  <string name="pre_installed_apps">Aplicativos pré-instaladas</string>
   <string name="settings_ad_loading">Aguarde…</string>
   <string name="settings_ad_loading_unavailable">Não foi possível carregar a informação</string>
   <string name="settings_license_activity_loading">Aguarde…</string>

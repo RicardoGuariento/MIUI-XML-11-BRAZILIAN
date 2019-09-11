@@ -17,12 +17,12 @@
         <item quantity="many">Arquivar %1$d conversas?</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Eliminar %1$d conversas?</item>
-        <item quantity="zero">Eliminar %1$d conversas?</item>
-        <item quantity="one">Eliminar esta conversa?</item>
-        <item quantity="two">Eliminar %1$d conversas?</item>
-        <item quantity="few">Eliminar %1$d conversas?</item>
-        <item quantity="many">Eliminar %1$d conversas?</item>
+        <item quantity="other">excluir %1$d conversas?</item>
+        <item quantity="zero">excluir %1$d conversas?</item>
+        <item quantity="one">excluir esta conversa?</item>
+        <item quantity="two">excluir %1$d conversas?</item>
+        <item quantity="few">excluir %1$d conversas?</item>
+        <item quantity="many">excluir %1$d conversas?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Estas conversas contêm várias mensagens. Deseja eliminá-las?</item>
@@ -33,8 +33,8 @@
         <item quantity="many">Estas conversas contêm várias mensagens. Deseja eliminá-las?</item>
     </plurals>
     <plurals name="confirm_delete_draft">
-        <item quantity="other">Eliminar %1$d rascunhos?</item>
-        <item quantity="one">Eliminar %1$d rascunho?</item>
+        <item quantity="other">excluir %1$d rascunhos?</item>
+        <item quantity="one">excluir %1$d rascunho?</item>
     </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">%d seleccionados</item>

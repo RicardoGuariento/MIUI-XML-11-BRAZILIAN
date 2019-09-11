@@ -39,7 +39,7 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="lock_msg_phone">Informação de contacto: %s</string>
   <string name="login_extra_steps">Verificação de início de sessão</string>
   <string name="login_failed">Não foi possível iniciar sessão. %s</string>
-  <string name="open_wifi_settings">Abrir definições Wi-Fi</string>
+  <string name="open_wifi_settings">Abrir configurações Wi-Fi</string>
   <string name="passport_checking_vcode">A verificar palavra-passe…</string>
   <string name="passport_error_empty_vcode">Introduzir código de verificação</string>
   <string name="passport_notification_need_unlock_again">Tente desbloquear novamente</string>

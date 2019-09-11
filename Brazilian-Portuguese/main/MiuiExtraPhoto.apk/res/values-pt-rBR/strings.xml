@@ -9,7 +9,7 @@
   <string name="refocus_save_title">Seleccionar formato</string>
   <string name="refocus_save_to_photo">Guardar como imagem</string>
   <string name="refocus_save_to_video">Guardar como vídeo</string>
-  <string name="refocus_saving">A guardar…</string>
+  <string name="refocus_saving">A salvar…</string>
   <string name="refocus_title">Blur</string>
   <string name="refocus_type_relighting">Iluminação de estúdio</string>
   <string name="refocus_type_relighting_no_face">Não foi possível encontrar rosto</string>

@@ -8,9 +8,9 @@
   <string name="mibi_applock_dialog_title">Definir um novo padrão de bloqueio</string>
   <string name="mibi_balance_payment_title">Mi Credits</string>
   <string name="mibi_balance_title">Saldo</string>
-  <string name="mibi_bill_delete_dialog_title">Eliminar %1$s</string>
-  <string name="mibi_bill_delete_message">Eliminar “%1$s”?</string>
-  <string name="mibi_bill_menu_delete_item">Eliminar</string>
+  <string name="mibi_bill_delete_dialog_title">excluir %1$s</string>
+  <string name="mibi_bill_delete_message">excluir “%1$s”?</string>
+  <string name="mibi_bill_menu_delete_item">excluir</string>
   <string name="mibi_bill_record_empty">Sem registos</string>
   <string name="mibi_btn_agree">Concordar</string>
   <string name="mibi_btn_back">Voltar</string>
@@ -139,9 +139,9 @@ Contacte o serviço de clientes da Xiaomi"</string>
   <string name="mibi_list_item_bottom_hint">Chegou ao fim desta lista</string>
   <string name="mibi_login">Iniciar sessão</string>
   <string name="mibi_memu_refresh">Actualizar</string>
-  <string name="mibi_menu_lock">Adicionar Bloqueio de aplicações</string>
+  <string name="mibi_menu_lock">Adicionar Bloqueio de aplicativos</string>
   <string name="mibi_menu_qa">FAQ</string>
-  <string name="mibi_menu_shotcut">Colocar no ecrã inicial</string>
+  <string name="mibi_menu_shotcut">Colocar na tela inicial</string>
   <string name="mibi_mili_center">Mi Credits</string>
   <string name="mibi_milicenter_title">Mi Credits</string>
   <string name="mibi_mipay_error">Erro no Mi Pay</string>
@@ -266,8 +266,8 @@ Centro do serviço de clientes：400-100-5678"</string>
   <string name="mibi_scan_prompt_number">Verificar cartão pré-pago %1$s</string>
   <string name="mibi_scan_prompt_password">Verificar palavra-passe de cartão pré-pago %1$s</string>
   <string name="mibi_scan_prompt_voucher">Verificar palavra-passe de Mi Credits</string>
-  <string name="mibi_security_setting">Definições</string>
-  <string name="mibi_shurtcut_create_success">Colocado no ecrã inicial</string>
+  <string name="mibi_security_setting">Configurações</string>
+  <string name="mibi_shurtcut_create_success">Colocado na tela inicial</string>
   <string name="mibi_signing_pay_group_title">Seleccionar método de pagamento</string>
   <string name="mibi_signing_success_sub">Os pagamentos renováveis vão ser feitos utilizando %1$s</string>
   <string name="mibi_signing_success_title">Seleccionado com sucesso</string>
@@ -428,7 +428,7 @@ link que enviámos para o seu email"</string>
   <string name="passport_setting">A configurar…</string>
   <string name="passport_skip_login">Ignorar</string>
   <string name="passport_skip_register">Ignorar registo</string>
-  <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde nas Definições</string>
+  <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde nas Configurações</string>
   <string name="passport_skip_setup_account_title">Ignorar configuração</string>
   <string name="passport_title_reg">Criar uma conta</string>
   <string name="passport_trust_device">Adicionar este dispositivo aos dispositivos verificados</string>

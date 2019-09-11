@@ -17,8 +17,8 @@
         <item quantity="one">Reproduzir o próximo vídeo em %d segundo</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Eliminar %d tarefas?</item>
-        <item quantity="one">Eliminar %d tarefa?</item>
+        <item quantity="other">excluir %d tarefas?</item>
+        <item quantity="one">excluir %d tarefa?</item>
     </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d correspondências</item>
@@ -73,8 +73,8 @@
         <item quantity="one">%1$d item eliminado do histórico.</item>
     </plurals>
     <plurals name="video_history_clear_prompt">
-        <item quantity="other">Eliminar %1$d itens do histórico?</item>
-        <item quantity="one">Eliminar %1$d item do histórico?</item>
+        <item quantity="other">excluir %1$d itens do histórico?</item>
+        <item quantity="one">excluir %1$d item do histórico?</item>
     </plurals>
     <plurals name="video_push_multi_message">
         <item quantity="other">%1$d atualizações disponíveis.</item>

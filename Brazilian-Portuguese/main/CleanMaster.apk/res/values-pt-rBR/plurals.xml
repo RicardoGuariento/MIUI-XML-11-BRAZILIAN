@@ -13,7 +13,7 @@
         <item quantity="one">Não utilizada há %d ano</item>
     </plurals>
     <plurals name="clean_long_msg_p1">
-        <item quantity="other">"A limpar %1$d ficheiros: %2$d concluídos 
+        <item quantity="other">"A limpar %1$d arquivos: %2$d concluídos 
 "</item>
         <item quantity="one">"A limpar %1$d ficheiro: %2$d concluído 
 "</item>
@@ -31,41 +31,41 @@
         <item quantity="many">%1$d dias atrás</item>
     </plurals>
     <plurals name="deepclean_apk_summary">
-        <item quantity="other">Encontrou %d APKs. Pode eliminar os APKs desnecessários</item>
-        <item quantity="one">Encontrou %d APK. Pode eliminar este APK</item>
+        <item quantity="other">Encontrou %d APKs. Pode excluir os APKs desnecessários</item>
+        <item quantity="one">Encontrou %d APK. Pode excluir este APK</item>
     </plurals>
     <plurals name="deepclean_app_summary">
-        <item quantity="other">%d aplicações instaladas. Pode desinstalar as aplicações raramente utilizadas</item>
+        <item quantity="other">%d aplicativos instalados. Pode desinstalar as aplicativos raramente utilizadas</item>
         <item quantity="one">%d aplicação instalada. Pode desinstalar esta aplicação</item>
     </plurals>
     <plurals name="deepclean_cache_summary">
-        <item quantity="other">Pode limpar os dados desnecessários para %d aplicações</item>
+        <item quantity="other">Pode limpar os dados desnecessários para %d aplicativos</item>
         <item quantity="one">Pode limpar os dados desnecessários para %d aplicação</item>
     </plurals>
     <plurals name="deepclean_install_info_desc1">
-        <item quantity="other">%d aplicações instaladas</item>
+        <item quantity="other">%d aplicativos instalados</item>
         <item quantity="one">%d aplicação instalada</item>
     </plurals>
     <plurals name="deepclean_large_summary">
-        <item quantity="other">Encontrou %d ficheiros grandes. Pode eliminar os ficheiros desnecessários</item>
-        <item quantity="one">Encontrou %d ficheiro grande. Pode eliminar este ficheiro</item>
+        <item quantity="other">Encontrou %d arquivos grandes. Pode excluir os arquivos desnecessários</item>
+        <item quantity="one">Encontrou %d ficheiro grande. Pode excluir este ficheiro</item>
     </plurals>
     <plurals name="deepclean_similar_summary">
-        <item quantity="other">Encontrou %d fotos. Pode eliminar as fotos desnecessárias</item>
-        <item quantity="one">Encontrou %d foto. Pode eliminar esta foto</item>
+        <item quantity="other">Encontrou %d fotos. Pode excluir as fotos desnecessárias</item>
+        <item quantity="one">Encontrou %d foto. Pode excluir esta foto</item>
     </plurals>
     
     <plurals name="deepclean_video_summary">
-        <item quantity="other">Encontrou %d vídeos. Pode eliminar os vídeos desnecessários​</item>
-        <item quantity="one">Encontrou %d vídeo. Pode eliminar este vídeo</item>
+        <item quantity="other">Encontrou %d vídeos. Pode excluir os vídeos desnecessários​</item>
+        <item quantity="one">Encontrou %d vídeo. Pode excluir este vídeo</item>
     </plurals>
     <plurals name="dialog_content_delete_image_confirm">
-        <item quantity="other">Eliminar %d fotos?</item>
-        <item quantity="one">Eliminar %d foto?</item>
+        <item quantity="other">excluir %d fotos?</item>
+        <item quantity="one">excluir %d foto?</item>
     </plurals>
     <plurals name="dialog_content_delete_image_from_all_devices_confirm">
-        <item quantity="other">Eliminar %1$s fotos de todos os dispositivos?</item>
-        <item quantity="one">Eliminar %1$s foto de todos os dispositivos?</item>
+        <item quantity="other">excluir %1$s fotos de todos os dispositivos?</item>
+        <item quantity="one">excluir %1$s foto de todos os dispositivos?</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d grupos</item>
@@ -105,7 +105,7 @@
         <item quantity="other">Transferido por %1$d pessoas</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">%d aplicações que não são utilizadas há bastante tempo</item>
+        <item quantity="other">%d aplicativos que não são utilizadas há bastante tempo</item>
         <item quantity="one">%d aplicação que não é utilizada há bastante tempo</item>
     </plurals>
     <plurals name="second">
@@ -121,11 +121,11 @@
         <item quantity="one">Não foi possível exportar %d vídeo. Liberte espaço e tente novamente</item>
     </plurals>
     <plurals name="wechat_empty_files">
-        <item quantity="other">(%1$d ficheiros vazios)</item>
+        <item quantity="other">(%1$d arquivos vazios)</item>
         <item quantity="one">(%1$d ficheiro vazio)</item>
     </plurals>
     <plurals name="whatsapp_delete_files">
-        <item quantity="other">Eliminar %1$d itens?</item>
-        <item quantity="one">Eliminar %1$d item?</item>
+        <item quantity="other">excluir %1$d itens?</item>
+        <item quantity="one">excluir %1$d item?</item>
     </plurals>
 </resources>

@@ -57,8 +57,8 @@
         <item>Localização</item>
         <item>Localização</item>
         <item>Vibrar</item>
-        <item>Ler contactos</item>
-        <item>Modificar contactos</item>
+        <item>Ler contatos</item>
+        <item>Modificar contatos</item>
         <item>Ler registo de chamadas</item>
         <item>Modificar registo de chamadas</item>
         <item>Ler calendário</item>
@@ -76,20 +76,20 @@
         <item>Enviar SMS/MMS</item>
         <item>Ler SMS/MMS</item>
         <item>Escrever SMS/MMS</item>
-        <item>Modificar definições</item>
+        <item>Modificar configurações</item>
         <item>Desenhar na parte superior</item>
-        <item>Aceder às notificações</item>
+        <item>Acessar às notificações</item>
         <item>Câmara</item>
         <item>Gravar áudio</item>
         <item>Reproduzir áudio</item>
         <item>Ler área de transferências</item>
         <item>Modificar área de transferências</item>
-        <item>Botões multimédia</item>
+        <item>Botões mídias</item>
         <item>Orientação do áudio</item>
         <item>Volume principal</item>
         <item>Volume da voz</item>
         <item>Volume do toque</item>
-        <item>Volume de multimédia</item>
+        <item>Volume de mídias</item>
         <item>Volume do alarme</item>
         <item>Volume das notificações</item>
         <item>Volume do Bluetooth</item>
@@ -98,11 +98,11 @@
         <item>Localização</item>
         <item>Obter estatísticas de utilização</item>
         <item>Desactivar/reactivar o som do microfone</item>
-        <item>Projectar multimédia</item>
+        <item>Projectar mídias</item>
         <item>Activar VPN</item>
         <item>Guardar papel de parede</item>
         <item>Assistir estrutura</item>
-        <item>Assistir captura de ecrã</item>
+        <item>Assistir captura de tela</item>
         <item>Ler o estado do telefone</item>
         <item>Adicionar Voice Mail</item>
         <item>Utilizar SIP</item>
@@ -113,18 +113,18 @@
         <item>Localização falsa</item>
         <item>Ler o armazenamento</item>
         <item>Escrever no armazenamento</item>
-        <item>Ligar ecrã</item>
+        <item>Ligar tela</item>
         <item>Obter contas</item>
         <item>Executar em segundo plano</item>
         <item>Volume de acessibilidade</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>localização aproximada</item>
-        <item>localização exacta</item>
+        <item>localização exata</item>
         <item>GPS</item>
         <item>vibrar</item>
-        <item>ler contactos</item>
-        <item>modificar contactos</item>
+        <item>ler contatos</item>
+        <item>modificar contatos</item>
         <item>ler o registo de chamadas</item>
         <item>modificar o registo de chamadas</item>
         <item>ler calendário</item>
@@ -142,33 +142,33 @@
         <item>enviar SMS</item>
         <item>ler SMS ICC</item>
         <item>escrever SMS ICC</item>
-        <item>modificar definições</item>
+        <item>modificar configurações</item>
         <item>desenhar na parte superior</item>
-        <item>aceder às notificações</item>
+        <item>acessar às notificações</item>
         <item>câmara</item>
         <item>gravar áudio</item>
         <item>reproduzir áudio</item>
         <item>ler área de transferências</item>
         <item>modificar área de transferências</item>
-        <item>botões multimédia</item>
+        <item>botões mídias</item>
         <item>orientação do áudio</item>
         <item>volume principal</item>
         <item>volume da voz</item>
         <item>volume do toque</item>
-        <item>volume de multimédia</item>
+        <item>volume de mídias</item>
         <item>volume do alarme</item>
         <item>volume das notificações</item>
         <item>volume do Bluetooth</item>
         <item>manter activo</item>
-        <item>monitorizar localização</item>
-        <item>monitorizar localização de potência elevada</item>
+        <item>monitorar localização</item>
+        <item>monitorar localização de potência elevada</item>
         <item>obter estatísticas de utilização</item>
         <item>desactivar/reactivar o som do microfone</item>
-        <item>projectar multimédia</item>
+        <item>projectar mídias</item>
         <item>activar VPN</item>
-        <item>guardar papel de parede</item>
+        <item>salvar papel de parede</item>
         <item>assistir estrutura</item>
-        <item>assistir captura de ecrã</item>
+        <item>assistir captura de tela</item>
         <item>ler o estado do telefone</item>
         <item>adicionar Voice Mail</item>
         <item>utilizar SIP</item>
@@ -179,7 +179,7 @@
         <item>localização falsa</item>
         <item>ler o armazenamento</item>
         <item>escrever no armazenamento</item>
-        <item>ligar ecrã</item>
+        <item>ligar tela</item>
         <item>obter contas</item>
         <item>executar em segundo plano</item>
         <item>volume de acessibilidade</item>
@@ -302,7 +302,7 @@
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
         <item>" | Activo"</item>
-        <item>" | Activo (multimédia)"</item>
+        <item>" | Activo (mídias)"</item>
         <item>" | Activo (telefone)"</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
@@ -674,11 +674,11 @@
         <item>Vermelho</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>Ecrã de bloqueio</item>
+        <item>Tela de bloqueio</item>
         <item>Protecção de Privacidade</item>
         <item>Modo Criança</item>
         <item>Explorador</item>
-        <item>Bloqueio de aplicações</item>
+        <item>Bloqueio de aplicativos</item>
         <item>Segundo espaço</item>
     </string-array>
     <string-array name="connect_mode_entries">
@@ -795,9 +795,9 @@
         <item>Verificar sempre</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
-        <item>Ligar ecrã</item>
+        <item>Ligar tela</item>
         <item>Mostrar animações</item>
-        <item>Não ligar ecrã</item>
+        <item>Não ligar tela</item>
     </string-array>
     <string-array name="led_color_entries">
         <item>Azul</item>
@@ -891,7 +891,7 @@
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
-        <item>2. Siga as instruções no ecrã</item>
+        <item>2. Siga as instruções na tela</item>
         <item></item>
         <item></item>
         <item></item>
@@ -901,7 +901,7 @@
         <item>Criar a directoria: mkdir /media/mtp</item>
         <item>Confirme as permissões de grupos de utilizadores no grupo de utilizador actual</item>
         <item>Iniciar sessão novamente</item>
-        <item>Acesso montado no dispositivo: mtpfs /media/mtp via explorador de ficheiros; mesmo que o directório local</item>
+        <item>Acesso montado no dispositivo: mtpfs /media/mtp via explorador de arquivos; mesmo que o directório local</item>
         <item>"Desinstalar dispositivo: fusermount -u /media/mtp
 Nota: Apenas para Ubuntu 8.04!"</item>
     </string-array>
@@ -938,7 +938,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>4K (seguro)</item>
         <item>4K (redimensionado)</item>
         <item>4K (redimensionado, seguro)</item>
-        <item>720p, 1080p (ecrã duplo)</item>
+        <item>720p, 1080p (tela duplo)</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>Permitir</item>
@@ -971,7 +971,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     <string-array name="privacy_password_function_specfication_names">
        <item>Mensagens</item>
        <item>Fotos</item>
-       <item>Ficheiros</item>
+       <item>Arquivos</item>
        <item>Notas</item>
     </string-array>
     <string-array name="proc_stats_memory_states">
@@ -1023,12 +1023,12 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Botão Voltar à esquerda, botão Recentes à direita</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>Mostrar aplicações recentes</item>
+        <item>Mostrar aplicativos recentes</item>
         <item>Mostrar o menu</item>
     </string-array>
     <string-array name="screen_optimize_summary">
         <item>Optimizar contraste para a luz disponível</item>
-        <item>Aumentar contraste do ecrã</item>
+        <item>Aumentar contraste do tela</item>
         <item>Contraste constante</item>
     </string-array>
     <string-array name="screen_optimize_title">
@@ -1051,7 +1051,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>Pesquisa</item>
-        <item>Definições</item>
+        <item>Configurações</item>
     </string-array>
     <string-array name="notification_style_entries">
         <item>MIUI</item>
@@ -1135,7 +1135,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Desligado</item>
-        <item>No ecrã como barras</item>
+        <item>No tela como barras</item>
         <item>Em adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="traffic_balance_entries">
@@ -1181,7 +1181,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>A carregar</item>
-        <item>MTP (Protocolo de transferência de multimédia)</item>
+        <item>MTP (Protocolo de transferência de mídias)</item>
         <item>PTP (Protocolo de transferência de imagens)</item>
         <item>RNDIS (Ethernet USB)</item>
         <item>Fonte de áudio</item>
@@ -1201,7 +1201,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="vip_mode_text">
         <item>Qualquer pessoa</item>
-        <item>Apenas contactos</item>
+        <item>Apenas contatos</item>
         <item>Apenas favoritos</item>
         <item>Nenhuma</item>
     </string-array>

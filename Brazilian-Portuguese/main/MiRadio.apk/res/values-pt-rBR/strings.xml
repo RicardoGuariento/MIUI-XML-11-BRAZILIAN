@@ -5,13 +5,13 @@
   <string name="alert_message_delete_station">Este predefinido vai ser eliminado</string>
   <string name="app_name">Rádio FM</string>
   <string name="channel_name_download">Transferências</string>
-  <string name="channel_name_file">Verificação de ficheiros</string>
+  <string name="channel_name_file">Verificação de arquivos</string>
   <string name="channel_tip_text">More radio stations</string>
-  <string name="context_menu_item_delete">Eliminar</string>
+  <string name="context_menu_item_delete">excluir</string>
   <string name="context_menu_item_edit">Editar</string>
   <string name="context_menu_item_favorite">Adicionar aos predefinidos</string>
   <string name="context_menu_item_unfavorite">Remover dos predefinidos</string>
-  <string name="delete_single_fm_history">Eliminar histórico?</string>
+  <string name="delete_single_fm_history">excluir histórico?</string>
   <string name="detail">Detalhes</string>
   <string name="dialog_sleep_title">Definir temporizador</string>
   <string name="exit_fm">Sair</string>
@@ -23,7 +23,7 @@
   <string name="hint_frequency">Frequência: %1$s ~ %2$s</string>
   <string name="hint_label">Nome</string>
   <string name="history_clear">Limpar</string>
-  <string name="impunity_declaration_content_html">Antes de utilizar o Rádio FM, tem de ler e concordar com os nossos &amp;lt;font color=#29b496&amp;gt;&amp;lt;a href=%1$s&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; e &amp;lt;font color=#29b496&amp;gt;&amp;lt;a href=%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;. O Rádio FM também necessita de ligar à Internet e aceder à sua localização para funcionar normalmente. Concorda?</string>
+  <string name="impunity_declaration_content_html">Antes de utilizar o Rádio FM, tem de ler e concordar com os nossos &amp;lt;font color=#29b496&amp;gt;&amp;lt;a href=%1$s&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; e &amp;lt;font color=#29b496&amp;gt;&amp;lt;a href=%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;. O Rádio FM também necessita de ligar à Internet e acessar à sua localização para funcionar normalmente. Concorda?</string>
   <string name="label_recording">A gravar: %s</string>
   <string name="menu_exit">Sair</string>
   <string name="menu_headset">Trocar para auriculares</string>

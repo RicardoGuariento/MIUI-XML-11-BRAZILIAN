@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_app_name">Leitor de Vídeo</string>
-  <string name="about_title">Acerca de</string>
+  <string name="about_title">Sobre de</string>
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">"Versão "</string>
   <string name="account_auth_fail">Não foi possível autenticar</string>
   <string name="actor">Actor</string>
-  <string name="actor_intro">Acerca de</string>
+  <string name="actor_intro">Sobre de</string>
   <string name="ad_moredetail">Ver detalhes</string>
   <string name="add_favorite_success">Favoritos</string>
   <string name="add_more_addons">Adicionar mais add-ons</string>
@@ -69,7 +69,7 @@
   <string name="clarity_unknown">Desconhecido</string>
   <string name="clear_cache">Limpar imagens em cache</string>
   <string name="clear_cache_success">Cache limpa</string>
-  <string name="clear_cache_summary">Limpar as imagens em cache desde a aplicação vídeo</string>
+  <string name="clear_cache_summary">Limpar as imagens em cache desde o aplicativo vídeo</string>
   <string name="clear_search_history">Limpar histórico de pesquisa</string>
   <string name="click_star_rate">Toque nas estrelas para classificar</string>
   <string name="click_to_login">Toque para iniciar</string>
@@ -90,11 +90,11 @@
   <string name="count_ge_media">%d vídeos</string>
   <string name="count_ji_quan">Todos %d Eps</string>
   <string name="count_qi">Ep. %s</string>
-  <string name="create_tencent_shortcut_message">Foi criado uma atalho para Vídeos no ecrã inicial</string>
+  <string name="create_tencent_shortcut_message">Foi criado uma atalho para Vídeos na tela inicial</string>
   <string name="current_price">Preço actual</string>
   <string name="data_buffering">A carregar…</string>
   <string name="datastream_alert_download">Se utilizar a sua ligação de dados móveis para transferir vídeos o consumo de dados pode aumentar. Se exceder o limite de utilização de dados do seu pacote a sua operadora pode cobrar taxas adicionais</string>
-  <string name="datastream_alert_hint">Pode desligar as notificações de utilização de dados móveis em qualquer altura nas definições</string>
+  <string name="datastream_alert_hint">Pode desligar as notificações de utilização de dados móveis em qualquer altura nas configurações</string>
   <string name="datastream_alert_negative_button">Cancelar</string>
   <string name="datastream_alert_play">Se utilizar a sua ligação de dados móveis para ver vídeos o consumo de dados pode aumentar. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
   <string name="datastream_alert_positive_button">Continuar</string>
@@ -108,17 +108,17 @@
 2. Para melhorar a experiência do utilizador, vamos obter alguns dados sobre o seu dispositivo e o conteúdo visto. Sohu e iQiyi vão também obter o IMEI do seu dispositivo.&amp;#8203;
 3. O nosso plugin HD Vídeo vai ser instalado automaticamente.
 4. Este serviço necessita de uma ligação à Internet para funcionar normalmente"</string>
-  <string name="declaration_content_td_custom">Esta aplicação necessita de uma ligação à Internet para funcionar normalmente</string>
+  <string name="declaration_content_td_custom">Este aplicativo necessita de uma ligação à Internet para funcionar normalmente</string>
   <string name="defaults">Predefinido</string>
-  <string name="delete">Eliminar</string>
-  <string name="delete_action_text">Eliminar (%d)</string>
-  <string name="delete_addon">Eliminar</string>
-  <string name="delete_addon_content">Eliminar este item?</string>
-  <string name="delete_with">Eliminar (%d)</string>
+  <string name="delete">excluir</string>
+  <string name="delete_action_text">excluir (%d)</string>
+  <string name="delete_addon">excluir</string>
+  <string name="delete_addon_content">excluir este item?</string>
+  <string name="delete_with">excluir (%d)</string>
   <string name="detail">Detalhes</string>
   <string name="detail_comment_empty">Vazio</string>
   <string name="develop_version">Actualizações beta</string>
-  <string name="development_setting">Definições de desenvolvimento</string>
+  <string name="development_setting">Configurações de desenvolvimento</string>
   <string name="device_empty_hint">Vazio</string>
   <string name="device_media_empty_hint">Vazio</string>
   <string name="di_count_ji">Ep. %d</string>
@@ -171,7 +171,7 @@
   <string name="forecast">Previsão</string>
   <string name="forecast_empty_hint">Vazio</string>
   <string name="forecasts">EPG</string>
-  <string name="fullscreen">Ecrã inteiro</string>
+  <string name="fullscreen">Tela inteiro</string>
   <string name="funshion">Funshion</string>
   <string name="go_to_cinema">Ir para o cinema</string>
   <string name="gong_count_dlna">%d DLNA</string>
@@ -212,7 +212,7 @@
   <string name="media_name_comment">%s comentários</string>
   <string name="memory_mode_desc">Reduzir consumo de memória</string>
   <string name="menu_item_enable_audio_enhance">Activar melhoramento de áudio</string>
-  <string name="menu_name">Definições</string>
+  <string name="menu_name">Configurações</string>
   <string name="mibi">mibi</string>
   <string name="mine_info_account_summary_none">Sem sessão iniciada</string>
   <string name="mine_info_account_title">Informaçao de conta</string>
@@ -221,7 +221,7 @@
   <string name="miwifi_app_download_content">A transferir…</string>
   <string name="miwifi_app_download_title">Router Mi</string>
   <string name="miwifi_app_update_button">Actualizar</string>
-  <string name="miwifi_app_update_content">Actualizar a aplicação do Router Mi para utilizar esta funcionalidade</string>
+  <string name="miwifi_app_update_content">Actualizar o aplicativo do Router Mi para utilizar esta funcionalidade</string>
   <string name="miwifi_app_update_title">Actualizar router?</string>
   <string name="month">Mês</string>
   <string name="my_favorite">Favorito</string>
@@ -410,7 +410,7 @@ Para activar a sua conta siga o
   <string name="passport_setting">A configurar…</string>
   <string name="passport_skip_login">Ignorar</string>
   <string name="passport_skip_register">Ignorar registo</string>
-  <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde nas Definições</string>
+  <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde nas Configurações</string>
   <string name="passport_skip_setup_account_title">Ignorar configuração</string>
   <string name="passport_title_reg">Criar uma conta</string>
   <string name="passport_trust_device">Adicionar este dispositivo aos dispositivos verificados</string>
@@ -434,8 +434,8 @@ Para activar a sua conta siga o
   <string name="passport_wrong_captcha">O código que introduziu está incorrecto</string>
   <string name="passport_wrong_phone_number_format">O formato do número de telefone que introduziu é inválido</string>
   <string name="passport_wrong_vcode">O código que introduziu está incorrecto</string>
-  <string name="path_develop_settings">Aplicações de sistema/Vídeos/Definições de desenvolvimento</string>
-  <string name="path_settings">Aplicações de sistema/Vídeos/Definições</string>
+  <string name="path_develop_settings">Aplicativos de sistema/Vídeos/Configurações de desenvolvimento</string>
+  <string name="path_settings">Aplicativos de sistema/Vídeos/Configurações</string>
   <string name="pause">Pausar</string>
   <string name="pay_record">Registo pago</string>
   <string name="percent_status">%.0f%%</string>
@@ -480,10 +480,10 @@ Para activar a sua conta siga o
   <string name="score_douban">Pontuação Douban %1$s</string>
   <string name="sdcard_storage">Memória interna</string>
   <string name="search">Pesquisar</string>
-  <string name="search_develop_settings">Definições de desenvolvimento;Escolha de versão;Escolher versão;Actualização de Vídeos;Versão;Fórum;Modo desempenho;Qualidade de imagem;Plugins</string>
+  <string name="search_develop_settings">Configurações de desenvolvimento;Escolha de versão;Escolher versão;Actualização de Vídeos;Versão;Fórum;Modo desempenho;Qualidade de imagem;Plugins</string>
   <string name="search_hint">Pesquisar vídeos online</string>
   <string name="search_result_empty_text">Sem resultados</string>
-  <string name="search_settings">Definições de Vídeos;Rede móvel;Wi-Fi;Notificações;Cache;Definições de desenvolvimento</string>
+  <string name="search_settings">Configurações de Vídeos;Rede móvel;Wi-Fi;Notificações;Cache;Configurações de desenvolvimento</string>
   <string name="search_snack_more">Mais informações</string>
   <string name="search_snack_sniff">Transferência detalhada</string>
   <string name="second">Segundo</string>
@@ -497,8 +497,8 @@ Para activar a sua conta siga o
   <string name="send">Enviar</string>
   <string name="server_summary">Escolher servidor</string>
   <string name="server_switch">Servidor</string>
-  <string name="setting">Definições</string>
-  <string name="share">Partilhar</string>
+  <string name="setting">Configurações</string>
+  <string name="share">Compartilhar</string>
   <string name="share_device">Dispositivos partilhados</string>
   <string name="similar">Semelhante</string>
   <string name="sina">Sina</string>
@@ -516,7 +516,7 @@ Para activar a sua conta siga o
   <string name="storage_total">"Espaço total: "</string>
   <string name="subscribe">Subscrever</string>
   <string name="suffix_countdown">s</string>
-  <string name="system_setting">Definições da aplicação</string>
+  <string name="system_setting">Configurações da aplicação</string>
   <string name="temp_play_history_button_label">Histórico</string>
   <string name="tab_loading">…</string>
   <string name="tencent">Tencent</string>
@@ -587,20 +587,20 @@ Para activar a sua conta siga o
   <string name="vp_closedialog">OK</string>
   <string name="vp_confirm">OK</string>
   <string name="vp_content_description">Descrição</string>
-  <string name="vp_datastream_alert_hint">Pode desligar as notificações de utilização de dados em qualquer altura nas Definições</string>
+  <string name="vp_datastream_alert_hint">Pode desligar as notificações de utilização de dados em qualquer altura nas Configurações</string>
   <string name="vp_datastream_alert_negative_button">Cancelar</string>
   <string name="vp_datastream_alert_play">Utilizar a sua ligação de dados móveis para ver vídeos vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
   <string name="vp_datastream_alert_positive_button">Continuar</string>
   <string name="vp_datastream_alert_title">Aviso de utilização de dados</string>
   <string name="vp_device_list">Dispositivos</string>
-  <string name="vp_download_apk_from_video_ad">Instalar a aplicação</string>
+  <string name="vp_download_apk_from_video_ad">Instalar o aplicativo</string>
   <string name="vp_download_connect_fail">Não foi possível obter o link</string>
   <string name="vp_download_file_fail">A transferência falhou. Certifique-se de que há espaço suficiente no seu dispositivo</string>
   <string name="vp_downloading_apk_title">A transferir %1$s</string>
   <string name="vp_exit">Sair</string>
   <string name="vp_full_high_definition">1080P</string>
-  <string name="vp_full_screen">Ecrã inteiro</string>
-  <string name="vp_function">Definições</string>
+  <string name="vp_full_screen">Tela inteiro</string>
+  <string name="vp_function">Configurações</string>
   <string name="vp_get_url_error">Não é possível localizar o URL deste vídeo</string>
   <string name="vp_hide_media_info">Ocultar informação de vídeo</string>
   <string name="vp_high_definition">HD</string>
@@ -613,9 +613,9 @@ Para activar a sua conta siga o
   <string name="vp_low_definition">Baixo</string>
   <string name="vp_maintitlearea">Ver vídeos HD em qualquer lugar</string>
   <string name="vp_media_info">Mostrar informação do vídeo</string>
-  <string name="vp_media_type_unsported">Este tipo de multimédia não é suportado</string>
+  <string name="vp_media_type_unsported">Este tipo de mídias não é suportado</string>
   <string name="vp_milink">Link Mi</string>
-  <string name="vp_milink_function">Transmitir para o ecrã</string>
+  <string name="vp_milink_function">Transmitir para o tela</string>
   <string name="vp_mobile_network_using_negative">Cancelar</string>
   <string name="vp_mobile_network_using_positive">Continuar</string>
   <string name="vp_mobile_network_using_warning">A reprodução de vídeos na sua ligação de dados móveis podem resultar em custos adicionais no consumo de dados</string>
@@ -623,8 +623,8 @@ Para activar a sua conta siga o
   <string name="vp_mobile_network_using_warning_line_2">Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
   <string name="vp_more_show_video">Mostrar Anúncios</string>
   <string name="vp_mplayer_error_io">Erro na operação IO</string>
-  <string name="vp_mplayer_error_malformed">Conteúdo multimédia com formato incorrecto</string>
-  <string name="vp_mplayer_error_server_died">Servidor de multimédia parou</string>
+  <string name="vp_mplayer_error_malformed">Conteúdo mídias com formato incorrecto</string>
+  <string name="vp_mplayer_error_server_died">Servidor de mídias parou</string>
   <string name="vp_mplayer_error_timed_out">A operação expirou</string>
   <string name="vp_newest_ep">Novo</string>
   <string name="vp_next_ci">Seguinte</string>
@@ -649,7 +649,7 @@ Para activar a sua conta siga o
   <string name="vp_screen_shot">Capturar</string>
   <string name="vp_select_ci">Seleccionar episódio</string>
   <string name="vp_select_ep">Seleccionar episódio</string>
-  <string name="vp_select_function">Definições</string>
+  <string name="vp_select_function">Configurações</string>
   <string name="vp_select_source">Seleccionar fonte</string>
   <string name="vp_select_tv">Canais</string>
   <string name="vp_select_video_definition">Seleccionar definição</string>
@@ -663,7 +663,7 @@ Para activar a sua conta siga o
   <string name="vp_using_16_9">Forçar 16:9</string>
   <string name="vp_using_4_3">Forçar 4:3</string>
   <string name="vp_video_bad_network_condition">Ligação de Internet fraca. Tente novamente mais tarde</string>
-  <string name="vp_video_invalid_cp_info">Informações inválidas do fornecedor do vídeo, reinicie a aplicação</string>
+  <string name="vp_video_invalid_cp_info">Informações inválidas do fornecedor do vídeo, reinicie o aplicativo</string>
   <string name="vp_video_loading">A carregar…</string>
   <string name="vp_video_plugin_installation">A instalar %1$s…</string>
   <string name="vp_VideoView_error_button">OK</string>

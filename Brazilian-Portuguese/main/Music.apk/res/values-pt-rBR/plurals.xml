@@ -43,12 +43,12 @@ Total músicas: %2$d"</item>
         <item quantity="one">%d comentário</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Eliminar %d itens?</item>
-        <item quantity="one">Eliminar %d item?</item>
+        <item quantity="other">excluir %d itens?</item>
+        <item quantity="one">excluir %d item?</item>
     </plurals>
     <plurals name="dialog_delete_descript">
-        <item quantity="other">Eliminar %d músicas?</item>
-        <item quantity="one">Eliminar %d música?</item>
+        <item quantity="other">excluir %d músicas?</item>
+        <item quantity="one">excluir %d música?</item>
     </plurals>
     <plurals name="dialog_remove_descript">
         <item quantity="other">Remover %d músicas?</item>
@@ -71,7 +71,7 @@ Total músicas: %2$d"</item>
         <item quantity="one">%d item seleccionado</item>
     </plurals>
     <plurals name="notif_title_multiple_downloading">
-        <item quantity="other">A transferir %1$d ficheiros</item>
+        <item quantity="other">A transferir %1$d arquivos</item>
         <item quantity="one">A transferir %1$d ficheiro</item>
     </plurals>
     <plurals name="notification_download_failed_more">

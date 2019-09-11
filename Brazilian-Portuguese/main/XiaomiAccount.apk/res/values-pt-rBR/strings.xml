@@ -54,7 +54,7 @@
   <string name="action_add_phone">Adicionar número de telefone</string>
   <string name="action_update_phone">Alterar número de telefone</string>
   <string name="activate_email_notice">Certifique-se que activa a sua conta dentro de 24 horas</string>
-  <string name="activity_not_found_notice">Não é possível encontrar a aplicação</string>
+  <string name="activity_not_found_notice">Não é possível encontrar o aplicativo</string>
   <string name="add_account">Associar conta</string>
   <string name="agreement_and_privacy">Política de Privacidade e Termos de Utilização</string>
   <string name="app_name">Conta Mi</string>
@@ -86,12 +86,12 @@ Pode iniciar sessão na sua Conta Mi com %s agora"</string>
   <string name="confirm_unbind">Desassociar esta conta?</string>
   <string name="confirm_unbundled_phone_dialog_message">O número de telefone %1$s está associado com a Conta Mi %2$s. Não vai mais ser necessário associar com a Conta Mi %3$s se continuar. Continuar?</string>
   <string name="continue_action">Continuar</string>
-  <string name="delete_action">Eliminar</string>
+  <string name="delete_action">excluir</string>
   <string name="delete_bank_card_message">Devido a motivos de segurança o seu cartão bancário vai ser eliminado após terminar sessão</string>
   <string name="delete_bank_card_title">Atenção</string>
   <string name="delete_device_btn">Remover</string>
   <string name="delete_device_failed">Não é possível remover dispositivo</string>
-  <string name="delete_device_notice">Depois do dispositivo ser removido a sua sessão da Conta Mi vai ser terminada automaticamente. Não vai ser possível utilizar este dispositivo para aceder a fotos, mensagens ou outros conteúdos armazenados na sua conta</string>
+  <string name="delete_device_notice">Depois do dispositivo ser removido a sua sessão da Conta Mi vai ser terminada automaticamente. Não vai ser possível utilizar este dispositivo para acessar fotos, mensagens ou outros conteúdos armazenados na sua conta</string>
   <string name="device_delete_success_message">Se não iniciou sessão neste dispositivo altere imediatamente a sua palavra-passe</string>
   <string name="device_delete_success_title">Sessão terminada</string>
   <string name="device_list__header">Os meus dispositivos</string>
@@ -171,7 +171,7 @@ Envie este código ao supervisor"</string>
   <string name="no_sim_card_or_unactivated">Sem cartão SIM ou não activado</string>
   <string name="nobind">Não associada</string>
   <string name="notify_network_restricted_content_bg_network">O acesso à Internet da Conta Mi está restringido. Toque para permitir</string>
-  <string name="notify_network_restricted_content_hidden_state">As actividades em segundo plano da Conta Mi estão restringidas. Toque para permitir</string>
+  <string name="notify_network_restricted_content_hidden_state">As atividades em segundo plano da Conta Mi estão restringidas. Toque para permitir</string>
   <string name="notify_network_restricted_content_mobile_network">O acesso à Internet da Conta Mi está restringido. Toque para permitir</string>
   <string name="notify_network_restricted_title">A Conta Mi não conseguiu ligar à rede</string>
   <string name="oauth_get_scopes_failed">Não foi possível obter informações da conta</string>
@@ -362,7 +362,7 @@ Para activar a sua conta siga o
   <string name="passport_setting">A configurar…</string>
   <string name="passport_skip_login">Ignorar</string>
   <string name="passport_skip_register">Ignorar registo</string>
-  <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde nas Definições</string>
+  <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde nas Configurações</string>
   <string name="passport_skip_setup_account_title">Não utilizar a Xiaomi Cloud?</string>
   <string name="passport_sms_send_success">Enviada</string>
   <string name="passport_sms_verification_code_login">Iniciar sessão utilizando SMS</string>
@@ -400,7 +400,7 @@ Para activar a sua conta siga o
   <string name="passport_wrong_voice">O código que introduziu está incorrecto</string>
   <string name="passport_wx_bind_account_limit">Não é possível criar conta agora. Tente outro método</string>
   <string name="passport_yes">Sim</string>
-  <string name="permission_group_contacts">Contactos</string>
+  <string name="permission_group_contacts">Contatos</string>
   <string name="permission_group_phone">Telefone</string>
   <string name="permission_group_sms">SMS</string>
   <string name="permission_group_storage">Armazenamento</string>
@@ -425,19 +425,19 @@ Para activar a sua conta siga o
   <string name="same_new_and_old_pwd">Não pode ser a mesma que a actual</string>
   <string name="scan_barcode_title">Para iniciar sessão na sua Conta Mi digitalize o código QR</string>
   <string name="search_account_security">Segurança da conta</string>
-  <string name="search_account_security_desc">Definições da conta</string>
+  <string name="search_account_security_desc">Configurações da conta</string>
   <string name="search_account_security_key_words">Alterar telefone,Alterar email</string>
-  <string name="search_account_security_path">Definições/Conta Mi/Segurança da conta</string>
+  <string name="search_account_security_path">Configurações/Conta Mi/Segurança da conta</string>
   <string name="search_app_name">Conta Mi</string>
   <string name="search_menu_title">Pesquisa</string>
   <string name="search_mi_account">Conta Mi</string>
   <string name="search_mi_account_desc">Conta Mi</string>
-  <string name="search_mi_account_key_words">Conta Mi,Iniciar sessão,Xiaomi Cloud,Definições da conta, Gestão da conta,Informações Mi Pay</string>
-  <string name="search_mi_account_path">Definições/Conta Mi</string>
+  <string name="search_mi_account_key_words">Conta Mi,Iniciar sessão,Xiaomi Cloud,Configurações da conta, Gestão da conta,Informações Mi Pay</string>
+  <string name="search_mi_account_path">Configurações/Conta Mi</string>
   <string name="search_user_detail">Informações pessoais</string>
   <string name="search_user_detail_bottom_key_words">Alterar telefone,Alterar email,Alterar salário,Alterar graduação,Alterar localização,Alterar região</string>
   <string name="search_user_detail_desc">Informações pessoais</string>
-  <string name="search_user_detail_path">Definições/Conta Mi/Informações pessoais</string>
+  <string name="search_user_detail_path">Configurações/Conta Mi/Informações pessoais</string>
   <string name="search_user_detail_top_key_words">Informações pessoais,Alterar foto de perfil,Alterar utilizador,Alterar alcunha,Alterar data de nascimento,Alterar sexo</string>
   <string name="send_diagnosis_log">Enviar registo de diagnóstico</string>
   <string name="select_all">Seleccionar tudo</string>
@@ -452,10 +452,10 @@ Para activar a sua conta siga o
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Enviada</string>
   <string name="sns_access_token_expired_warning">A sessão expirou. Inicie sessão novamente para se ligar a esta conta</string>
-  <string name="system_ad">Anúncios em aplicações de sistema</string>
-  <string name="system_ad_list">Ver aplicações relacionadas</string>
-  <string name="system_ad_summary">"Ligar esta funcionalidade para mostrar anúncios em aplicações de sistema. Estes anúncios ajudam-nos a desenvolver e melhorar os nossos produtos e serviços. Obrigado pelo seu suporte! "</string>
-  <string name="system_ad_switch">Anúncios em aplicações de sistema</string>
+  <string name="system_ad">Anúncios em aplicativos de sistema</string>
+  <string name="system_ad_list">Ver aplicativos relacionadas</string>
+  <string name="system_ad_summary">"Ligar esta funcionalidade para mostrar anúncios em aplicativos de sistema. Estes anúncios ajudam-nos a desenvolver e melhorar os nossos produtos e serviços. Obrigado pelo seu suporte! "</string>
+  <string name="system_ad_switch">Anúncios em aplicativos de sistema</string>
   <string name="system_ad_switch_failed">Erro</string>
   <string name="talkback_scan_barcode">Digitalizar o código QR</string>
   <string name="temporary_not_available">Esta funcionalidade não está disponível</string>
@@ -474,12 +474,12 @@ Para activar a sua conta siga o
 3. O seu número de desbloqueio: %s"</string>
   <string name="update_email_address_dialog_message">É necessário verificar a sua identidade antes de poder actualizar o seu email</string>
   <string name="update_email_address_dialog_title">Actualizar email</string>
-  <string name="update_phone_notice">Alterar definições de segurança</string>
+  <string name="update_phone_notice">Alterar configurações de segurança</string>
   <string name="update_phone_number_notice_message">É necessário verificar a sua identidade antes de poder actualizar o seu número de telefone</string>
   <string name="used_cloud_storage_info">Espaço utilizado %s</string>
   <string name="user_avatar_update_title">Alterar foto de perfil</string>
   <string name="user_avatar_uploading">Aguarde…</string>
-  <string name="vip_account_settings">Definições VIP</string>
-  <string name="vip_settings_info">Definições VIP</string>
+  <string name="vip_account_settings">Configurações VIP</string>
+  <string name="vip_settings_info">Configurações VIP</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

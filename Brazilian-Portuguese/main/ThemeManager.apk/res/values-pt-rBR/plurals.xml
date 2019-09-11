@@ -37,11 +37,11 @@
         <item quantity="one">Actualização disponível para %1$d tema</item>
     </plurals>
     <plurals name="transparent_wallpaper_filter_hint">
-        <item quantity="other">Pesquisar entre %1$d aplicações</item>
+        <item quantity="other">Pesquisar entre %1$d aplicativos</item>
         <item quantity="one">Pesquisar entre %1$d aplicação</item>
     </plurals>
     <plurals name="transparent_wallpaper_filter_result">
-        <item quantity="other">%1$d aplicações encontradas</item>
+        <item quantity="other">%1$d aplicativos encontradas</item>
         <item quantity="one">%1$d aplicação encontrada</item>
     </plurals>
     <plurals name="trial_countdown_notification_tip">

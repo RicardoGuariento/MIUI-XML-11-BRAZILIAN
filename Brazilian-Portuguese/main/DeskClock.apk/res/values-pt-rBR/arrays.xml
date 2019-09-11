@@ -656,6 +656,6 @@
     <string-array name="stat_volume_button_behaviors">
        <item>Não</item>
        <item>Adiar</item>
-       <item>Eliminar</item>
+       <item>excluir</item>
     </string-array>
 </resources>

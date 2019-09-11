@@ -13,7 +13,7 @@
         <item quantity="one">%d notificação no Segundo espaço</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
-        <item quantity="other">Pesquisar %d aplicações</item>
+        <item quantity="other">Pesquisar %d aplicativos</item>
         <item quantity="one">Pesquisar %d aplicação</item>
     </plurals>
 </resources>

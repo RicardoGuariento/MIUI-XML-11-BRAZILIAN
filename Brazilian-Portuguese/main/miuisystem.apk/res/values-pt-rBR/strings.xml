@@ -23,7 +23,7 @@
   <string name="cta_button_quit">Sair</string>
   <string name="cta_check_reminder">Não mostrar novamente</string>
   <string name="cta_message_license">Ao utilizar este produto, está a concordar com os termos citados nos nossos Termos de Serviço e Política de Privacidade</string>
-  <string name="cta_message_permission">Esta aplicação necessita de %2$s para funcionar normalmente</string>
+  <string name="cta_message_permission">Este aplicativo necessita de %2$s para funcionar normalmente</string>
   <string name="cta_permission_and"> e </string>
   <string name="cta_permission_delimiter">, </string>
   <string name="cta_title">Termos de Utilização</string>
@@ -41,7 +41,7 @@
   <string name="grain_rain"/>
   <string name="great_cold"/>
   <string name="great_heat"/>
-  <string name="group_name_contacts">Contactos</string>
+  <string name="group_name_contacts">Contatos</string>
   <string name="group_name_coworkers">Colegas</string>
   <string name="group_name_family">Família</string>
   <string name="group_name_friends">Amigos</string>
@@ -76,7 +76,7 @@
   <string name="lunar_yi"/>
   <string name="lunar_yue"/>
   <string name="lunar_zheng"/>
-  <string name="maml_component_customization_title">Definições</string>
+  <string name="maml_component_customization_title">Configurações</string>
   <string name="miui_device_name">Dispositivo MIUI</string>
   <string name="national_day"/>
   <string name="national_father_day">Dia do Pai</string>

@@ -5,8 +5,8 @@
         <item quantity="one">Sem ligação de dados durante %s minuto</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">O telefone vai estar no Modo de Emergência durante %s minutos. Neste modo, não é possível utilizar aplicações com ligação de dados. Quer sair agora?</item>
-        <item quantity="one">O telefone vai estar no Modo de Emergência durante %s minuto. Neste modo, não é possível utilizar aplicações com ligação de dados. Quer sair agora?</item>
+        <item quantity="other">O telefone vai estar no Modo de Emergência durante %s minutos. Neste modo, não é possível utilizar aplicativos com ligação de dados. Quer sair agora?</item>
+        <item quantity="one">O telefone vai estar no Modo de Emergência durante %s minuto. Neste modo, não é possível utilizar aplicativos com ligação de dados. Quer sair agora?</item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
         <item quantity="other">A acção seleccionada não está disponível no Modo de Emergência. O telefone vai ficar neste modo durante %s minutos. Quer sair agora?</item>

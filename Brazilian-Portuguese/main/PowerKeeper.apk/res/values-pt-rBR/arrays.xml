@@ -9,13 +9,13 @@
         <item>Poupança de bateria</item>
     </string-array>
     <string-array name="hmode_app_classify2">
-        <item>Aplicações activas</item>
-        <item>Aplicações inactivas</item>
+        <item>Aplicativos activas</item>
+        <item>Aplicativos inactivas</item>
     </string-array>
     <string-array name="emode_app_groups">
-        <item>Aplicações de sistema</item>
-        <item>Outras aplicações</item>
-        <item>Aplicações seleccionadas</item>
+        <item>Aplicativos de sistema</item>
+        <item>Outras aplicativos</item>
+        <item>Aplicativos seleccionadas</item>
     </string-array>
     <string-array name="thermal_entries">
         <item>Modo predefinido</item>

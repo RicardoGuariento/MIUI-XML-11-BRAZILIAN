@@ -9,7 +9,7 @@
         <item quantity="one">Cópias: %1$s (%2$s)</item>
     </plurals>
     <plurals name="restoring_file_tile">
-        <item quantity="other">A restaurar %d ficheiros</item>
+        <item quantity="other">A restaurar %d arquivos</item>
         <item quantity="one">A restaurar %d ficheiro</item>
     </plurals>
     <plurals name="restore_app_order_prior">
@@ -21,7 +21,7 @@
         <item quantity="one">Prioridade normal: %d item</item>
     </plurals>
     <plurals name="restore_app_order_installed">
-        <item quantity="other">%d aplicações neste dispositivo</item>
+        <item quantity="other">%d aplicativos neste dispositivo</item>
         <item quantity="one">%d aplicação neste dispositivo</item>
     </plurals>
 </resources>

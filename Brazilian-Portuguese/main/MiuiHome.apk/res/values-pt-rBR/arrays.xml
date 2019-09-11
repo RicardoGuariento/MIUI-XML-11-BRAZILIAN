@@ -3,7 +3,7 @@
     <string-array name="editing_mode_entries">
        <item>Papel parede</item>
        <item>Widgets</item>
-       <item>Definições</item>
+       <item>Configurações</item>
     </string-array>
     <string-array name="gadget_weather_image">
        <item>Céu limpo</item>

@@ -327,7 +327,7 @@
   <string name="date_picker_label_year"/>
   <string name="date_time_done">Concluído</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
-  <string name="delete_description">Eliminar</string>
+  <string name="delete_description">excluir</string>
   <string name="deselect_all">Desmarcar tudo</string>
   <string name="deselect_all_description">Desmarcar tudo</string>
   <string name="early_morning">AM</string>
@@ -431,7 +431,7 @@
   <string name="noon">PM</string>
   <string name="note">Nota</string>
   <string name="organization">Organização</string>
-  <string name="perm_payment_dspt">Permite que a aplicação pague através do serviço de Mi Pay</string>
+  <string name="perm_payment_dspt">Permite que o aplicativo pague através do serviço de Mi Pay</string>
   <string name="perm_payment_lab">Mi Pay</string>
   <string name="permdesc_sendSmsNoConfirmation">A aplicação pode enviar mensagens SMS sem pedir permissão. Isto pode resultar em custos inesperados</string>
   <string name="permlab_sendSmsNoConfirmation">permitir mensagens SMS em segundo plano</string>

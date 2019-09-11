@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_title">Acerca</string>
-  <string name="access_sd_fail">Não foi possível aceder ao cartão SD</string>
+  <string name="about_title">Sobre</string>
+  <string name="access_sd_fail">Não foi possível acessaro cartão SD</string>
   <string name="accessibility_shutter_button">Disparador</string>
   <string name="action_search">Pesquisar</string>
   <string name="address">Endereço:</string>
   <string name="agree_btn">Concordar</string>
   <string name="amazon_assistant_shopping_title">Pesquisar na Amazon</string>
-  <string name="app_description_content">O Digitalizador fornece digitalização de códigos QR, digitalização para traduções e reconhecimento de cartões comerciais. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
-  <string name="app_description_title">Acerca do Digitalizador</string>
+  <string name="app_description_content">O Digitalizador fornece digitalização de códigos QR, digitalização para traduções e reconhecimento de cartões comerciais. Certifique-se que não quer estas funcionalidades antes de desinstalar o aplicativo</string>
+  <string name="app_description_title">Sobre do Digitalizador</string>
   <string name="app_details">Aplicação:</string>
   <string name="app_name">Digitalizador</string>
   <string name="back">Voltar</string>
@@ -69,14 +69,14 @@
   <string name="error_cannot_connect_camera">Não é possível ligar à Câmara</string>
   <string name="error_empty_result">Não foram encontrados resultados</string>
   <string name="error_get_image">Não foi possível obter imagem</string>
-  <string name="error_media_storage_failure">Não foi possível guardar foto</string>
+  <string name="error_media_storage_failure">Não foi possível salvar foto</string>
   <string name="error_minute_limit">Demasiadas tentativas num minuto</string>
-  <string name="error_permissions">O Digitalizador não tem as permissões necessárias para funcionar normalmente. Vá a Definições e verifique as permissões para continuar</string>
+  <string name="error_permissions">O Digitalizador não tem as permissões necessárias para funcionar normalmente. Vá a Configurações e verifique as permissões para continuar</string>
   <string name="error_server_error">Ocorreu um erro no servidor</string>
   <string name="fax">Fax</string>
   <string name="feed_search_fail">Sem resultados</string>
   <string name="feedback_description_camera_access">O Digitalizador não consegue ligar à Câmara</string>
-  <string name="feedback_description_save_photo">Não foi possível guardar foto ou vídeo</string>
+  <string name="feedback_description_save_photo">Não foi possível salvar foto ou vídeo</string>
   <string name="got_it">Percebi</string>
   <string name="gps">Navegar</string>
   <string name="import_contact">Importar contacto</string>
@@ -85,7 +85,7 @@
   <string name="impunity_declaration_title">Política de Privacidade</string>
   <string name="keywords_search_code">Digitalizador;Digitalizar;Código QR</string>
   <string name="keywords_search_document">Digitalizador;Digitalizar documentos;OCR;Digitalizar texto</string>
-  <string name="keywords_search_namecard">Digitalizador;Cartão comercial;Cartões comerciais;Digitalizar;Digitalizar cartões;Cartão;Cartões;Contactos;Contacto</string>
+  <string name="keywords_search_namecard">Digitalizador;Cartão comercial;Cartões comerciais;Digitalizar;Digitalizar cartões;Cartão;Cartões;Contatos;Contacto</string>
   <string name="keywords_search_shopping">Compras;Scanner;Digitalização de produtos;Varredura de produto;Verificar preço;Produtos;Taobao;Tmall;Preços;Compras on-line</string>
   <string name="keywords_search_study">Digitalizador;Problemas;Escola;Matemática</string>
   <string name="keywords_search_translation">Leitor QR;Traduzir;Dicionário;Inglês;Idioma estrangeiro;Idioma;Idiomas;Inglês para Chinês;Italiano;Alemão;Japonês;Coreano;Espanhol;Francês;Baidu Translate;Dicionário Youdao;Dicionário Baidu;Google Translate</string>  
@@ -104,8 +104,8 @@
   <string name="miracast_connecting">A transmitir…</string>
   <string name="miracast_details">Digitalize código QR para transmitir</string>
   <string name="miracast_message">Transmitir para %s?</string>
-  <string name="miracast_switch_off">Ecrã sem fios desligado</string>
-  <string name="miracast_switch_tip">Ligue o ecrã sem fios para utilizar esta funcionalidade</string>
+  <string name="miracast_switch_off">Tela sem fios desligado</string>
+  <string name="miracast_switch_tip">Ligue o tela sem fios para utilizar esta funcionalidade</string>
   <string name="module_title_business_card">Cartão comercial</string>
   <string name="module_title_code">Código QR</string>
   <string name="module_title_document">Documento</string>
@@ -151,7 +151,7 @@
   <string name="setting_choose_every_time">Perguntar sempre</string>
   <string name="setting_default_function">Opção predefinida</string>
   <string name="setting_preference_pay">Método pagamento preferido</string>
-  <string name="setting_title">Definições</string>
+  <string name="setting_title">Configurações</string>
   <string name="setting_use_last_choose">Última escolha</string>
   <string name="setting_wechat">WeChat</string>
   <string name="shopping_searching">A pesquisar…</string>
@@ -172,8 +172,8 @@
   <string name="translate_dest_lang">Idioma de destino</string>
   <string name="translate_fail">Não foi possível traduzir</string>
   <string name="translate_loading">A traduzir…</string>
-  <string name="translate_parallel_2_lines">Certifique-se que o texto está em paralelo com as linhas no ecrã</string>
-  <string name="translate_save_fail">Não foi possível guardar nota</string>
+  <string name="translate_parallel_2_lines">Certifique-se que o texto está em paralelo com as linhas na tela</string>
+  <string name="translate_save_fail">Não foi possível salvar nota</string>
   <string name="translate_src_lang">Idioma de origem</string>
   <string name="translate_text_compare">Comparação</string>
   <string name="translate_text_compare_copy">Copiar</string>

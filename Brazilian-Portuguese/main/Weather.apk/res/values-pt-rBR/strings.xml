@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_weather_setting">Acerca de Tempo</string>
+  <string name="about_weather_setting">Sobre de Tempo</string>
   <string name="about_weather_setting_feedback">Comentários</string>
   <string name="abrupt_weather_settings_summary_type">Receber alertas sobre precipitação esperada, alterações na qualidade do ar e outras alterações significativas</string>
   <string name="act_find_city_hint">Introduzir localização</string>
@@ -16,10 +16,10 @@
   <string name="act_weather_find_city_searching">A pesquisar…</string>
   <string name="activity_alert_detail_title"/>
   <string name="activity_find_city_dialog_cancel">Cancelar</string>
-  <string name="activity_find_city_dialog_message">Permitir que o Tempo possa aceder à sua localização para obter informações de localização</string>
+  <string name="activity_find_city_dialog_message">Permitir que o Tempo possa acessar à sua localização para obter informações de localização</string>
   <string name="activity_find_city_dialog_message_global">Ligue os serviços de localização e dê permissão para determinar a localização através das redes sem fios</string>
-  <string name="activity_find_city_dialog_message_location_service">Par obter informações de tempo, dê permissão ao Tempo para aceder à sua localização</string>
-  <string name="activity_find_city_dialog_set">Definições</string>
+  <string name="activity_find_city_dialog_message_location_service">Par obter informações de tempo, dê permissão ao Tempo para acessar à sua localização</string>
+  <string name="activity_find_city_dialog_set">Configurações</string>
   <string name="activity_find_city_dialog_title">Acesso à localização</string>
   <string name="activity_main_alert"/>
   <string name="activity_main_clickable">&gt;</string>
@@ -74,16 +74,16 @@
   <string name="button_settings_confirm_to_revoke_title">Revogar autorização?</string>
   <string name="button_sure_abandon">Rejeitar alterações?</string>
   <string name="change_alert">Verifique a sua ligação de rede e tente novamente</string>
-  <string name="china_version_first_start_network_msg">É necessário concordar com %1$s e %2$s da Xiaomi. O Tempo necessita de ligar à Internet e aceder à sua localização para funcionar normalmente. Concorda?</string>
+  <string name="china_version_first_start_network_msg">É necessário concordar com %1$s e %2$s da Xiaomi. O Tempo necessita de ligar à Internet e acessar à sua localização para funcionar normalmente. Concorda?</string>
   <string name="city_exceeded_warning">Pode adicionar até 10 cidades</string>
   <string name="commercial">Comercial</string>
   <string name="common_loading_text">Aguarde…</string>
   <string name="connect_fail">Não foi possível ligar à rede. Tente novamente</string>
   <string name="content_desc_activity_main_add_city">Adicionar cidade</string>
   <string name="content_desc_activity_main_add_city_manage">Gerir cidades</string>
-  <string name="content_desc_activity_main_more_settings">Mais definições</string>
+  <string name="content_desc_activity_main_more_settings">Mais configurações</string>
   <string name="content_desc_back_button">Voltar</string>
-  <string name="content_desc_city_manage_del">Eliminar</string>
+  <string name="content_desc_city_manage_del">excluir</string>
   <string name="content_desc_city_manage_edit">Editar</string>
   <string name="content_desc_close_button">Fechar</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
@@ -98,7 +98,7 @@
   <string name="daily_forecast_detail">Detalhes da previsão</string>
   <string name="daily_forecast_detail_date">d/MM</string>
   <string name="daily_forecast_no_data">"Não foi possível obter informação do tempo.
- Puxe para actualizar ou verifique as definições de rede"</string>
+ Puxe para actualizar ou verifique as configurações de rede"</string>
   <string name="data_provided_by"/>
   <string name="edit_alert_city_title">Gerir alertas</string>
   <string name="edit_city">Gerir localizações</string>
@@ -118,7 +118,7 @@
   <string name="feedback_result_success">Submetido com sucesso. Obrigado pelo seu comentário</string>
   <string name="feedback_sandy">Arenoso</string>
   <string name="feedback_sunny">Céu limpo</string>
-  <string name="first_start_network_msg">Esta aplicação necessita de uma ligação à Internet para aceder à sua localização para funcionar normalmente</string>
+  <string name="first_start_network_msg">Este aplicativo necessita de uma ligação à Internet para acessar à sua localização para funcionar normalmente</string>
   <string name="first_start_network_title">Ligação à Internet e acesso à localização</string>
   <string name="global_aqi">IQA: %1$s %2$s</string>
   <string name="gps_hint">Local actual</string>
@@ -143,7 +143,7 @@
   <string name="indices_desc_pressure">%1$s mb</string>
   <string name="indices_desc_visibility">%1$s km</string>
   <string name="indices_no_restriction">Nenhum</string>
-  <string name="indices_title">Actividades recomendadas</string>
+  <string name="indices_title">Atividades recomendadas</string>
   <string name="indices_title_Precip1hr">Precipitação 1hr</string>
   <string name="indices_title_car_wash">Lavar carro</string>
   <string name="indices_title_feel">Sens. térmica</string>
@@ -165,7 +165,7 @@
   <string name="international_details_wind_title">Vento</string>
   <string name="it_is_going_to_rain">Vai chover</string>
   <string name="locate_fail_detail_err">"Não é possível localizar dispositivo.
-Toque no ecrã para adicionar ou repor cidade"</string>
+Toque na tela para adicionar ou repor cidade"</string>
   <string name="location_provider_btn_text">Ligar os serviços de localização</string>
   <string name="location_tag">Localizar</string>
   <string name="menu_add_city">Editar localizações</string>
@@ -196,7 +196,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="open_browser">Abrir no navegador</string>
   <string name="open_now">Abrir</string>
   <string name="other">Outros</string>
-  <string name="other_settings">Outras definições</string>
+  <string name="other_settings">Outras configurações</string>
   <string name="other_warning_settings">Outros alertas</string>
   <string name="permission_device_info">Informação de dispositivo</string>
   <string name="permission_device_introduce">Para reconhecer o ID dispositivo baseado no modelo e IMEI e fornecer serviços de localização baseado nas preferências de idioma</string>
@@ -204,7 +204,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="permission_privacy">Política de Privacidade (obrigatório)</string>
   <string name="permission_select_all">Seleccionar tudo</string>
   <string name="permission_storage">Armazenamento</string>
-  <string name="permission_storage_introduce">Para aceder a itens no dispositivo e guardar ficheiros</string>
+  <string name="permission_storage_introduce">Para acessar itens no dispositivo e salvar arquivos</string>
   <string name="permission_user_protocol">Termos de Utilização (obrigatório)</string>
   <string name="policy_settings">Termos e Condições</string>
   <string name="precipitation_degree_five">Torrencial</string>
@@ -237,17 +237,17 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="reminder_from_xiaomi_weather_app">Alertas de Tempo</string>
   <string name="search_weather">Tempo</string>
   <string name="search_weather_keywords">Temperatura;Previsão do tempo;Tempo;Qualidade do ar;Humidade</string>
-  <string name="settings">Definições</string>
-  <string name="share">Partilhar tempo</string>
+  <string name="settings">Configurações</string>
+  <string name="share">Compartilhar tempo</string>
   <string name="share_btn_cancel">Cancelar</string>
-  <string name="share_btn_confirm">Partilhar</string>
-  <string name="share_button">Partilhar</string>
-  <string name="share_menu_title">Partilhar</string>
-  <string name="share_subject">Partilhar</string>
-  <string name="share_title">Partilhar tempo</string>
+  <string name="share_btn_confirm">Compartilhar</string>
+  <string name="share_button">Compartilhar</string>
+  <string name="share_menu_title">Compartilhar</string>
+  <string name="share_subject">Compartilhar</string>
+  <string name="share_title">Compartilhar tempo</string>
   <string name="share_weather_desc">Tempo MIUI - Hoje %1$s %2$s</string>
   <string name="share_weather_desc_split">,</string>
-  <string name="share_weather_save_pic_fail">Não foi possível tirar uma captura de ecrã</string>
+  <string name="share_weather_save_pic_fail">Não foi possível tirar uma captura de tela</string>
   <string name="shortcut_short_label_24_hour_forecast">Previsão horária</string>
   <string name="shortcut_short_label_recent_forecast">Previsão para 5 dias</string>
   <string name="some_where_on_earth">Algures na Terra</string>
@@ -255,7 +255,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="sunset">Pôr do sol</string>
   <string name="temperature_unit_C">%1$s℃</string>
   <string name="temperature_unit_F">%1$s℉</string>
-  <string name="title_share_link">Partilhar URL</string>
+  <string name="title_share_link">Compartilhar URL</string>
   <string name="top_pollution_co">CO</string>
   <string name="top_pollution_no2">NO2</string>
   <string name="top_pollution_o3">O3</string>
@@ -293,8 +293,8 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="wind_direction_no_data">Vento</string>
   <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>
-  <string name="xiaomi_weather_description_content">O Tempo fornece informações meteorológicas precisas. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
-  <string name="xiaomi_weather_description_title">Acerca de Tempo</string>
+  <string name="xiaomi_weather_description_content">O Tempo fornece informações meteorológicas precisas. Certifique-se que não quer estas funcionalidades antes de desinstalar o aplicativo</string>
+  <string name="xiaomi_weather_description_title">Sobre de Tempo</string>
   <string name="yes_vote_ratio">Para %1$s%%</string>
   <string name="your_location">A sua localização</string>
 </resources>

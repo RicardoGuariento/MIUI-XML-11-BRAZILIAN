@@ -30,7 +30,7 @@
   <string name="call_button_dialer_text">Teclado</string>
   <string name="call_button_mute_text">Silenciar</string>
   <string name="call_button_tools_text">Funcões</string>
-  <string name="call_contacts_deny_permission_msg">Não é possível mostrar informação dos contactos porque a permissão de leitura de contactos foi negada</string>
+  <string name="call_contacts_deny_permission_msg">Não é possível mostrar informação dos contatos porque a permissão de leitura de contatos foi negada</string>
   <string name="call_description_recording">A gravar…</string>
   <string name="call_not_support_high_frequency_click">Não toque neste botão tanta vez</string>
   <string name="call_extension_conference_mode">Modo de Conferência</string>
@@ -38,7 +38,7 @@
   <string name="call_recording_deny_permission_msg">Não é possível gravar porque a permissão de gravação foi negada</string>
   <string name="call_recording_error_low_storage">Não há espaço suficiente no armazenamento</string>
   <string name="call_recording_error_privacy">Não é possível gravar enquanto está no Modo Convidado</string>
-  <string name="call_recording_error_sd_access">Não é possível aceder ao cartão SD</string>
+  <string name="call_recording_error_sd_access">Não é possível acessaro cartão SD</string>
   <string name="call_recording_error_sd_unmounted">A gravação foi interrompida: O cartão SD está desmontado</string>
   <string name="call_recording_error_start_failed">Gravador está a ser utilizado por outra aplicação</string>
   <string name="call_recording_error_unknown">Ocorreu um erro desconhecido</string>
@@ -81,7 +81,7 @@
   <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
   <string name="conference_caller_info_name">Chamada de conferência de %1$s</string>
   <string name="conference_callers_exceeded">Não é possível adicionar mais pessoas</string>
-  <string name="contacts_icon_label">Contactos</string>
+  <string name="contacts_icon_label">Contatos</string>
   <string name="crbt_second_hold_prompt">%s está em espera…</string>
   <string name="crbt_second_hold_prompt_conference">A chamada de conferência está em espera…</string>
   <string name="crbt_second_hold_prompt_no_name">A chamada anterior está em espera…</string>
@@ -202,7 +202,7 @@
   <string name="unknown">Desconhecido</string>
   <string name="unlock_phone">Desbloquear dispositivo</string>
   <string name="upgrade_vt_prompt">Trocar para videochamada?</string>
-  <string name="user_locked_prompt">Desbloqueie o dispositivo para aceder aos contactos</string>
+  <string name="user_locked_prompt">Desbloqueie o dispositivo para acessar contatos</string>
   <string name="video_conference_caller_info_name">Videochamada em conferência de %1$s</string>
   <string name="voicemail">Voice Mail</string>
   <string name="volte_call">Chamada VoLTE</string>

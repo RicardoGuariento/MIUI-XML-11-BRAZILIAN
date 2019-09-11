@@ -12,7 +12,7 @@
   <string name="change_default_dialer_no_previous_app_set_text">Utilizar %s como aplicação Telefone predefinida?</string>
   <string name="change_default_dialer_with_previous_app_set_text">Utilizar %1$s em vez de %2$s como aplicação Telefone predefinida?</string>
   <string name="close">Desligar</string>
-  <string name="dial_conference_fail_prompt">Não é possível efectuar chamadas de conferência directamente porque a rede actual não suporta VoLTE</string>
+  <string name="dial_conference_fail_prompt">Não é possível efectuar chamadas de conferência diretamente porque a rede actual não suporta VoLTE</string>
   <string name="dial_vt_fail_prompt">A rede actual não suporta VoLTE. Trocar para chamadas de voz normais?</string>
   <string name="duplicate_video_call_not_allowed">Não é possível adicionar a chamada neste momento</string>
   <string name="enable_account_preference_title">Contas de chamadas</string>
@@ -32,7 +32,7 @@
   <string name="notification_missedCallsMsg">%s chamadas não atendidas</string>
   <string name="notification_missedCallsTitle">Chamadas não atendidas</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Chamada não efectuada. Não foi introduzido um número válido</string>
-  <string name="outgoing_call_not_allowed_no_permission">Esta aplicação não pode efectuar chamadas sem a autorização de Telefone</string>
+  <string name="outgoing_call_not_allowed_no_permission">Este aplicativo não pode efectuar chamadas sem a autorização de Telefone</string>
   <string name="outgoing_call_not_allowed_user_restriction">Apenas são permitidas chamadas de emergência pelo proprietário do dispositivo</string>
   <string name="respond_via_sms_canned_response_1">Não posso falar agora. O que é que se passa?</string>
   <string name="respond_via_sms_canned_response_2">Telefono-lhe daqui a pouco</string>

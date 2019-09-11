@@ -9,7 +9,7 @@
   <string name="aod_mode_preview">Pré-visualizar</string>
   <string name="aod_mode_style">Estilo de relógio e fundo</string>
   <string name="aod_mode_style_title">Mais opções</string>
-  <string name="aod_mode_summary">Mostrar relógio, data, notificações e imagens de fundo quando o ecrã estiver desligado</string>
+  <string name="aod_mode_summary">Mostrar relógio, data, notificações e imagens de fundo quando o tela estiver desligado</string>
   <string name="aod_mode_time_summary">Programar hora para ligar ou desligar Modo Sempre Ligado</string>
   <string name="aod_mode_time_title">Programar</string>
   <string name="aod_mode_title">Modo Sempre Ligado</string>

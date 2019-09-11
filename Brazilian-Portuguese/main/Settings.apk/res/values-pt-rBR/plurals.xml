@@ -21,27 +21,27 @@
         <item quantity="one">Atraso muito longo (%1$d ms)</item>
     </plurals>
     <plurals name="app_notification_listing_summary_others">
-        <item quantity="other">Desligado para %d aplicações</item>
-        <item quantity="one">Desligado para %d aplicações</item>
+        <item quantity="other">Desligado para %d aplicativos</item>
+        <item quantity="one">Desligado para %d aplicativos</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">Nunca desactivar para %d aplicações</item>
+        <item quantity="other">Nunca desactivar para %d aplicativos</item>
         <item quantity="one">Nunca desactivar para 1 aplicação</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">Desactivar sempre para %d aplicações</item>
+        <item quantity="other">Desactivar sempre para %d aplicativos</item>
         <item quantity="one">Desactivar sempre para 1 aplicação</item>
     </plurals>
     <plurals name="auto_startup_count">
-        <item quantity="other">%d aplicações podem iniciar automaticamente</item>
+        <item quantity="other">%d aplicativos podem iniciar automaticamente</item>
         <item quantity="one">%d aplicação pode iniciar automaticamente</item>
     </plurals>
     <plurals name="bg_network_allow_count">
-        <item quantity="other">%d aplicações podem ligar-se à rede</item>
+        <item quantity="other">%d aplicativos podem ligar-se à rede</item>
         <item quantity="one">%d aplicação pode ligar-se à rede</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
-        <item quantity="other">%d aplicações não podem ligar-se à rede</item>
+        <item quantity="other">%d aplicativos não podem ligar-se à rede</item>
         <item quantity="one">%d aplicação não pode ligar-se à rede</item>
     </plurals>
     <plurals name="connected_devices_number">
@@ -49,19 +49,19 @@
         <item quantity="one">%d dispositivo</item>
     </plurals>
     <plurals name="data_saver_unrestricted_summary">
-        <item quantity="other">%1$d aplicações permitidas de utilizar dados sem restrição com a poupança de dados ligada</item>
+        <item quantity="other">%1$d aplicativos permitidas de utilizar dados sem restrição com a poupança de dados ligada</item>
         <item quantity="one">1 aplicação permitida de utilizar dados sem restrição com a poupança de dados ligada</item>
     </plurals>
     <plurals name="default_camera_app_title">
-        <item quantity="other">Aplicações de câmara</item>
+        <item quantity="other">Aplicativos de câmara</item>
         <item quantity="one">Aplicação de câmara</item>
     </plurals>
     <plurals name="default_email_app_title">
-        <item quantity="other">Aplicações de email</item>
+        <item quantity="other">Aplicativos de email</item>
         <item quantity="one">Aplicação de email</item>
     </plurals>
     <plurals name="default_phone_app_title">
-        <item quantity="other">Aplicações de telefone</item>
+        <item quantity="other">Aplicativos de telefone</item>
         <item quantity="one">Aplicação de telefone</item>
     </plurals>
     <plurals name="deleted_channels">
@@ -73,7 +73,7 @@
         <item quantity="one">Remover o idioma seleccionado?</item>
     </plurals>
     <plurals name="domain_urls_apps_summary_on">
-        <item quantity="other">%d aplicações que abrem links suportados</item>
+        <item quantity="other">%d aplicativos que abrem links suportados</item>
         <item quantity="one">Uma aplicação que abre links suportados</item>
     </plurals>
     <plurals name="enterprise_privacy_number_ca_certs">
@@ -85,15 +85,15 @@
         <item quantity="one">%d tentativa</item>
     </plurals>
     <plurals name="enterprise_privacy_number_packages">
-        <item quantity="other">%d aplicações</item>
+        <item quantity="other">%d aplicativos</item>
         <item quantity="one">%d aplicação</item>
     </plurals>
     <plurals name="enterprise_privacy_number_packages_lower_bound">
-        <item quantity="other">Mínimo de %d aplicações</item>
+        <item quantity="other">Mínimo de %d aplicativos</item>
         <item quantity="one">Mínimo de %d aplicação</item>
     </plurals>
     <plurals name="firewall_item_summary">
-        <item quantity="other">Ligação restringida para %s aplicações</item>
+        <item quantity="other">Ligação restringida para %s aplicativos</item>
         <item quantity="one">Ligação restringida para %s aplicação</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
@@ -161,7 +161,7 @@
         <item quantity="one">Tente novamente dentro de %d segundo</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">%d aplicações podem ler as notificações</item>
+        <item quantity="other">%d aplicativos podem ler as notificações</item>
         <item quantity="one">%d aplicação pode ler as notificações</item>
     </plurals>
     <plurals name="manage_trust_agents_summary_on">
@@ -173,7 +173,7 @@
         <item quantity="one">1 contas vai ser reposta</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
-        <item quantity="other">%1$d aplicações utilizaram a memória nos(as) últimos(as) %2$s</item>
+        <item quantity="other">%1$d aplicativos utilizaram a memória nos(as) últimos(as) %2$s</item>
         <item quantity="one">1 aplicação utilizou a memória nos(as) últimos(as) %2$s</item>
     </plurals>
     <plurals name="minutes">
@@ -189,11 +189,11 @@
         <item quantity="one">1 restrição</item>
     </plurals>
     <plurals name="notification_summary">
-        <item quantity="other">Desligado para %d aplicações</item>
+        <item quantity="other">Desligado para %d aplicativos</item>
         <item quantity="one">Desligado para 1 aplicação</item>
     </plurals>
     <plurals name="number_of_device_admins">
-        <item quantity="other">%d aplicações activas</item>
+        <item quantity="other">%d aplicativos activas</item>
         <item quantity="one">%d aplicação activa</item>
     </plurals>
     <plurals name="permissions_summary">
@@ -261,7 +261,7 @@
         <item quantity="one">Está a %1$d passo de fazer uma reposição de fábrica</item>
     </plurals>
     <plurals name="special_access_summary">
-        <item quantity="other">%d aplicações podem utilizar dados sem restrição</item>
+        <item quantity="other">%d aplicativos podem utilizar dados sem restrição</item>
         <item quantity="one">1 aplicação pode utilizar dados sem restrição</item>
     </plurals>
     <plurals name="ssl_ca_cert_dialog_title">
@@ -269,31 +269,31 @@
         <item quantity="one">Confiar ou remover certificado</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"%s instalou autoridades de certificação para o seu perfil de trabalho que podem permitir monitorizar a actividade na rede de trabalho, incluindo emails, aplicações e sites seguros.
+        <item quantity="other">"%s instalou autoridades de certificação para o seu perfil de trabalho que podem permitir monitorar a actividade na rede de trabalho, incluindo emails, aplicativos e sites seguros.
 
-Para obter mais informações acerca destes certificados, contacte o seu administrador"</item>
-        <item quantity="one">"%s instalou uma autoridade de certificação para o seu perfil de trabalho que pode permitir monitorizar a actividade na rede de trabalho, incluindo emails, aplicações e sites seguros.
+Para obter mais informações sobre destes certificados, contacte o seu administrador"</item>
+        <item quantity="one">"%s instalou uma autoridade de certificação para o seu perfil de trabalho que pode permitir monitorar a actividade na rede de trabalho, incluindo emails, aplicativos e sites seguros.
 
-Para obter mais informações acerca deste certificado, contacte o seu administrador"</item>
+Para obter mais informações sobre deste certificado, contacte o seu administrador"</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"%s instalou autoridades de certificação no seu dispositivo que podem permitir monitorizar a actividade na rede do dispositivo, incluindo emails, aplicações e sites seguros.
+        <item quantity="other">"%s instalou autoridades de certificação no seu dispositivo que podem permitir monitorar a actividade na rede do dispositivo, incluindo emails, aplicativos e sites seguros.
 
-Para obter mais informações acerca destes certificados, contacte o seu administrador"</item>
-        <item quantity="one">"%s instalou uma autoridade de certificação no seu dispositivo que pode permitir monitorizar a actividade na rede do dispositivo, incluindo emails, aplicações e sites seguros.
+Para obter mais informações sobre destes certificados, contacte o seu administrador"</item>
+        <item quantity="one">"%s instalou uma autoridade de certificação no seu dispositivo que pode permitir monitorar a actividade na rede do dispositivo, incluindo emails, aplicativos e sites seguros.
 
-Para obter mais informações acerca deste certificado, contacte o seu administrador"</item>
+Para obter mais informações sobre deste certificado, contacte o seu administrador"</item>
     </plurals>
     <plurals name="ssl_ca_cert_settings_button">
         <item quantity="other">Verificar certificados</item>
         <item quantity="one">Verificar certificado</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">%d aplicações não podem mostrar notificações</item>
+        <item quantity="other">%d aplicativos não podem mostrar notificações</item>
         <item quantity="one">%d aplicação não pode mostrar notificações</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%d aplicações podem mostrar notificações</item>
+        <item quantity="other">%d aplicativos podem mostrar notificações</item>
         <item quantity="one">%d aplicação pode mostrar notificações</item>
     </plurals>
     <plurals name="uri_permissions_text">
