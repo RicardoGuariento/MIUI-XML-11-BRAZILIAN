@@ -240,7 +240,7 @@ O seu Administrador pode monitorar e gerir configurações, acessos, aplicativos
   <string name="animator_duration_scale_title">Escala de duração da animação</string>
   <string name="another_migration_already_in_progress">Já existe outra migração em curso</string>
   <string name="anti_spam">Lista de bloqueio</string>
-  <string name="aod_and_lock_screen_settings_title">Tela ambiente e tela de bloqueio</string>
+  <string name="aod_and_lock_screen_settings_title">Notificações e tela de bloqueio</string>
   <string name="aod_settings_category_name">Tela ambiente</string>
   <string name="aod_settings_title">Tela ambiente</string>
   <string name="apn_apn">APN</string>
@@ -2046,6 +2046,13 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e os 
   <string name="google_title">Google</string>
   <string name="got_it">Entendido</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
+  <string name="gxzw_quick_open_enable_summary">Use atalhos de gesto para abrir aplicativos ou recursos do aplicativo quando o dispositivo estiver desbloqueado</string>
+  <string name="gxzw_quick_open_enable_title">Atalhos de impressão digital</string>
+  <string name="gxzw_quick_open_fast_summary">Deslize para usar um atalho quando o dispositivo estiver desbloqueado.</string>
+  <string name="gxzw_quick_open_fast_title">Deslize rápido (avançado)</string>
+  <string name="gxzw_quick_open_slow_summary">Pressione e segure o ícone de impressão digital para abrir o menu de atalho. Deslize para usar um atalho.</string>
+  <string name="gxzw_quick_open_slow_title">Pressionar e segurar</string>
+  <string name="gxzw_quick_open_title">Atalhos</string>
   <string name="gxzw_add_fingerprint_area">Digitalizador de impressão digital</string>
   <string name="gxzw_add_fingerprint_continue">Continuar</string>
   <string name="gxzw_add_fingerprint_edge_message">Mova o seu dedo para gravar os cantos da sua impressão digital</string>
