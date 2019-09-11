@@ -15,7 +15,7 @@
   <string name="btn_yes">Sim</string>
   <string name="channel_downloading">Progresso da transferência</string>
   <string name="channel_update">Nova versão disponível</string>
-  <string name="check_new_version">Verificar</string>
+  <string name="check_new_version">Procurar atualizações</string>
   <string name="dialog_3g_desc">Tenha atenção que utilizar dados móveis para transferir ROMs pode consumir todo o seu pacote de dados</string>
   <string name="dialog_3g_title">Aviso!</string>
   <string name="dialog_btn_3g">Continuar mesmo assim</string>
