@@ -313,7 +313,7 @@ você precisa primeiro criar um backup no iCloud."</string>
   <string name="prompt_sending">Enviando…</string>
   <string name="prompt_writing">Salvando…</string>
   <string name="read_encrypt_fail">Não foi possível ler o backup criptografado</string>
-  <string name="reconnect">Conectar novamente</string
+  <string name="reconnect">Conectar novamente</string>
   <string name="recreate_soft_ap_tips">Toque no botão abaixo para tentar novamente</string>
   <string name="refresh">Atualizar</string>
   <string name="remote_receive">Receber</string>
