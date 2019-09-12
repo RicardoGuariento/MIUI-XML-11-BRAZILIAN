@@ -79,7 +79,7 @@
   <string name="buy_traffic">China Unicom</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_running_download">Cancelar</string>
-  <string name="character_counter_content_description">Limite de caracteres excedeu %1$d de %2$d</string>
+  <string name="character_counter_content_description">Limite de caracteres excedido em %1$d de %2$d</string>
   <string name="choose_download_quality">Escolher qualidade da transferência</string>
   <string name="choose_language">Seleccionar idioma</string>
   <string name="choose_stream_quality">Qualidade de streaming preferido</string>

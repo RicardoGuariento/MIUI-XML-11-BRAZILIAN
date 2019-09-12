@@ -36,7 +36,7 @@
   <string name="background_icon">Fundo</string>
   <string name="black_white_clock_panel">Relógio</string>
   <string name="cancel">Cancelar</string>
-  <string name="character_counter_content_description">Limite de caracter excedido em %1$d de %2$d</string>
+  <string name="character_counter_content_description">Limite de caracteres excedido em %1$d de %2$d</string>
   <string name="choose_aod_style">Escolher tema</string>
   <string name="clock_panel_icon">Estilo do relógio</string>
   <string name="color_change_with_time_description">Alterar a cor do texto automaticamente ao longo do tempo</string>
