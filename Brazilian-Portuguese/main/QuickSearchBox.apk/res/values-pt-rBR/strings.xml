@@ -2,8 +2,8 @@
 <resources>
   <string name="app_loaction">Procurar na tela inicial</string>
   <string name="app_name">Pesquisar</string>
-  <string name="appindex_description">Funções dos aplicativos instalados</string>
-  <string name="appindex_search_label">Funções dos aplicativos</string>
+  <string name="appindex_description">Funções dos apps instalados</string>
+  <string name="appindex_search_label">Funções dos apps </string>
   <string name="application_desc">Aplicativo</string>
   <string name="applications_search_label">Aplicativos</string>
   <string name="apps_search_activity"/>
@@ -24,9 +24,9 @@ Para limpar o histórico do Navegador, utilize as definições do Navegador"</st
   <string name="clear_shortcuts_summary">Limpar atalhos para sugestões de pesquisa recentemente escolhidas</string>
   <string name="common_setting">Definições gerais</string>
   <string name="connect_and_retry">Conecte-se à Internet e tente novamente</string>
-  <string name="corpus_description_apps">Aplicativos instalados</string>
+  <string name="corpus_description_apps">Apps instalados</string>
   <string name="corpus_description_web">Marcadores</string>
-  <string name="corpus_hint_apps">Pesquisa de aplicativos</string>
+  <string name="corpus_hint_apps">Pesquisa de apps </string>
   <string name="corpus_label_apps">Aplicativos</string>
   <string name="corpus_label_global">Todos</string>
   <string name="corpus_label_web">Resultados</string>
@@ -52,32 +52,32 @@ Para limpar o histórico do Navegador, utilize as definições do Navegador"</st
   <string name="local_setting">Configurações</string>
   <string name="menu_help">Ajuda</string>
   <string name="menu_settings">Configurações de pesquisa</string>
-  <string name="mina_name">Aplicativos Diretos</string>
+  <string name="mina_name">Apps Diretos</string>
   <string name="network_unavailable">Não foi possível conectar à Internet</string>
   <string name="permission_prompt_detail">Pesquisar filmes, músicas, livros e mais</string>
   <string name="permission_prompt_start">Permitir</string>
   <string name="permission_prompt_started_info">Permitiu a pesquisa global</string>
   <string name="permission_prompt_title">Quer mais?</string>
   <string name="pull_to_input">Puxe para mostrar a barra de pesquisa</string>
-  <string name="recent_apps">Aplicativos recentes</string>
-  <string name="recent_apps_filter">Ocultar aplicativos não utilizados</string>
+  <string name="recent_apps">Apps recentes</string>
+  <string name="recent_apps_filter">Ocultar apps não utilizados</string>
   <string name="recent_close_content">"Desligar esta funcionalidade agora?
 Pode alterar esta configuração em Configurações &gt; Aplicativos do sistema &gt; Pesquisar"</string>
   <string name="recent_close_title">Desligar funcionalidade</string>
-  <string name="recent_delete_content">"Ocultar estes aplicativos agora?
+  <string name="recent_delete_content">"Ocultar estes apps agora?
 Pode alterar esta configuração em Configurações &gt; Aplicativos do sistema &gt; Pesquisar"</string>
   <string name="recent_delete_negative">Cancelar</string>
   <string name="recent_delete_positive">OK</string>
-  <string name="recent_delete_title">Ocultar aplicativos</string>
+  <string name="recent_delete_title">Ocultar apps </string>
   <string name="recent_edit">Editar</string>
   <string name="recent_edit_done">Concluído</string>
-  <string name="recent_filter_functions">Aplicativos ocultos</string>
+  <string name="recent_filter_functions">Apps ocultos</string>
   <string name="recent_function">Funcionalidades</string>
   <string name="recently_shortcut_label">Atalhos recentes</string>
   <string name="release_to_input">Solte para mostrar a barra de pesquisa</string>
   <string name="remove_from_history">Quer remover este item do histórico de pesquisas?</string>
   <string name="remove_from_history_failed">Não foi possível remover o item do histórico de pesquisas</string>
-  <string name="search_apps">Pesquisar aplicativos</string>
+  <string name="search_apps">Pesquisar apps </string>
   <string name="search_button">Pesquisar</string>
   <string name="search_group_fold">Ocultar</string>
   <string name="search_group_unfold">Mais</string>
@@ -85,7 +85,7 @@ Pode alterar esta configuração em Configurações &gt; Aplicativos do sistema 
   <string name="search_in_app_store">Pesquisar na Play Store</string>
   <string name="search_in_web">Pesquisar na web</string>
   <string name="search_keyword_quicksearchbox">Pesquisar</string>
-  <string name="search_path_quicksearchbox">Aplicativos do sistema/Pesquisar</string>
+  <string name="search_path_quicksearchbox">Apps do sistema/Pesquisar</string>
   <string name="search_settings">Configurações de pesquisa</string>
   <string name="search_sources">Itens pesquisáveis</string>
   <string name="search_sources_summary">Escolher o que pesquisar no telefone</string>
@@ -94,11 +94,11 @@ Pode alterar esta configuração em Configurações &gt; Aplicativos do sistema 
   <string name="search_widget">Pesquisar</string>
   <string name="send_secret_code">Enviar código</string>
   <string name="setting_other">Outros</string>
-  <string name="setting_version">Versão do aplicativo</string>
-  <string name="setting_version_title">Versão do aplicativo</string>
-  <string name="settings_description">Nomes dos aplicativos instalados</string>
+  <string name="setting_version">Versão do app</string>
+  <string name="setting_version_title">Versão do app</string>
+  <string name="settings_description">Nomes dos apps instalados</string>
   <string name="show_more">Mostrar mais</string>
-  <string name="suggest_open_app_failed">Não foi possível abrir este aplicativo</string>
+  <string name="suggest_open_app_failed">Não foi possível abrir este app</string>
   <string name="swipe_up_summary">Deslizar para cima para abrir a pesquisa</string>
   <string name="swipe_up_title">Deslizar para cima</string>
   <string name="switch_application">Aplicativos</string>

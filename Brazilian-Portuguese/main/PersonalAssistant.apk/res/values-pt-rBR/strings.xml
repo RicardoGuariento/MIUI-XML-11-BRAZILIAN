@@ -57,8 +57,8 @@
   <string name="alipay_template_month_dialog_cancel">Cancelar</string>
   <string name="already">Completado:</string>
   <string name="announce_for_drag">Arrastando um item</string>
-  <string name="app_label">Cofre de aplicativos</string>
-  <string name="app_setting">Configurações do cofre de aplicativos</string>
+  <string name="app_label">Cofre de apps </string>
+  <string name="app_setting">Configurações do cofre de apps </string>
   <string name="app_setting_add_header_bg">Imagem de capa</string>
   <string name="app_setting_datetime">Mostrar data</string>
   <string name="app_setting_dialog_cancel">Cancelar</string>
@@ -69,7 +69,7 @@
   <string name="app_setting_privacy_policy">Política de privacidade</string>
   <string name="app_setting_search">Barra de pesquisa</string>
   <string name="app_setting_xiaoai">Botão Mi AI</string>
-  <string name="apps">Sugestão de aplicativos</string>
+  <string name="apps">Sugestão de apps </string>
   <string name="apps_label">Aplicativos</string>
   <string name="arr_airport">Aeroporto de destino</string>
   <string name="arr_airport_example">Exemplo: Shanghai Pudong T2</string>
@@ -86,7 +86,7 @@
   <string name="ball_dialog_confirm">Instalar</string>
   <string name="ball_dialog_content">Instale %s para usar este recurso. Instalar agora?</string>
   <string name="ball_dialog_tip">"Não mostrar novamente"</string>
-  <string name="ball_dialog_title">Instale o aplicativo primeiro.</string>
+  <string name="ball_dialog_title">Instale o app primeiro.</string>
   <string name="ball_football_recent_ing">Em progresso</string>
   <string name="battery_history">Bateria</string>
   <string name="bicycle">Ciclo</string>
@@ -135,7 +135,7 @@
   <string name="card_expand_note_clear">Limpar</string>
   <string name="card_expand_note_clear_all">Limpar</string>
   <string name="card_expand_note_dialog_button">Entendido</string>
-  <string name="card_expand_note_dialog_message">Uma nova nota é sempre criada quando você tocar no botão \"Salvar\" no cofre de aplicativos.</string>
+  <string name="card_expand_note_dialog_message">Uma nova nota é sempre criada quando você tocar no botão \"Salvar\" no cofre de apps .</string>
   <string name="card_expand_note_dialog_title">Salvando notas</string>
   <string name="card_expand_note_sure_clear_all">Limpar agora</string>
   <string name="card_expand_note_toast_clear_null">Limpeza concluída com sucesso</string>

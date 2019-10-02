@@ -25,7 +25,7 @@
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizar</string>
   <string name="input_hint_prefix">Entre %1$s</string>
-  <string name="music_app_unavailable">Garanta que o aplicativo Mi Music está disponível.</string>
+  <string name="music_app_unavailable">Garanta que o app Mi Music está disponível.</string>
   <string name="music_audio_effect_optimize">Configurações de áudio</string>
   <string name="music_audio_effect_optimize_summary">Dirac, fones de ouvido, e outras configurações de áudio</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, fones de ouvido, e outras configurações de áudio</string>

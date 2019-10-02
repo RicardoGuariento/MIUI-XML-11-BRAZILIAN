@@ -43,14 +43,14 @@ Não estão atualizações disponíveis"</string>
   <string name="notif_new_summary">Toque para obter detalhes</string>
   <string name="notif_new_title">Nova versão disponível</string>
   <string name="notifications_switch">Mostrar notificações</string>
-  <string name="permdesc_cache_filesystem">Permite o aplicativo gravar arquivos no cache(ram)</string>
-  <string name="permdesc_reboot">Permite o aplicativo reiniciar o dispositivo</string>
+  <string name="permdesc_cache_filesystem">Permite o app gravar arquivos no cache(ram)</string>
+  <string name="permdesc_reboot">Permite o app reiniciar o dispositivo</string>
   <string name="permlab_cache_filesystem">Acesso à cache(ram)</string>
   <string name="permlab_reboot">permitir reiniciar</string>
   <string name="pick_not_found">Não foi encontrado nenhum explorador de arquivos</string>
   <string name="pick_title">Escolha utilizando:</string>
   <string name="recovery_desc">O dispositivo vai reiniciar para o modo recovery. Continuar?</string>
-  <string name="server_error">O servidor não está a responder. O aplicativo pode não funcionar correctamente</string>
+  <string name="server_error">O servidor não está a responder. O app pode não funcionar correctamente</string>
   <string name="share_title">Compartilhar com</string>
   <string name="version">Instalado atualmente:</string>
   <string name="version_type">MIUI 10 | %1$s | (Semanal)</string>

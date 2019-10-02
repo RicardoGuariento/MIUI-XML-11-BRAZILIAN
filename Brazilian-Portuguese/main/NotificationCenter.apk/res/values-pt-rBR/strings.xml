@@ -10,9 +10,9 @@
     <string name="enable_show_badge_notification">Ícones de notificação permitidos</string>
     <string name="expandable_under_keyguard">Abrir Área de notificações na tela de bloqueio</string>
     <string name="float_notifications">Notificações flutuantes</string>
-    <string name="hint_search_all">Procurar por aplicativos</string>
-    <string name="hint_search_in_disabled_aplicativos">Procurar por aplicativos que não podem mostrar notificações</string>
-    <string name="hint_search_in_enabled_aplicativos">Procurar por aplicativos que podem mostrar notificações</string>
+    <string name="hint_search_all">Procurar por apps </string>
+    <string name="hint_search_in_disabled_aplicativos">Procurar por apps que não podem mostrar notificações</string>
+    <string name="hint_search_in_enabled_aplicativos">Procurar por apps que podem mostrar notificações</string>
     <string name="list_title_disable_notification">Notificações não permitidas</string>
     <string name="loading">Aguarde…</string>
     <string name="lock_screen_display_rules">Formato</string>
@@ -24,7 +24,7 @@
     <string name="notification_display_style">Estilo das notificações</string>
     <string name="notification_fold_summary">Todas as notificações não importantes aparecerão em uma pasta separada</string>
     <string name="notification_fold_title">Pasta de notificações</string>
-    <string name="notification_manager">Notificações do aplicativo</string>
+    <string name="notification_manager">Notificações do app</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">MIUI</string>
     <string name="off">Desativado</string>
