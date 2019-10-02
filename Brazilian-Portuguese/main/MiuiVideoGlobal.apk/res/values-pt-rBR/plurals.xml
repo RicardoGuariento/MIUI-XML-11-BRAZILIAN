@@ -17,11 +17,7 @@
         <item quantity="one">%d vídeo</item>
     </plurals>
 	    <plurals name="subscriber">
-        <item quantity="other">%s inscritos</item>
-        <item quantity="one">%s inscrito</item>
-    </plurals>
-	<plurals name="feed_back_home">
-        <item quantity="other">Voltando à página inicial em in %1$d segundos…</item>
-        <item quantity="one">Voltando à página inicial em %1$d segundo…</item>
+        <item quantity="other"> inscritos</item>
+        <item quantity="one"> inscrito</item>
     </plurals>
 </resources>

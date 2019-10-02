@@ -7,7 +7,7 @@
     <string name="abc_action_menu_overflow_description">Mais opções</string>
     <string name="abc_action_mode_done">Concluído</string>
     <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-    <string name="abc_activitychooserview_choose_application">Selecione um app</string>
+    <string name="abc_activitychooserview_choose_application">Selecione um aplicativo</string>
     <string name="abc_capital_off">DESATIVAR</string>
     <string name="abc_capital_on">ATIVAR</string>
     <string name="abc_search_hint">Pesquisar...</string>
@@ -23,12 +23,12 @@
     <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
     <string name="common_google_play_services_install_button">Instalar</string>
-    <string name="common_google_play_services_install_text">O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="common_google_play_services_install_text">O aplicativo %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
     <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
     <string name="common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
     <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
-    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="common_google_play_services_unsupported_text">O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="common_google_play_services_unknown_issue">O aplicativo %1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unsupported_text">O aplicativo %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
     <string name="common_google_play_services_update_button">Atualizar</string>
     <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
     <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
@@ -375,7 +375,7 @@
     <string name="resource_mute">Nenhum</string>
     <string name="resource_my">Offline</string>
     <string name="resource_network_diagnostics"><u>Testar rede</u></string>
-    <string name="resource_no_match_app">Nenhum app encontrado para executar esta ação.</string>
+    <string name="resource_no_match_app">Nenhum aplicativo encontrado para executar esta ação.</string>
     <string name="resource_no_network_text">Não é possível conectar-se à rede.</string>
     <string name="resource_no_result">Nada encontrado</string>
     <string name="resource_notification_default">Notificações</string>
@@ -504,7 +504,7 @@
     <string name="theme_component_title_font">Fontes</string>
     <string name="theme_component_title_framework">Bordas</string>
     <string name="theme_component_title_icon">Ícones</string>
-    <string name="theme_component_title_launcher">Barra de apps </string>
+    <string name="theme_component_title_launcher">Barra de aplicativos</string>
     <string name="theme_component_title_lockstyle">Estilo de bloqueio</string>
     <string name="theme_component_title_lockwallpaper">Tela de bloqueio</string>
     <string name="theme_component_title_miwallpaper">Plano de fundo MIUI</string>
@@ -533,7 +533,7 @@
     <string name="theme_immediately_apply_tip">Aplicar atualização do tema agora?</string>
     <string name="theme_import_from_sdcard">Importar</string>
     <string name="theme_is_external_priority_storage">Salvar para o cartão SD</string>
-    <string name="theme_is_external_priority_storage_summary">O app Temas reiniciará imediatamente para aplicar a configuração.</string>
+    <string name="theme_is_external_priority_storage_summary">O aplicativo Temas reiniciará imediatamente para aplicar a configuração.</string>
     <string name="theme_multiple_button_title_customize">Personalizar</string>
     <string name="theme_no">Não</string>
     <string name="theme_purchased_list_empty">Você não comprou nenhum tema.</string>
@@ -545,11 +545,11 @@
     <string name="theme_user_agreement_content2">Acordo do Usuário</string>
     <string name="theme_user_agreement_content3">" e "</string>
     <string name="theme_user_agreement_content4">Política de Privacidade</string>
-    <string name="theme_user_agreement_content5">". Este app precisa se conectar à internet para funcionar normalmente. "</string>
+    <string name="theme_user_agreement_content5">". Este aplicativo precisa se conectar à internet para funcionar normalmente. "</string>
     <string name="theme_user_agreement_exit">Recusar</string>
     <string name="theme_user_agreement_remind_again">Mostrar Termos de Uso</string>
     <string name="theme_user_agreement_remind_never">Não mostrar novamente</string>
-    <string name="theme_user_agreement_remind_summary">Mostrar pop-up de Termos de Uso sempre que o app de Temas for aberto. Esta configuração tem efeito na reinicialização do dispositivo.</string>
+    <string name="theme_user_agreement_remind_summary">Mostrar pop-up de Termos de Uso sempre que o aplicativo de Temas for aberto. Esta configuração tem efeito na reinicialização do dispositivo.</string>
     <string name="theme_user_agreement_title">Termos de Uso</string>
     <string name="theme_yes">Sim</string>
     <string name="third_party_pickers_activity_title">Adicionar %1$s</string>
@@ -574,7 +574,7 @@
     <string name="update_downloading">Fazendo o download da atualização…</string>
     <string name="update_fail">Não foi possível obter informações. Tente novamente.</string>
     <string name="update_immediately">Atualizar agora</string>
-    <string name="update_latest">Seu app está atualizado</string>
+    <string name="update_latest">Seu aplicativo está atualizado</string>
     <string name="update_no_net">Ocorreu um erro de rede. Tentar novamente.</string>
     <string name="update_title">NOVA ATUALIZAÇÃO DISPONÍVEL</string>
     <string name="using_theme_has_update_tips">Uma atualização está disponível para este tema.</string>
@@ -606,11 +606,11 @@
     <string name="xiaoai_speech_not_installed_message">Faça o download e instale o Assistente de Voz Mi AI para continuar.</string>
     <string name="xiaoai_speech_not_installed_title">O Assistente de voz Mi AI não está instalado.</string>
 	<string name="accessibility_setting_hint">"Torque no botão no canto superior direito para ativar este serviço.
-Temas irá detectar quais apps você está usando e mostrar papéis de parede transparentes nos apps de sua escolha.​"</string>
+Temas irá detectar quais aplicativos você está usando e mostrar papéis de parede transparentes nos aplicativos de sua escolha.​"</string>
     <string name="app_disable_transparent_wallpaper">Sem papel de parede transparente</string>
     <string name="app_enable_transparent_wallpaper">Com papel de parede transparente</string>
 	<string name="enable_accessibility">Permissões de acessibilidade requeridas</string>
-    <string name="enable_accessibility_hint">"Você pode ativar este serviço em Temas. Depois disso, você poderá escolher quais apps irão trabalhar com papéis de parede transparentes."</string>
+    <string name="enable_accessibility_hint">"Você pode ativar este serviço em Temas. Depois disso, você poderá escolher quais aplicativos irão trabalhar com papéis de parede transparentes."</string>
     <string name="enable_transparent_wallpaper">Usar papel de parede transparente</string>
 	<string name="go_accessibility_setting">Selecionar</string>
 	<string name="incall_show_apply_success">"Aplicado com sucesso. Desative este recurso,
@@ -627,10 +627,10 @@ Para desativar este recureso, vá em Configurações &gt; Som e vibração &gt; 
 	<string name="transparent_wallpaper_apply_success">Aplicado com sucesso. Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="transparent_wallpaper_disable">Desativado</string>
     <string name="transparent_wallpaper_enable">Ativado</string>
-	<string name="transparent_wallpaper_filter_pref_summary">"Os papéis de parede transparente não serão exibidos em apps restritos"</string>
-    <string name="transparent_wallpaper_filter_pref_title">Selecione os apps que deverão trabalhar com os papéis de parede transparentes</string>
+	<string name="transparent_wallpaper_filter_pref_summary">"Os papéis de parede transparente não serão exibidos em aplicativos restritos"</string>
+    <string name="transparent_wallpaper_filter_pref_title">Selecione os aplicativos que deverão trabalhar com os papéis de parede transparentes</string>
     <string name="transparent_wallpaper_filter_set_successfully">Aplicado com sucesso</string>
-    <string name="transparent_wallpaper_filter_setting">Apps individuais</string>
+    <string name="transparent_wallpaper_filter_setting">Aplicativos individuais</string>
 	<string name="transparent_wallpaper_pref_summary">Papéis de parede com redução na opacidade do plano de fundo</string>
 	<string name="wallpaper_loop_add_success">Adicionado com sucesso</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Adicionar na apresentação da tela inicial</string>

@@ -34,7 +34,7 @@
     <string name="cancel">Cancelar</string>
     <string name="channel_name_alarm">Alarme</string>
     <string name="channel_name_timer">Timer</string>
-	<string name="clock_bg_button_setting_summary_common">Selecione a cor do plano de fundo para o app do Relógio</string>
+	<string name="clock_bg_button_setting_summary_common">Selecione a cor do plano de fundo para o aplicativo do Relógio</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Preto será usado toda vez que você alterar para o modo Escuro</string>
     <string name="clock_bg_button_setting_title">Cor do plano de fundo</string>
     <string name="close_alarm">Desativar</string>
@@ -78,7 +78,7 @@
     <string name="hour">1 hora</string>
     <string name="hour_unit">H +</string>
     <string name="hours">%d horas</string>
-    <string name="install_weather_app_error">Não foi possível carregar o app</string>
+    <string name="install_weather_app_error">Não foi possível carregar o aplicativo</string>
     <string name="install_weather_app_loading">Aguarde…</string>
     <string name="invalid_time">Hora inválida: %3$s %1$d: %2$d</string>
     <string name="invalid_timer_length">A duração do timer é inválida</string>

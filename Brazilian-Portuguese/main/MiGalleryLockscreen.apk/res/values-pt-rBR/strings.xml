@@ -17,7 +17,7 @@
   <string name="and">" e "</string>
   <string name="app_name">Papéis de parede aleatórios</string>
   <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignorar esta versão</string>
-  <string name="app_self_upgrade_dlg_content">Uma nova versão do app está disponível. Atualizar agora?</string>
+  <string name="app_self_upgrade_dlg_content">Uma nova versão do aplicativo está disponível. Atualizar agora?</string>
   <string name="app_self_upgrade_dlg_negative_btn">Mais tarde</string>
   <string name="app_self_upgrade_dlg_postive_btn">Atualizar agora</string>
   <string name="app_self_upgrade_dlg_title">Atualização disponível</string>
@@ -83,7 +83,7 @@
   <string name="cw_deleting">Excluir (%1$d/%2$d)</string>
   <string name="cw_local_pic">Galeria</string>
   <string name="cw_my_fav">Favoritos</string>
-  <string name="cw_permission_tip">Permitir que os papéis de parede aleatórios tenham acesso ao armazenamento em Configurações &gt; Gerenciar apps </string>
+  <string name="cw_permission_tip">Permitir que os papéis de parede aleatórios tenham acesso ao armazenamento em Configurações &gt; Gerenciar aplicativos</string>
   <string name="cw_wallpaper_empty_dlg_btn">Entendi</string>
   <string name="cw_wallpaper_empty_dlg_content">Ainda não adicionou itens aos diapositivos. Trocado para recomendações</string>
   <string name="cw_wallpaper_empty_dlg_title">Sem itens</string>
@@ -104,7 +104,7 @@
   <string name="detail_menu_favor">Favoritos</string>
   <string name="detail_menu_history">Histórico</string>
   <string name="detail_menu_home">Ir para início</string>
-  <string name="detail_menu_setting">Configuraçoes do app</string>
+  <string name="detail_menu_setting">Configuraçoes do aplicativo</string>
   <string name="detail_menu_settingbtn_setting">Configurações</string>
   <string name="detail_menu_settingbtn_share">Compartilhar</string>
   <string name="detail_menu_wall">Papéis de parede de hoje</string>
@@ -279,8 +279,8 @@
   <string name="subscribe_item_checked">Subscrito</string>
   <string name="subscribe_item_unchecked">Não subscrito</string>
   <string name="summary">"Concordar com a nossa <a href ='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a> para ver conteúdo online"</string>
-  <string name="summary2">"Ao utilizar esta funcionalidade, você concorda com os nossos <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Termos de Utilização</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Este app necessita de conexão à Internet para funcionar normalmente"</string>
-  <string name="summary_international">"Ao utilizar esta funcionalidade, você concorda com os nossos <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Termos de Utilização</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Este app necessita de conexão à Internet para funcionar normalmente"</string>
+  <string name="summary2">"Ao utilizar esta funcionalidade, você concorda com os nossos <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Termos de Utilização</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Este aplicativo necessita de conexão à Internet para funcionar normalmente"</string>
+  <string name="summary_international">"Ao utilizar esta funcionalidade, você concorda com os nossos <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Termos de Utilização</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Este aplicativo necessita de conexão à Internet para funcionar normalmente"</string>
   <string name="tab_user_title_bar_text">Configurações</string>
   <string name="theme_apply_failured">Não é possível aplicar. Tente novamente mais tarde</string>
   <string name="theme_apply_success">Aplicado com sucesso</string>

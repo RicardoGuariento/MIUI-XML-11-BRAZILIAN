@@ -21,7 +21,7 @@
         <item quantity="one">Prioridade normal: %d ítem</item>
     </plurals>
     <plurals name="restore_app_order_installed">
-        <item quantity="other">%d apps neste dispositivo</item>
-        <item quantity="one">%d app neste dispositivo</item>
+        <item quantity="other">%d aplicativos neste dispositivo</item>
+        <item quantity="one">%d aplicativo neste dispositivo</item>
     </plurals>
 </resources>

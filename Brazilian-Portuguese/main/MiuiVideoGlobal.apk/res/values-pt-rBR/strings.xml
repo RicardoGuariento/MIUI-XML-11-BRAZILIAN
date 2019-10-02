@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
     <string name="abc_action_menu_overflow_description">Mais opções</string>
     <string name="abc_action_mode_done">Concluído</string>
     <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-    <string name="abc_activitychooserview_choose_application">Selecione um app</string>
+    <string name="abc_activitychooserview_choose_application">Selecione um aplicativo</string>
     <string name="abc_capital_off">DESATIVAR</string>
     <string name="abc_capital_on">ATIVAR</string>
     <string name="abc_search_hint">Pesquisar...</string>
@@ -93,7 +95,7 @@
     <string name="t_password_wrong">Senha incorreta. Tente novamente.</string>
     <string name="t_search_null">Insira palavras-chave para pesquisar</string>
     <string name="v_agree">Aceitar</string>
-    <string name="v_app_check_failed">Não foi possível verificar o app</string>
+    <string name="v_app_check_failed">Não foi possível verificar o aplicativo</string>
     <string name="v_app_click_to_install">Toque para instalar.</string>
     <string name="v_app_download_failed">Não foi possível fazer o download, toque para tentar novamente.</string>
     <string name="v_app_downloaded">Download do Mi Vídeo concluído</string>
@@ -147,11 +149,14 @@
     <string name="vp_app_name">Reprodutor de vídeos</string>
     <string name="vp_device_list">Dispositivos</string>
     <string name="vp_device_list_seaching">&lt;Nenhum dispositivo para transmitir></string>
+	<string name="Subscribe">Cadastrar</string>
 	<string name="diy_channels_tips">Você pode personalizar a sua lista de canais agora.</string>
     <string name="empty_channels">Gerenciar canais</string>
     <string name="empty_subscribe">"Você ainda não se cadastrou em nada."</string>
 	<string name="hidden_channels">"Os seguintes canais não serão exibidos na tela inicial."</string>
 	<string name="init_channels">Restaurar padrão</string>
+    <string name="isSubscribed">Cadastrado</string>
+	<string name="my_favorite_channels">Meus canais</string>
 	<string name="ovp_navigation_subscribe">Cadastrar</string>
     <string name="ovp_player_plugin_dlg_neg_btn">Fechar</string>
     <string name="ovp_player_plugin_dlg_no_content">Nenhum plugin de vídeo instalado.</string>
