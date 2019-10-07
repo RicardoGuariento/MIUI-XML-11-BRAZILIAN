@@ -544,4 +544,4 @@ To activate your account, follow the
   <string name="upload_log_failed">"Couldn't send logs"</string>
   <string name="warning_field_empty">Enter %1$s</string>
   <string name="warning_field_invalid">Select a valid %1$s</string>
-</resources
+</resources>
