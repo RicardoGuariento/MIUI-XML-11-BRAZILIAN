@@ -53,7 +53,7 @@ Não estão atualizações disponíveis"</string>
   <string name="server_error">O servidor não está a responder. O aplicativo pode não funcionar correctamente</string>
   <string name="share_title">Compartilhar com</string>
   <string name="version">Instalado atualmente:</string>
-  <string name="version_type">MIUI 10 | %1$s | (Semanal)</string>
+  <string name="version_type">MIUI %3$s | %1$s | (Semanal)</string>
   <string name="weekly">Semanal</string>
    <string name="wifi_recommended">Sem conexão Wi-Fi para iniciar a transferência</string>
 </resources>
