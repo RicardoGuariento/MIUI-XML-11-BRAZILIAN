@@ -717,6 +717,12 @@ para personalizar a Galeria"</string>
     <string name="movie_tab_music">Música</string>
     <string name="movie_tab_template">Modelo</string>
     <string name="movie_template_baby">Cutie</string>
+	<string name="movie_template_cool">Luzes</string>
+	<string name="movie_template_cool2">Ritmo</string>
+	<string name="movie_template_cool3">Ondas</string>
+	<string name="movie_template_dull">História</string>
+	<string name="movie_template_dull2">Tempo</string>
+	<string name="movie_template_dull3">Beleza</string>
     <string name="movie_template_food">Comidas</string>
     <string name="movie_template_new_year">Ano novo</string>
     <string name="movie_template_normal">Melódico</string>
@@ -1462,4 +1468,10 @@ para personalizar a Galeria"</string>
     <string name="movie_audio_summertime">Verão</string>
     <string name="movie_audio_vitality">Vigor</string>
     <string name="movie_customer_unsupport_audio_file">Arquivo de áudio não suportado</string>
+	<string name="movie_audio_point1">Neon</string>
+	<string name="movie_audio_point2">Pôr do Sol</string>
+	<string name="movie_audio_point3">Recordações</string>
+	<string name="movie_audio_point4">Solstício de Verão</string>
+	<string name="movie_audio_point5">Ondas</string>
+	<string name="movie_audio_point6">Carnaval</string>
 </resources>
