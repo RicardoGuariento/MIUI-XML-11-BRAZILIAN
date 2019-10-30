@@ -316,7 +316,7 @@
   <string name="no_apk">Toque para obter aplicações</string>
   <string name="no_app_tags">Vazio</string>
   <string name="no_comment">Sem comentários</string>
-  <string name="no_downloaded_sticker_tip">Não foi possível encontrar stickers transferidos. Verifique os stickers partilhados pelos fãs Mi</string>
+  <string name="no_downloaded_sticker_tip">Não foi possível encontrar stickers transferidos. Verifique os stickers compartilhados pelos fãs Mi</string>
   <string name="no_enough_storage_indication">O armazenamento do dispositivo está cheio</string>
   <string name="no_enough_storage_title">Não há espaço suficiente</string>
   <string name="no_file">Vazio</string>
@@ -369,7 +369,7 @@
   <string name="operation_rename_message">Digite o novo nome</string>
   <string name="operation_reply">Comentar</string>
   <string name="operation_send">Enviar</string>
-  <string name="operation_share">Partilhar</string>
+  <string name="operation_share">Compartilhar</string>
   <string name="operation_unfavorite">Remover dos favoritos</string>
   <string name="other_user_follow_tab">A seguir</string>
   <string name="other_user_liked_topic_tip">Não está seguindo nenhum tópico</string>
@@ -502,8 +502,8 @@
   <string name="setting_message_notify">Notificações</string>
   <string name="setting_shortcut">Adicionar atalho na tela inicial</string>
   <string name="share_success">Comartilhado com sucesso</string>
-  <string name="share_tip_1">Obrigado por partilhar. Siga-me para ver mais vídeos</string>
-  <string name="share_tip_2">Obrigado por partilhar. Siga-me para ver mais vídeos</string>
+  <string name="share_tip_1">Obrigado por compartilhar. Siga-me para ver mais vídeos</string>
+  <string name="share_tip_2">Obrigado por compartilhar. Siga-me para ver mais vídeos</string>
   <string name="share_title_1">Encontrei um bundle de stickers fixe!</string>
   <string name="share_to">Compartilhar utilizando…</string>
   <string name="shared_sticker_network_permission_tip">Não foi possível conectar à rede. Verifique a sua conexão de rede e tente novamente</string>
