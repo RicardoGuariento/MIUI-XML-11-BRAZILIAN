@@ -113,20 +113,20 @@
     <item quantity="many">Recebeu %1$d arquivos de %2$s</item>
   </plurals>
   <plurals name="file_notify_title_wechat_video">
-    <item quantity="other">Recebeu %1$d ficheiros do WeChat</item>
-    <item quantity="zero">Recebeu %1$d ficheiros do WeChat</item>
-    <item quantity="one">Recebeu %1$d ficheiro do WeChat</item>
-    <item quantity="two">Recebeu %1$d ficheiros do WeChat</item>
-    <item quantity="few">Recebeu %1$d ficheiros do WeChat</item>
-    <item quantity="many">Recebeu %1$d ficheiros do WeChat</item>
+    <item quantity="other">Recebeu %1$d arquivos do WeChat</item>
+    <item quantity="zero">Recebeu %1$d arquivos do WeChat</item>
+    <item quantity="one">Recebeu %1$d arquivo do WeChat</item>
+    <item quantity="two">Recebeu %1$d arquivos do WeChat</item>
+    <item quantity="few">Recebeu %1$d arquivos do WeChat</item>
+    <item quantity="many">Recebeu %1$d arquivos do WeChat</item>
   </plurals>
   <plurals name="file_notify_title_wechat_video_expire">
-    <item quantity="other">%1$d ficheiros do WeChat Vídeo vão expirar</item>
-    <item quantity="zero">%1$d ficheiros do WeChat Vídeo vão expirar</item>
-    <item quantity="one">%1$d ficheiro do WeChat Vídeo vai expirar</item>
-    <item quantity="two">%1$d ficheiros do WeChat Vídeo vão expirar</item>
-    <item quantity="few">%1$d ficheiros do WeChat Vídeo vão expirar</item>
-    <item quantity="many">%1$d ficheiros do WeChat Vídeo vão expirar</item>
+    <item quantity="other">%1$d arquivos do WeChat Vídeo vão expirar</item>
+    <item quantity="zero">%1$d arquivos do WeChat Vídeo vão expirar</item>
+    <item quantity="one">%1$d arquivo do WeChat Vídeo vai expirar</item>
+    <item quantity="two">%1$d arquivos do WeChat Vídeo vão expirar</item>
+    <item quantity="few">%1$d arquivos do WeChat Vídeo vão expirar</item>
+    <item quantity="many">%1$d arquivos do WeChat Vídeo vão expirar</item>
   </plurals>
   <plurals name="backup_message_wechat_video">
     <item quantity="other">%1$d vídeos nas conversas WeChat vão expirar. Fazer cópia para o armazenamento interno do seu dispositivo?</item>
