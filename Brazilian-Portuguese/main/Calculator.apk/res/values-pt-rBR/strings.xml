@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Calculadora</string>
     <string name="app_name_danfa">Calculadora Mi</string>
-    <string name="base_rate">Taxa de juro base</string>
+    <string name="base_rate">Taxa de juros base</string>
     <string name="cal_convert_to_word_figure">Converter para caracteres financeiros</string>
     <string name="cal_copy">Copiar</string>
     <string name="cal_edit_mode">Modo de edição</string>
@@ -61,7 +61,7 @@
     <string name="factorialDesc">fatorial</string>
     <string name="fund" />
     <string name="fund_loan">Empréstimos</string>
-    <string name="global_network_confirm_content">O conversor de moedas precisa de uma conexão à internet para funcionar normalmente.</string>
+    <string name="global_network_confirm_content">O conversor de moedas precisa de uma conexão com a internet para funcionar normalmente.</string>
     <string name="global_search_key_area_convertion">Área;Conversor de área;Conversão de área</string>
     <string name="global_search_key_calculation">Calcular;Calculadora;Conversão de unidades;Conversor;Converter unidades</string>
     <string name="global_search_key_date_convertion">Conversor de tempo;Unidades de tempo;Conversão de tempo;Tempo</string>
