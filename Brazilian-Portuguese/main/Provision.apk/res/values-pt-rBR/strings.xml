@@ -109,7 +109,7 @@ Você deve concordar com a Política de Privacidade do Kika antes de usar este r
 2. Quando você estiver ouvindo música com a tela desligada."</string>
     <string name="voice_assist_advice">O Mi AI permite que você use controles por voz, mas ele consumirá mais energia (+1% a cada hora).</string>
     <string name="ai_button_title">Sobre o botão IA</string>
-    <string name="ai_button_desc">Use este botão para acionar o Mi AI e completar tarefas no seu telefone usando apenas a sua voz</string>
+    <string name="ai_button_desc">O botão AI permite ativar o Mi AI e usar os seus atalhos.</string>
     <string name="ai_button_long_press">Pressionar e segurar</string>
     <string name="ai_button_long_press_desc">Diga seu comando e solte o botão</string>
     <string name="ai_button_single_press">Pressionar</string>
