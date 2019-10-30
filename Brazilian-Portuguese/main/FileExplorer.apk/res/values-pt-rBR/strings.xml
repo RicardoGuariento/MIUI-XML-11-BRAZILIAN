@@ -38,7 +38,7 @@
   <string name="bind_failed_tip">Não foi possível adicionar</string>
   <string name="bind_phone_dialog_bind">Adicionar agora</string>
   <string name="bind_phone_dialog_cancle">Não adicionar</string>
-  <string name="bind_phone_dialog_tip">O seu vídeo pode ganhar prémios. Em caso de vencer alguma coisa, não o podemos contactar a não ser que adicione o seu número de telefone</string>
+  <string name="bind_phone_dialog_tip">O seu vídeo pode ganhar prêmios. Em caso de vencer alguma coisa, não o podemos contactar a não ser que adicione o seu número de telefone</string>
   <string name="bind_phone_failed_tip">Não foi possível adicionar número de telefone</string>
   <string name="bind_need_to_login">Iniciar sessão</string>
   <string name="bind_phone_success_tip">Número de telefone adicionado</string>
@@ -107,12 +107,12 @@
   <string name="data_consumption_confirm">OK</string>
   <string name="data_consumption_message">Este aplicativo precisa de uma conexão com a Internet através de Wi-Fi para funcionar normalmente</string>
   <string name="data_consumption_message1">O Explorador necessita de conexão à Internet para ter os vídeos e stickers disponíveis</string>
-  <string name="data_consumption_title">Conexão à Internet</string>
+  <string name="data_consumption_title">Conectar na Internet</string>
   <string name="decompress_cancel">Cancelar</string>
   <string name="decompress_confirm">Extrair</string>
-  <string name="decompress_corrupt">Não foi possível descompactar os ficheiros. O pacote está corrompido</string>
-  <string name="decompress_destination_error">Não é possível extrair ficheiros para este caminho</string>
-  <string name="decompress_encrypted_rar_not_supported">Ficheiros rar encriptados não são suportados</string>
+  <string name="decompress_corrupt">Não foi possível descompactar os arquivos. O pacote está corrompido</string>
+  <string name="decompress_destination_error">Não é possível extrair arquivos para este caminho</string>
+  <string name="decompress_encrypted_rar_not_supported">Arquivos rar encriptados não são suportados</string>
   <string name="decompress_fail">Não foi possível extrair</string>
   <string name="decompress_input_password">Introduzir palavra-chave…</string>
   <string name="decompress_password_error">A palavra-chave que introduziu está incorreta</string>
@@ -162,7 +162,7 @@
   <string name="encrypt_success">Ocultados com sucesso</string>
   <string name="encrypt_success_first_five">Arquivo encriptado e ocultado. Para ver os arquivos ocultados desça a página inicial do Explorador</string>
   <string name="encrypting">Encriptando…</string>
-  <string name="error_contains_sharer_path">Não é possível encriptar ficheiros na pasta /MIUI/Gallery/cloud/sharer. Mova o ficheiro para outra pasta e tente novamente</string>
+  <string name="error_contains_sharer_path">Não é possível encriptar arquivos na pasta /MIUI/Gallery/cloud/sharer. Mova o arquivo para outra pasta e tente novamente</string>
   <string name="error_create_dir">Não foi possível criar pasta</string>
   <string name="error_create_file">Não foi possível criar arquivo</string>
   <string name="error_delete_failed">Não foi possível excluir este arquivo</string>
@@ -179,7 +179,7 @@
   <string name="exo_controls_previous_description">Música anterior</string>
   <string name="exo_controls_rewind_description">Retroceder</string>
   <string name="exo_controls_stop_description">Parar</string>
-  <string name="extended_storage_file_can_not_open">Não é possível abrir o ficheiro. Copie o ficheiro para o armazenamento interno primeiro</string>
+  <string name="extended_storage_file_can_not_open">Não é possível abrir o arquivo. Copie o arquivo para o armazenamento interno primeiro</string>
   <string name="extract">Extrair</string>
   <string name="fail_to_create_folder_unknown">Não é possível criar a pasta</string>
   <string name="favorite_photo">Fotos</string>
@@ -193,7 +193,7 @@
   <string name="file_info_modified">"Última modificação: "</string>
   <string name="file_info_size">"Tamanho: "</string>
   <string name="file_loading">Aguarde…</string>
-  <string name="file_name_invalid">"Os nomes de arquivos não podem conter os seguintes caracteres: /\\:*?&lt;&gt;"</string>
+  <string name="file_name_invalid">"Os nomes dos arquivos não podem conter os seguintes caracteres: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">O arquivo não existe</string>
   <string name="folder_name_empty">Nome da pasta não pode estar vazio</string>
   <string name="folder_name_illegal">Nome da pasta inválida</string>
@@ -302,7 +302,7 @@
   <string name="move_to">Mover para…</string>
   <string name="msg_notify_setting">Definições das notificações</string>
   <string name="msg_set_password">Definir palavra-passe primeiro</string>
-  <string name="mtp_device">Dispositivo multimédia (MTP)</string>
+  <string name="mtp_device">Dispositivo multimídia (MTP)</string>
   <string name="mtp_label">MTP</string>
   <string name="name_empty">Introduzir nome</string>
   <string name="need_read_storage_permission">Explorador necessita de permissão de acesso ao armazenamento do dispositivo para funcionar normalmente</string>
@@ -384,7 +384,7 @@
   <string name="path_kuai_chuan">Transferências P2P</string>
   <string name="path_recent_file">Gerir arquivos no seu dispositivo</string>
   <string name="permission_denial">Não foi possível acessar os arquivos. Permita que o Explorador possa acessar os arquivos nas Definições</string>
-  <string name="permission_required">Não foi possível acessar os arquivos. Permita que o Explorador possa aceesar a arquivos nas Definições</string>
+  <string name="permission_required">Não foi possível acessar os arquivos. Permita que o Explorador possa acessar os arquivos nas Definições</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Armazenamento interno</string>
   <string name="phone_bind_skip">Ignorar</string>
@@ -497,7 +497,7 @@
   <string name="set_pattern">Padrão atualizado</string>
   <string name="set_pattern_btn">Definir</string>
   <string name="set_pattern_msg">Defina seu o padrão novamente. O padrão de Proteção de Privacidade também funciona para fotos e mensagens</string>
-  <string name="setting">Definições</string>
+  <string name="setting">Configurações</string>
   <string name="setting_account_bind">Adicionar conta</string>
   <string name="setting_message_notify">Notificações</string>
   <string name="setting_shortcut">Adicionar atalho na tela inicial</string>
@@ -613,7 +613,7 @@
   <string name="user_no_video_tip">Ainda não carregou nenhum vídeos</string>
   <string name="user_not_login">Iniciar sessão primeiro</string>
   <string name="user_not_video_btn_text">Enviar o primeiro vídeo</string>
-  <string name="user_setting_logout">Terminar sessão</string>
+  <string name="user_setting_logout">Encerrar sessão</string>
   <string name="user_setting_hot_comment">Notificações sobre comentários em destaque</string>
   <string name="user_setting_hot_comment_tip">Receber notificações quando os seus comentários estão em destaque</string>
   <string name="user_setting_new_comment">Notificações de novos comentários</string>
