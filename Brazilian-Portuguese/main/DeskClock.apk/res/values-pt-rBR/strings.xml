@@ -62,6 +62,7 @@
     <string name="dialog_message_not_remind">Não mostrar novamente</string>
 	<string name="dialog_privacy_content">Para obter informações sobre feriados públicos, ajustar alarmes, e receber serviços personalizados, o Relógio precisa de acesso à Internet. Antes de usar o Relógio, você precisa ler e concordar com nosso %1$s e %2$s. Concorda?</string>
 	<string name="dialog_privacy_content_global">Para receber serviços personalizados, o Relógio precisa de conexão à Internet. ntes de usar o Relógio, você precisa ler e concordar com nosso %1$s e %2$s. Concorda?</string>
+	<string name="dialog_privacy_content_global">Para receber serviços personalizados, o Relógio precisa de conexão à Internet. Antes de usar o Relógio, você precisa ler e concordar com nosso %1$s e %2$s. Concorda?</string>
 	<string name="dialog_privacy_content_news">Para receber serviços personalizados e notícias matinais no seu alarme, o Relógio precisa de acesso à Internet. Antes de usar o Relógio, você precisa ler e concordar com nosso %1$s e %2$s. Concorda?</string>
 	<string name="dialog_privacy_content_timer">Para baixar arquivos de áudio para sons ambientes e receber serviços personalizados, o Relógio precisa de acesso à Internet. Antes de usar o Relógio, você precisa ler e concordar com nosso %1$s e %2$s. Concorda?</string>
 	<string name="dialog_privacy_content_timer_data">"Para baixar arquivos de áudio para sons ambientes (≈20MB) e receber serviços personalizados, o Relógio precisa de acesso à Internet. Antes de usar o Relógio, você precisa ler e concordar com nosso %1$s e %2$s. Concorda?"</string>
@@ -113,7 +114,9 @@
     <string name="life_post_wake_up_percentage_title">Mi Fãs atrás de você</string>
     <string name="life_post_wake_up_time_title">Acordou às</string>
     <string name="life_post_weather_invalid">Tap to get weather info</string>
+	<string name="life_post_weather_invalid">Toque para obter informações sobre o clima</string>
     <string name="life_post_weather_no_network">Connect to the network to update weather info</string>
+	<string name="life_post_weather_no_network">Conecte na internet para obter informações sobre o clima</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
     <string name="loading_ringtone">Carregando toque…</string>
     <string name="menu_add_worldclock">Novo relógio</string>
@@ -220,6 +223,7 @@
     <string name="timer_continue_timer">Retomar timer</string>
     <string name="timer_created">Timer adicionado com sucesso</string>
     <string name="timer_end_time">O timer parará às %s</string>
+	<string name="timer_end_time">O timer vai parar às %s</string>
     <string name="timer_end_time_format">"HH:mm, dd 'de' MMMM"</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
