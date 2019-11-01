@@ -1398,6 +1398,7 @@ Este recurso pode ser desativado nas [Configurações]"</string>
     <string name="connected_via_passpoint">Conectado via %1$s</string>
     <string name="connected_wifi">Conectado</string>
     <string name="connecting_to_vpn">Conectando-se à VPN</string>
+	<string name="connection_and_sharing">Conexões e Compartilhamento</string>
     <string name="content_description_menu_button">Menu</string>
     <string name="contributors_title">Colaboradores</string>
     <string name="controls_label">Controles</string>
@@ -2481,8 +2482,9 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="high_power_system">A otimização de bateria não está disponível</string>
     <string name="history_details_title">Detalhes do histórico</string>
     <string name="home">Configurações da tela inicial</string>
-    <string name="home_app">Launcher</string>
+	<string name="home_app">Launcher</string>
     <string name="home_key">Início</string>
+	<string name="home_title">Tela inicial</string>
     <string name="home_work_profile_not_supported">Não aceita perfis de trabalho</string>
     <string name="http_invoke_app">Web aplicativos</string>
     <string name="http_invoke_app_summary">Abra aplicativos rapidamente sem instalá-los</string>
