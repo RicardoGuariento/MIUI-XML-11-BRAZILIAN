@@ -105,5 +105,6 @@
 	<string name="retry_connect">Tente novamente</string>
 	<string name="search_brand">Pesquisar</string>
 	<string name="start_print">Imprimir</string>
+	<string name="system_print_service_help">Sobre impressão</string>
 	<string name="wifi_direct">Wi-Fi Direct</string>
 </resources>
