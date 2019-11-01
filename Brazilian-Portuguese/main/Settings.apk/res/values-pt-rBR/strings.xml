@@ -5455,6 +5455,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="system_dashboard_summary">Idiomas, horário, backup, atualizações</string>
     <string name="system_default_app">(Padrão do sistema)</string>
     <string name="system_package">As atualizações do sistema não podem ser instaladas em mídia externa.</string>
+	<string name="system_print_service_help">Sobre impressão</string>
     <string name="system_shortcut_wake">Ligar tela com botões de atalho</string>
     <string name="system_storage">Armazenamento do sistema</string>
     <string name="system_ui_settings">Mostrar sintonizador SystemUI</string>
