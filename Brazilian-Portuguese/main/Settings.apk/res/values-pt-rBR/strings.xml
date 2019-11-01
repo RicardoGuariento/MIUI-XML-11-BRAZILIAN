@@ -2009,6 +2009,7 @@ Você pode ver os logs gerados no Gerenciador de Arquivos."</string>
     <string name="enable_mobile_data_when_opening_hotspot">Ativar também a conexão de dados móveis?</string>
     <string name="enable_opengl_traces_title">Ativar rastream. OpenGL</string>
     <string name="enable_quick_setting">Mostrar em \"Configurações rápidas\"</string>
+	<string name="enable_screen_projection_summary">Transmitir o conteúdo da tela para um monitor externo</string>
     <string name="enable_service_encryption_warning">Se %1$s for ativado, o dispositivo não usará o bloqueio de tela para melhorar a criptografia de dados.</string>
     <string name="enable_service_password_reason">A ativação do %1$s afeta a criptografia de dados. Confirme sua senha.</string>
     <string name="enable_service_pattern_reason">A ativação do %1$s afeta a criptografia de dados. Confirme seu padrão.</string>
@@ -4407,6 +4408,10 @@ Para usar a fixação de tela:
     <string name="screen_pinning_unlock_password">Pedir senha antes de desafixar</string>
     <string name="screen_pinning_unlock_pattern">Pedir padrão de desbloqueio antes de desafixar</string>
     <string name="screen_pinning_unlock_pin">Pedir PIN antes de desafixar</string>
+	<string name="screen_projection">Projeção</string>
+	<string name="screen_projection_characteristics_off_screen_title">Projetar com a tela desligada</string>
+	<string name="screen_projection_sample_summary">Projetar documentos, jogos, fotos e vídeos</string>
+	<string name="screen_projection_title">Projeção</string>
     <string name="screen_reader_category_title">Leitores de tela</string>
     <string name="screen_resolution_dialog_title">Alterar resolução</string>
     <string name="screen_resolution_high_format">Alta (%1$s)</string>
