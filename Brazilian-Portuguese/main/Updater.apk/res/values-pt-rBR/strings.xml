@@ -52,6 +52,7 @@ Não tem atualizações disponíveis"</string>
   <string name="recovery_desc">O dispositivo vai reiniciar no modo recovery. Deseja continuar?</string>
   <string name="server_error">O servidor não está respondendo. O aplicativo pode não funcionar corretamente</string>
   <string name="share_title">Compartilhar com</string>
+  <string name="stable">Estável</string>
   <string name="version">Instalado atualmente:</string>
   <string name="version_type">MIUI %3$s | %1$s | (Semanal)</string>
   <string name="weekly">Semanal</string>
