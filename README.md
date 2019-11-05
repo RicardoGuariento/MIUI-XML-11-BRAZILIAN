@@ -4,7 +4,8 @@
 
 MIUI 11 Brazilian Portuguese translation for all supported devices. 
 
-Translator: Ricardo Guariento (ricardo.guariento@hotmail.com)
+Translators: Ricardo Guariento (ricardo.guariento@hotmail.com)
+             Alexandre Jensen (alexjensen.rickli@gmail.com)
 
 Thanks to:
 
