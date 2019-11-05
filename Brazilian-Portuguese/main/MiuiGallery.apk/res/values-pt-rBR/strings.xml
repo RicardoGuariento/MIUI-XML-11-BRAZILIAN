@@ -1204,6 +1204,7 @@ para personalizar a Galeria"</string>
     <string name="tip_file_path">Caminho:</string>
     <string name="tip_not_download">O item não está no dispositivo. O download será feito da Mi Cloud durante a reprodução.</string>
     <string name="tip_screenshot_package_info">Nome do aplicativo:</string>
+	<string name="tips_prompt_enable_midrop">Compartilhar arquivos com dispositivos próximos</string>
     <string name="title_set_name">Inserir nome</string>
     <string name="title_tip">Dica</string>
     <string name="title_warn">Alerta</string>
