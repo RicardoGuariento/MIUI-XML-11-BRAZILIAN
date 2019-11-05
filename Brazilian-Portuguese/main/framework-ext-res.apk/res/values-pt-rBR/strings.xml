@@ -216,4 +216,5 @@
     <string name="content_description_web_url">Navegar</string>
 	<string name="user_switching_dialog_switch_into_kid_space">Alternando para o espaço Kid…</string>
     <string name="user_switching_dialog_switch_out_kid_space">Saindo do espaço Kid…</string>
+	<string name="tips_prompt_enable_midrop">Compartilhar arquivos com dispositivos próximos</string>
 </resources>
