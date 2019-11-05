@@ -383,8 +383,8 @@
   <string name="path_hot_video">Ver vídeos populares gratuitamente</string>
   <string name="path_kuai_chuan">Transferências P2P</string>
   <string name="path_recent_file">Gerir arquivos no seu dispositivo</string>
-  <string name="permission_denial">Não foi possível acessar os arquivos. Permita que o Explorador possa acessar os arquivos nas Definições</string>
-  <string name="permission_required">Não foi possível acessar os arquivos. Permita que o Explorador possa acessar os arquivos nas Definições</string>
+  <string name="permission_denial">Não foi possível acessar os arquivos. Permitir que o Gerenciador de Arquivos acesse os arquivos nas Configurações</string>
+  <string name="permission_required">Não foi possível acessar os arquivos. Permitir que o Gerenciador de Arquivos acesse os arquivos nas Configurações</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Armazenamento interno</string>
   <string name="phone_bind_skip">Ignorar</string>
@@ -492,7 +492,7 @@
   <string name="send_to_weixin">Enviar para WeChat</string>
   <string name="server_control_advanced_settings">Configurações de FTP</string>
   <string name="server_control_charset">Codificação da downloads</string>
-  <string name="server_control_settings">Definições</string>
+  <string name="server_control_settings">Configurações</string>
   <string name="server_error">Erro de servidor (Erro %s)</string>
   <string name="set_pattern">Padrão atualizado</string>
   <string name="set_pattern_btn">Definir</string>
