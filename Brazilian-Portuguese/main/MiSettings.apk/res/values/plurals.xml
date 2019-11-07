@@ -20,6 +20,10 @@
         <item quantity="other">Recebeu %d notificações</item>
         <item quantity="one">Recebeu %d notificação</item>
     </plurals>
+	<plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">%d minutos é um grande avanço para a atenção e concentração.</item>
+        <item quantity="one">%d minuto é um grande avanço para a atenção e concentração.</item>
+    </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d horas</item>
         <item quantity="one">%d hora</item>
