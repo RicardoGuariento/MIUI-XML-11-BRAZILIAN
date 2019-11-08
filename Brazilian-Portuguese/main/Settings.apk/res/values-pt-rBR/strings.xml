@@ -332,6 +332,8 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="aod_mode_title">Modo Always on</string>
     <string name="aod_mode_turn_off">Desativado</string>
     <string name="aod_mode_turn_on">Ativado</string>
+	<string name="aod_show_style_title">Exibir itens</string>
+	<string name="aod_show_mode_title">Mostrar itens</string>
     <string name="aod_to_close">Desativar</string>
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">Tipo de autenticação</string>
@@ -2646,7 +2648,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="keywords_gps">GPS;Localização;Serviços de localização;Satélite</string>
     <string name="keywords_home">tela de início, padrão, aplicativos</string>
     <string name="keywords_hotspot">Hotspot;Vínculo;Ancoragem;Tethering;Hotspot pessoal;Hotspot portátil</string>
-    <string name="keywords_hotspot_tethering">tethering por usb, tethering por Bluetooth, ponto de acesso Wi-Fi</string>
+    <string name="keywords_hotspot_tethering">tethering por usb, tethering por Bluetooth, ponto de acesso Wi-Fi, Hotspot</string>
     <string name="keywords_ignore_optimizations">ignorar otimizações, soneca, aplicativo em espera</string>
     <string name="keywords_imei_info">imei, meid, min, versão prl, imei sv</string>
     <string name="keywords_install_other_apps">instalar aplicativos fontes desconhecidas</string>
@@ -2713,7 +2715,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="launch_voice_assistant">Iniciar Assistente de voz</string>
     <string name="launch_wifi_text">Ver detalhes</string>
     <string name="launcher_icon">Ícones</string>
-    <string name="launcher_title">Tela inicial e recentes</string>
+    <string name="launcher_title">Tela inicial &amp; recentes</string>
     <string name="launching_cit">Iniciando CIT</string>
     <string name="launching_pho">Executando as informações do telefone…</string>
     <string name="launching_rep">Enviando relatório…</string>
@@ -5490,8 +5492,8 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tether_over_limit_dialog_title">Alerta do uso de dados</string>
     <string name="tether_over_limit_warning_notify_message">Desativar ponto de acesso portátil.</string>
     <string name="tether_over_limit_warning_notify_title">Limite de dados do ponto de acesso atingido</string>
-    <string name="tether_settings_disabled">Ponto de acesso portátil</string>
-    <string name="tether_settings_disabled_on_data_saver">Não é possível vincular ou usar pontos de acesso portáteis enquanto a Economia de dados está ativada</string>
+    <string name="tether_settings_disabled">Hotspot</string>
+    <string name="tether_settings_disabled_on_data_saver">Não é possível vincular ou usar hotspots enquanto a Economia de dados está ativada</string>
     <string name="tether_settings_summary_hotspot_off_tether_on">Ancoragem</string>
     <string name="tether_settings_summary_hotspot_on_tether_off">Ponto de acesso ativado</string>
     <string name="tether_settings_summary_hotspot_on_tether_on">Ponto de acesso ativado, ancoragem</string>
@@ -5499,7 +5501,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
     <string name="tether_settings_title_usb">Ancoragem USB</string>
     <string name="tether_settings_title_usb_bluetooth">Ancoragem</string>
-    <string name="tether_settings_title_wifi">Ponto de acesso portátil</string>
+    <string name="tether_settings_title_wifi">Hotspot</string>
     <string name="tether_share_qrcode_title">Compartilhar código QR</string>
     <string name="tethering_footer_info">Use o ponto de acesso e ancoragem para fornecer Internet a outros dispositivos por meio da sua conexão de dados móveis. Os aplicativos também podem criar um ponto de acesso para compartilhar conteúdo com dispositivos por perto.</string>
     <string name="tethering_hardware_offload">Ancoragem acelerada por hardware</string>
@@ -6576,10 +6578,10 @@ Toque em "<b>Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
     <string name="wifi_switch_to_gsm_message">Conexão Wi-Fi perdida. Usar dados móveis em vez disso?</string>
     <string name="wifi_switch_to_gsm_title">Usar GSM?</string>
     <string name="wifi_tap_to_sign_in">Toque aqui para fazer login na rede</string>
-    <string name="wifi_tether_checkbox_text">Ponto de acesso Wi-Fi</string>
+    <string name="wifi_tether_checkbox_text">Hotspot Wi-Fi</string>
     <string name="wifi_tether_configure_ap_text">Configurar ponto de acesso Wi-Fi</string>
     <string name="wifi_tether_configure_ssid_default">Ponto de acesso Android</string>
-    <string name="wifi_tether_configure_subtext">Ponto de acesso %1$s %2$s</string>
+    <string name="wifi_tether_configure_subtext">Hotspot %1$s %2$s</string>
     <string name="wifi_tether_disabled_by_airplane">Indisponível porque o modo avião está ativado</string>
     <string name="wifi_tether_enabled_subtext">A rede %1$s está ativa</string>
     <string name="wifi_tether_enabled_summary">%1$s está ativo</string>
@@ -7072,9 +7074,9 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
     <string name="open_privacy_thumbnail_blur_title">Pré-visualizações estão desfocadas</string>
     <string name="privacy_thumbnail_blur_progress_message">Só um segundo…</string>
     <string name="privacy_thumbnail_blur_title">Desfocar pré-visualizações de aplicativos</string>
-	<string name="aod_and_lock_screen_settings_title">Notificações e tela de bloqueio</string>
-	<string name="aod_settings_category_name">Notificações ambiente</string>
-	<string name="aod_settings_title">Notificações ambiente</string>
+	<string name="aod_and_lock_screen_settings_title">Exibições Ambiente &amp; tela de bloqueio</string>
+	<string name="aod_settings_category_name">Exibições ambiente</string>
+	<string name="aod_settings_title">Exibições ambiente</string>
 	<string name="applications_settings_title">Aplicativos</string>
 	<string name="bootloader_tips_warning">"Não desconecte da rede, saia da sua Conta Mi, faça uma restauração de fábrica, ou limpe os dados do sistema."</string>
 	<string name="disallow_lock_screen_summary">Permita as notificações em \"Notificações de aplicativos\" primeiro</string>
