@@ -76,7 +76,7 @@
     <string name="data_usage_uninstalled_apps_users">Aplicativos e usuários removidos</string>
     <string name="dc_alert_dialog_message">Alguuns aplicativos precisam de uma conexão de dados. Contacte a sua operadora para saber que %s estão disponíveis para ti</string>
     <string name="dc_alert_dialog_title">Aviso de utilização de dados</string>
-    <string name="tether_settings_title_wifi">Ponto de acesso portátil</string>
+    <string name="tether_settings_title_wifi">Hotspot</string>
     <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
     <string name="tether_settings_title_usb_bluetooth">Ancoragem</string>
     <string name="tether_settings_title_all">Ancoragem e acesso portátil</string>
