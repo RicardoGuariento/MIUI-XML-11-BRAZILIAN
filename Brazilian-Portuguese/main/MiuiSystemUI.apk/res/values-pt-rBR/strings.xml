@@ -1667,11 +1667,11 @@ Deslize para baixo para bloquear"</string>
     <string name="switch_system_user">Abrir primeiro espaço</string>
     <string name="system_ui_tuner">Configurador da Interf. do sistema</string>
     <string name="task_access_locked_app_msg">Bloqueio de aplicativos ativado</string>
-    <string name="tether_settings_title_all">Ancoragem e ponto de acesso portátil</string>
+    <string name="tether_settings_title_all">Ancoragem e Hotspot</string>
     <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
     <string name="tether_settings_title_usb">Ancoragem USB</string>
     <string name="tether_settings_title_usb_bluetooth">Ancoragem</string>
-    <string name="tether_settings_title_wifi">Ponto de acesso portátil</string>
+    <string name="tether_settings_title_wifi">Hotspot</string>
     <string name="tethering_hardware_offload">Ancoragem acelerada por hardware</string>
     <string name="tethering_hardware_offload_summary">Usar aceleração de hardware para ancoragem de internet se disponível</string>
     <string name="tethering_settings_not_available">As configurações de ancoragem não estão disponíveis para este usuário</string>
