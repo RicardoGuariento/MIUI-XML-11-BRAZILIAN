@@ -3,6 +3,7 @@
     <string name="action_add_to_workspace">Adicionar ao espaço de trabalho</string>
     <string name="activity_not_found">O aplicativo não está instalado no seu dispositivo</string>
     <string name="add_screen">Adicionar tela</string>
+	<string name="all_apps_setting_title">Tela inicial</string>
     <string name="announce_for_app_move_in_folder">Movido para a posição %1$d na pasta</string>
     <string name="announce_for_checked">%1$s, selecionado</string>
     <string name="announce_for_choose_default_screen">Tela %1$d definida como padrão</string>
@@ -196,7 +197,7 @@
     <string name="launcher_auto_fill_empty_title">Preencher espaços vazios</string>
     <string name="launcher_not_exist">Ocorreu um erro, volte para a tela inicial e tente novamente.</string>
 	<string name="launcher_sliding_up_gesture">Delize para cima na tela inicial para abrir a pesquisa</string>
-    <string name="launcher_title">Tela inicial e Recentes</string>
+    <string name="launcher_title">Tela inicial &amp; Recentes</string>
     <string name="like">Adicionar aos favoritos</string>
     <string name="liked">Adicionado aos favoritos</string>
     <string name="loading_desktop">Aguarde…</string>
@@ -368,7 +369,7 @@
 	<string name="home_pull_down_action">Deslize para baixo na tela inicial</string>
 	<string name="home_slide_up_action">Deslize para cina na tela inicial</string>
 	<string name="launcher_pull_down_title">Deslize para baixo na tela inicial</string>
-    <string name="launcher_slide_up_title">Deslize para cina na tela inicial</string>
+    <string name="launcher_slide_up_title">Deslize para cima na tela inicial</string>
 	<string name="minus_one_screen">Cofre de aplicativos</string>
 	<string name="announce_for_search_bar">Barra de pesquisa</string>
     <string name="announce_for_xiaoai">IA Mi</string>
