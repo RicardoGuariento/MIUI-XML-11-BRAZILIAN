@@ -307,7 +307,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="ambient_display_pickup_title">Levantar o smartphone para verificá-lo</string>
     <string name="ambient_display_screen_summary_always_on">Sempre ativado / Aumento do uso da bateria</string>
     <string name="ambient_display_screen_summary_notifications">Novas notificações</string>
-    <string name="ambient_display_screen_title">Modo de exibição ambiente</string>
+    <string name="ambient_display_screen_title">Exibição ambiente</string>
     <string name="ambient_display_summary">Para verificar a hora, ícones de notificação e outras informações, toque duas vezes na tela.</string>
     <string name="ambient_display_title">Tocar duas vezes na tela para verificar o smartphone</string>
     <string name="android_beam_disabled_summary">Para usar esta função, ative o NFC</string>
@@ -332,7 +332,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="aod_mode_title">Modo Always on</string>
     <string name="aod_mode_turn_off">Desativado</string>
     <string name="aod_mode_turn_on">Ativado</string>
-	<string name="aod_show_style_title">Exibir itens</string>
+	<string name="aod_show_style_title">Mostrar itens</string>
 	<string name="aod_show_mode_title">Mostrar itens</string>
     <string name="aod_to_close">Desativar</string>
     <string name="apn_apn">APN</string>
@@ -1857,8 +1857,8 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="display_order_text">Classificar por:</string>
     <string name="display_settings">Tela</string>
     <string name="display_settings_title">Tela</string>
-    <string name="display_summary">Entrar no modo suspensão após %1$s de inatividade</string>
-    <string name="display_summary_example">Entrar no modo suspensão após 10 minutos de inatividade</string>
+    <string name="display_summary">Entrar no modo suspender após %1$s de inatividade</string>
+    <string name="display_summary_example">Entrar no modo suspender após 10 minutos de inatividade</string>
     <string name="display_vr_pref_low_persistence">Reduzir desfoque (recomendado)</string>
     <string name="display_vr_pref_off">Reduzir oscilação</string>
     <string name="display_vr_pref_title">Com o dispositivo no modo RV</string>
@@ -2640,7 +2640,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="keywords_display_font_size">tamanho do texto</string>
     <string name="keywords_display_night_display">escurecer tela, noite, tonalidade, noturno, brilho, cor da tela, cor</string>
     <string name="keywords_display_wallpaper">segundo plano, personalizar, personalizar tela</string>
-    <string name="keywords_do_not_disturb">DND;Não perturbe;Modo não perturbe;Noite;Dormir;Ocupado</string>
+    <string name="keywords_do_not_disturb">DND;Não perturbe;Modo não perturbe;Noite;Dormir;Ocupado;Suspenso;Suspensão;Suspender</string>
     <string name="keywords_emergency_app">emergência, ice, aplicativo, padrão</string>
     <string name="keywords_factory_data_reset">excluir permanentemente, excluir, restaurar, limpar, remover, redefinição para a configuração original</string>
     <string name="keywords_fingerprint_settings">impressão digital</string>
@@ -4424,7 +4424,7 @@ Para usar a fixação de tela:
     <string name="screen_resolution_ultrahigh_format">Ultra-alta (%1$s)</string>
     <string name="screen_saturation">Saturação</string>
     <string name="screen_shot">Capturar tela</string>
-    <string name="screen_timeout">Suspensão</string>
+    <string name="screen_timeout">Suspender</string>
     <string name="screen_timeout_summary">Depois de %1$s de inatividade</string>
     <string name="screen_timeout_title">Desativar tela</string>
     <string name="screen_usage_summary">Por quanto tempo a tela ficou ativada desde a carga completa</string>
@@ -4439,11 +4439,11 @@ Para usar a fixação de tela:
     <string name="screen_zoom_conversation_timestamp_3">Ter 18:02</string>
     <string name="screen_zoom_conversation_timestamp_4">Ter 18:03</string>
     <string name="screen_zoom_keywords">densidade de exibição, zoom da tela, escala, dimensionamento</string>
-    <string name="screen_zoom_make_larger_desc">Tornar maior</string>
-    <string name="screen_zoom_make_smaller_desc">Tornar menor</string>
+    <string name="screen_zoom_make_larger_desc">Aumentar</string>
+    <string name="screen_zoom_make_smaller_desc">Diminuir</string>
     <string name="screen_zoom_preview_title">Visualização</string>
-    <string name="screen_zoom_short_summary">Tornar os itens na tela maiores ou menores</string>
-    <string name="screen_zoom_summary">Tornar os itens na tela menores ou maiores. É possível que a posição de alguns aplicativos na sua tela seja alterada.</string>
+    <string name="screen_zoom_short_summary">Aumentar ou diminuir os itens na tela</string>
+    <string name="screen_zoom_summary">Aumentar ou diminuir os itens na tela. É possível que a posição de alguns aplicativos na sua tela seja alterada.</string>
     <string name="screen_zoom_summary_custom">Personalizado (%d)</string>
     <string name="screen_zoom_summary_default">Padrão</string>
     <string name="screen_zoom_summary_extremely_large">Enorme</string>
@@ -7011,7 +7011,7 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="fingerprint_wakeup_title">Toque no senhor de impressão digital para ligar</string>
 	<string name="miui_lab_gesture_desc">Use gestos ao invés de botões para navegação</string>
     <string name="miui_lab_gesture_title">Gestos em tela cheia</string>
-	<string name="search_ambient_display_screen_title">Tela ambiente</string>
+	<string name="search_ambient_display_screen_title">Tela ambiente;Exibições ambiente;Exibição ambiente</string>
 	<string name="search_doze_always_on_title">Sempre ligado</string>
 	<string name="dc_light_summary_new">DC Dimming reduz a fadiga dos olhos em condições de baixa luz. No entanto, qualidade de imagem pode ser afetada quando o modo Anti-flicker estiver ativado.</string>
 	<string name="search_add_facerecoginition_text">Desbloqueio facial;Reconhecimento facial</string>
@@ -7075,6 +7075,7 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
     <string name="privacy_thumbnail_blur_progress_message">Só um segundo…</string>
     <string name="privacy_thumbnail_blur_title">Desfocar pré-visualizações de aplicativos</string>
 	<string name="aod_and_lock_screen_settings_title">Exibições Ambiente &amp; tela de bloqueio</string>
+	<string name="aod_name_wanxiang">Exibição ambiente</string>
 	<string name="aod_settings_category_name">Exibições ambiente</string>
 	<string name="aod_settings_title">Exibições ambiente</string>
 	<string name="applications_settings_title">Aplicativos</string>
