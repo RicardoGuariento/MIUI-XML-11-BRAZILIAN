@@ -211,6 +211,7 @@
     <string name="choose_owner_relation">Relação</string>
     <string name="choose_people">Escolha o álbum de uma pessoa</string>
     <string name="choose_some_people">Escolher um álbum com %s</string>
+	<string name="chooser_fragment_mishare_title">Compartilhar com</string>
     <string name="cleaner_empty_value_description">Tudo em ordem</string>
     <string name="cleaner_photo_pick_delete_selected">Excluir fotos selecionadas</string>
     <string name="cleaner_scan_description">Otimizar itens libera espaço de armazenamento no seu dispositivo</string>
