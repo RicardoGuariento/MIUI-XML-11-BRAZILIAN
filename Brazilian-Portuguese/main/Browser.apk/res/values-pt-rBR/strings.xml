@@ -733,6 +733,9 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="secure_download_in_xiaomi_market">Download na App Store</string>
     <string name="secureaccess">Alternar para Modo seguro</string>
     <string name="secureaccess_cancel">Ignorar</string>
+	<string name="security_permission_desc_get_accounts">Usado para login e gerenciamento de contas do sistema</string>
+	<string name="security_permission_desc_read_phone">Usado para obter o identificador IMEI do dispositivo para fornecer o serviço correspondente</string>
+	<string name="security_permission_desc_storage">Usado para ler e gravar arquivos, como imagens salvas, e para ativar as funções de upload/download de arquivos</string>
 	<string name="security_permission_main_purpose">Navegue na web, pesquise informações, leia notícias, assista a vídeos e muito mais.</string>
     <string name="security_url_confirm_message">Desativar esta função pode criar riscos de segurança.</string>
     <string name="security_warning">Alerta de segurança</string>
