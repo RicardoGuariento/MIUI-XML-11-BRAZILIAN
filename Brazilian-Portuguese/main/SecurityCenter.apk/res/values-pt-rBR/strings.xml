@@ -2656,4 +2656,5 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="system_permission_perm_read_mms">Ler MMS</string>
 	<string name="system_permission_perm_read_numbers">Ler números de telefone</string>
 	<string name="system_permission_perm_send_mms">Enviar MMS</string>
+	<string name="permgroupdesc_storage">Acessar fotos ou arquivos no dispositivo</string>
 </resources>
