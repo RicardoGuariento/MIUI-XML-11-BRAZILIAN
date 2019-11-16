@@ -4410,10 +4410,10 @@ Para usar a fixação de tela:
     <string name="screen_pinning_unlock_password">Pedir senha antes de desafixar</string>
     <string name="screen_pinning_unlock_pattern">Pedir padrão de desbloqueio antes de desafixar</string>
     <string name="screen_pinning_unlock_pin">Pedir PIN antes de desafixar</string>
-	<string name="screen_projection">Projeção</string>
-	<string name="screen_projection_characteristics_off_screen_title">Projetar com a tela desligada</string>
-	<string name="screen_projection_sample_summary">Projetar documentos, jogos, fotos e vídeos</string>
-	<string name="screen_projection_title">Projeção</string>
+	<string name="screen_projection">Transmitir</string>
+	<string name="screen_projection_characteristics_off_screen_title">Transmitir com a tela desligada</string>
+	<string name="screen_projection_sample_summary">Transmitir documentos, jogos, fotos e vídeos</string>
+	<string name="screen_projection_title">Transmitir</string>
     <string name="screen_reader_category_title">Leitores de tela</string>
     <string name="screen_resolution_dialog_title">Alterar resolução</string>
     <string name="screen_resolution_high_format">Alta (%1$s)</string>
