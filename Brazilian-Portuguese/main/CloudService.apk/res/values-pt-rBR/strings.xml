@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="cloud_storage_manage_title">Gerenciar Armazenamento</string>
     <string name="search_finddevice_pref">Encontrar dispositivo</string>
     <string name="search_finddevice_pref_key_words">encontrar dispositivo, find device</string>
     <string name="search_finddevice_pref_desc">Ativar/Desativar Encontrar dispositivo</string>
@@ -9,6 +10,7 @@
     <string name="search_cloudbackup_pref_desc">Ativar/Desativar Backup na Mi Cloud</string>
     <string name="search_cloudbackup_pref_path">Conta Mi/Mi Cloud/Fazer backup</string>
     <string name="app_name">Mi Cloud</string>
+	<string name="micloud_main_head_menu_cloud_backup_summary">Layout da Tela Inicial, aplicativos e configurações do sistema</string>
     <string name="sync_item_sms_title">Sincronizar mensagens</string>
     <string name="sync_item_sms_summary">Sincronizar os SMS enviados e recebidos neste dispositivo</string>
     <string name="sub_sync_item_sms_title_wifi_only">Sincronizar MMS apenas por Wi-Fi</string>
@@ -16,6 +18,7 @@
     <string name="pref_title_sync_contacts_title">Sincronizar contatos</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Sincronizar fotos apenas por Wi-Fi</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Apenas sincronizar fotos de perfil dos contatos quando você estiver conectado a uma rede Wi-Fi</string>
+	<string name="priv_dialog_sync_all_purpose">Bem-vindo aos serviços Mi Cloud! Você pode usar o Mi Cloud para sincronizar suas mensagens, histórico de chamadas, contatos, notas, configurações do navegador, músicas, fotos e vídeos, configurações de WLAN, gravações, layout da tela inicial, aplicativos, eventos do calendário, itens da lista de bloqueio e cofre de aplicativos em todos os dispositivos conectados .</string>
     <string name="error_data_in_transfer_title">Mi Cloud indisponível</string>
     <string name="error_data_in_transfer">A sincronização terminará em %s horas.</string>
     <string name="no_sim">Nenhum cartão SIM detectado</string>
