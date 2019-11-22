@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="activate_xiaomi_account">Ativar este dispositivo</string>
+    <string name="adding_or_updating_account">Atualizando conta…</string>
     <string name="app_name">Encontrar dispositivo</string>
+    <string name="captcha">Captcha</string>
     <string name="find_device">Encontrar dispositivo</string>
     <string name="enable_find_device_success">Encontrar dispositivo ativado</string>
     <string name="disable_find_device_success">Encontrar dispositivo desativado</string>
@@ -38,18 +41,15 @@
     <string name="unlock_error_abort">Cancelado pelo usuário</string>
     <string name="unlock_error_passport_sdk_timeout">O SDK da Conta Mi não está respondendo</string>
     <string name="open_wifi_settings">Abrir configurações de Wi-Fi</string>
-    <string name="activate_xiaomi_account">Ativar este dispositivo</string>
     <string name="login_extra_steps">Verificação de login</string>
     <string name="phone_locked">Este dispositivo pode estar associado com a Conta Mi (%s). Faça o login nesta conta para ativar o dispositivo.</string>
     <string name="phone_locked_account_email">, e-mail associado: %s</string>
     <string name="phone_locked_account_phone">, número de telefone associado: %s</string>
     <string name="password">Senha</string>
-    <string name="captcha">Captcha</string>
     <string name="stop_on_empty_password">A senha não pode estar em branco</string>
     <string name="stop_on_empty_captcha">O captcha não pode estar em branco</string>
     <string name="verifing_account">Verificando senha…</string>
     <string name="doing_extra_login_steps">Verificando o login…</string>
-    <string name="adding_or_updating_account">Atualizando conta…</string>
     <string name="unlocking">Ativando…</string>
     <string name="unlock">Ativar</string>
     <string name="verify_password_failed">Não foi possível verificar o ID da Conta Mi. %s.</string>
