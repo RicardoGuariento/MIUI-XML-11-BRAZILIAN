@@ -29,6 +29,9 @@
     <string name="auto_silence_never">Nunca</string>
     <string name="auto_silence_title">Silenciar automaticamente</string>
     <string name="battery_charging_level">%d%%</string>
+	<string name="bedtime_banner_desc">Sono repousante é importante</string>
+	<string name="bedtime_banner_guide_desc">Agende sua hora de dormir</string>
+	<string name="bedtime_manage_open">Agende sua hora de dormir</string>
     <string name="birthday_alarm">Alarme de aniversário</string>
     <string name="birthday_alarm_summary">Tocar \"Parabéns pra você\" em vez do som de alarme padrão no seu aniversário</string>
     <string name="cancel">Cancelar</string>
