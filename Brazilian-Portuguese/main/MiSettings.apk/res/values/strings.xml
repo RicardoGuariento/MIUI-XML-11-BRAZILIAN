@@ -17,11 +17,13 @@
   <string name="screen_cancel">Cancelar</string>
   <string name="screen_confirm">Ligar</string>
   <string name="screen_paper_mode_apps_loading">Só um segundo...</string>
+  <string name="several_days_use_time">Tempo de tela: %2$s</string>
   <string name="sim_slot_1">" (SIM 1)"</string>
   <string name="sim_slot_2">" (SIM 2)"</string>
   <string name="sms_delivered_sound_title">Mensagem entregue</string>
   <string name="sms_received_sound_title">Mensagem recebida</string>
   <string name="thememanager_not_found">"Não foi possível abrir o Temas. Verifique se este aplicativo está instalado no seu dispositivo."</string>
+  <string name="today_use_time">Tempo de tela: %1$s</string>
   <string name="usage_app_get_it">Entendi</string>
   <string name="usage_app_limit_alter_summary">"Parece que este limite de tempo é mais curto do que o tempo que você está usando este aplicativo hoje. Definir mesmo assim?"</string>
   <string name="usage_app_limit_alter_title">Verificação de limite de tempo de tela</string>
