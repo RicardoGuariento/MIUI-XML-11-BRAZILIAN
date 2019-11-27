@@ -1127,4 +1127,7 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="user_privacy_settings_path">Dica: você pode retirar seu consentimento nas configurações de privacidade do usuário em Configurações > Configurações de privacidade do usuário。</string>
 	<string name="user_privacy_settings_summary">Coletaremos seu ID do Android (já criptografado como seu ID de usuário exclusivo usando o Mi Mail) ou um log de operações. Você tem o direito de retirar seu consentimento a qualquer momento através das Configurações de privacidade do usuário。</string>
 	<string name="user_privacy_settings_title">Lembrete de permissão de privacidade do Mi Mail</string>
+	<string name="account_add_title">Selecionar um serviço de email</string>
+	<string name="header_label_general_preferences">Configurações gerais</string>
+	<string name="account_options_actionbar_title">Configurações gerais</string>
 </resources>
