@@ -261,4 +261,5 @@ Toque na tela para adicionar uma cidade manualmente"</string>
     <string name="shortcut_short_label_recent_forecast">Verificar o clima</string>
 	<string name="feedback_result_fail_no_reason">Obrigado pelo seu retorno!</string>
     <string name="feedback_result_fail_same_type">"Parece que seu informe não é diferente do clima atual. Tente novamente."</string>
+	<string name="settings">Configurações</string>
 </resources>
