@@ -2618,7 +2618,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="gb_first_guide_title">Aumente a velocidade e desempenho do sistema</string>
 	<string name="delete_all_sms">Excluir todas</string>
 	<string name="sms_delete_all_hint">Excluir todas as mensagens agora?</string>
-	<string name="battery_desc_ambient_display">Bateria utilizada pelas Exibições ambiente</string>
+	<string name="battery_desc_ambient_display">Bateria utilizada pelas exibições ambiente</string>
 	<string name="power_ambient_display">Exibições ambiente</string>
 	<string name="call_delete_all_hint">Excluir todas as chamadas bloqueadas?</string>
 	<string name="superpower_dialog_button_disable_dialog">"Não mostrar novamente"</string>

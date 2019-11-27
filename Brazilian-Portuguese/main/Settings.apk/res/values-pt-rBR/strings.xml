@@ -1400,7 +1400,7 @@ Este recurso pode ser desativado nas [Configurações]"</string>
     <string name="connected_via_passpoint">Conectado via %1$s</string>
     <string name="connected_wifi">Conectado</string>
     <string name="connecting_to_vpn">Conectando-se à VPN</string>
-	<string name="connection_and_sharing">Conexões e Compartilhamento</string>
+	<string name="connection_and_sharing">Conexões e compartilhamento</string>
     <string name="content_description_menu_button">Menu</string>
     <string name="contributors_title">Colaboradores</string>
     <string name="controls_label">Controles</string>
@@ -7074,7 +7074,7 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
     <string name="open_privacy_thumbnail_blur_title">Pré-visualizações estão desfocadas</string>
     <string name="privacy_thumbnail_blur_progress_message">Só um segundo…</string>
     <string name="privacy_thumbnail_blur_title">Desfocar pré-visualizações de aplicativos</string>
-	<string name="aod_and_lock_screen_settings_title">Exibições Ambiente &amp; tela de bloqueio</string>
+	<string name="aod_and_lock_screen_settings_title">Exibições ambiente e tela de bloqueio</string>
 	<string name="aod_name_wanxiang">Exibição ambiente</string>
 	<string name="aod_settings_category_name">Exibições ambiente</string>
 	<string name="aod_settings_title">Exibições ambiente</string>
@@ -7153,4 +7153,8 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
     <string name="gxzw_quick_open_slow_summary">Pressione e segure o ícone de impressão digital para abrir o menu de atalho. Deslize para usar um atalho.</string>
     <string name="gxzw_quick_open_slow_title">Pressionar e segurar</string>
     <string name="gxzw_quick_open_title">Atalhos</string>
+	<string name="dark_color_summary_lcd">Utilizar cores mais escuras para papéis de parede e aplicativos compatíveis. O modo escuro pode ajudar a aliviar a fadiga dos olhos</string>
+   <string name="dark_color_summary_oled">Utilizar cores mais escuras para papéis de parede e aplicativos compatíveis. O modo escuro reduz o consumo de bateria e ajuda a aliviar a fadiga dos olhos</string>
+   <string name="screen_dark_mode_smart_dark_summary">Aplicar o Modo Escuro para aplicativos de terceiros. Alguns aplicativos podem ser mostrados incorretamente</string>
+   <string name="screen_dark_mode_smart_dark_title">Modo escuro global</string>
 </resources>
