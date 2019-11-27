@@ -1444,7 +1444,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="menu_item_shortcut_title">Gerenciar atalhos</string>
     <string name="menu_item_shortcut_summary">Coloque recursos em sua tela inicial</string>
     <string name="activity_title_create_shortcut">Gerenciar atalhos</string>
-    <string name="menu_item_notification_title">Menu na Área de notificações</string>
+    <string name="menu_item_notification_title">Menu na área de notificações</string>
     <string name="menu_item_notification_garbage_text">%s</string>
     <string name="menu_item_notification_power_text">Energia</string>
     <string name="menu_item_notification_antispam_text_normal">Lista de bloqueio</string>
