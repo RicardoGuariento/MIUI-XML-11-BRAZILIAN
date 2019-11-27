@@ -40,13 +40,13 @@
   <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
   <string name="abc_toolbar_collapse_description">Colapso</string>
   <string name="app_name">app_main</string>
-  <string name="mi_service_app_name">Serviços &amp; comentário</string>
+  <string name="mi_service_app_name">Serviços e feedback</string>
   <string name="miservice_channel_boot_name">boot</string>
   <string name="miservice_channel_guide_name">guide</string>
-  <string name="miservice_channel_update_notification_info">\"Serviços &amp; comentário\" está solicitando dados online…</string>
+  <string name="miservice_channel_update_notification_info">\"Serviços e feedback\" está solicitando dados online…</string>
   <string name="miservice_notification_boot_content">Saiba mais sobre o que MIUI pode fazer</string>
   <string name="miservice_notification_open_feedback_content">Todos os recursos de comentário foram movidos para o novo aplicativo</string>
-  <string name="miservice_notification_open_feedback_title">Introdução ao \"Serviços &amp; comentário\"</string>
+  <string name="miservice_notification_open_feedback_title">Introdução ao \"Serviços e feedback\"</string>
   <string name="miui_feedback_answer_detail_community">Você pode encontrar respostas para suas perguntas na Mi Community</string>
   <string name="miui_feedback_answer_detail_feedback_resolved">Sim</string>
   <string name="miui_feedback_answer_detail_feedback_result">Obrigado pelo seu comentário!</string>
@@ -125,7 +125,7 @@
   <string name="miui_feedback_main_submit_dialog_content">"Parece que não conseguimos encontrar uma solução para o seu problema. Você pode enviar seu comentário para nós."</string>
   <string name="miui_feedback_main_submit_dialog_title">Enviar comentário</string>
   <string name="miui_feedback_main_title">Comentário</string>
-  <string name="miui_guide_clear_db_service">\"Serviços &amp; comentário\" está limpando o cache do idioma…</string>
+  <string name="miui_guide_clear_db_service">\"Serviços e feedback\" está limpando o cache do idioma…</string>
   <string name="miui_guide_footer_desc">"O guia para iniciantes foi desenvolvido para ajudar você a aprender mais sobre o seu dispositivo e o MIUI. Algumas imagens e vídeos no guia foram criados apenas para fins de referência e podem diferir do produto real. Os recursos descritos neste guia podem variar dependendo do modelo do seu dispositivo, versão do MIUI e ambiente de uso."</string>
   <string name="miui_guide_item_complete">Concluído</string>
   <string name="miui_guide_item_new">Novo</string>
@@ -155,7 +155,7 @@
   <string name="miui_mine_top_bar_title">Meu serviço</string>
   <string name="miui_mine_unlogin">Toque para entrar</string>
   <string name="permission_agree">Aceitar</string>
-  <string name="permission_china_version_msg">&lt;Data&gt;Antes de usar \"Serviços &amp;amp;amp; comentário\", você deve ler e concordar com o nosso &amp;lt;a href=%1$s&amp;gt;Termo de Acordo do Usuário&amp;lt;/a&amp;gt; e a &amp;lt;a href=%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;. Este aplicativo precisa estar conectado à Internet para funcionar normalmente.&lt;/Data&gt;</string>
+  <string name="permission_china_version_msg">&lt;Data&gt;Antes de usar \"Serviços e feedback\", você deve ler e concordar com o nosso &amp;lt;a href=%1$s&amp;gt;Termo de Acordo do Usuário&amp;lt;/a&amp;gt; e a &amp;lt;a href=%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;. Este aplicativo precisa estar conectado à Internet para funcionar normalmente.&lt;/Data&gt;</string>
   <string name="permission_complete">Concluído</string>
   <string name="permission_contacts_info">Acessar informações da conta</string>
   <string name="permission_contacts_introduce">Para fazer login usando a conta Mi</string>
@@ -165,7 +165,7 @@
   <string name="permission_first_start_network_title">Termos e Condições</string>
   <string name="permission_main_purpose">Exibindo demonstrações de recursos do MIUI, enviando comentários e solicitando serviços de pós-venda.</string>
   <string name="permission_privacy">Política de Privacidade (obrigatório)</string>
-  <string name="permission_region_version_msg">&lt;Data&gt;Antes de usar \"Serviços &amp;amp;amp; comentário\", você deve ler e concordar com o nosso &amp;lt;a href=%1$s&amp;gt;Termo de Acordo do Usuário&amp;lt;/a&amp;gt; e a &amp;lt;a href=%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="permission_region_version_msg">&lt;Data&gt;Antes de usar \"Serviços e feedback\", você deve ler e concordar com o nosso &amp;lt;a href=%1$s&amp;gt;Termo de Acordo do Usuário&amp;lt;/a&amp;gt; e a &amp;lt;a href=%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="permission_select_all">Selecionar todos</string>
   <string name="permission_storage">Armazenamento</string>
   <string name="permission_storage_introduce">Para salvar itens no seu dispositivo</string>

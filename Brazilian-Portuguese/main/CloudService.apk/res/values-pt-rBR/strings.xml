@@ -10,7 +10,7 @@
     <string name="search_cloudbackup_pref_desc">Ativar/Desativar Backup na Mi Cloud</string>
     <string name="search_cloudbackup_pref_path">Conta Mi/Mi Cloud/Fazer backup</string>
     <string name="app_name">Mi Cloud</string>
-	<string name="micloud_main_head_menu_cloud_backup_summary">Layout da Tela Inicial, aplicativos e configurações do sistema</string>
+	<string name="micloud_main_head_menu_cloud_backup_summary">Layout da tela inicial, aplicativos e configurações do sistema</string>
     <string name="sync_item_sms_title">Sincronizar mensagens</string>
     <string name="sync_item_sms_summary">Sincronizar os SMS enviados e recebidos neste dispositivo</string>
     <string name="sub_sync_item_sms_title_wifi_only">Sincronizar MMS apenas por Wi-Fi</string>

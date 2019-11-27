@@ -6987,9 +6987,9 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="wifi_protection_on">Ativado</string>
     <string name="wifi_protection_settings_title">Proteção contra solicitações de teste de Wifi</string>
     <string name="wifi_protection_tip">A MIUI automaticamente desativa a proteção do Wifi. Quando o dispositivo procura as redes Wifi, automaticamente será criado um Endereço MAC para previnir que suas informações sejam roubadas.</string>
-    <string name="dc_light_dialog_summary">A qualidade da imagem pode ser afetada se o modo Anti-flicker estiver ativado. Ativar mesmo assim?</string>
+    <string name="dc_light_dialog_summary">A qualidade da imagem pode ser afetada se o modo anti-flicker estiver ativado. Ativar mesmo assim?</string>
     <string name="dc_light_summary">Aplicar o DC Dimming para reduzir a fadiga dos olhos</string>
-    <string name="dc_light_title">Modo Anti-flicker</string>
+    <string name="dc_light_title">Modo anti-flicker</string>
     <string name="backup_set_clear_success">A senha do backup foi desativada com sucesso</string>
     <string name="backup_set_clear_title">Desativar a senha do backup</string>
     <string name="backup_set_confirm">OK</string>
@@ -7013,7 +7013,7 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="miui_lab_gesture_title">Gestos em tela cheia</string>
 	<string name="search_ambient_display_screen_title">Tela ambiente;Exibições ambiente;Exibição ambiente</string>
 	<string name="search_doze_always_on_title">Sempre ligado</string>
-	<string name="dc_light_summary_new">DC Dimming reduz a fadiga dos olhos em condições de baixa luz. No entanto, qualidade de imagem pode ser afetada quando o modo Anti-flicker estiver ativado.</string>
+	<string name="dc_light_summary_new">DC Dimming reduz a fadiga dos olhos em condições de baixa luz. No entanto, qualidade de imagem pode ser afetada quando o modo anti-flicker estiver ativado.</string>
 	<string name="search_add_facerecoginition_text">Desbloqueio facial;Reconhecimento facial</string>
 	<string name="search_manage_facerecoginition_text">Desbloqueio facial;Reconhecimento facial</string>
 	<string name="dark_color_mode">Modo escuro</string>

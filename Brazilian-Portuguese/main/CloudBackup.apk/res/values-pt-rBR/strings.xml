@@ -78,7 +78,7 @@
     <string name="open_wifi">Ativar Wi-Fi agora</string>
     <string name="open_wifi_description">Conecte-se a uma rede Wi-Fi para restaurar o aplicativo</string>
     <string name="open_wifi_setting">Configurações de Wi-Fi</string>
-    <string name="download_settings">Fazendo o download de itens da Tela Inicial %s%%</string>
+    <string name="download_settings">Fazendo o download de itens da tela inicial %s%%</string>
     <string name="cloud_back_up_date_format">HH:mm, dd/MM/yyyy</string>
     <string name="recover_home_settings">Restaurar configurações da tela inicial</string>
     <string name="cancel_recover_settings"><u>Cancelar</u></string>
