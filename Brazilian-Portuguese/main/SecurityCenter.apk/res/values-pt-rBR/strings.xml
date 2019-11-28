@@ -2657,4 +2657,13 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="system_permission_perm_read_numbers">Ler números de telefone</string>
 	<string name="system_permission_perm_send_mms">Enviar MMS</string>
 	<string name="permgroupdesc_storage">Acessar fotos ou arquivos no dispositivo</string>
+	<string name="privacy_notification_subtitle">Toque para gerenciar as permissões</string>
+    <string name="privacy_notification_title_camera">%1s está utilizando a câmera em segundo plano</string>
+    <string name="privacy_notification_title_camera_mic">%1s está utilizando a câmera e o microfone em segundo plano</string>
+    <string name="privacy_notification_title_mic">%1s está utilizando o microfone em segundo plano</string>
+	<string name="privacy_description_camera">%1s utilizando a câmera em segundo plano. Toque para restringir</string>
+    <string name="privacy_description_camera_mic">%1s está utilizando a câmera e o microfone em segundo plano. Toque para restringir</string>
+    <string name="privacy_description_mic">%1s está utilizando o microfone em segundo plano. Toque para restringir</string>
+	<string name="app_permission_use_group_camera">Câmera</string>
+	<string name="preferred_app_entries_camera">Câmera</string>
 </resources>
