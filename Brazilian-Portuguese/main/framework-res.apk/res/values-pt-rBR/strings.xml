@@ -1611,4 +1611,5 @@ Quer fechá-la?"</string>
     <string name="zen_upgrade_notification_visd_title">Novo: o modo Não perturbe está ocultando as notificações</string>
 	<string name="permgroupbackgroundrequestdetail_location">O aplicativo atualmente pode acessar a localização apenas enquanto ele estiver em uso</string>
 	<string name="permgroupbackgroundrequest_location">Permitir que &lt;b&gt;%1$s&lt;/b&gt; acesse a localização deste dispositivo &lt;b&gt;o tempo todo&lt;/b&gt;?</string>
+	<string name="app_running_notification_tip_text">Isso pode fazer com que seu dispositivo fique lento e consuma mais bateria. Toque para fechar o aplicativo</string>
 </resources>

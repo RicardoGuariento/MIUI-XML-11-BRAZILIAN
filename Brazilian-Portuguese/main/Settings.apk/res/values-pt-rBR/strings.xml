@@ -7166,4 +7166,9 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
    <string name="temporary_style">10 segundos após tocar na tela</string>
    <string name="lockscreen_sidepanel_shortcuts_summary">Personalize os aplicativos exibidos no painel lateral da tela de bloqueio</string>
   <string name="lockscreen_sidepanel_shortcuts_title">Atalhos do painel lateral</string>
+    <string name="mtp_connection_failed">Não é possível transferir arquivos no computador conectado. Tente resolver o problema."</string>
+  <string name="mtp_connection_failed_title">Conexão USB</string>
+  <string name="mtp_connection_not_remind">Não mostrar novamente</string>
+  <string name="mtp_solution_button_cancel">Entendido</string>
+  <string name="mtp_solution_button_ok">Resolução de problemas</string>
 </resources>
