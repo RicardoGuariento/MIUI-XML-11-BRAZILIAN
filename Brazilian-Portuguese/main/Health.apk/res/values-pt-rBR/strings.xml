@@ -2,14 +2,13 @@
 <resources>
   <string name="activity_title_basic_info">Informações básicas</string>
   <string name="activity_title_exercise">Atividades</string>
-  <string name="activity_title_exercise_goal">Objetivos das actividades</string>
+  <string name="activity_title_exercise_goal">Objetivos das atividades</string>
   <string name="activity_title_settings">Configurações</string>
   <string name="activity_title_sleep">Sono</string>
   <string name="activity_title_sleep_details">Detalhes do sono</string>
   <string name="add_body_weight_button">Adicionar peso</string>
   <string name="add_body_weight_record_button">Adicionar peso</string>
-  <string name="add_model_card">"Toque no botão no canto superior esquerdo
-para adicionar cartões"</string>
+  <string name="add_model_card">"Toque no botão no canto superior esquerdo para adicionar cartões"</string>
   <string name="all_records">Todos os registos</string>
   <string name="app_name">Mi Health</string>
   <string name="auto_start_fail">Não foi possível conceder permissão</string>
@@ -21,7 +20,7 @@ para adicionar cartões"</string>
   <string name="background_run_tips">Toque em \"Configurações\"e conceda permissão ao Mi Health para executar sempre em segundo plano</string>
   <string name="basic_info_label_age">Idade</string>
   <string name="basic_info_label_birthday">Data de nascimento</string>
-  <string name="basic_info_label_gender">Género</string>
+  <string name="basic_info_label_gender">Gênero</string>
   <string name="basic_info_label_height">Altura</string>
   <string name="basic_info_label_weight">Peso</string>
   <string name="basic_info_save">Salvar</string>
@@ -91,7 +90,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="dialog_delete_record_confirm">Excluir este registo?</string>
   <string name="dialog_exercise_purpose">Bem-vindo ao Mi Health! O \"Contador de passos\" permite ver quantos passos faz durante o dia, assim como definir e gerenciar os seus objetivos de atividades</string>
   <string name="dialog_exit">Sair</string>
-  <string name="dialog_feedback_content">Se não concordar em conceder essas permissão, não poderá utilizar algumas funcionalidades do aplicativo. Pode restringir ou revogar autorizações em Configurações</string>
+  <string name="dialog_feedback_content">Se não concordar com essas permissões, não poderá utilizar algumas funcionalidades do aplicativo. Pode restringir ou revogar autorizações em Configurações</string>
   <string name="dialog_feedback_purpose">O Mi Health necessita acessar o armazenamento para enviar comentários</string>
   <string name="dialog_feedback_purpose2">Para enviar comentários</string>
   <string name="dialog_feedback_title">Comentários</string>
@@ -107,9 +106,9 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="dialog_privacy_policy_statement">Declaração de Política de Privacidade</string>
   <string name="dialog_privacy_title">Termos e condições</string>
   <string name="dialog_read_phone_perm_desc">Para acessar o ID do dispositivo e identificar o seu dispositivo</string>
-  <string name="dialog_sleep_goal_setting">Definir objetivos de duração do sono</string>
+  <string name="dialog_sleep_goal_setting">Definir metas de duração do sono</string>
   <string name="dialog_sleep_goal_subtitle">Obter 7 a 9 horas de sono todos os dias</string>
-  <string name="dialog_sleep_goal_title">Objetivos de duração do sono</string>
+  <string name="dialog_sleep_goal_title">Metas de duração do sono</string>
   <string name="dialog_sleep_record_auto_start">Para registar o sono com mais precisão, permita que o  Mi Health inicie automaticamente</string>
   <string name="dialog_sure">OK</string>
   <string name="dialog_user_agreement_purpose">Bem-vindo ao Mi Health! Você pode utilizar este aplicativo para contar passos, registar o seu sono, períodos e peso assim como receber conselhos de saúde</string>
@@ -166,18 +165,18 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="label_body_weight_trend">Progresso</string>
   <string name="label_duration">Duração</string>
   <string name="label_end_time">Fim</string>
-  <string name="label_exercise_goal">Objetivo</string>
+  <string name="label_exercise_goal">Meta</string>
   <string name="label_get_device_id">Obter ID do dispositivo</string>
   <string name="label_got_up">Acordou</string>
   <string name="label_record_detail_page_record_date">Data</string>
   <string name="label_record_detail_page_source">Origem</string>
-  <string name="label_set_exercise">Definir objetivos de atividade</string>
-  <string name="label_sleep">Adormeceu</string>
-  <string name="label_sleep2">Adormeceu</string>
+  <string name="label_set_exercise">Definir metas de atividade</string>
+  <string name="label_sleep">Dormiu</string>
+  <string name="label_sleep2">Dormiu</string>
   <string name="label_sleep_duration">Duração do sono</string>
   <string name="label_sleep_intercept">Interrompido</string>
-  <string name="label_sleep_time">Adormecer</string>
-  <string name="label_sleep_time2">Hora de adormecer</string>
+  <string name="label_sleep_time">Dormir</string>
+  <string name="label_sleep_time2">Hora de dormir</string>
   <string name="label_start_time">Iniciar</string>
   <string name="label_today_exercise_consumption">Queimadas</string>
   <string name="label_today_exercise_summary">Passos de hoje</string>
@@ -253,8 +252,8 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="remind_goto_sleep">Já é tarde. Hora de ir para a cama</string>
   <string name="remind_menstruation_acquired_start">O seu período pode começar em 2 dias</string>
   <string name="remind_open_tips">Permitir que o Mi Health o lembre dos próximos períodos</string>
-  <string name="remind_query_menstruation_end">O seu período já acabou? Não se esqueça de o registar</string>
-  <string name="remind_query_menstruation_start">O seu período já comecou? Não se esqueça de o registar</string>
+  <string name="remind_query_menstruation_end">O seu período já acabou? Não se esqueça de registar</string>
+  <string name="remind_query_menstruation_start">O seu período já comecou? Não se esqueça de registar</string>
   <string name="remind_sleep_report_complete">As estatísticas de sono estão prontas</string>
   <string name="remind_subtitle_menstruation_start">Receber um lembrete 2 dias antes do próximo período</string>
   <string name="remind_subtitle_record">Receber lembretes quando necessitar de registar a data de início e fim dos seus períodos</string>
@@ -329,11 +328,11 @@ podem melhorar a sua saúde"</string>
   <string name="splash_title">"No Mi Health, você pode definir os seus objetivos
 e receber conselhos
 baseados nas suas informações pessoais"</string>
-  <string name="state_agree">Concordar</string>
+  <string name="state_agree">Aceitar</string>
   <string name="state_auto_run_disenable">Desligado</string>
   <string name="state_auto_run_enable">Ligado</string>
   <string name="state_disagree">Restringido</string>
-  <string name="state_disagree2">Não concordar</string>
+  <string name="state_disagree2">Não aceitar</string>
   <string name="subtitle_be_ready">Esteja preparado</string>
   <string name="subtitle_get_health_advice">Obtenha estatísticas precisas e dicas de saúde baseadas nos dados que fornece</string>
   <string name="subtitle_exercise_and_sleep">Mantenha-se fisicamente ativo e durma o suficiente</string>
