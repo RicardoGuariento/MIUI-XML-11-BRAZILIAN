@@ -7155,7 +7155,7 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
     <string name="gxzw_quick_open_title">Atalhos</string>
 	<string name="dark_color_summary_lcd">Utilizar cores mais escuras para papéis de parede e aplicativos compatíveis. O modo escuro pode ajudar a aliviar a fadiga dos olhos</string>
    <string name="dark_color_summary_oled">Utilizar cores mais escuras para papéis de parede e aplicativos compatíveis. O modo escuro reduz o consumo de bateria e ajuda a aliviar a fadiga dos olhos</string>
-   <string name="screen_dark_mode_smart_dark_summary">Aplicar o Modo Escuro para aplicativos de terceiros. Alguns aplicativos podem ser mostrados incorretamente</string>
+   <string name="screen_dark_mode_smart_dark_summary">Aplica o modo escuro para aplicativos de terceiros. Alguns aplicativos podem ser exibidos incorretamente</string>
    <string name="screen_dark_mode_smart_dark_title">Modo escuro global</string>
    <string name="trust_agents_extend_unlock_summary">Se ativado, os agentes confiáveis manterão o seu dispositivo desbloqueado por mais tempo, mas não conseguirão desbloquear um dispositivo bloqueado</string>
    <string name="trust_agents_extend_unlock_title">Agentes confiáveis apenas estendem o desbloqueio</string>
