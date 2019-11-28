@@ -86,4 +86,6 @@
 2. Quando o modo DND está ativado."</string>
   <string name="temporary_style">Por 10 segundos depois de tocar</string>
   <string name="text_color">Cor do texto</string>
+  <string name="disable_aod_in_power_save_mode">Desativar quando a economia de bateria estiver ativada</string>
+  <string name="disable_aod_in_power_save_mode_summary">Não mosrtra os itens para economizar energia</string>
 </resources>
