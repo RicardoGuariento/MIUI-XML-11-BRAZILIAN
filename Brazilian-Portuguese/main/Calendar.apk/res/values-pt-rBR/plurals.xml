@@ -124,4 +124,8 @@
         <item quantity="other">" minutos"</item>
         <item quantity="one">" minuto"</item>
     </plurals>
+	    <plurals name="other_all_day_events">
+        <item quantity="other">%d eventos mais</item>
+        <item quantity="one">%d evento mais</item>
+    </plurals>
 </resources>
