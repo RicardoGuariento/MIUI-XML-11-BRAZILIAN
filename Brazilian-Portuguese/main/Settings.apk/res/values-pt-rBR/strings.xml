@@ -7171,4 +7171,5 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="mtp_connection_not_remind">Não mostrar novamente</string>
   <string name="mtp_solution_button_cancel">Entendido</string>
   <string name="mtp_solution_button_ok">Resolução de problemas</string>
+  <string name="notch_settings">Entalhe</string>
 </resources>
