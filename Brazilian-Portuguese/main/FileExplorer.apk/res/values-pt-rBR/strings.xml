@@ -378,11 +378,11 @@
   <string name="partial_cancel_successful">Não foi possível remover alguns arquivos. O resto dos arquivos foram movidos para sdcard/fileexplorer/decryption</string>
   <string name="partial_delete_failure">Não foi possível excluir alguns arquivos. Tente novamente</string>
   <string name="partial_encrypt_success">Não foi possível ocultar alguns arquivos. Tente novamente</string>
-  <string name="path_download">Gerir as suas transferências</string>
+  <string name="path_download">Gerenciar as suas transferências</string>
   <string name="path_hot_sticker">Stickers populares</string>
   <string name="path_hot_video">Ver vídeos populares gratuitamente</string>
   <string name="path_kuai_chuan">Transferências P2P</string>
-  <string name="path_recent_file">Gerir arquivos no seu dispositivo</string>
+  <string name="path_recent_file">Gerenciar arquivos no seu dispositivo</string>
   <string name="permission_denial">Não foi possível acessar os arquivos. Permitir que o Gerenciador de Arquivos acesse os arquivos nas Configurações</string>
   <string name="permission_required">Não foi possível acessar os arquivos. Permitir que o Gerenciador de Arquivos acesse os arquivos nas Configurações</string>
   <string name="petabyteShort">PB</string>
