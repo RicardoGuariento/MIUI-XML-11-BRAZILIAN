@@ -606,4 +606,6 @@ o fundo das suas fotos"</string>
 	<string name="beauty_body_reset_tip">Os efeitos foram removidos com sucesso</string>
 	<string name="beauty_reset_toast">Os efeitos foram removidos com sucesso</string>
 	<string name="live_speed_fragment_tab_name">Velocidade de gravação</string>
+	<string name="pref_camera_ultra_wide_ldc_description">Corrigir objetos distorcidos automaticamente</string>
+    <string name="pref_camera_ultra_wide_ldc_title">Correção de distorção</string>
 </resources>
