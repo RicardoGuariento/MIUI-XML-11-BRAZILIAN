@@ -5,6 +5,7 @@
   <string name="battery_islow_desc">O nível da bateria está muito baixo para instalar a atualização. Ligue o carregador e tente novamente mais tarde</string>
   <string name="btn_changelog">Alterações</string>
   <string name="btn_download">Transferir (%1$s)</string>
+  <string name="btn_error">Ocorreu um erro, tentar novamente?</string>
   <string name="btn_install">Instalar</string>
   <string name="btn_no">Cancelar</string>
   <string name="btn_ok">OK</string>
@@ -19,12 +20,13 @@
   <string name="dialog_btn_wifi">Trocar para Wi-Fi</string>
   <string name="dialog_stop_desc">Tem certeza que deseja parar o download? Todo o progresso vai ser perdido. O próximo download vai começar do início</string>
   <string name="dialog_stop_title">Parar download??</string>
+  <string name="dialog_twrp">O armazenamento interno está criptografado. Após ser reiniciado para o modo Recovery, insira sua senha de desbloqueio para continuar</string>
   <string name="download_done">Baixado com sucesso</string>
   <string name="download_fail">Erro ao fazer download</string>
   <string name="download_fail_desc">O MD5 não corresponde…</string>
   <string name="downloading">Baixando…</string>
   <string name="downloading_desc">Download em curso. Verifique o andamento na área de notificações</string>
-  <string name="install_desc">"O dispositivo vai reiniciar no modo recovery e instalar a atualização: <b>%1$s</b>.
+  <string name="install_desc">"O dispositivo vai reiniciar no modo Recovery e instalar a atualização: <b>%1$s</b>.
 Os dados não serão excluídos"</string>
   <string name="install_title">Tem certeza que quer continuar?</string>
   <string name="menu_title_current_version_log">O que há de novo?</string>
@@ -43,9 +45,9 @@ Não tem atualizações disponíveis"</string>
   <string name="notif_new_summary">Toque para obter detalhes</string>
   <string name="notif_new_title">Nova versão disponível</string>
   <string name="notifications_switch">Mostrar notificações</string>
-  <string name="permdesc_cache_filesystem">Permitir o aplicativo gravar arquivos no cache(ram)</string>
+  <string name="permdesc_cache_filesystem">Permitir o aplicativo gravar arquivos no cache(RAM)</string>
   <string name="permdesc_reboot">Permitir o aplicativo reiniciar o dispositivo</string>
-  <string name="permlab_cache_filesystem">Acesso à cache(ram)</string>
+  <string name="permlab_cache_filesystem">Acesso à cache(RAM)</string>
   <string name="permlab_reboot">Permitir reiniciar</string>
   <string name="pick_not_found">Não foi encontrado nenhum explorador de arquivos</string>
   <string name="pick_title">Escolha utilizando:</string>
