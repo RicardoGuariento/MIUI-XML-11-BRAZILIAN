@@ -255,7 +255,7 @@
     <string name="pref_front_mirror_entry_on">Ligado</string>
     <string name="pref_front_mirror_entry_off">Desligado</string>
     <string name="pref_camera_long_pressing_shutter_title">Pressione e segure o botão de disparo para bloquear AE/AF/AWB</string>
-    <string name="pref_camera_long_press_shutter_feature_title">Segurar botão do Disparador</string>
+    <string name="pref_camera_long_press_shutter_feature_title">Segurar botão do disparador</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focar</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Disparo contínuo</string>
     <string name="pref_camera_hdr_entry_auto">Autom.</string>
@@ -606,6 +606,8 @@ o fundo das suas fotos"</string>
 	<string name="beauty_body_reset_tip">Os efeitos foram removidos com sucesso</string>
 	<string name="beauty_reset_toast">Os efeitos foram removidos com sucesso</string>
 	<string name="live_speed_fragment_tab_name">Velocidade de gravação</string>
-	<string name="pref_camera_ultra_wide_ldc_description">Corrigir objetos distorcidos automaticamente</string>
+	<string name="pref_camera_ultra_wide_ldc_description">Corrigir automaticamente objetos distorcidos</string>
     <string name="pref_camera_ultra_wide_ldc_title">Correção de distorção</string>
+	<string name="pref_camera_quick_settings">Configurações rápidas</string>
+	<string name="pref_camera_common_settings">Configurações gerais</string>
 </resources>
