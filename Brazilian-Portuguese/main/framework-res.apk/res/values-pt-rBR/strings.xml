@@ -1609,4 +1609,5 @@ Quer fechá-la?"</string>
     <string name="zen_upgrade_notification_title">O modo \"Não perturbe\" foi alterado</string>
     <string name="zen_upgrade_notification_visd_content">Toque para saber mais e fazer alterações.</string>
     <string name="zen_upgrade_notification_visd_title">Novo: o modo Não perturbe está ocultando as notificações</string>
+	<string name="permgroupbackgroundrequestdetail_location">O aplicativo atualmente pode acessar a localização apenas enquanto você estiver usando o aplicativo</string>
 </resources>
