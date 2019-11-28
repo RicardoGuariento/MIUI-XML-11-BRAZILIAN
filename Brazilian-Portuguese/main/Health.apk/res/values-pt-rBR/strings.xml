@@ -2,7 +2,7 @@
 <resources>
   <string name="activity_title_basic_info">Informações básicas</string>
   <string name="activity_title_exercise">Atividades</string>
-  <string name="activity_title_exercise_goal">Objetivos das atividades</string>
+  <string name="activity_title_exercise_goal">Metas das atividades</string>
   <string name="activity_title_settings">Configurações</string>
   <string name="activity_title_sleep">Sono</string>
   <string name="activity_title_sleep_details">Detalhes do sono</string>
@@ -88,7 +88,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="dialog_date_select">Selecionar data</string>
   <string name="dialog_delete">Excluir</string>
   <string name="dialog_delete_record_confirm">Excluir este registo?</string>
-  <string name="dialog_exercise_purpose">Bem-vindo ao Mi Health! O \"Contador de passos\" permite ver quantos passos faz durante o dia, assim como definir e gerenciar os seus objetivos de atividades</string>
+  <string name="dialog_exercise_purpose">Bem-vindo ao Mi Health! O \"Contador de passos\" permite ver quantos passos faz durante o dia, assim como definir e gerenciar as suas metas de atividades</string>
   <string name="dialog_exit">Sair</string>
   <string name="dialog_feedback_content">Se não concordar com essas permissões, não poderá utilizar algumas funcionalidades do aplicativo. Pode restringir ou revogar autorizações em Configurações</string>
   <string name="dialog_feedback_purpose">O Mi Health necessita acessar o armazenamento para enviar comentários</string>
@@ -118,13 +118,13 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="enter_mi_health">Abrir o Mi Health</string>
   <string name="equivalent_exercise">Andou ≈%1$s km (%2$s kcal)</string>
   <string name="exercise">Atividade</string>
-  <string name="exercise_goal_accomplished">Objetivo alcançado</string>
+  <string name="exercise_goal_accomplished">Meta alcançada</string>
   <string name="exercise_goal_lack_exercise">Sem atividade suficiente</string>
-  <string name="exercise_goal_not_accomplished">Não atingiu o objetivo</string>
+  <string name="exercise_goal_not_accomplished">Não atingiu a meta</string>
   <string name="exercise_info_tool_bar_title">Atividade</string>
-  <string name="exercise_reminder_accomplished">Atingiu o seu objetivo!</string>
+  <string name="exercise_reminder_accomplished">Atingiu a sua meta!</string>
   <string name="exercise_reminder_title">Lembrete de atividade</string>
-  <string name="exercise_reminder_unaccomplished">Ainda não alcançou o seu objetivo</string>
+  <string name="exercise_reminder_unaccomplished">Ainda não alcançou a sua meta</string>
   <string name="exercise_setting_label_reach_standard_remind">Alerta de atividade</string>
   <string name="exercise_setting_page_title">Configurações de atividades</string>
   <string name="expand_button_title">Avançado</string>
@@ -139,8 +139,8 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="go_back_to_today">Voltar a hoje</string>
   <string name="go_open_sleep_detector">Iniciar</string>
   <string name="go_setting">Configurações</string>
-  <string name="goal_daily_exercise">Objetivos de atividade</string>
-  <string name="goal_sleep_time">Objetivos de duração de sono</string>
+  <string name="goal_daily_exercise">Metas de atividade</string>
+  <string name="goal_sleep_time">Metas de duração de sono</string>
   <string name="goal_title">Mantenha-se saudável</string>
   <string name="goto_setting_auto_start">Configurações</string>
   <string name="guide_setting">Fornecer as informações seguintes para obter estatísticas menstruais mais precisas</string>
@@ -148,11 +148,11 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="health_app_name">Saúde</string>
   <string name="health_app_name_dev">Desenvolvimento do Mi Health</string>
   <string name="health_score">Resultado de saúde</string>
-  <string name="health_score_tips">O resultado de saúde é calculado com base no seu IMC (indíce de massa corporal), assim como o seu sono e atividade física. Quanto mais perto estiver dos seus objetivos, maior vai ser a sua pontuação de saúde</string>
+  <string name="health_score_tips">O resultado de saúde é calculado com base no seu IMC (indíce de massa corporal), assim como o seu sono e atividade física. Quanto mais perto estiver das suas metas, maior vai ser a sua pontuação de saúde</string>
   <string name="history_statistics">Estatísticas</string>
   <string name="home_page_card_setting">Cartões da página inicial</string>
   <string name="icon_content_description">Ícone de diálogo</string>
-  <string name="improve_step_target">Alcançou o seu objetivo muito cedo. Tente definir um mais alto</string>
+  <string name="improve_step_target">Alcançou a sua meta muito cedo. Tente definir um mais alto</string>
   <string name="improve_your_health_default_tips">Exercite-se e durma o suficiente para se manter saudável</string>
   <string name="input_body_weight">Inserir peso para obter conselhos de saúde</string>
   <string name="jump_over">Ignorar</string>
@@ -287,7 +287,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="sleep_detector_title">Registo de sono</string>
   <string name="sleep_detector_unopened">Ainda não iniciou o registo do seu sono</string>
   <string name="sleep_empty_data_tips">Passe por um ciclo completo de sono</string>
-  <string name="sleep_goal_by_hours_minutes">Objetivo: %1$s %2$s</string>
+  <string name="sleep_goal_by_hours_minutes">Meta: %1$s %2$s</string>
   <string name="sleep_goal_compliance">Bom sono</string>
   <string name="sleep_goal_maybe_compliance">Sono relativamente bom</string>
   <string name="sleep_goal_not_compliance">Sem sono suficiente</string>
@@ -325,7 +325,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
 podem melhorar a sua saúde"</string>
   <string name="splash_header_title">As autoridades globais de saúde dizem:</string>
   <string name="splash_next_btn">Inserir informações básicas</string>
-  <string name="splash_title">"No Mi Health, você pode definir os seus objetivos
+  <string name="splash_title">"No Mi Health, você pode definir as suas metas
 e receber conselhos
 baseados nas suas informações pessoais"</string>
   <string name="state_agree">Aceitar</string>
@@ -348,7 +348,7 @@ baseados nas suas informações pessoais"</string>
   <string name="suggestion_move_title">Hora de se mover!</string>
   <string name="suggestion_title">Sugestões</string>
   <string name="sustain_title">"Já não se move há "</string>
-  <string name="text_edit_exercise_goal">Alterar objetivo</string>
+  <string name="text_edit_exercise_goal">Alterar meta</string>
   <string name="text_save_exercise_goal">Concluído</string>
   <string name="tips_default">Sem dados</string>
   <string name="title_auto_run">Início automático</string>

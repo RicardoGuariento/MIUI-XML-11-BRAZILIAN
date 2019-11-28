@@ -17,8 +17,8 @@
         <item quantity="one">Excluir %1$d registro?</item>
     </plurals>
     <plurals name="goal_format_with_unit">
-        <item quantity="other">Objetivo: %1$d passos</item>
-        <item quantity="one">Objetivo: %1$d passo</item>
+        <item quantity="other">Meta: %1$d passos</item>
+        <item quantity="one">Meta: %1$d passo</item>
     </plurals>
     <plurals name="goal_unit">
         <item quantity="other">" passos"</item>
@@ -65,8 +65,8 @@
         <item quantity="one">%d nova notificação</item>
     </plurals>
     <plurals name="sleep_goal_by_hour">
-        <item quantity="other">Objetivo: %1$d horas</item>
-        <item quantity="one">Objetivo: %1$d hora</item>
+        <item quantity="other">Meta: %1$d horas</item>
+        <item quantity="one">Meta: %1$d hora</item>
     </plurals>
     <plurals name="sleep_management_exp_hours">
         <item quantity="other">As configurações atuais não te garante %1$d horas de sono diário. Você precisa mais que isso.</item>

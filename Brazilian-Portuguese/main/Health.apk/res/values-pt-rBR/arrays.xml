@@ -44,11 +44,11 @@
         <item>" m/s"</item>
     </string-array>
     <string-array name="splash_loading">
-        <item>Calculando objetivo de atividade…</item>
-        <item>Objetivo de atividade: %1$d passos</item>
+        <item>Calculando meta de atividade…</item>
+        <item>Meta de atividade: %1$d passos</item>
         <item>Você andou %1$d passos hoje</item>
-        <item>Calculando objetivo de sono…</item>
-        <item>Objetivo de sono: %1$d horas</item>
+        <item>Calculando meta de sono…</item>
+        <item>Meta de sono: %1$d horas</item>
         <item>Sem dados de sono por hora</item>
         <item>Abrindo Mi Health</item>
     </string-array>
