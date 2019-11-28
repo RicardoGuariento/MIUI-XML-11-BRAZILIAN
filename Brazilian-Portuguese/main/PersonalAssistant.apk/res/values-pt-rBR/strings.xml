@@ -57,8 +57,8 @@
   <string name="alipay_template_month_dialog_cancel">Cancelar</string>
   <string name="already">Completado:</string>
   <string name="announce_for_drag">Arrastando um item</string>
-  <string name="app_label">Cofre de aplicativos</string>
-  <string name="app_setting">Configurações do cofre de aplicativos</string>
+  <string name="app_label">Assistente</string>
+  <string name="app_setting">Configurações do assistente</string>
   <string name="app_setting_add_header_bg">Imagem de capa</string>
   <string name="app_setting_datetime">Mostrar data</string>
   <string name="app_setting_dialog_cancel">Cancelar</string>
