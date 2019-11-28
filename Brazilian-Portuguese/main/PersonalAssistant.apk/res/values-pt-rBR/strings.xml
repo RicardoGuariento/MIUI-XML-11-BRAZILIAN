@@ -193,7 +193,7 @@
   <string name="corpus_description_apps">Installed applications</string>
   <string name="corpus_hint_apps">Search apps</string>
   <string name="corpus_label_apps">Apps</string>
-  <string name="cta_desc">"It's ideal for shortcuts, info, and your favorite features"</string>
+  <string name="cta_desc">Todas as funcionalidades em um só lugar</string>
   <string name="cta_dialog_miot_text_all">To ensure it can function normally, Mi Home might need to acquire your network, location, the authorization to turn on your Bluetooth, use your cellular network, microphone and read your contacts. Do you confirm?</string>
   <string name="cta_dialog_negative">Exit</string>
   <string name="cta_dialog_positive">Agree</string>
