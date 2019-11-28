@@ -127,4 +127,5 @@
   <string name="usagestats_device_timeout_negative">Lembrar em 1 hora</string>
   <string name="usagestats_device_timeout_positive">Entendi</string>
   <string name="usagestats_device_timeout_title">Alerta de tempo de tela</string>
+  <string name="healthy_use_phone">Gerenciar tempo de tela</string>
 </resources>
