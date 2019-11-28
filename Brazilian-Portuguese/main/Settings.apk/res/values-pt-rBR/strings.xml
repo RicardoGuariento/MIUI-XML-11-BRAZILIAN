@@ -7164,4 +7164,6 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
    <string name="trust_lost_locks_screen_title">Bloquear tela quando ao perder as credenciais</string>
    <string name="trust_lost_locks_screen_summary">Se ativado, o dispositivo fica bloqueado quando o último agente confiável perder a credencial</string>
    <string name="temporary_style">10 segundos após tocar na tela</string>
+   <string name="lockscreen_sidepanel_shortcuts_summary">Personalize os aplicativos exibidos no painel lateral da tela de bloqueio</string>
+  <string name="lockscreen_sidepanel_shortcuts_title">Atalhos do painel lateral</string>
 </resources>
