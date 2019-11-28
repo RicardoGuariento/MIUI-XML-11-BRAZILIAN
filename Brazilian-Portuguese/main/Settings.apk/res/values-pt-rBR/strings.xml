@@ -7161,4 +7161,6 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
    <string name="trust_agents_extend_unlock_title">Agentes confiáveis apenas estendem o desbloqueio</string>
    <string name="wifi_scan_throttling">Controle da busca de Wi-Fi</string>
    <string name="bluetooth_disable_mi_fast_connect">Desativar Mi Link</string>
+   <string name="trust_lost_locks_screen_title">Bloquear tela quando ao perder as credenciais</string>
+   <string name="trust_lost_locks_screen_summary">Se ativado, o dispositivo fica bloqueado quando o último agente confiável perder a credencial</string>
 </resources>
