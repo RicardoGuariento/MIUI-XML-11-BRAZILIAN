@@ -1130,4 +1130,5 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="account_add_title">Selecionar um serviço de email</string>
 	<string name="header_label_general_preferences">Configurações gerais</string>
 	<string name="account_options_actionbar_title">Configurações gerais</string>
+	<string name="optimization_suggestion">Sugestões de otimização</string>
 </resources>
