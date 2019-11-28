@@ -145,7 +145,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="goto_setting_auto_start">Configurações</string>
   <string name="guide_setting">Fornecer as informações seguintes para obter estatísticas menstruais mais precisas</string>
   <string name="harm_learn_more">Saber mais</string>
-  <string name="health_app_name">Saúde</string>
+  <string name="health_app_name">Mi Health</string>
   <string name="health_app_name_dev">Desenvolvimento do Mi Health</string>
   <string name="health_score">Resultado de saúde</string>
   <string name="health_score_tips">O resultado de saúde é calculado com base no seu IMC (indíce de massa corporal), assim como o seu sono e atividade física. Quanto mais perto estiver das suas metas, maior vai ser a sua pontuação de saúde</string>
@@ -209,7 +209,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="mesens_card_title_stop_today">Período termina hoje</string>
   <string name="mesens_card_title_today_begin">Período pode começar hoje</string>
   <string name="mesens_card_title_tomorrow_begin">Período pode começar amanhã</string>
-  <string name="mi_health">Saúde</string>
+  <string name="mi_health">Mi Health</string>
   <string name="model_card_setting">Configurações dos cartões</string>
   <string name="modify">Editar</string>
   <string name="modify_end_date">Alterar data de fim</string>
