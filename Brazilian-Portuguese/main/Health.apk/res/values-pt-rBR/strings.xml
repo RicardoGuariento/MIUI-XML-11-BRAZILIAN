@@ -234,7 +234,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="preference_health_info_proposal_title">Obter estatísticas precisas e dicas úteis</string>
   <string name="preference_health_score_tip">Pontuação</string>
   <string name="preference_not_set">Não definido</string>
-  <string name="preference_update_already_newest">O Mi Health está actualizado</string>
+  <string name="preference_update_already_newest">O Mi Health está atualizado</string>
   <string name="preference_update_current_version">Versão atual: %1$s</string>
   <string name="preference_update_default_title">Versão</string>
   <string name="preference_update_find_new_version">Procurar atualizações</string>
