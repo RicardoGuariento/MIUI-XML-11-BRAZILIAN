@@ -275,4 +275,5 @@
     <string name="module_update_success_control">Entendido</string>
     <string name="no_alarm_setting">Nenhum alarme aqui</string>
     <string name="no_worldclock">Nenhum relógio aqui</string>
+	<string name="set_alarm_choose_ringtone">Selecionar toque</string>
 </resources>
