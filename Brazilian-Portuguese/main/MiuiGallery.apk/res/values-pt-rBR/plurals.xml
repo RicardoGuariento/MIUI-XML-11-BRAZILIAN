@@ -109,7 +109,7 @@
         <item quantity="one">Excluir %d item deste álbum e da Mi Cloud?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Extluir %d fotos de todos os dispositivos e da Mi Cloud?</item>
+        <item quantity="other">Excluir %d fotos de todos os dispositivos e da Mi Cloud?</item>
         <item quantity="one">Excluir esta foto de todos os dispositivos e da Mi Cloud?</item>
     </plurals>
     <plurals name="delete_photo_from_local">
