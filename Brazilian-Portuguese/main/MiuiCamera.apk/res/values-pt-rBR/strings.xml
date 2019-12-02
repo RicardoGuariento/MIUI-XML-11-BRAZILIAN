@@ -610,4 +610,25 @@ o fundo das suas fotos"</string>
     <string name="pref_camera_ultra_wide_ldc_title">Correção de distorção</string>
 	<string name="pref_camera_quick_settings">Configurações rápidas</string>
 	<string name="pref_camera_common_settings">Configurações gerais</string>
+	<string name="pref_camera_first_tag_tips">Marcado com sucesso</string>
+	<string name="pref_camera_video_log_tips">Registos</string>
+	<string name="pref_camera_video_tag">Permitir a marcação de vídeos</string>
+	<string name="pref_camera_video_tag_description">Toque em \"Marcar\" enquanto grava um vídeo para poder voltar atrás nos momentos marcados durante a reprodução</string>
+	<string name="pref_camera_zoom_mode_entry_high_pixel">Luz fraca</string>
+  <string name="pref_camera_zoom_mode_entry_macro">Macro</string>
+  <string name="pref_camera_zoom_mode_entry_macro_abbr">Macro</string>
+  <string name="pref_camera_zoom_mode_entry_standard">Regular</string>
+  <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
+  <string name="pref_camera_zoom_mode_entry_tele_2X">Tele 2X</string>
+  <string name="pref_camera_zoom_mode_entry_tele_2X_abbr">Tele 2X</string>
+  <string name="pref_camera_zoom_mode_entry_tele_5X_abbr">Tele 5X</string>
+  <string name="pref_camera_zoom_mode_entry_tele_abbr">Tele</string>
+  <string name="pref_camera_zoom_mode_entry_tele_standalone">Tele 5X</string>
+  <string name="pref_camera_zoom_mode_entry_ultra">Ultra-angular</string>
+  <string name="pref_camera_zoom_mode_entry_ultra_abbr">Ultra-angular</string>
+  <string name="pref_camera_zoom_mode_entry_wide">Principal</string>
+  <string name="pref_camera_zoom_mode_entry_wide_abbr">Principal</string>
+  <string name="pref_camera_zoom_mode_title">Lentes</string>
+  <string name="pref_camera_zoom_mode_title_abbr">Lentes</string>
+  <string name="video_tag_flag_title">Marcar</string>
 </resources>
