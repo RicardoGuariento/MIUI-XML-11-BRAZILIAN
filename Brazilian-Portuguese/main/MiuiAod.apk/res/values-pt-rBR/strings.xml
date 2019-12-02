@@ -88,4 +88,6 @@
   <string name="text_color">Cor do texto</string>
   <string name="disable_aod_in_power_save_mode">Desativar quando a economia de bateria estiver ativada</string>
   <string name="disable_aod_in_power_save_mode_summary">Não mosrtra os itens para economizar energia</string>
+  <string name="chosen_picture">Selecionar fundo</string>
+   <string name="scope_des">Cada caleidoscópio contém 5 padrões diferentes que serão mostrados alternadamente sempre que a tela ligar</string>
 </resources>
