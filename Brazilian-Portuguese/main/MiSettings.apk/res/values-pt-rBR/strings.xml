@@ -4,7 +4,7 @@
   <string name="application_sound">Notificações de Aplicativos</string>
   <string name="calendar_sound">Lembretes de Eventos</string>
   <string name="calendar_tip">Os sons de lembrete de evento funcionam para lembretes, anotações e tarefas do calendário</string>
-  <string name="focus_time_exception_tip">Parece que a hora do sistema mudou. Modo de foco desativado.</string>
+  <string name="focus_time_exception_tip">Parece que a hora do sistema mudou. Modo foco desativado.</string>
   <string name="follow_sim1">Aplicar configurações do SIM 1</string>
   <string name="intelligent_recognition_item_summary">Identifique as chamadas recebidas feitas por fornecedores de serviços (por exemplo, entrega de alimentos) e use toques específicos para eles</string>
   <string name="intelligent_recognition_item_title">Identificar serviços</string>
@@ -52,7 +52,7 @@
   <string name="usage_state_app_use_time">Tempo de tela do aplicativo</string>
   <string name="usage_state_card_add">Adicionar</string>
   <string name="usage_state_card_cancel">Cancelar</string>
-  <string name="usage_state_card_summary">Adicione o cartão \"Tempo de Tela\" ao App Vault para gerenciar seu tempo com mais eficiência.</string>
+  <string name="usage_state_card_summary">Adicione o cartão \"Tempo de Tela\" ao Assistente para gerenciar seu tempo com mais eficiência.</string>
   <string name="usage_state_category">Categorias</string>
   <string name="usage_state_channel_mouth">Últimos 30 dias</string>
   <string name="usage_state_channel_week">Últimos 7 dias</string>
@@ -128,4 +128,6 @@
   <string name="usagestats_device_timeout_positive">Entendi</string>
   <string name="usagestats_device_timeout_title">Alerta de tempo de tela</string>
   <string name="healthy_use_phone">Gerenciar tempo de tela</string>
+  <string name="usage_state_focus_mode_title">Modo foco</string>
+  <string name="usage_state_focus_mode_summary">Restringir todas os recursos, exceto chamadas de emergência e câmera</string>
 </resources>
