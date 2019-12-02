@@ -117,4 +117,5 @@ Você deve concordar com a Política de Privacidade do Kika antes de usar este r
     <string name="ai_button_double_press">Pressionar 2 vezes</string>
     <string name="ai_button_double_press_desc">Configurar recursos do Mi AI</string>
     <string name="zone_picker_title">Escolher fuso horário</string>
+	<string name="permission_send_message">Enviar SMS:</string>
 </resources>
