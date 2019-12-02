@@ -253,7 +253,7 @@ Por favor, envie esse código ao técnico."</string>
     <string name="dialog_insufficient_space_on_external">Espaço insuficiente no armazenamento removível</string>
     <string name="dialog_media_not_found">Não é possível baixar: nenhum armazenamento removível detectado</string>
     <string name="dialog_queued_body">Este arquivo está na fila para download.</string>
-    <string name="dialog_recovery_tabs_action">Clique para restaurar</string>
+    <string name="dialog_recovery_tabs_action">Toque para restaurar</string>
     <string name="dialog_recovery_tabs_disc">A detecção de páginas não fechadas requer recuperação completa.</string>
     <string name="dialog_recovery_tabs_tip">A webview não foi fechada da última vez</string>
     <string name="dialog_recovery_tabs_title">Abrir página antes da recuperação</string>

@@ -1099,7 +1099,7 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
 	<string name="pull_load_more">Puxe para carregar mais</string>
 	<string name="remote_search_body_too_large_prompt">"Esse e-mail é muito grande.
 Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
-    <string name="search_remote_again">Rede indisponível, Clique em tentar novamente</string>
+    <string name="search_remote_again">Rede indisponível, Toque em tentar novamente</string>
 	<string name="sync_failed_mi_authority_view_detail">Ver detalhes</string>
     <string name="agreement_url" formatted="false">http://www.miui.com/res/doc/eula.html?region=%1s&amp;lang=%2s</string>
 	<string name="all_purpose">Bem-vindo ao Mail! Este cliente de email foi criado pela Kingsoft para Xiaomi. Você pode usar este app para enviar e receber e-mails.</string>

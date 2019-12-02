@@ -74,8 +74,8 @@
     <string name="mi_key_find_phone">Encontrar dispositivo</string>
     <string name="mi_key_open_camera">Abrir Câmera</string>
     <string name="mi_key_summary_find_phone">Pressione e segure a Mi-Key para ativar o toque</string>
-    <string name="mi_key_summary_open_camera">Clique duplo na Mi Key para abrir a Câmera</string>
-    <string name="mi_key_summary_take_photo">Clique na Mi Key para tirar uma foto</string>
+    <string name="mi_key_summary_open_camera">Toque duplo na Mi Key para abrir a Câmera</string>
+    <string name="mi_key_summary_take_photo">Toque na Mi Key para tirar uma foto</string>
     <string name="mi_key_take_photo">Tirar foto</string>
     <string name="notify_device_lose_connection_text">Toque para desemparelhar %1$s</string>
     <string name="notify_device_lose_connection_title">Conexão perdida com %1$s</string>

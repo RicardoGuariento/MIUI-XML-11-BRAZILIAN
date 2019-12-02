@@ -104,7 +104,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="install_failed_invalid_apk">O pacote parece estar corrompido.</string>
   <string name="install_failed_msg">"%1$s não pôde ser instalado no seu telefone."</string>
   <string name="install_failed_system_incompatible">"Este aplicativo não é compatível com a MIUI"</string>
-  <string name="install_finished_notification_summary">Clique para limpar agora</string>
+  <string name="install_finished_notification_summary">Toque para limpar agora</string>
   <string name="install_finished_notification_title">%1$s instalado com sucesso, limpe %2$s agora</string>
   <string name="install_from_appstore_hint">Recomendamos que você instale o aplicativo a partir da &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
   <string name="installing">Instalando…</string>

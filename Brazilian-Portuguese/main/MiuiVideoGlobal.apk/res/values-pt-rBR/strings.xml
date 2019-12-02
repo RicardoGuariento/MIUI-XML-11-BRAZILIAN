@@ -171,4 +171,6 @@
 	<string name="title_publisher">Criadores</string>
     <string name="title_subscribe">Cadastros</string>
 	<string name="ugc_confirm_unsubscribe">Descadastrar agora?</string>
+	<string name="common_cancel">Cancelar</string>
+	<string name="lv_menu_selectAll">Selecionar tudo</string>
 </resources>

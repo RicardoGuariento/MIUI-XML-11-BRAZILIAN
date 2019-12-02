@@ -2697,4 +2697,19 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="notification_low_battery_title">Menos de %s de bateria restante</string>
 	<string name="open_extreme_power_save_mode_title">Ativar economia de bateria extrema</string>
 	<string name="save_mode_btn_ok">Entendido</string>
+	<string name="HIPS_Perm_CallLog_Desc">escrever e excluir o registo de chamadas</string>
+	<string name="HIPS_Perm_Call_Desc">marcar números de telefone diretamente</string>
+	<string name="HIPS_Perm_Contact_Desc">modificar e excluir os seus contatos</string>
+	<string name="HIPS_Perm_PhoneID_Desc">acessar 0 número de telefone, IMEI e IMSI</string>
+	<string name="HIPS_Perm_PhoneID_Desc_Q">acessar o número de telefone e estado do dispositivo</string>
+	<string name="HIPS_Perm_Read_Call_Log_Desc">ler o registo de chamadas</string>
+	<string name="HIPS_Perm_Read_Contact_Desc">ler os seus contatos</string>
+	<string name="HIPS_Perm_Read_SMS_Desc">ler as suas mensagens SMS</string>
+	<string name="HIPS_Perm_SendSMS_Desc">enviar mensagens SMS diretamente</string>
+	<string name="HIPS_Perm_add_voicemail_Desc">adicionar mensagens de voz de sistema</string>
+	<string name="HIPS_Perm_get_accounts_Desc">acessar todas as contas no dispositivo</string>
+	<string name="HIPS_Perm_use_sip_Desc">utilizar SIP para transmitir vídeo</string>
+	<string name="permdesc_in_calls">Monitorar chamadas recebidas</string>
+    <string name="permdesc_out_calls">Monitorar chamadas realizadas</string>
+	<string name="system_permission_perm_optional">" (opcional)"</string>
 </resources>
