@@ -31,7 +31,7 @@ Os dados não serão excluídos"</string>
   <string name="install_title">Tem certeza que quer continuar?</string>
   <string name="menu_title_current_version_log">O que há de novo?</string>
   <string name="menu_title_pick_rom_file">Escolher pacote de atualização</string>
-  <string name="menu_title_recovery">Reiniciar no modo recovery</string>
+  <string name="menu_title_recovery">Reiniciar no modo Recovery</string>
   <string name="message_checkbox">Ocultar mensagens futuras da equipe Xiaomi.eu</string>
   <string name="message_title">Aviso</string>
   <string name="new_version">Nova versão encontrada</string>
@@ -39,7 +39,7 @@ Os dados não serão excluídos"</string>
   <string name="no_network">Sem acesso à internet</string>
   <string name="no_update">Já está atualizado</string>
   <string name="no_xioamieu">"Você está utilizando uma ROM Xiaomi.eu.
-Não tem atualizações disponíveis"</string>
+Não há atualizações disponíveis"</string>
   <string name="notif_cancel">Cancelar</string>
   <string name="notif_install">Instalar</string>
   <string name="notif_new_summary">Toque para obter detalhes</string>
@@ -51,7 +51,7 @@ Não tem atualizações disponíveis"</string>
   <string name="permlab_reboot">Permitir reiniciar</string>
   <string name="pick_not_found">Não foi encontrado nenhum explorador de arquivos</string>
   <string name="pick_title">Escolha utilizando:</string>
-  <string name="recovery_desc">O dispositivo vai reiniciar no modo recovery. Deseja continuar?</string>
+  <string name="recovery_desc">O dispositivo vai reiniciar no modo Recovery. Deseja continuar?</string>
   <string name="server_error">O servidor não está respondendo. O aplicativo pode não funcionar corretamente</string>
   <string name="share_title">Compartilhar com</string>
   <string name="stable">Estável</string>

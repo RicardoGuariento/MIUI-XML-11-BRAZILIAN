@@ -309,7 +309,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="sleep_require_auto_start_permission">Permitir que o Mi Health inicie automaticamente para registar as suas atividades e sono</string>
   <string name="sleep_service">Serviço de registo do sono</string>
   <string name="sleep_service_background_running">O serviço de registo do sono está executando em segundo plano</string>
-  <string name="sleep_setting_title">Definições de sono</string>
+  <string name="sleep_setting_title">Configurações de sono</string>
   <string name="sleep_status">Estado do sono</string>
   <string name="sleep_time_edit">Editar</string>
   <string name="sleep_time_standard_pattern">Padrão: %1$dh</string>
