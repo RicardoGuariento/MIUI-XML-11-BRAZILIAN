@@ -631,4 +631,6 @@ o fundo das suas fotos"</string>
   <string name="pref_camera_zoom_mode_title">Lentes</string>
   <string name="pref_camera_zoom_mode_title_abbr">Lentes</string>
   <string name="video_tag_flag_title">Marcar</string>
+  <string name="pref_camera_lying_title">Notificações de orientação</string>
+  <string name="pref_camera_lying_summary">Notificar sobre a orientação atual</string>
 </resources>
