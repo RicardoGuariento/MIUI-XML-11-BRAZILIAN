@@ -373,7 +373,7 @@
 	<string name="minus_one_screen">Cofre de aplicativos</string>
 	<string name="announce_for_search_bar">Barra de pesquisa</string>
     <string name="announce_for_xiaoai">IA Mi</string>
-    <string name="privacy_thumbnail_blur_summary">Desfocar pré-visualizações de aplicativos em Recents</string>
+    <string name="privacy_thumbnail_blur_summary">Desfocar pré-visualizações de aplicativos em Recentes</string>
     <string name="privacy_thumbnail_blur_title">Desfocar pré-visualizações de aplicativos</string>
 	<string name="activity_not_unlocked">Espere que seu dispositivo tenha reiniciado completamente antes de abrir aplicativos</string>
     <string name="default_folder_title_meitu">Aplicativos Meitu</string>
