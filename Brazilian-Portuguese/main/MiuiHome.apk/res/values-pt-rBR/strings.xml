@@ -385,4 +385,9 @@
 	<string name="show_most_popular_apps_you_used">Mostrar os apps mais usados na gaveta de apps</string>
 	<string name="system_shortcuts_remove">Remover</string>
 	<string name="edit">Editar</string>
+	<string name="all_apps_setting_desktop_desc">Mostrar todos os aplicativos instaladas na tela inicial. Toque e segure o ícone do aplicativo para ver os atalhos disponíveis, gerenciar ou desinstalar o aplicativo</string>
+	<string name="all_apps_setting_drawer_title">Gaveta de aplicativos</string>
+	<string name="all_apps_setting_drawer_desc">Colocar todos os aplicativos instalados na gaveta de aplicativos que pode ser aberta ao deslizar para cima na tela inicial</string>
+	<string name="all_apps_setting_drawer_tips_desc">A gaveta de aplicativos é aberta ao deslizar para cima na tela inicial. Alternar para este modo tornará a Pesquisa indisponível. Alternar mesmo assim?</string>
+	<string name="all_apps_setting_drawer_tips_title">Utilizando a gaveta de aplicativos</string>
 </resources>
