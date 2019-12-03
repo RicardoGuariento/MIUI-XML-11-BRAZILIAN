@@ -390,4 +390,5 @@
 	<string name="all_apps_setting_drawer_desc">Colocar todos os aplicativos instalados na gaveta de aplicativos que pode ser aberta ao deslizar para cima na tela inicial</string>
 	<string name="all_apps_setting_drawer_tips_desc">A gaveta de aplicativos é aberta ao deslizar para cima na tela inicial. Alternar para este modo tornará a Pesquisa indisponível. Alternar mesmo assim?</string>
 	<string name="all_apps_setting_drawer_tips_title">Utilizando a gaveta de aplicativos</string>
+	<string name="drawer_settings">Gaveta de aplicativos</string>
 </resources>
