@@ -1308,7 +1308,7 @@ Seu cartão SIM será bloqueado após outra tentativa incorreta."</string>
     <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
     <string name="tether_settings_title_usb">Ancoragem USB</string>
     <string name="tether_settings_title_usb_bluetooth">Ancoragem</string>
-    <string name="tether_settings_title_wifi">Hotspot</string>
+    <string name="tether_settings_title_wifi">Ponto de acesso</string>
     <string name="tethering_hardware_offload">Aceleração de hardware de ancoragem</string>
     <string name="tethering_hardware_offload_summary">Usar aceleração de hardware de ancoragem quando disponível</string>
     <string name="tethering_settings_not_available">As configurações de ancoragem não estão disponíveis para este usuário</string>

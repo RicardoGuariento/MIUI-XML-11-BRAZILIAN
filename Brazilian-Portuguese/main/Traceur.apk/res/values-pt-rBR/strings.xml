@@ -14,5 +14,5 @@
   <string name="tap_to_share">Toque para compartilhar seu rastreamento</string>
   <string name="trace_debuggable_applications">Rastrear aplicações depuráveis</string>
   <string name="trace_saved">Rastreio salvo</string>
-  <string name="tether_settings_title_wifi">Hotspot</string>
+  <string name="tether_settings_title_wifi">Ponto de acesso</string>
 </resources>

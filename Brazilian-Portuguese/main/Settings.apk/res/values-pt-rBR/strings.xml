@@ -1348,7 +1348,7 @@ Este recurso pode ser desativado nas [Configurações]"</string>
     <string name="condition_device_vibrate_title">O smartphone está configurado para vibrar</string>
     <string name="condition_expand_hide">Ocultar</string>
     <string name="condition_expand_show">Mostrar</string>
-    <string name="condition_hotspot_summary">O Hotspot Wi-Fi %1$s está ativado. O Wi-Fi desse dispositivo está desativado.</string>
+    <string name="condition_hotspot_summary">O ponto de acesso Wi-Fi %1$s está ativado. O Wi-Fi desse dispositivo está desativado.</string>
     <string name="condition_hotspot_title">O ponto de acesso está ativado</string>
     <string name="condition_night_display_summary">A cor da tela muda para âmbar. Isso pode ajudar você a adormecer.</string>
     <string name="condition_night_display_title">O modo noturno está ativado</string>
@@ -2647,8 +2647,8 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="keywords_gesture">gestos</string>
     <string name="keywords_gps">GPS;Localização;Serviços de localização;Satélite</string>
     <string name="keywords_home">tela de início, padrão, aplicativos</string>
-    <string name="keywords_hotspot">Hotspot;Vínculo;Ancoragem;Tethering;Hotspot pessoal;Hotspot portátil</string>
-    <string name="keywords_hotspot_tethering">tethering por usb, tethering por Bluetooth, ponto de acesso Wi-Fi, Hotspot</string>
+    <string name="keywords_hotspot">Ponto de acesso;Vínculo;Ancoragem;Tethering;Ponto de acesso pessoal;Ponto de acesso portátil</string>
+    <string name="keywords_hotspot_tethering">tethering por usb, tethering por Bluetooth, ponto de acesso Wi-Fi, Ponto de acesso</string>
     <string name="keywords_ignore_optimizations">ignorar otimizações, soneca, aplicativo em espera</string>
     <string name="keywords_imei_info">imei, meid, min, versão prl, imei sv</string>
     <string name="keywords_install_other_apps">instalar aplicativos fontes desconhecidas</string>
@@ -4677,9 +4677,9 @@ Para usar a fixação de tela:
     <string name="search_wifi_setting_frequency_band_title">Banda de frequência do Wi-Fi;Frequência do Wi-Fi;Frequência do Wi-Fi;Frequência da WLAN;Banda de frequência</string>
     <string name="search_wifi_setting_sleep_policy_title">Wi-Fi ativado no modo de inatividade;Manter Wi-Fi ativado no modo de inatividade;Manter WLAN ativado no modo de inatividade;Wi-Fi ativado no modo de inatividade;WLAN ativado no modo de inatividade</string>
     <string name="search_wifi_settings_title">Wi-Fi;Wi-Fi;Configurações avançadas;WLAN;Redes sem fio;Sem fio</string>
-    <string name="search_wifi_tether_checkbox">Hotspot portátil;Hotspot;Portátil</string>
-    <string name="search_wifi_tether_configure_ap_text">Configurar ponto de acesso portátil;Configurar hotspot;Adicionar hotspot;Configurar ponto de acesso</string>
-    <string name="search_wifi_tether_settings_title">Vínculo e ponto de acesso portátil;Tether;compartilhar internet;Hotspot WLAN;Hotspot Wi-Fi;Hotspot Wi-Fi</string>
+    <string name="search_wifi_tether_checkbox">Ponto de acesso portátil;Ponto de acesso;Portátil</string>
+    <string name="search_wifi_tether_configure_ap_text">Configurar ponto de acesso portátil;Configurar ponto de acesso;Adicionar ponto de acesso;Configurar ponto de acesso</string>
+    <string name="search_wifi_tether_settings_title">Vínculo e ponto de acesso portátil;Tether;compartilhar internet;Ponto de acesso WLAN;Ponto de acesso Wi-Fi;Ponto de acesso Wi-Fi</string>
     <string name="search_wifi_wapi_cert_install">Instalar certificado WAPI;Certificados WAPI;WAPI</string>
     <string name="search_wifi_wapi_cert_uninstall">Desinstalar certificado WAPI:Certificados WAPI;WAPI</string>
     <string name="search_wps_connect_title">Botão Push WPS;Conexão WPS;WPS</string>
@@ -5492,7 +5492,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tether_over_limit_dialog_title">Alerta do uso de dados</string>
     <string name="tether_over_limit_warning_notify_message">Desativar ponto de acesso portátil.</string>
     <string name="tether_over_limit_warning_notify_title">Limite de dados do ponto de acesso atingido</string>
-    <string name="tether_settings_disabled">Hotspot</string>
+    <string name="tether_settings_disabled">Ponto de acesso</string>
     <string name="tether_settings_disabled_on_data_saver">Não é possível vincular ou usar hotspots enquanto a Economia de dados está ativada</string>
     <string name="tether_settings_summary_hotspot_off_tether_on">Ancoragem</string>
     <string name="tether_settings_summary_hotspot_on_tether_off">Ponto de acesso ativado</string>
@@ -5501,7 +5501,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
     <string name="tether_settings_title_usb">Ancoragem USB</string>
     <string name="tether_settings_title_usb_bluetooth">Ancoragem</string>
-    <string name="tether_settings_title_wifi">Hotspot</string>
+    <string name="tether_settings_title_wifi">Ponto de acesso</string>
     <string name="tether_share_qrcode_title">Compartilhar código QR</string>
     <string name="tethering_footer_info">Use o ponto de acesso e ancoragem para fornecer Internet a outros dispositivos por meio da sua conexão de dados móveis. Os aplicativos também podem criar um ponto de acesso para compartilhar conteúdo com dispositivos por perto.</string>
     <string name="tethering_hardware_offload">Ancoragem acelerada por hardware</string>
@@ -6578,10 +6578,10 @@ Toque em "<b>Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
     <string name="wifi_switch_to_gsm_message">Conexão Wi-Fi perdida. Usar dados móveis em vez disso?</string>
     <string name="wifi_switch_to_gsm_title">Usar GSM?</string>
     <string name="wifi_tap_to_sign_in">Toque aqui para fazer login na rede</string>
-    <string name="wifi_tether_checkbox_text">Hotspot Wi-Fi</string>
+    <string name="wifi_tether_checkbox_text">Ponto de acesso Wi-Fi</string>
     <string name="wifi_tether_configure_ap_text">Configurar ponto de acesso Wi-Fi</string>
     <string name="wifi_tether_configure_ssid_default">Ponto de acesso Android</string>
-    <string name="wifi_tether_configure_subtext">Hotspot %1$s %2$s</string>
+    <string name="wifi_tether_configure_subtext">Ponto de acesso %1$s %2$s</string>
     <string name="wifi_tether_disabled_by_airplane">Indisponível porque o modo avião está ativado</string>
     <string name="wifi_tether_enabled_subtext">A rede %1$s está ativa</string>
     <string name="wifi_tether_enabled_summary">%1$s está ativo</string>
