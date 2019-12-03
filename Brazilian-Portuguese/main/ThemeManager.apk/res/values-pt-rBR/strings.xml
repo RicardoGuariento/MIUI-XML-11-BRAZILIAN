@@ -546,7 +546,7 @@
     <string name="theme_user_agreement_content2">Acordo do Usuário</string>
     <string name="theme_user_agreement_content3">" e "</string>
     <string name="theme_user_agreement_content4">Política de Privacidade</string>
-    <string name="theme_user_agreement_content5">". Este aplicativo precisa se conectar à internet para funcionar normalmente. "</string>
+    <string name="theme_user_agreement_content5">". Este aplicativo precisa se conectar à Internet para funcionar normalmente. "</string>
     <string name="theme_user_agreement_exit">Recusar</string>
     <string name="theme_user_agreement_remind_again">Mostrar Termos de Uso</string>
     <string name="theme_user_agreement_remind_never">Não mostrar novamente</string>

@@ -385,8 +385,8 @@
     <string name="bluetooth_pairing_rejected_error_message">Pareamento rejeitado por %1$s.</string>
     <string name="bluetooth_pairing_will_share_phonebook">O pareamento garante acesso aos seus contatos e registro de chamadas quando conectado.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Compartilhando internet local com dispositivos</string>
-    <string name="bluetooth_pan_profile_summary_use_for">Usar para acesso à internet</string>
-    <string name="bluetooth_pan_user_profile_summary_connected">Conectado a disp. p/ acesso à internet</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Usar para acesso à Internet</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Conectado a disp. p/ acesso à Internet</string>
     <string name="bluetooth_profile_a2dp">Áudio de mídia</string>
     <string name="bluetooth_profile_a2dp_high_quality">Usar áudio de alta qualidade: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Usar áudio de alta qualidade</string>
@@ -396,7 +396,7 @@
     <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
     <string name="bluetooth_profile_map">Mensagens de texto</string>
     <string name="bluetooth_profile_opp">Transferência de arquivo</string>
-    <string name="bluetooth_profile_pan">Acesso à internet</string>
+    <string name="bluetooth_profile_pan">Acesso à Internet</string>
     <string name="bluetooth_profile_pan_nap">Compart. de conexão com a internet</string>
     <string name="bluetooth_profile_pbap">Compartilhamento de contatos</string>
     <string name="bluetooth_profile_pbap_summary">Usar para compartilhamento de contatos</string>
@@ -499,7 +499,7 @@ Taxa de amostra"</string>
     <string name="daltonizer_mode_protanomaly">Protanomalia (vermelho-verde)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalia (azul-amarelo)</string>
     <string name="daltonizer_type_overridden">Substituído por %1$s</string>
-    <string name="data_connection_no_internet">Não conectado à internet</string>
+    <string name="data_connection_no_internet">Não conectado à Internet</string>
     <string name="data_saver">Economia de dados</string>
     <string name="data_saver_description">Para ajudar a reduzir o uso de dados, a Economia de dados impede que alguns aplicativos enviem ou recebam dados em segundo plano. Um aplicativo que você estiver usando pode acessar os dados, mas com menos frequência. Isso significa, por exemplo, que imagens não aparecerão até que você toque nelas.</string>
     <string name="data_saver_enable_button">Ativar</string>
@@ -1591,7 +1591,7 @@ Deslize para baixo para bloquear"</string>
     <string name="status_bar_settings_mute_label">SILENCIOSO</string>
     <string name="status_bar_settings_notifications">Notificações</string>
     <string name="status_bar_settings_settings_button">Configurações</string>
-    <string name="status_bar_settings_signal_meter_disconnected">Sem conexão à internet</string>
+    <string name="status_bar_settings_signal_meter_disconnected">Sem conexão à Internet</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi conectado</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_style_settings">Notificações</string>
@@ -1673,7 +1673,7 @@ Deslize para baixo para bloquear"</string>
     <string name="tether_settings_title_usb_bluetooth">Ancoragem</string>
     <string name="tether_settings_title_wifi">Ponto de acesso</string>
     <string name="tethering_hardware_offload">Ancoragem acelerada por hardware</string>
-    <string name="tethering_hardware_offload_summary">Usar aceleração de hardware para ancoragem de internet se disponível</string>
+    <string name="tethering_hardware_offload_summary">Usar aceleração de hardware para ancoragem de Internet se disponível</string>
     <string name="tethering_settings_not_available">As configurações de ancoragem não estão disponíveis para este usuário</string>
     <string name="thermal_shutdown_dialog_message">"Seu telefone estava muito quente, então ele foi desligado para resfriar. Seu telefone agora está executando normalmente.
 
@@ -1881,8 +1881,8 @@ Qualquer usuário pode atualizar aplicativos para todos os outros usuários."</s
     <string name="wifi_hand_sel_wapi_cert">Certificado WAPI</string>
     <string name="wifi_is_off">Wi-Fi desativado</string>
     <string name="wifi_metered_label">Limitada</string>
-    <string name="wifi_no_internet">Não é possível conectar-se à internet</string>
-    <string name="wifi_no_internet_no_reconnect">Não é possível conectar-se à internet</string>
+    <string name="wifi_no_internet">Não é possível conectar-se à Internet</string>
+    <string name="wifi_no_internet_no_reconnect">Não é possível conectar-se à Internet</string>
     <string name="wifi_not_in_range">Fora de alcance</string>
     <string name="wifi_remembered">Salva</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>

@@ -92,7 +92,7 @@
     <string name="cm_privacy_dialog_allow">Aceitar</string>
     <string name="cm_privacy_dialog_cancel">Cancelar</string>
     <string name="cm_privacy_dialog_spannable_tips">Política de Privacidade</string>
-    <string name="cm_privacy_dialog_tips">Os serviços de mensagens inteligentes são fornecidos por sua operadora. O aplicativo Mensagens precisa de acesso à internet e à sua localização para lhe fornecer estes serviços. Você deve aceitar a %1s da operadora antes de iniciar o uso destes serviços. Aceitar?</string>
+    <string name="cm_privacy_dialog_tips">Os serviços de mensagens inteligentes são fornecidos por sua operadora. O aplicativo Mensagens precisa de acesso à Internet e à sua localização para lhe fornecer estes serviços. Você deve aceitar a %1s da operadora antes de iniciar o uso destes serviços. Aceitar?</string>
     <string name="cm_privacy_dialog_title">Atenção</string>
     <string name="cmcc_privacy">Contrato de Privacidade da Operadora China Mobile</string>
     <string name="complain_input_number">Insira seu número de telefone</string>
@@ -398,8 +398,8 @@
     <string name="net_sms_unsubscribe">Desinscrito com sucesso</string>
     <string name="network_error_description">Ocorreu um erro de rede. Aguarde alguns minutos e tente novamente.</string>
     <string name="networking_allow_continue">Permitir</string>
-    <string name="networking_allow_desc">O Mi Message precisa de uma conexão com a internet para funcionar normalmente. Para fornecer os serviços gratuitos de texto e voz, reconhecer números desconhecidos, filtrar spam e ativar outros recursos, o Mi Message precisa usar o aplicativo Páginas amarelas. Permitir que o aplicativo conecte-se à internet, obtenha suas informações de localização e leia seus contatos?</string>
-    <string name="networking_allow_desc_without_mx">O Mi Message precisa de uma conexão com a internet para funcionar normalmente. Para reconhecer números desconhecidos, filtrar spam e ativar outros recursos, o Mi Message precisa usar o aplicativo Páginas amarelas. Permitir que o aplicativo conecte-se à internet, obtenha suas informações de localização e leia seus contatos?</string>
+    <string name="networking_allow_desc">O Mi Message precisa de uma conexão com a internet para funcionar normalmente. Para fornecer os serviços gratuitos de texto e voz, reconhecer números desconhecidos, filtrar spam e ativar outros recursos, o Mi Message precisa usar o aplicativo Páginas amarelas. Permitir que o aplicativo conecte-se à Internet, obtenha suas informações de localização e leia seus contatos?</string>
+    <string name="networking_allow_desc_without_mx">O Mi Message precisa de uma conexão com a internet para funcionar normalmente. Para reconhecer números desconhecidos, filtrar spam e ativar outros recursos, o Mi Message precisa usar o aplicativo Páginas amarelas. Permitir que o aplicativo conecte-se à Internet, obtenha suas informações de localização e leia seus contatos?</string>
     <string name="networking_allow_title">Atenção</string>
     <string name="new_message">Escrever</string>
     <string name="new_message_arrived">Você recebeu uma nova mensagem</string>

@@ -32,9 +32,9 @@
     <string name="cloud_trash_bin_title">Excluir anotações na Mi Cloud</string>
     <string name="cta_confirm_cancel">Não permitir</string>
     <string name="cta_confirm_ok">Permitir</string>
-    <string name="cta_dialog_message">O aplicativo Anotações precisa de permissões para conectar-se à internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
+    <string name="cta_dialog_message">O aplicativo Anotações precisa de permissões para conectar-se à Internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
     <string name="cta_dialog_title">Permissões necessárias</string>
-    <string name="cta_reminder">O aplicativo Anotações precisa de permissões para conectar-se à internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
+    <string name="cta_reminder">O aplicativo Anotações precisa de permissões para conectar-se à Internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
     <string name="date_time_picker_alarm_reminder">Alarme</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="date_time_picker_has_not_set_alarm">O alarme não foi definido</string>

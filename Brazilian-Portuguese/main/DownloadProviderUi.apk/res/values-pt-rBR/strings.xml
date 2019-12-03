@@ -419,10 +419,10 @@ Acelere downloads em todos os seus dispositivos."</string>
     <string name="sniff_copyright_text">Não é possível mostrar os resultados devido a proteções de direitos autorais</string>
     <string name="extend">Mais</string>
     <string name="task_fail">Falha</string>
-    <string name="notify_disabled_net_by_app">Acesso à internet restrito</string>
+    <string name="notify_disabled_net_by_app">Acesso à Internet restrito</string>
     <string name="notify_only_wifi_download">Aguardando Wi-Fi</string>
     <string name="toast_only_wifi_download">Conecte-se ao Wi-Fi para fazer o download deste item</string>
-    <string name="dialog_title_disabled_net">Acesso à internet</string>
+    <string name="dialog_title_disabled_net">Acesso à Internet</string>
     <string name="dialog_msg_disabled_net">%1$s está com downloads restringidos na rede atual. Toque em Configurações de rede para ir ao aplicativo Segurança.</string>
     <string name="dialog_btn_ok_disabled_net">Configurações de rede</string>
     <string name="clear_data">Limpar</string>

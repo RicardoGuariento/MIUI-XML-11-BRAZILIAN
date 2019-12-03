@@ -17,7 +17,7 @@ acesse %s em um outro dispositivo conectado."</string>
     <string name="settings_license_activity_unavailable">Não foi possível carregar as licenças.</string>
     <string name="settings_safetylegal_title">Informação de segurança</string>
     <string name="settings_safetylegal_activity_title">Informação de segurança</string>
-    <string name="settings_safetylegal_activity_unreachable">Não foi possível conectar-se à internet. Para ver esta informação agora, acesse %s de qualquer computador conectado à internet.</string>
+    <string name="settings_safetylegal_activity_unreachable">Não foi possível conectar-se à Internet. Para ver esta informação agora, acesse %s de qualquer computador conectado à Internet.</string>
     <string name="settings_safetylegal_activity_loading">Aguarde…</string>
     <string name="ime_privacy_policy">Escolher teclado</string>
     <string name="ad_service">Serviço de anúncios</string>

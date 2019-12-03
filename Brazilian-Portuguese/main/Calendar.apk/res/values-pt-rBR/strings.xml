@@ -273,7 +273,7 @@
 	<string name="next_alarm_time">Pórximo lembrete em %1$s</string>
     <string name="no_contact_birthday_hint">Nenhum aniversário para importar</string>
     <string name="no_events_hint">Nenhum evento</string>
-    <string name="no_internet">Não foi possível conectar-se à internet</string>
+    <string name="no_internet">Não foi possível conectar-se à Internet</string>
     <string name="no_network">"Não foi possível conectar-se à rede.
 Verifique suas configurações de rede e tente novamente."</string>
     <string name="no_network_btn">Tente novamente</string>

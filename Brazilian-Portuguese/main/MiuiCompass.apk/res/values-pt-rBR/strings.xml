@@ -50,7 +50,7 @@
     <string name="location_south">Lat. S</string>
     <string name="location_west">Long. O</string>
     <string name="longitude">LON</string>
-    <string name="mobiledata_alert_dialog_message">Conectar-se à internet para calibrar a altitude?</string>
+    <string name="mobiledata_alert_dialog_message">Conectar-se à Internet para calibrar a altitude?</string>
     <string name="mobiledata_alert_dialog_title">Alerta do uso de dados</string>
     <string name="open_perm_msg">A Bússola precisa de acesso às informações de localização e câmera. Isto é necessário para determinar as coordenadas e fornecer pré-visualizações ao vivo. Permitir?</string>
     <string name="open_perm_title">Permissões necessárias</string>

@@ -28,7 +28,7 @@
     <string name="convertion_unit_weight">Conversor de massa</string>
     <string name="cos">cos</string>
     <string name="cosDesc">cosseno</string>
-    <string name="currency_update_connect_to_get_data">Tarifas de câmbio fornecidas pelo Webull. Conecte-se à internet para obter as últimas informações.</string>
+    <string name="currency_update_connect_to_get_data">Tarifas de câmbio fornecidas pelo Webull. Conecte-se à Internet para obter as últimas informações.</string>
     <string name="currency_update_support">Taxas de câmbio fornecidas por Webull.</string>
     <string name="currency_update_time_format">Taxas de câmbio fornecidas por Webull (%s)</string>
     <string name="currency_update_updating">Atualizando taxas…</string>

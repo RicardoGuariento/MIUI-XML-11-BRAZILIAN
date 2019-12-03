@@ -314,7 +314,7 @@ para acessar o segundo espaço através da Tela de bloqueio"</string>
     <string name="air_space_created">Espaço de trabalho criado com sucesso</string>
     <string name="enter_air_space">Ir ao Espaço de trabalho</string>
     <string name="invalid_qr_code">Código QR inválido</string>
-    <string name="need_network_when_create">Conecte-se à internet antes de criar o Espaço de trabalho</string>
+    <string name="need_network_when_create">Conecte-se à Internet antes de criar o Espaço de trabalho</string>
     <string name="downloading_space">Fazendo o download…</string>
     <string name="air_space_deleted">Espaço de trabalho excluído com sucesso</string>
     <string name="need_reset_passwd">Redefinir senha do Espaço de trabalho antes de acessá-lo</string>

@@ -99,7 +99,7 @@ Puxe para atualizar ou verifique as configurações de rede"</string>
     <string name="empty_view_net_loading">Atualizando…</string>
     <string name="empty_view_net_unavailable">Não foi possível conectar-se à rede</string>
     <string name="empty_view_refresh">Tente novamente</string>
-    <string name="eu_region_version_first_start_network_msg">Ao usar este produto você concorda que ele se conectará à internet, coletará, processará e usará suas informações pessoais, incluindo coordenadas de cidades pesquisadas, e outros tipos de dados especificados em nossa Política de Privacidade. Consulte a nossa Política de Privacidade para aprender como coletamos e processamos estas informações. Ao tocar em \"Aceitar\", você concordará com os %1$s e a %2$s.</string>
+    <string name="eu_region_version_first_start_network_msg">Ao usar este produto você concorda que ele se conectará à Internet, coletará, processará e usará suas informações pessoais, incluindo coordenadas de cidades pesquisadas, e outros tipos de dados especificados em nossa Política de Privacidade. Consulte a nossa Política de Privacidade para aprender como coletamos e processamos estas informações. Ao tocar em \"Aceitar\", você concordará com os %1$s e a %2$s.</string>
     <string name="feedback_cloudy">Nublado</string>
     <string name="feedback_foggy">Neblina</string>
     <string name="feedback_haze">Nevoeiro</string>
@@ -111,7 +111,7 @@ Puxe para atualizar ou verifique as configurações de rede"</string>
     <string name="feedback_result_success">Submetido com sucesso, obrigado por seu feedback.</string>
     <string name="feedback_sandy">Arenoso</string>
     <string name="feedback_sunny">Limpo</string>
-    <string name="first_start_network_title">Conexão à internet e acesso à localização</string>
+    <string name="first_start_network_title">Conexão à Internet e acesso à localização</string>
     <string name="global_aqi">IQA: %1$s %2$s</string>
     <string name="hourly_forcast_now">Agora</string>
     <string name="hourly_forecast_date">d/M</string>

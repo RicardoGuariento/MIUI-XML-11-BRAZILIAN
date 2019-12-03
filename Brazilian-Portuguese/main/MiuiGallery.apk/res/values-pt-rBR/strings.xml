@@ -736,7 +736,7 @@ para personalizar a Galeria"</string>
     <string name="movie_video_short">Vídeo de 10s</string>
     <string name="must_pick_file">Selecione uma foto</string>
     <string name="name_split">, </string>
-    <string name="need_to_turn_on_network">O dispositivo não está conectado à internet</string>
+    <string name="need_to_turn_on_network">O dispositivo não está conectado à Internet</string>
     <string name="need_to_turn_on_sync">Ativar sincronização com a Mi Cloud</string>
     <string name="need_to_turn_on_sync_first">Ative a sincronização com a Mi Cloud primeiro</string>
     <string name="need_to_turn_on_wlan">Conecte-se ao Wi-Fi primeiro</string>
@@ -864,7 +864,7 @@ para personalizar a Galeria"</string>
     <string name="photo_editor_navigator_module_download_success">Download concluído</string>
     <string name="photo_editor_navigator_module_download_wait_wlan">Aguardar Wi-Fi</string>
     <string name="photo_editor_navigator_module_downloading">Fazendo o download de %s…</string>
-    <string name="photo_editor_navigator_need_download">Conecte-se à internet para fazer o download de %s.</string>
+    <string name="photo_editor_navigator_need_download">Conecte-se à Internet para fazer o download de %s.</string>
 	<string name="photo_editor_remove_watermark">Remover assinatura</string>
     <string name="photo_editor_remover">Apagar</string>
     <string name="photo_editor_rotate">Girar</string>

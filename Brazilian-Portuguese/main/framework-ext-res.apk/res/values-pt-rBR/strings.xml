@@ -172,7 +172,7 @@
     <string name="switch_brand_desc_tv">Serviços de segurança fornecidos pos Spaces Mobile</string>
     <string name="miui_forbid_poweroff_when_device_locked">Não é possível desligar, o dispositivo está bloqueado.</string>
     <string name="super_resolution_maintain_tips">A super resolução ainda não está disponível.</string>
-    <string name="wifi_assistant_wifi_no_internet">Esta rede Wi-Fi não tem acesso à internet</string>
+    <string name="wifi_assistant_wifi_no_internet">Esta rede Wi-Fi não tem acesso à Internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Toque para ver detalhes</string>
     <string name="resolver_app_recommend_flag">Recomendado</string>
     <string name="voice_button_action_up">Pressione para falar</string>

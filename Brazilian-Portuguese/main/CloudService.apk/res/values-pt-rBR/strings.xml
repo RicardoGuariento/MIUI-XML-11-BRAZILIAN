@@ -29,7 +29,7 @@
     <string name="error_unknown">Não é possível fazer o login</string>
     <string name="sync_dspt">Sincronização</string>
     <string name="access_denied">Acesso negado</string>
-    <string name="internet_access_dspt">Este aplicativo precisa se conectar à internet para funcionar normalmente.</string>
+    <string name="internet_access_dspt">Este aplicativo precisa se conectar à Internet para funcionar normalmente.</string>
     <string name="sync_on">Ativado</string>
     <string name="sync_off">Desativado</string>
     <string name="mx_dspt">Mi Message</string>
@@ -207,7 +207,7 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
     <string name="micloud_setting_wifi_summary">Configurações de Wi-Fi</string>
     <string name="micloud_setting_antispam_summary">Exceções e números de telefone bloqueados</string>
     <string name="micloud_member_net_error_alert_title">Não é possível conectar-se à rede</string>
-    <string name="micloud_member_net_error_alert_message">Você não está conectado à internet.</string>
+    <string name="micloud_member_net_error_alert_message">Você não está conectado à Internet.</string>
     <string name="micloud_member_pay_order_error_toast">Erro nos dados</string>
     <string name="micloud_member_pay_miid_error_toast">Erro na conta</string>
     <string name="share_miliao_not_installed">O Mi Talk não está instalado.</string>
@@ -221,7 +221,7 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
     <string name="micloud_main_title_sync_off">Sincronização desativada</string>
     <string name="micloud_main_title_master_sync_off">Sincronização automática desativada</string>
     <string name="micloud_main_message_master_sync_off">Você desativou a sincronização na Área de notificações.</string>
-    <string name="micloud_main_error_network_disallowed">Certifique-se de que você permitiu o acesso à internet.</string>
+    <string name="micloud_main_error_network_disallowed">Certifique-se de que você permitiu o acesso à Internet.</string>
     <string name="micloud_main_error_activated_fail">Ative o seu cartão SIM.</string>
     <string name="micloud_main_error_permission_limit">Permita que a Mi Cloud acesse o armazenamento.</string>
     <string name="micloud_manage_space_data">Gerenciar dados da Mi Cloud</string>
@@ -314,8 +314,8 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
     <string name="micloud_find_device_close_alert_negtive">Desativar mesmo assim</string>
     <string name="find_device_gdpr_prompt">Ao ativar o Encontrar dispositivo, você está concordando com &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Privacy Policy&lt;/a&gt;&lt;/u&gt;. Se você precisar revogar a autorização, desative este recurso.</string>
     <string name="find_device_gdpr_prompt_policy_doc_name">Política de Privacidade</string>
-    <string name="activate_finddevice">Conecte-se à internet para ativar o dispositivo</string>
-    <string name="account_related">Este dispositivo já está associado a uma Conta Mi (%s). Conecte-se à internet para ativar o dispositivo.</string>
+    <string name="activate_finddevice">Conecte-se à Internet para ativar o dispositivo</string>
+    <string name="account_related">Este dispositivo já está associado a uma Conta Mi (%s). Conecte-se à Internet para ativar o dispositivo.</string>
     <string name="connect_network">Conecte-se ao Wi-Fi ou insira um cartão SIM</string>
     <string name="trying_to_connect_to_network">Conectando-se à rede…</string>
     <string name="detect_sim_card">Verificar por cartão SIM</string>

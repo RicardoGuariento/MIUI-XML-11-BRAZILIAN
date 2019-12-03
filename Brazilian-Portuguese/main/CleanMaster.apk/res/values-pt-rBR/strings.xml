@@ -120,7 +120,7 @@
     <string name="white_list_residual_header">Resíduos: %d</string>
     <string name="white_list_title">Exceções</string>
     <string name="toast_network_eror">Não é possível conectar-se à rede</string>
-    <string name="sc_allow_network_dialog_message">Permitir que este aplicativo conecte-se à internet para receber atualizações?</string>
+    <string name="sc_allow_network_dialog_message">Permitir que este aplicativo conecte-se à Internet para receber atualizações?</string>
     <string name="sc_allow_network_dialog_button">Permitir</string>
     <string name="auto_clean_switch_on">Ativado</string>
     <string name="auto_clean_switch_off">Desativado</string>
@@ -289,7 +289,7 @@
     <string name="no_network">Não foi possível conectar-se à rede, tente novamente mais tarde</string>
     <string name="back">Voltar</string>
     <string name="total_clean">Total limpo: %s</string>
-    <string name="toast_network_switch">Este aplicativo pode se conectar à internet</string>
+    <string name="toast_network_switch">Este aplicativo pode se conectar à Internet</string>
     <string name="open">Ativar</string>
     <string name="close">Fechar</string>
     <string name="download">Download</string>
@@ -312,7 +312,7 @@
     <string name="virus_scan">Antivírus</string>
     <string name="tips_of_virus_scan">Verificar dispositivo por vírus regularmente para mantê-lo seguro</string>
     <string name="conn_of_function_safe">Conexão de rede para Segurança</string>
-    <string name="tips_of_connect">Conectar-se à internet para usar o conjunto completo das funções de Segurança</string>
+    <string name="tips_of_connect">Conectar-se à Internet para usar o conjunto completo das funções de Segurança</string>
     <string name="buy_traffic_pack">Comprar mais dados</string>
     <string name="tips_of_traffic_pack_threshold">Comprar mais dados quando você estiver prestes a atingir o limite do tráfego</string>
     <string name="buy_immediately">Comprar</string>
@@ -439,7 +439,7 @@
     <string name="wechat_chat_data_type_normal_desc">Excluí-los não afetará seu uso.</string>
     <string name="wechat_chat_data_type_normal_clean_tips">Estes são arquivos técnicos. Excluí-los não afetará seu uso.</string>
     <string name="wechat_chat_data_type_cache">Cache do WeChat</string>
-    <string name="wechat_chat_data_type_cache_desc">Você será capaz de restaurar estes arquivos após conectar-se à internet.</string>
+    <string name="wechat_chat_data_type_cache_desc">Você será capaz de restaurar estes arquivos após conectar-se à Internet.</string>
     <string name="wechat_chat_data_type_chat">Histórico de conversas</string>
     <string name="wechat_chat_data_type_chat_desc">Você não será capaz de restaurar o histórico de conversas.</string>
     <string name="wechat_chat_data_type_other">Outros</string>
@@ -448,7 +448,7 @@
     <string name="qq_data_type_normal_desc">Excluí-los não afetará o seu uso.</string>
     <string name="qq_data_type_normal_clean_tips">Estes são arquivos técnicos. Excluí-los não afetará o seu uso.</string>
     <string name="qq_data_type_cache">Cache do QQ</string>
-    <string name="qq_data_type_cache_desc">Você será capaz de restaurar estes arquivos depois de se conectar à internet.</string>
+    <string name="qq_data_type_cache_desc">Você será capaz de restaurar estes arquivos depois de se conectar à Internet.</string>
     <string name="qq_data_type_chat">Histórico de conversas</string>
     <string name="qq_data_type_chat_desc">Você não será capaz de restaurar o histórico de conversas.</string>
     <string name="qq_data_type_other">Outros</string>

@@ -73,7 +73,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="dlg_not_block_call">Desbloquear os números selecionados? Eles serão adicionados às exceções, mas itens bloqueados anteriormente não aparecerão no histórico de chamadas.</string>
     <string name="dlg_update_date_title">Alerta</string>
     <string name="dlg_update_data_content">Você não está conectado a uma rede Wi-Fi. Usar a conexão de dados móveis poderá gerar custos adicionais. Continuar mesmo assim?</string>
-    <string name="dlg_sec_network_unavailable">O aplicativo Segurança não pode ser atualizado porque você restringiu o seu acesso à internet. Permitir que o aplicativo Segurança conecte-se à internet?</string>
+    <string name="dlg_sec_network_unavailable">O aplicativo Segurança não pode ser atualizado porque você restringiu o seu acesso à Internet. Permitir que o aplicativo Segurança conecte-se à Internet?</string>
     <string name="dlg_update_btn_contiue">Continuar</string>
     <string name="dlg_update_btn_open">Permitir</string>
     <string name="dlg_update_updating">Atualizando…</string>
@@ -388,14 +388,14 @@ da operadora"</string>
     <string name="firewall_network_restrict_notify_mobile">Dados móveis</string>
     <string name="firewall_network_restrict_notify_message">Toque para alterar as configurações.</string>
     <string name="firewall_restrict_android_dialog_title">Atenção</string>
-    <string name="firewall_restrict_android_dialog_content">Para certificar que o seu dispositivo funciona normalmente, alguns aplicativos do sistema Android ainda conectarão-se à internet. Estes aplicativos usarão sua conexão de dados móveis e poderão gerar cobranças por sua operadora.</string>
+    <string name="firewall_restrict_android_dialog_content">Para certificar que o seu dispositivo funciona normalmente, alguns aplicativos do sistema Android ainda conectarão-se à Internet. Estes aplicativos usarão sua conexão de dados móveis e poderão gerar cobranças por sua operadora.</string>
     <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em segundo plano para este aplicativo pode fazer com este aplicativo não funcione normalmente, receba mensagens, faça download de conteúdos, etc. Restringir mesmo assim?</string>
     <string name="firewall_allow_network">Permitir</string>
     <string name="app_bg_restrict_dialog_message">Restringir a conexão de rede em segundo plano pode impedir que o aplicativo funcione normalmente. Por exemplo, pode levar mais tempo para que as novas mensagens sejam recebidas ou o seu conteúdo atualizado.</string>
     <string name="firewall_network_allow">Permitindo que %1$s utilize a conexão de %2$s</string>
     <string name="search_result_text">Não foi possível encontrar nenhum aplicativo</string>
-    <string name="firewall_mobile_dialog_message">O aplicativo instalado não será capaz de conectar-se à internet usando dados móveis quando esta opção estiver desativada.</string>
-    <string name="firewall_wifi_dialog_message">O aplicativo instalado não será capaz de conectar-se à internet usando o Wi-Fi quando esta opção estiver desativada.</string>
+    <string name="firewall_mobile_dialog_message">O aplicativo instalado não será capaz de conectar-se à Internet usando dados móveis quando esta opção estiver desativada.</string>
+    <string name="firewall_wifi_dialog_message">O aplicativo instalado não será capaz de conectar-se à Internet usando o Wi-Fi quando esta opção estiver desativada.</string>
     <string name="firewall_system_title">Uso de dados para aplicativos do sistema</string>
     <string name="firewall_temp_rule_reason">%2$s restringiu a conexão com a internet do aplicativo %1$s</string>
     <string name="dialog_restrict_all_wlan_title">Restringir conexão Wi-Fi</string>
@@ -741,8 +741,8 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
     <string name="signal_exception_title">Testar intensidade do sinal</string>
     <string name="signal_exception_summary">Não é possível conectar à rede nesta área.</string>
     <string name="usbsharenet_exception_title">Testar conexão compartilhada por USB</string>
-    <string name="usbsharenet_exception_summary">Não é possível conectar-se à internet usando a conexão USB compartilhada. Verifique a conexão USB com seu dispositivo e reinicie o Mi PC Suite.</string>
-    <string name="usbsharenet_pc_exception_summary">Não foi possível conectar-se à internet usando a conexão USB compartilhada. Verifique a conexão de internet em seu computador.</string>
+    <string name="usbsharenet_exception_summary">Não é possível conectar-se à Internet usando a conexão USB compartilhada. Verifique a conexão USB com seu dispositivo e reinicie o Mi PC Suite.</string>
+    <string name="usbsharenet_pc_exception_summary">Não foi possível conectar-se à Internet usando a conexão USB compartilhada. Verifique a conexão de Internet em seu computador.</string>
     <string name="gateway_exception_title">Testar roteador</string>
     <string name="gateway_exception_summary">Verifique seu roteador e tente novamente.</string>
     <string name="gateway_exception_summary2">Não é possível conectar-se ao servidor</string>
@@ -777,7 +777,7 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
     <string name="network_permission_exception_tips">Não é possível usar a conexão de dados móveis para conectar-se à rede</string>
     <string name="open_now">Permitir que o aplicativo use os dados móveis</string>
     <string name="network_roaming_exception_tips">Não é possível usar os dados móveis durante o roaming para conectar-se à rede.</string>
-    <string name="network_mobile_exception_detail">"Seu dispositivo não pode conectar-se à internet:
+    <string name="network_mobile_exception_detail">"Seu dispositivo não pode conectar-se à Internet:
 
 1. Certifique-se de que você não excedeu seu limite do plano de dados.
 
@@ -796,8 +796,8 @@ Enquanto calibra, o MIUI vai enviar uma mensagem de texto para receber os modelo
 "<b>1. Problemas com redes Wi-Fi públicas</b>"
 Se você está conectado a uma rede Wi-Fi pública, o número de usuários conectados naquela rede podem estar diminuindo a velocidade ou criando problemas de conectividade. Conecte-se em outra rede e tente novamente.
 
-"<b>2. Problemas com o provedor de internet</b>"
-Certifique-se de que sua conta está ativa em seu provedor de serviços de internet.
+"<b>2. Problemas com o provedor de Internet</b>"
+Certifique-se de que sua conta está ativa em seu provedor de serviços de Internet.
 
 "<b>3. Problemas no hardware do router</b>"
 Tente reiniciar seu roteador ou verifique as configurações do mesmo.
@@ -848,7 +848,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="tc_diagnostic_notification_title">Diagnóstico da operadora</string>
     <string name="tc_diagnostic_notification_summary">Não foi possível ajustar por 5 vezes consecutivas. Toque abaixo para iniciar o diagnóstico.</string>
     <string name="tc_diagnostic_upload_success">Obrigado por seu feedback!</string>
-    <string name="tc_diagnostic_upload_no_network">Obrigado por seu feedback! Seu feedback será enviado quando você estiver conectado à internet.</string>
+    <string name="tc_diagnostic_upload_no_network">Obrigado por seu feedback! Seu feedback será enviado quando você estiver conectado à Internet.</string>
     <string name="tc_diagnostic_location_error_notification_title">Localização inválida</string>
     <string name="tc_diagnostic_location_error_notification_summary">Toque para ajustar sua localização</string>
     <string name="tc_diagnostic_operator_error_notification_title">Operadora incorreta</string>
@@ -885,7 +885,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="menu_charge_traffic">Comprar dados</string>
     <string name="menu_setting_traffic">Definir manualmente</string>
     <string name="menu_charge_bill">Saldo de recarga</string>
-    <string name="privacy_dialog_message">Quando você se conecta à internet, esta mensagem juntamente com informações de sua operadora serão criptografadas e enviadas para servidores da Mi para nos ajudar a melhorar o monitoramento de uso de dados.</string>
+    <string name="privacy_dialog_message">Quando você se conecta à Internet, esta mensagem juntamente com informações de sua operadora serão criptografadas e enviadas para servidores da Mi para nos ajudar a melhorar o monitoramento de uso de dados.</string>
     <string name="status_bar_network_flow_purchase">Comprar ></string>
     <string name="status_bar_network_flow_setup_data_plan">Configurar plano de dados ></string>
     <string name="status_bar_network_flow_phone_balance">Saldo do telefone: %1$s</string>
@@ -1278,7 +1278,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="sp_empty_title_sign_exception">Segure um aplicativo para adicioná-lo às exceções</string>
     <string name="sp_toast_removed_from_sign_white_list">Removido das exceções. O item será verificado da próxima vez.</string>
     <string name="sp_network_privacy_dialog_title">Não é possível usar a verificação de segurança</string>
-    <string name="sp_network_privacy_dialog_message">O aplicativo Segurança não pode funcionar corretamente porque você restringiu a conexão com a internet. Permitir que o aplicativo Segurança conecte-se à internet?</string>
+    <string name="sp_network_privacy_dialog_message">O aplicativo Segurança não pode funcionar corretamente porque você restringiu a conexão com a internet. Permitir que o aplicativo Segurança conecte-se à Internet?</string>
     <string name="sp_settings_exception_count_zero">Nenhum item</string>
     <string name="sp_monitored_apps_count_zero">Nenhum aplicativo de pagamento protegido</string>
     <string name="monitor_app_more">Mais</string>
@@ -1541,7 +1541,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="usb_adb_input_apply_step_1">Isto pode levar a vazamentos ou perda de informações privadas. Não recomendamos fazer isto a não ser que você seja um desenvolvedor.</string>
     <string name="usb_adb_input_apply_step_2">Desenvolvedores podem usar softwares especiais para imitar gestos, alterar configurações e conceder permissões via USB.</string>
     <string name="usb_adb_input_apply_step_3">Permitir agora?</string>
-    <string name="adb_install_no_network">Conecte-se à internet e tente novamente</string>
+    <string name="adb_install_no_network">Conecte-se à Internet e tente novamente</string>
     <string name="pc_install_manager">Instalar via USB</string>
     <string name="monitor_requests_from_pc">Gerenciar instalação de aplicativos por USB</string>
     <string name="app_install_intercept">Bloquear instalação</string>
@@ -1557,7 +1557,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="title_cloud_service">Mi Cloud</string>
     <string name="summary_cloud_service">Sincronize suas fotos, contatos e mais entre todos os seus dispositivos</string>
     <string name="title_network_switch">Conexão de rede</string>
-    <string name="summary_network_switch">Permita que o aplicativo Centro de Segurança conecte-se à internet</string>
+    <string name="summary_network_switch">Permita que o aplicativo Centro de Segurança conecte-se à Internet</string>
     <string name="title_power_optimizer">Economia de bateria</string>
     <string name="summary_power_optimizer">Reduza o desempenho do dispositivo quando a bateria estiver fraca</string>
     <string name="title_data_flow_monitor">Monitor de uso de dados ativado</string>
@@ -1604,7 +1604,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="summary_cleaner_cloudscan">Fazer upload e comparar nomes de pastas com definições online</string>
     <string name="title_xiaomi_roaming">Mi Roaming</string>
     <string name="summary_xiaomi_roaming">CNY 0.01/MB pelo roaming de dados móveis.</string>
-    <string name="toast_network_switch">Este aplicativo pode se conectar à internet</string>
+    <string name="toast_network_switch">Este aplicativo pode se conectar à Internet</string>
     <string name="toast_flow_notification">Notificações de uso de dados ativadas</string>
     <string name="toast_auto_traffic_correct">Uso de dados ajustado automaticamente</string>
     <string name="toast_show_notification">Fixado à Área de notificações</string>
@@ -1629,7 +1629,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="title_garbage_clean">O tamanho do cache de aplicativos atingiu %s</string>
     <string name="summary_garbage_clean">Limpar cache para liberar espaço</string>
     <string name="summary_consume_power">Superaquecimento detectado, ele pode afetar a duração da bateria</string>
-    <string name="title_restrict_data_usage">%s não pode se conectar à internet?</string>
+    <string name="title_restrict_data_usage">%s não pode se conectar à Internet?</string>
     <string name="summary_restrict_data_usage">Você restringiu o uso de dados para este aplicativo.</string>
     <string name="button_restrict_data_usage">Permitir</string>
     <string name="title_background_connection">Não consegue usar %s em segundo plano?</string>
@@ -1672,9 +1672,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="virus_update_tips_title">Alerta</string>
     <string name="virus_wait_network_dialog_message">Seu telefone não está conectado ao Wi-Fi no momento. Usar a conexão de dados?</string>
     <string name="antivirus_not_wlan">Você não está conectado ao Wi-Fi. Usar a conexão de dados móveis poderá gerar custos adicionais. Continuar mesmo assim?</string>
-    <string name="antivirus_longtime_no_update">Parece que as definições do antivírus estão desatualizadas. Atualizações regulares ajudam-no a ter melhores resultados nas verificações. Permitir que o aplicativo Segurança conecte-se à internet para atualizar as definições do antivírus?</string>
+    <string name="antivirus_longtime_no_update">Parece que as definições do antivírus estão desatualizadas. Atualizações regulares ajudam-no a ter melhores resultados nas verificações. Permitir que o aplicativo Segurança conecte-se à Internet para atualizar as definições do antivírus?</string>
     <string name="antivirus_longtime_no_update1">Parece que as definições do antivírus estão desatualizadas. Atualizações regulares ajudam-o a ter melhores resultados nas verificações. Atualize as definições e tente novamente.</string>
-    <string name="antivirus_sec_network_unavailable">O aplicativo Segurança não pode atualizar porque você restringiu o seu acesso à internet. Permitir que o aplicativo conecte-se à internet?</string>
+    <string name="antivirus_sec_network_unavailable">O aplicativo Segurança não pode atualizar porque você restringiu o seu acesso à Internet. Permitir que o aplicativo conecte-se à Internet?</string>
     <string name="antivirus_update_btn_contiue">Continuar</string>
     <string name="antivirus_update_btn_open">Permitir</string>
     <string name="antivirus_update_btn_update">Atualizar</string>
@@ -2189,7 +2189,7 @@ Você não perderá nenhum dado de aplicativos."</string>
     <string name="already_close_gamebooster">Otimizador de jogos desativado</string>
     <string name="no_game">Nenhum jogo encontrado</string>
     <string name="gamebooster_network_dialog_title">Alguns recursos não estão disponíveis</string>
-    <string name="gamebooster_network_dialog_message">Permitir que o Centro de Segurança conecte-se à internet para usar todos os recursos do Otimizador de jogos?</string>
+    <string name="gamebooster_network_dialog_message">Permitir que o Centro de Segurança conecte-se à Internet para usar todos os recursos do Otimizador de jogos?</string>
     <string name="ask_create_shortcut">Criar um atalho na tela inicial?</string>
     <string name="create_shortcut">Criar um atalho para o Otimizador de jogos na tela inicial</string>
     <string name="i_know">Entendido</string>
@@ -2368,7 +2368,7 @@ Você não perderá nenhum dado de aplicativos."</string>
     <string name="first_aid_card_system_root_button">Restringir</string>
     <string name="first_aid_card_float_window_title">Notificações flutuantes permitidas</string>
     <string name="first_aid_card_float_window_button">Restringir</string>
-    <string name="first_aid_card_wifi_or_flow_title">Não é possível conectar-se à internet</string>
+    <string name="first_aid_card_wifi_or_flow_title">Não é possível conectar-se à Internet</string>
     <string name="first_aid_card_wifi_or_flow_summary">Ative o Wi-Fi ou os dados móveis para conectar-se</string>
     <string name="first_aid_card_wifi_or_flow_button">Conectar</string>
     <string name="first_aid_card_airplane_title">Não é possível fazer chamadas ou conectar-se à rede</string>
