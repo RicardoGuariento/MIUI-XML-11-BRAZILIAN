@@ -2993,9 +2993,9 @@ para o segundo espaço"</string>
     <string name="lockscreen_glogin_checking_password">Verificando…</string>
     <string name="lockscreen_glogin_password_hint">Senha</string>
     <string name="lockscreen_glogin_submit_button">Fazer login</string>
-    <string name="lockscreen_magazine">Carrossel de planos de fundo</string>
-    <string name="lockscreen_magazine_summary">Carrossel de planos de fundo de alta qualidade</string>
-    <string name="lockscreen_magazine_title">Carrossel de planos de fundo</string>
+    <string name="lockscreen_magazine">Papéis de parede aleatórios</string>
+    <string name="lockscreen_magazine_summary">Papéis de parede aleatórios de alta qualidade</string>
+    <string name="lockscreen_magazine_title">Papéis de parede aleatórios</string>
     <string name="lockscreen_remote_input">Se o dispositivo estiver bloqueado, impedir a digitação de respostas ou outros textos nas notificações</string>
     <string name="lockscreen_settings_title">Preferências da tela de bloqueio</string>
     <string name="login_account_dialog_message">Faça o login com sua Conta Mi e ative a sincronização com a Mi Cloud.</string>
@@ -7172,4 +7172,5 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="mtp_solution_button_cancel">Entendido</string>
   <string name="mtp_solution_button_ok">Resolução de problemas</string>
   <string name="notch_settings">Entalhe</string>
+  <string name="xiaomi_transfer">Compartilhamento Mi</string>
 </resources>

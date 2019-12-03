@@ -75,7 +75,7 @@
   <string name="music_headset_calibrate_volume_up">Aumentar volume</string>
   <string name="music_headset_calibrate_wrong_key">"Este é o botão errado"</string>
   <string name="music_headset_mode_music">Controlar reprodução de música</string>
-  <string name="music_headset_mode_settings">Botões remoto para fones de ouvido</string>
+  <string name="music_headset_mode_settings">Botões dos fones de ouvido</string>
   <string name="music_headset_mode_volume">Controlar nível do volume</string>
   <string name="music_headset_no_contected">Nenhum fone de ouvido detectado</string>
   <string name="music_headset_settings">Fones de ouvido e efeitos de áudio</string>

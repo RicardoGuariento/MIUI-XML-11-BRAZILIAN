@@ -4,7 +4,7 @@
   <string name="about_downloading">Baixando %s</string>
   <string name="about_item_function">Novos recursos</string>
   <string name="about_net_error">Verifique as conexões de rede e tente novamente.</string>
-  <string name="about_newest">O carrossel de planos de fundo está atualziado.</string>
+  <string name="about_newest">O Papéis de parede aleatórios está atualizado.</string>
   <string name="ad_feed_badge">Anúncios</string>
   <string name="ad_pop_btn_hidden">Ocultar</string>
   <string name="ad_pop_des">Transferir:</string>
@@ -207,7 +207,7 @@
   <string name="search_str">Popular</string>
   <string name="select_package">Selecionar versão</string>
   <string name="setting_about_item_des">Versão</string>
-  <string name="setting_about_item_title">Sobre o carrossel de planos de fundo</string>
+  <string name="setting_about_item_title">Sobre os papéis de parede aleatórios</string>
   <string name="setting_des">Pode definir os seus diapositivos em Configurações &gt; Bloqueio de tela e senhas &gt; Papéis de parede aleatórios</string>
   <string name="setting_head">Configurações</string>
   <string name="setting_ok">Configuraççoes</string>
@@ -317,7 +317,7 @@
   <string name="llks_simple_mode_desc">Layout simplificado e atalhos adicionais</string>
   <string name="llks_standard_mode">Padrão</string>
   <string name="llks_standard_mode_desc">Papéis de parede, histórias e recomendações diárias</string>
-  <string name="llks_tools_gallery_name">Carrossel de planos de fundo</string>
+  <string name="llks_tools_gallery_name">Papéis de parede aleatórios<string>
   <string name="llks_tools_nfc_data">%s CNY</string>
   <string name="llks_tools_nfc_name">NFC</string>
   <string name="llks_tools_remote_control_name">Mi Remote</string>
@@ -329,4 +329,13 @@
   <string name="theme_des_maml">"Outros componentes do tema selecionado não serão afetados. O tema será recarregado para aplicar as mudanças."</string>
   <string name="theme_title_subscribe">Cadastrar-se para o carrossel de planos de fundo</string>
   <string name="toast_update_no_more_newest_feeds">Sem itens por hora</string>
+  <string name="mode_auto_desc">Ativar papéis de parede aleatórios para receber novas imagens automaticamente</string>
+  <string name="sst_auto_recommand_title">Receber recomendações de papéis de parede personalizados</string>
+  <string name="mode_select">Selecionar modo</string>
+  <string name="mode_cw_desc">Ativar papéis de parede aleatórios para personalizar a sua apresentação</string>
+  <string name="open_gallery_tips">Toque aqui para ativar os papéis de parede aleatórios</string>
+  <string name="sst_shield_tag_desc">Gerenciar categorias bloqueadas</string>
+  <string name="sst_morning_greeting_desc2">Receba saudações entre %1$sh e %2$sh todas as manhãs</string>
+  <string name="create_shortcut_title">Criar um atalho na tela inicial</string>
+  <string name="privacy_setting">Configurações de privacidade</string>
 </resources>
