@@ -920,7 +920,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="permdesc_accessNetworkConditions">Permite que o aplicativo detecte observações nas condições da rede. Não deve ser necessário para aplicativos comuns.</string>
     <string name="permdesc_accessNetworkState">Permite que o aplicativo acesse informações sobre conexões de rede, como as redes existentes e conectadas.</string>
     <string name="permdesc_accessNotifications">Permite que o aplicativo recupere, examine e limpe notificações, inclusive as postadas por outros aplicativos.</string>
-    <string name="permdesc_accessWi-FiState">Permite que o aplicativo acesse informações sobre redes Wi-Fi, como a ativação do Wi-Fi e o nome dos dispositivos Wi-Fi conectados.</string>
+    <string name="permdesc_accessWifiState">Permite que o aplicativo acesse informações sobre redes Wi-Fi, como a ativação do Wi-Fi e o nome dos dispositivos Wi-Fi conectados.</string>
     <string name="permdesc_accessWimaxState">Permite que o aplicativo determine se o WiMAX está ativado e acesse informações sobre as redes WiMAX conectadas.</string>
     <string name="permdesc_access_notification_policy">Permitir que o aplicativo leia e grave a configuração \"Não perturbe\".</string>
     <string name="permdesc_addVoicemail">Permite que o aplicativo adicione mensagens a sua caixa de entrada do correio de voz.</string>
@@ -940,8 +940,8 @@ Tente novamente em %2$d segundos."</string>
     <string name="permdesc_camera">Este aplicativo pode tirar fotos e gravar vídeos usando a câmera a qualquer momento.</string>
     <string name="permdesc_changeNetworkState">Permite que o aplicativo altere o estado de conectividade de rede.</string>
     <string name="permdesc_changeTetherState">Permite que o aplicativo altere o estado de conectividade de rede conectada.</string>
-    <string name="permdesc_changeWi-FiMulticastState">Permite que o aplicativo receba pacotes enviados para todos os dispositivos em uma rede Wi-Fi usando endereços de difusão seletiva, e não apenas o telefone. Consome mais energia do que o modo não multicast.</string>
-    <string name="permdesc_changeWi-FiState">Permite que o aplicativo conecte e desconecte dos pontos de acesso Wi-Fi e faça alterações nas configurações do dispositivo para redes Wi-Fi.</string>
+    <string name="permdesc_changeWifiMulticastState">Permite que o aplicativo receba pacotes enviados para todos os dispositivos em uma rede Wi-Fi usando endereços de difusão seletiva, e não apenas o telefone. Consome mais energia do que o modo não multicast.</string>
+    <string name="permdesc_changeWifiState">Permite que o aplicativo conecte e desconecte dos pontos de acesso Wi-Fi e faça alterações nas configurações do dispositivo para redes Wi-Fi.</string>
     <string name="permdesc_changeWimaxState">Permite que o aplicativo conecte e desconecte o telefone de redes WiMAX.</string>
     <string name="permdesc_connection_manager">Permite que o aplicativo gerencie conexões de telecomunicações.</string>
     <string name="permdesc_control_incall_experience">Permite ao aplicativo fornecer uma experiência de usuário em chamada.</string>
@@ -1062,7 +1062,7 @@ para a conta %s."</string>
     <string name="permlab_accessNetworkConditions">detectar observações nas condições da rede</string>
     <string name="permlab_accessNetworkState">ver conexões de rede</string>
     <string name="permlab_accessNotifications">acessar notificações</string>
-    <string name="permlab_accessWi-FiState">ver conexões Wi-Fi</string>
+    <string name="permlab_accessWifiState">ver conexões Wi-Fi</string>
     <string name="permlab_accessWimaxState">conectar e desconectar do WiMAX</string>
     <string name="permlab_access_notification_policy">acessar \"Não perturbe\"</string>
     <string name="permlab_addVoicemail">adicionar correio de voz</string>
@@ -1082,8 +1082,8 @@ para a conta %s."</string>
     <string name="permlab_camera">tirar fotos e gravar vídeos</string>
     <string name="permlab_changeNetworkState">alterar conectividade da rede</string>
     <string name="permlab_changeTetherState">alterar conectividade vinculada</string>
-    <string name="permlab_changeWi-FiMulticastState">permitir recebimento de multicast Wi-Fi</string>
-    <string name="permlab_changeWi-FiState">conectar e desconectar do Wi-Fi</string>
+    <string name="permlab_changeWifiMulticastState">permitir recebimento de multicast Wi-Fi</string>
+    <string name="permlab_changeWifiState">conectar e desconectar do Wi-Fi</string>
     <string name="permlab_changeWimaxState">alterar estado do WiMAX</string>
     <string name="permlab_connection_manager">gerenciar conexões de telecomunicações</string>
     <string name="permlab_control_incall_experience">fornecer uma experiência de usuário em chamada</string>
