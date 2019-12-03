@@ -633,4 +633,17 @@ o fundo das suas fotos"</string>
   <string name="video_tag_flag_title">Marcar</string>
   <string name="pref_camera_lying_title">Notificações de orientação</string>
   <string name="pref_camera_lying_summary">Notificar sobre a orientação atual</string>
+  <string name="document_origin">Original</string>
+  <string name="document_strengthen">Melhorado</string>
+  <string name="document_blackwhite">Preto e branco</string>
+  <string name="hint_subtitle">Dite legendas enquanto grava os vídeos</string>
+  <string name="hint_subtitle_prompt">Você pode ditar as legendas agora</string>
+  <string name="id_card_mode_hint_back">Dizitalize a parte de trás da sua ID</string>
+  <string name="id_card_mode_hint_front">Digitalize a parte da frente da sua ID</string>
+  <string name="id_card_mode_use_hint_text_body">"Combine ambos os lados da sua ID em uma imagem.
+Imprima uma cópia em papel A4 através do Wi-Fi."</string>
+  <string name="id_card_mode_use_hint_text_title">Digitalizar ID</string>
+  <string name="pref_document_mode">Documentos</string>
+  <string name="pref_video_subtitle">Legendas</string>
+  <string name="subtitle_network_exception_tips">Não foi possível conectar-se à rede. Não é possível transcrever agora</string>
 </resources>

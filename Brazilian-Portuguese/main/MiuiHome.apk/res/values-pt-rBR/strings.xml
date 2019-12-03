@@ -391,4 +391,5 @@
 	<string name="all_apps_setting_drawer_tips_desc">A gaveta de aplicativos é aberta ao deslizar para cima na tela inicial. Alternar para este modo tornará a Pesquisa indisponível. Alternar mesmo assim?</string>
 	<string name="all_apps_setting_drawer_tips_title">Utilizando a gaveta de aplicativos</string>
 	<string name="drawer_settings">Gaveta de aplicativos</string>
+	<string name="category_choose_no_app_select_tip">Cada categoria deve conter pelo menos 1 aplicativo.</string>
 </resources>

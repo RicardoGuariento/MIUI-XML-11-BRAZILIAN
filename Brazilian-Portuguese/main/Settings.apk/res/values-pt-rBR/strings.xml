@@ -7165,12 +7165,23 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
    <string name="trust_lost_locks_screen_summary">Se ativado, o dispositivo fica bloqueado quando o último agente confiável perder a credencial</string>
    <string name="temporary_style">10 segundos após tocar na tela</string>
    <string name="lockscreen_sidepanel_shortcuts_summary">Personalize os aplicativos exibidos no painel lateral da tela de bloqueio</string>
-  <string name="lockscreen_sidepanel_shortcuts_title">Atalhos do painel lateral</string>
-    <string name="mtp_connection_failed">Não é possível transferir arquivos no computador conectado. Tente resolver o problema."</string>
-  <string name="mtp_connection_failed_title">Conexão USB</string>
+   <string name="lockscreen_sidepanel_shortcuts_title">Atalhos do painel lateral</string>
+   <string name="mtp_connection_failed">Não é possível transferir arquivos no computador conectado. Tente resolver o problema."</string>
+	<string name="mtp_connection_failed_title">Conexão USB</string>
   <string name="mtp_connection_not_remind">Não mostrar novamente</string>
   <string name="mtp_solution_button_cancel">Entendido</string>
   <string name="mtp_solution_button_ok">Resolução de problemas</string>
   <string name="notch_settings">Entalhe</string>
   <string name="xiaomi_transfer">Compartilhamento Mi</string>
+  <string name="color_lamp_applications_title">Gerenciar notificações</string>
+  <string name="color_lamp_applications_title_summary">Permitir ou restringir o uso da luz do LED em \"Categoria de notificações\"</string>
+  <string name="color_lamp_battery_title">Mantenha aceso enquanto estiver carregando</string>
+  <string name="color_lamp_charging_summary">A luz de LED irá apagar quando a bateria estiver completamente carregada</string>
+  <string name="color_lamp_incall_pulse_title">Pisque para chamadas recebidas</string>
+  <string name="color_lamp_notification_pulse_title">Piscar para notificações quando a tela estiver desligada</string>
+  <string name="color_lamp_title">Luz de LED</string>
+  <string name="dual_wifi_auto_disable">Parar de aumentar a velocidade automaticamente</string>
+  <string name="dual_wifi_auto_disable_summary">Desconecte-se de redes Wi-Fi auxiliares quando a tela estiver desligada para economizar energia</string>
+  <string name="legal_written_offer">Oferta por escrito</string>
+  <string name="popup_led_try_later">Espere um minuto ou dois e tente novamente</string>
 </resources>

@@ -555,4 +555,5 @@ Envie este código para o supervisor."</string>
 	<string name="bind_google">Conecte sua conta Google</string>
 	<string name="bind_weixin">Conecte sua conta WeChat</string>
 	<string name="need_install_wechat">Instale o WeChat primeiro</string>
+	<string name="passport_can_not_receive_verification_code">Não consegue receber o código de verificação?</string>
 </resources>

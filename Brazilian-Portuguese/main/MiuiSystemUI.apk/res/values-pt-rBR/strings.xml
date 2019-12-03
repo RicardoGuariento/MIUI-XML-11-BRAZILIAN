@@ -1986,4 +1986,18 @@ uma captura de tela contínua"</string>
 	<string name="recents_dimiss_task">Limpar</string>
 	<string name="recents_forbid_dock_when_screening_toast_text">"Não é possível usar a tela dividida enquanto transmite"</string>
 	<string name="recents_task_screening">Transmitindo</string>
+	<string name="multi_face_delete_message">Atenção</string>
+	<string name="multi_face_delete_show_message">Excluir dados faciais agora?</string>
+	<string name="multi_face_input">Adicionar dados faciais</string>
+	<string name="multi_face_input_enroll">Adicionar dados faciais</string>
+	<string name="multi_face_input_enrolling">Adicionando dados faciais…</string>
+	<string name="multi_face_input_reach_upper_limit">Não foi possível adicionar dados faciais. Espere um ou dois minutos e tente novamente</string>
+	<string name="multi_face_input_success_msg_lift">Deslize para cima na tela de bloqueio para usar o desbloqueio facial</string>
+	<string name="multi_face_input_success_msg_normal">Use o desbloqueio facial quando a tela ligar</string>
+	<string name="multi_face_input_success_msg_slide">Deslize para baixo na tela de bloqueio para usar o desbloqueio facial</string>
+	<string name="multi_face_input_success_name_title">Nome</string>
+	<string name="multi_face_list">Dados faciais</string>
+	<string name="multi_face_name_prefix">"Rosto "</string>
+	<string name="multi_face_number_reach_limit">Não é possível adicionar mais do que 2 rostos"</string>
+	<string name="quick_settings_cellular_detail_unable_change">Não é possível configurar durante uma chamada</string>
 </resources>

@@ -1239,4 +1239,5 @@ Selecione uma das seguintes opções:"</string>
 	<string name="contact_is_deleted">Este contato foi excluído</string>
 	<string name="shortcut_new_contact_label">Novo contato</string>
     <string name="shortcut_scan_label">Digitalizar cartão de visita</string>
+	<string name="cloud_upgrade_recommend">Não é possível sincronizar os contatos devido ao espaço insuficiente de armazenamento na nuvem. Atualize seu plano de armazenamento em nuvem.</string>
 </resources>
