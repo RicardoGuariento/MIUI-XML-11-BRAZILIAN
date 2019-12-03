@@ -2712,4 +2712,5 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="permdesc_in_calls">Monitorar chamadas recebidas</string>
     <string name="permdesc_out_calls">Monitorar chamadas realizadas</string>
 	<string name="system_permission_perm_optional">" (opcional)"</string>
+	<string name="optimize_result_button_to_set">Configurar</string>
 </resources>
