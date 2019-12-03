@@ -17,9 +17,9 @@
   <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
   <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
   <string name="abc_toolbar_collapse_description">Fechar</string>
-  <string name="accessibility_service_dialog_bottom_text_multiple">Esses apps podem ver sua tela, ações e entradas, executar ações e controlar a tela.</string>
+  <string name="accessibility_service_dialog_bottom_text_multiple">Esses aplicativos podem ver sua tela, ações e entradas, executar ações e controlar a tela.</string>
   <string name="accessibility_service_dialog_bottom_text_single">%s pode ver sua tela, ações e entradas, executar ações e controlar a tela.</string>
-  <string name="accessibility_service_dialog_title_multiple">%s apps de acessibilidade têm acesso total ao seu dispositivo</string>
+  <string name="accessibility_service_dialog_title_multiple">%s aplicativos de acessibilidade têm acesso total ao seu dispositivo</string>
   <string name="accessibility_service_dialog_title_single">%s tem acesso total ao seu dispositivo</string>
   <string name="additional_permissions">Permissões adicionais</string>
   <string name="adjust_user_sensitive_globally_summary">Mostrar o uso de permissões do app do sistema na barra de status, painel de controle ou em qualquer lugar</string>
