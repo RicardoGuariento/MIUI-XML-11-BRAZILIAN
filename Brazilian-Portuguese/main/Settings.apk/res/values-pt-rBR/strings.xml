@@ -1261,7 +1261,7 @@ Este recurso pode ser desativado nas [Configurações]"</string>
     <string name="channel_group_notifications_off_desc">Conforme sua solicitação, o Android está impedindo que esse grupo de notificações seja exibido neste dispositivo</string>
     <string name="channel_notifications_off_desc">Conforme sua solicitação, o Android está impedindo que essa categoria de notificações seja exibida neste dispositivo</string>
     <string name="charge_length_format">%1$s atrás</string>
-    <string name="charging_sounds_title">Sons de carga</string>
+    <string name="charging_sounds_title">Sons de carregamento</string>
     <string name="check_find_device_status_failure_confirm">OK</string>
     <string name="check_importance">Regras para notificações agrupadas</string>
     <string name="check_importance_dialog_cancel">Cancelar</string>
