@@ -4511,7 +4511,7 @@ Para usar a fixação de tela:
     <string name="search_airplane_mode">Modo avião;Modo voo;Avião;Modo Avião;Avião;Vôo</string>
     <string name="search_alarm_sound_title">Toque do alarme;toque do alarme;alarme</string>
     <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
-    <string name="search_apn_settings">APN;Nomes dos Pontos de Acesso</string>
+    <string name="search_apn_settings">APN;Nomes dos pontos de acesso</string>
     <string name="search_app_invisible">Aplicativo invisível;Apps invisíveis</string>
     <string name="search_app_switch_key">Recentes;Recente;Menu;Botão Menu;Gerenciador de tarefas</string>
     <string name="search_application_lock_name">Bloqueio de aplicativos</string>

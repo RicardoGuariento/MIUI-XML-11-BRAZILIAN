@@ -78,7 +78,7 @@
     <string name="answer_state_setting_title">Configuração de chamadas recebidas</string>
     <string name="antispam_notification_title">Número desconhecido</string>
     <string name="antispam_setting">Lista de bloqueio</string>
-    <string name="apn_settings">Nomes dos Pontos de Acesso (APN)</string>
+    <string name="apn_settings">Nomes dos pontos de acesso (APN)</string>
     <string name="apn_settings_not_available">As configurações do Nome do ponto de acesso não estão disponíveis para este usuário</string>
     <string name="app_process_limit_title">Limite do proc. 2º plano</string>
     <string name="atr_disable">Relatório de trânsito na área desativado</string>
