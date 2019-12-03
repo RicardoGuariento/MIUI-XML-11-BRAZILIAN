@@ -6587,7 +6587,7 @@ Toque em "<b>Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
     <string name="wifi_tether_enabled_summary">%1$s está ativo</string>
     <string name="wifi_tether_failed_subtext">Erro no ponto de acesso Wi-Fi</string>
     <string name="wifi_tether_setting_title">Configurações</string>
-    <string name="wifi_tether_settings_title">Ponto de acesso portátil</string>
+    <string name="wifi_tether_settings_title">Ponto de acesso</string>
     <string name="wifi_tether_starting">Ativando o ponto de acesso...</string>
     <string name="wifi_tether_stopping">Desativando o ponto de acesso...</string>
     <string name="wifi_traffic_priority">Modo de tráfego</string>
