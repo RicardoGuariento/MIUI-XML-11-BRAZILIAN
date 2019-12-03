@@ -372,8 +372,8 @@ Alterá-los agora?"</string>
     <string name="downlaod_cancel_confirm_download">Parar</string>
     <string name="downlaod_cancel_continue_download">Não parar</string>
     <string name="downlaod_confirm_download">Download</string>
-    <string name="downlaod_nonWifi_confirm_message">Utilizar os dados móveis para fazer o download deste anexo?</string>
-    <string name="downlaod_nonWifi_confirm_title">Fazer download deste anexo?</string>
+    <string name="downlaod_nonWi-Fi_confirm_message">Utilizar os dados móveis para fazer o download deste anexo?</string>
+    <string name="downlaod_nonWi-Fi_confirm_title">Fazer download deste anexo?</string>
     <string name="download_again">Fazer download novamente</string>
     <string name="download_before_sharing">" ainda não foi transferido completamente."</string>
     <string name="download_cancel_confirm_message">O download será interrompido</string>
