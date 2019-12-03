@@ -4101,7 +4101,7 @@ OTG será desativado após 10 minutos de inatividade."</string>
     <string name="proxy_hostname_label">Nome do host</string>
     <string name="proxy_port_label">Porta</string>
     <string name="proxy_settings_label">Configurações de proxy</string>
-    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_settings_title">Configurações de proxy</string>
     <string name="proxy_url_title">"URL do PAC: "</string>
     <string name="proxy_warning_limited_support">O proxy HTTP é usado pelo navegador, mas não pode ser usado por outros aplicativos.</string>
     <string name="quick_settings_developer_tiles">Blocos de desenvolvedor para configurações rápidas</string>
