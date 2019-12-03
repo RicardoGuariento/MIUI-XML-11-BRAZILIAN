@@ -935,7 +935,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="om_promotion">Anúncio</string>
     <string name="power_center_title">Uso da bateria</string>
     <string name="power_center_back">Voltar</string>
-    <string name="power_center_auto_shutdown">Programar lig./desl.</string>
+    <string name="power_center_auto_shutdown">Programar ligar/desligar</string>
     <string name="power_center_ontime_boot">Horário para ligar</string>
     <string name="power_center_time_to_boot">Horário para ligar</string>
     <string name="power_center_repeat">Repetir</string>
