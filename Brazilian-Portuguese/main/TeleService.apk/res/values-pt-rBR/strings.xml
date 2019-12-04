@@ -614,7 +614,7 @@ Mudar para o novo provedor?"</string>
     <string name="hac_mode_summary">Ativar compatibilidade com aparelhos auditivos</string>
     <string name="hac_mode_title">Aparelhos auditivos</string>
     <string name="handon_ringer_summary">Reduzir volume de toque para chamadas recebidas quando o telefone for levantado.</string>
-    <string name="handon_ringer_title">Silenciar toque quando pego</string>
+    <string name="handon_ringer_title">Silenciar toque ao pegar</string>
     <string name="hdcp_checking_dialog_title">Config. a verificação HDCP</string>
     <string name="hdcp_checking_title">Verificação HDCP</string>
     <string name="help_feedback_label">Ajuda e feedback</string>
@@ -953,7 +953,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="path_enable_proximity_title">Aplicativos do sistema/Telefone/Configurações de chamadas recebidas/Sensor de proximidade</string>
     <string name="path_fdn">Aplicativos do sistema/Telefone/Configurações adicionais/Números de chamada fixa (FDN)</string>
     <string name="path_flash_when_ring_title">Aplicativos do sistema/Telefone/Configurações de chamadas recebidas/Piscar led de flash quando tocar</string>
-    <string name="path_handon_ringer_title">Aplicativos do sistema/Telefone/Configurações de chamadas recebidas/Silenciar toque quando pego</string>
+    <string name="path_handon_ringer_title">Aplicativos do sistema/Telefone/Configurações de chamadas recebidas/Silenciar toque ao pegar</string>
     <string name="path_missed_call_notify_times_title">Aplicativos do sistema/Telefone/Configurações avançadas/Lembrete de chamadas perdidas</string>
     <string name="path_preference_dial_pad_touch_tone_title">Aplicativos do sistema/Telefone/Configurações avançadas/Tons do teclado de discagem</string>
     <string name="path_preference_telocation_title">Aplicativos do sistema/Telefone/Localização</string>
