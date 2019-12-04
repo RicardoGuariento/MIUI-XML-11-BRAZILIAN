@@ -47,7 +47,7 @@ Alterá-los agora?"</string>
     <string name="account_settings_policies">Políticas de segurança</string>
     <string name="account_settings_preference_att_save_path">Caminho padrão para anexos</string>
     <string name="account_settings_preference_head_icon">Fotos de perfil</string>
-    <string name="account_settings_preference_notify">Notificar</string>
+    <string name="account_settings_preference_notify">Notificações</string>
     <string name="account_settings_retry_label">Tentativa de sincronização</string>
     <string name="account_settings_retry_summary">Toque para sincronizar a conta</string>
     <string name="account_settings_ringtone">Som de notificação</string>
