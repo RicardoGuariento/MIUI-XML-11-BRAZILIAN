@@ -3,7 +3,7 @@
     <string name="action_folder_description">Ver pastas</string>
     <string name="action_mode_switcher_grid_description">Visualização em grade</string>
     <string name="action_mode_switcher_list_description">Visualização em lista</string>
-    <string name="action_settings_description">Abrir Configurações</string>
+    <string name="action_settings_description">Configurações</string>
     <string name="actionbar_close_description">Fechar</string>
     <string name="actionbar_home_description">Voltar</string>
     <string name="add_account_desc">Sincronizar suas anotações com sua Conta Mi?</string>
