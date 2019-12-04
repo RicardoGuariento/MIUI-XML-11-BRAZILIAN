@@ -710,7 +710,7 @@ Mudar para o novo provedor?"</string>
     <string name="lafs_disable">Programação de voos do aeroporto local desativada</string>
     <string name="lafs_enable">Programação de voos do aeroporto local ativada</string>
 	<string name="last_sim_callback_summary">Ao fazer chamadas a partir do histórico de chamadas, use um cartão SIM usado durante a chamada anterior com este contato</string>
-	<string name="last_sim_callback_title">Lembrar das preferências do cartão SIM</string>
+	<string name="last_sim_callback_title">Lembrar das preferências do SIM</string>
 	<string name="launch_defaults_none">Nenhum padrão definido</string>
     <string name="launch_defaults_some">Alguns padrões definidos</string>
     <string name="list_language_dtitle">Idiomas</string>
