@@ -133,6 +133,5 @@
   <string name="screen_overlay_button">Abrir configurações</string>
   <string name="screen_overlay_message">Para alterar esta permissão, você precisa desativar a sobreposição de tela em Configurações > Apps instalados.</string>
   <string name="screen_overlay_title">Sobreposição de tela detectada</string>
-  <string name="static_cache_db_md5">28efd26d57d499f332b83f8c7ec13702</string>
   <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

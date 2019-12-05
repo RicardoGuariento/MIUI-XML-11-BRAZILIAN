@@ -302,7 +302,6 @@
   <string name="express_company_phone_prefix">"Contact: "</string>
   <string name="express_company_pricing_details">Pricing details</string>
   <string name="express_complete">Accepted</string>
-  <string name="express_complete_flag">3</string>
   <string name="express_contact_address">Enter address</string>
   <string name="express_contact_address_finding">Locating…</string>
   <string name="express_contact_label">Info for pickup service</string>
@@ -313,7 +312,6 @@
   <string name="express_copy_number">Copy</string>
   <string name="express_delete_order">Delete</string>
   <string name="express_delivery">Delivering</string>
-  <string name="express_delivery_flag">5</string>
   <string name="express_dest_city_label">Destination</string>
   <string name="express_detail_order_number_prefix">Number: %s</string>
   <string name="express_detailed_address">Address</string>
@@ -322,7 +320,6 @@
   <string name="express_goods_detail">Order details</string>
   <string name="express_icon_tip">Retrieve express delivery tracking info using your phone number and order info.</string>
   <string name="express_icon_tip_link">Security &amp; privacy</string>
-  <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Courier service</string>
   <string name="express_inquiry">Tracking</string>
   <string name="express_inquiry_all_logistics">All</string>
@@ -374,7 +371,6 @@ Check your tracking number."</string>
   <string name="express_order_failed">Failed</string>
   <string name="express_order_ongoing">Ordering…</string>
   <string name="express_order_result">Result</string>
-  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Accepted</string>
   <string name="express_order_state_allograph">Signed</string>
   <string name="express_order_state_cancelled">Canceled</string>
@@ -747,9 +743,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="monthly_report_entry_text">View monthly report</string>
   <string name="monthly_report_lable">Monthly report</string>
   <string name="more_express_numbers">More courier numbers</string>
-  <string name="msp_mini_layout">mini_layout</string>
-  <string name="msp_mini_layout_parent">mini_layout_parent</string>
-  <string name="msp_mini_linblocksconpent">mini_linBlocksConpent</string>
   <string name="msp_secure_key_at">at</string>
   <string name="music">Music &amp; radio</string>
   <string name="music_card_error_str">An error occured, open the Music app to play</string>
@@ -801,7 +794,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="paycode_sdk_parent">Shortcut payment</string>
   <string name="paycode_sdk_parent_title">Quick payment</string>
   <string name="payment">My payments</string>
-  <string name="payment_amount_empty">0.00</string>
   <string name="payment_app_name">My payments</string>
   <string name="payment_card_title">My payments</string>
   <string name="payment_clear_records_dialog_message">Delete all payment history records?</string>
@@ -861,12 +853,10 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="payment_upload_data_success">Upload data successfully</string>
   <string name="payment_user_notice_bar_text">About \"Auto payments\"</string>
   <string name="personalAssistant_mainpage">Home page</string>
-  <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
   <string name="pie_chart_label_atm">ATM withdrawals:</string>
   <string name="pie_chart_label_catering">Food:</string>
   <string name="pie_chart_label_education">Education:</string>
   <string name="pie_chart_label_entertainment">Entertainment:</string>
-  <string name="pie_chart_label_format">%1$s %2$s%%</string>
   <string name="pie_chart_label_go_dutch">Go Dutch:</string>
   <string name="pie_chart_label_life">Life:</string>
   <string name="pie_chart_label_medical">Healthcare:</string>
@@ -875,7 +865,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="pie_chart_label_remain">Remaining:</string>
   <string name="pie_chart_label_remittance">Transferred:</string>
   <string name="pie_chart_label_shopping">Shopping:</string>
-  <string name="pie_chart_label_special">%1$s &lt;0.01%%</string>
   <string name="pie_chart_label_spending">Payments:</string>
   <string name="pie_chart_label_telephone_charge">Communications:</string>
   <string name="pie_chart_label_tenement">Rent:</string>
@@ -1061,7 +1050,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="steps_vip_des">Count steps without installing third party apps.</string>
   <string name="stock_card_add">Add companies</string>
   <string name="stock_card_title">Stocks</string>
-  <string name="stock_change_rate_format">%.2f%%</string>
   <string name="stock_color_schema">Color scheme</string>
   <string name="stock_list_empty_text">"You aren't following any companies."</string>
   <string name="stock_search_empty">"Couldn't find results"</string>
@@ -1076,7 +1064,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="system_favorite_dialog_negative">Exit</string>
   <string name="system_favorite_dialog_positive">Allow</string>
   <string name="system_favorite_dialog_title_confirm">Authorization required</string>
-  <string name="tag_view_nav">tag_view_nav</string>
   <string name="take_off">Take off</string>
   <string name="taked_off">Departed</string>
   <string name="taxi">Taxi</string>
