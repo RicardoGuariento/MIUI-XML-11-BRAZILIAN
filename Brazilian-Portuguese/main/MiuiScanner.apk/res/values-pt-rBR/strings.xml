@@ -173,4 +173,11 @@
     <string name="wifi_security">Segurança:</string>
     <string name="wifi_ssid">SSID:</string>
 	<string name="business_card_with_qr_code">Coloque o cartão ou o código QR dentro deste quadro</string>
+	<string name="store_feedback_prompt">Insira seu comentário primeiro</string>
+	<string name="store_location_dialog">Este serviço é fornecido pela Dianping. Todas as fotos que você tira ao usar este serviço, incluindo as informações de localização relacionadas, serão compartilhadas com a Dianping para obter informações sobre as lojas.</string>
+	<string name="store_location_fail">Não foi possível obter informações de localização</string>
+	<string name="store_location_prompt">Permita que o Scanner acesse sua localização para poder identificar lojas</string>
+	<string name="store_module_title">Lojas</string>
+	<string name="store_no_date">Não foi possível identificar as lojas</string>
+	<string name="store_title">Digitalizar faixada da loja</string>
 </resources>

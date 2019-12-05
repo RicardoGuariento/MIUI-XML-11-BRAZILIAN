@@ -646,4 +646,14 @@ Imprima uma cópia em papel A4 através do Wi-Fi."</string>
   <string name="pref_document_mode">Documentos</string>
   <string name="pref_video_subtitle">Legendas</string>
   <string name="subtitle_network_exception_tips">Não foi possível conectar-se à rede. Não é possível transcrever agora</string>
+  <string name="fragment_tab_name_bokeh">Bokeh</string>
+   <string name="video_effect_entry_central">Central</string>
+  <string name="video_effect_entry_color_retention"Retenção de cores em retraton</string>
+  <string name="video_effect_entry_fantasy">Fantasia</string>
+  <string name="video_effect_entry_lost">Perdido</string>
+  <string name="video_effect_entry_meet">Conhecer</string>
+  <string name="video_effect_entry_northern_europe">Norte da Europa</string>
+  <string name="video_effect_entry_rome">Roma</string>
+  <string name="video_effect_entry_summer_day">Dia ensolarado</string>
+  <string name="video_effect_entry_wind_sing">Canção do vento</string>
 </resources>
