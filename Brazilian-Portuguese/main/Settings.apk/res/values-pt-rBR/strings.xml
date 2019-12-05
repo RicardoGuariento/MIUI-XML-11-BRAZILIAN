@@ -7184,4 +7184,8 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="popup_led_try_later">Espere um minuto ou dois e tente novamente</string>
   <string name="delete_fingerprint_confirm_title">Atenção</string>
   <string name="lockscreen_magazine_india">Olhe para a Mi</string>
+  <string name="accessibility_service_screen_control_title">Ver e controlar a tela</string>
+  <string name="accessibility_service_action_perform_description">Pode monitorar suas interações com um aplicativo ou um sensor de hardware e interagir com o aplicativo em seu nome</string>
+  <string name="accessibility_service_warning_description">O controle total é adequado para aolicativos que ajudam nas necessidades de acessibilidade, mas não para a maioria dos aplicativos</string>
+  <string name="accessibility_service_screen_control_description">Pode ler todo o conteúdo da tela e sobrepor conteúdo a outros aplicativos</string>
 </resources>
