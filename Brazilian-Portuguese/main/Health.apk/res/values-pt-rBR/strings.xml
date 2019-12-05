@@ -106,7 +106,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="dialog_privacy_policy_statement">Declaração de Política de Privacidade</string>
   <string name="dialog_privacy_title">Termos e condições</string>
   <string name="dialog_read_phone_perm_desc">Para acessar o ID do dispositivo e identificar o seu dispositivo</string>
-  <string name="dialog_sleep_goal_setting">Definir metas de duração do sono</string>
+  <string name="dialog_sleep_goal_setting">Definir metas de sono</string>
   <string name="dialog_sleep_goal_subtitle">Obter 7 a 9 horas de sono todos os dias</string>
   <string name="dialog_sleep_goal_title">Metas de duração do sono</string>
   <string name="dialog_sleep_record_auto_start">Para registar o sono com mais precisão, permita que o  Mi Health inicie automaticamente</string>
