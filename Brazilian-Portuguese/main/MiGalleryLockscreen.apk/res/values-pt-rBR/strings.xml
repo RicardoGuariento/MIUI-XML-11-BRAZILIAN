@@ -330,7 +330,6 @@
   <string name="theme_title_subscribe">Cadastrar-se para o carrossel de planos de fundo</string>
   <string name="toast_update_no_more_newest_feeds">Sem itens por hora</string>
   <string name="mode_auto_desc">Ativar papéis de parede aleatórios para receber novas imagens automaticamente</string>
-  <string name="sst_auto_recommand_title">Receber recomendações de papéis de parede personalizados</string>
   <string name="mode_select">Selecionar modo</string>
   <string name="mode_cw_desc">Ativar papéis de parede aleatórios para personalizar a sua apresentação</string>
   <string name="open_gallery_tips">Toque aqui para ativar os papéis de parede aleatórios</string>

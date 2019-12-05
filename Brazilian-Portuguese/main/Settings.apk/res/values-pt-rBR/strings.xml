@@ -7086,7 +7086,6 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
 	<string name="gmscore_settings_title">Serviços básicos do Google</string>
 	<string name="google_service_title">Serviços do Google</string>
 	<string name="headset_settings_title">Fones de ouvido e efeitos de áudio</string>
-	<string name="home_title">Tela inicial</string>
 	<string name="key_shortcut_settings_title">Atalhos de botões</string>
 	<string name="lock_screen_display_category_name">Tela de bloqueio</string>
 	<string name="manage_password">Gerenciar senhas</string>
@@ -7171,7 +7170,6 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="mtp_connection_not_remind">Não mostrar novamente</string>
   <string name="mtp_solution_button_cancel">Entendido</string>
   <string name="mtp_solution_button_ok">Resolução de problemas</string>
-  <string name="notch_settings">Entalhe</string>
   <string name="xiaomi_transfer">Compartilhamento Mi</string>
   <string name="color_lamp_applications_title">Gerenciar notificações</string>
   <string name="color_lamp_applications_title_summary">Permitir ou restringir o uso da luz do LED em \"Categoria de notificações\"</string>

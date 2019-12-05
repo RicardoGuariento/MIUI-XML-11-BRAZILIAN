@@ -614,11 +614,8 @@ o fundo das suas fotos"</string>
 	<string name="pref_camera_video_log_tips">Registos</string>
 	<string name="pref_camera_video_tag">Permitir a marcação de vídeos</string>
 	<string name="pref_camera_video_tag_description">Toque em \"Marcar\" enquanto grava um vídeo para poder voltar atrás nos momentos marcados durante a reprodução</string>
-	<string name="pref_camera_zoom_mode_entry_high_pixel">Luz fraca</string>
   <string name="pref_camera_zoom_mode_entry_macro">Macro</string>
   <string name="pref_camera_zoom_mode_entry_macro_abbr">Macro</string>
-  <string name="pref_camera_zoom_mode_entry_standard">Regular</string>
-  <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
   <string name="pref_camera_zoom_mode_entry_tele_2X">Tele 2X</string>
   <string name="pref_camera_zoom_mode_entry_tele_2X_abbr">Tele 2X</string>
   <string name="pref_camera_zoom_mode_entry_tele_5X_abbr">Tele 5X</string>
@@ -626,9 +623,7 @@ o fundo das suas fotos"</string>
   <string name="pref_camera_zoom_mode_entry_tele_standalone">Tele 5X</string>
   <string name="pref_camera_zoom_mode_entry_ultra">Ultra-angular</string>
   <string name="pref_camera_zoom_mode_entry_ultra_abbr">Ultra-angular</string>
-  <string name="pref_camera_zoom_mode_entry_wide">Principal</string>
   <string name="pref_camera_zoom_mode_entry_wide_abbr">Principal</string>
-  <string name="pref_camera_zoom_mode_title">Lentes</string>
   <string name="pref_camera_zoom_mode_title_abbr">Lentes</string>
   <string name="video_tag_flag_title">Marcar</string>
   <string name="pref_camera_lying_title">Notificações de orientação</string>
@@ -648,7 +643,7 @@ Imprima uma cópia em papel A4 através do Wi-Fi."</string>
   <string name="subtitle_network_exception_tips">Não foi possível conectar-se à rede. Não é possível transcrever agora</string>
   <string name="fragment_tab_name_bokeh">Bokeh</string>
    <string name="video_effect_entry_central">Central</string>
-  <string name="video_effect_entry_color_retention"Retenção de cores em retraton</string>
+  <string name="video_effect_entry_color_retention">Retenção de cores em retrato</string>
   <string name="video_effect_entry_fantasy">Fantasia</string>
   <string name="video_effect_entry_lost">Perdido</string>
   <string name="video_effect_entry_meet">Conhecer</string>

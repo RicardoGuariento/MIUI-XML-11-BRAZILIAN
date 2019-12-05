@@ -2664,7 +2664,6 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="privacy_description_camera_mic">%1s está utilizando a câmera e o microfone em segundo plano. Toque para restringir</string>
     <string name="privacy_description_mic">%1s está utilizando o microfone em segundo plano. Toque para restringir</string>
 	<string name="app_permission_use_group_camera">Câmera</string>
-	<string name="preferred_app_entries_camera">Câmera</string>
 	<string name="app_running_tip_dialog_negative">Cancelar</string>
 	<string name="app_running_tip_dialog_positive">OK</string>
 	<string name="app_running_tip_dialog_text">Feche %1$s para impedir que seja executado em segundo plano. Isso vai deixar seu dispositivo mais rápido e diminuir o consumo de energia.</string>
@@ -2711,7 +2710,6 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="permdesc_in_calls">Monitorar chamadas recebidas</string>
     <string name="permdesc_out_calls">Monitorar chamadas realizadas</string>
 	<string name="system_permission_perm_optional">" (opcional)"</string>
-	<string name="optimize_result_button_to_set">Configurar</string>
 	<string name="power_center_dialog_msg_title">Ative para obter %1$s de tempo extra. As ações a seguir serão executadas para economizar bateria:</string>
 	<string name="power_center_list_item_haptic_feedback">Desativar resposta tátil</string>
 	<string name="power_center_list_item_wake_notification">Não ligar a tela para notificações</string>

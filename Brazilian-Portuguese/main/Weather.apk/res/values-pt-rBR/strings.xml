@@ -264,6 +264,5 @@ Toque na tela para adicionar uma cidade manualmente"</string>
 	<string name="settings">Configurações</string>
 	<string name="widget_cta_not_agree">Toque para obter informações de clima</string>
 	<string name="about_weather_setting">Sobre o Clima</string>
-	<string name="xiaomi_weather_description_title">Sobre o Clima</string>
 	<string name="other_settings">Outras configurações</string>
 </resources>
