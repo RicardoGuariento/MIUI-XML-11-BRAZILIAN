@@ -72,7 +72,7 @@
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
     <string name="always_enable_mms">Sempre receber MMS</string>
     <string name="always_enable_mms_summary">Receber MMS mesmo com os dados móveis desativados</string>
-    <string name="animator_duration_scale_title">Escala de duração do Animator</string>
+    <string name="animator_duration_scale_title">Escala de duração da animação</string>
     <string name="answer_features_setting_category">Atendimento e chamadas</string>
     <string name="answer_state_setting_summary">Opções adicionais para chamadas recebidas</string>
     <string name="answer_state_setting_title">Configuração de chamadas recebidas</string>

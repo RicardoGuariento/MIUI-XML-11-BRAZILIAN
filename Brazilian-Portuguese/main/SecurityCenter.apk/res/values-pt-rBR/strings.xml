@@ -2723,4 +2723,5 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="power_save_mode_other_optimization">Otimização opcional</string>
 	<string name="power_save_ps_close_setting">Desative serviços e recursos com alto consumo de energia (sincronização, GPS, resposta tátil, \ "Levantar para ligar \", \ "Toque duas vezes para ligar ou desligar a tela \", \ "Mostrar ícone de impressão digital quando a tela estiver desligada \" ) para economizar bateria</string>
 	<string name="power_save_ps_close_setting_5g">Desative serviços e recursos com alto consumo de energia (sincronização, conectividade de rede 5G, GPS, resposta tátil, \ "Levante para ligar \", \ "Toque duas vezes para ligar ou desligar a tela \", \ "Mostrar ícone de impressão digital quando a tela está desligada \ ") para economizar bateria</string>
+	<string name="power_setting_scenario_policies_summary">Identifica cenários para trocar entre modos de economia de bateria automaticamente</string>
 </resources>

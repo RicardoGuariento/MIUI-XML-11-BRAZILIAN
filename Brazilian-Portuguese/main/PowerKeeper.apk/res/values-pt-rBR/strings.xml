@@ -20,8 +20,8 @@
     <string name="config_scenario_policies_title">Cenários</string>
     <string name="scenario_policies_summary">Aplicar estratégias diferentes de economia de acordo com cenários definidos.</string>
     <string name="sleep_config_enhance_title">Modo de sono</string>
-    <string name="sleep_config_enhance_description">Sempre que o MIUI detectar que você está dormindo, ele encerrará aplicativos em segundo plano, restringirá o NFC, Bluetooth, GPS, dados móveis e Wi-Fi, e não ligará a tela para notificações.</string>
-    <string name="sleep_config_enhance_description_non_nfc">Sempre que o MIUI detectar que você está dormindo, ele encerrará aplicativos em segundo plano, restringirá o Bluetooth, GPS, dados móveis e Wi-Fi, e não ligará a tela para notificações.</string>
+    <string name="sleep_config_enhance_description">Sempre que a MIUI detectar que você está dormindo, ele encerrará aplicativos em segundo plano, restringirá o NFC, Bluetooth, GPS, dados móveis e Wi-Fi, e não ligará a tela para notificações.</string>
+    <string name="sleep_config_enhance_description_non_nfc">Sempre que a MIUI detectar que você está dormindo, ele encerrará aplicativos em segundo plano, restringirá o Bluetooth, GPS, dados móveis e Wi-Fi, e não ligará a tela para notificações.</string>
     <string name="nonui_mode_config_title">Modo não-interativo</string>
     <string name="nonui_mode_config_description">Não ligar a tela para notificações, desligar a luz de LED, sensor de impressão digital e controles de toque para economizar bateria quando o MIUI detectar que você não está usando seu dispositivo.</string>
     <string name="power_center">Uso de bateria</string>

@@ -291,7 +291,7 @@
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
     <string name="always_use_accessory">Usar como padrão neste acessório USB</string>
     <string name="always_use_device">Usar como padrão neste dispositivo USB</string>
-    <string name="animator_duration_scale_title">Escala de duração do Animator</string>
+    <string name="animator_duration_scale_title">Escala de duração da animação</string>
     <string name="apn_settings_not_available">As configurações do Nome do ponto de acesso não estão disponíveis para este usuário</string>
     <string name="app_info">Info. do aplicativo</string>
     <string name="app_label">UI do Sistema</string>

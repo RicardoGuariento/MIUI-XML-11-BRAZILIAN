@@ -15,4 +15,7 @@
   <string name="trace_debuggable_applications">Rastrear aplicações depuráveis</string>
   <string name="trace_saved">Rastreio salvo</string>
   <string name="tether_settings_title_wifi">Ponto de acesso</string>
+  <string name="long_traces">Rastreadores</string>
+  <string name="long_traces_summary">Salvos constantemente no armazenamento do dispositivo</string>
+  <string name="clear">Limpar</string>
 </resources>
