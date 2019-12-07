@@ -388,8 +388,8 @@
     <string name="dialog_msg_stop_scan">Parar a verificação agora?</string>
     <string name="dialog_title_esc_cleanmaster">Sair da Limpeza</string>
     <string name="dialog_msg_esc_cleanmaster">Parar a verificação e sair agora?</string>
-    <string name="pref_category_title_engine_settings">Definições de verificação</string>
-    <string name="pref_title_choose_engine">Definições</string>
+    <string name="pref_category_title_engine_settings">Configurações de verificação</string>
+    <string name="pref_title_choose_engine">Configurações</string>
     <string name="recommend_the_following">Tome as seguintes ações para tirar o máximo proveito de seu dispositivo</string>
     <string name="news_change">Alterar</string>
     <string name="long_click_dialog_title">Aviso</string>
