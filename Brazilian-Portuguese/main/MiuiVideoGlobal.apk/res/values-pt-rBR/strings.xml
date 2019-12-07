@@ -173,4 +173,77 @@
 	<string name="ugc_confirm_unsubscribe">Descadastrar agora?</string>
 	<string name="common_cancel">Cancelar</string>
 	<string name="lv_menu_selectAll">Selecionar tudo</string>
+	<string name="comment_model_add_comment">Adicionar um comentário</string>
+  <string name="comment_model_bg_add_comment">Compartilhe seus pensamentos com a comunidade</string>
+  <string name="comment_model_bg_deleted_comment">Esse comentário foi excluído</string>
+  <string name="comment_model_comment">Comentários</string>
+  <string name="comment_model_confirm_delete">Excluir comentário agora?</string>
+  <string name="comment_model_copy">Copiar</string>
+  <string name="comment_model_copy_fail">Não foi possível copiar</string>
+  <string name="comment_model_copy_success">Copiado com sucesso</string>
+  <string name="comment_model_delete">Excluir</string>
+  <string name="comment_model_delete_fail">Não foi possível excluir</string>
+  <string name="comment_model_delete_success">Excluído com sucesso</string>
+  <string name="comment_model_reply">Respostas</string>
+  <string name="comment_model_reply_comment">"Responder para %s: "</string>
+  <string name="comment_model_report">Reportar</string>
+  <string name="comment_model_report_fail">Não foi possível reportar</string>
+  <string name="comment_model_report_success">Reportado com sucesso</string>
+  <string name="comment_model_send_fail">Não foi possível enviar</string>
+  <string name="comment_model_send_fail_frequently">Não tão rápido! Espere um ou dois minutos e tente novamente.</string>
+  <string name="comment_model_send_forbid_desc">Você publicou vários comentários contendo itens que violam nossos padrões da comunidade. Sua conta está suspensa permanentemente agora. Você pode recorrer de nossa decisão usando feedback no aplicativo.</string>
+  <string name="comment_model_send_forbid_tips">Consta suspensa</string>
+  <string name="comment_model_send_success">Enviado com sucesso</string>
+  <string name="dialog_privacy_info_new2">"Para poder usar seus serviços, você deve concordar que %1$s coletará, processará e usará suas informações pessoais. Considera-se que você leu e concordou com a nossa &lt;a href=\"%2$s\"&gt;Política de Privacidade&lt;/a&gt; quando tocar em \"Concordar\" abaixo."</string>
+  <string name="fcm_fallback_notification_channel_label">Diversos</string>
+  <string name="lv_subtitle_onlinesub_right_declare_content">Obtenha legendas &lt;br/&gt;&lt;br/&gt;de &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Todas as legendas on-line são fornecidas por &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.</string>
+  <string name="notice_comment_action">%s comentários na sua postagem</string>
+  <string name="notice_comment_action_deleted">Este comentário foi excluído</string>
+  <string name="notice_feedback_content">Há uma atualização no seu feedback. Toque para ver."</string>
+  <string name="notice_like_action">%s gostaram do seu comentário</string>
+  <string name="notice_message_title">Notificações</string>
+  <string name="notice_title">Mensagens</string>
+   <string name="ovp_detail_back_to_watch_more">Descubra mais itens na sua página inicial</string>
+   <string name="ovp_navigation_content">Cooperação de conteúdo</string>
+   <string name="ovp_navigation_notice">Notificações</string>
+   <string name="passport_user_agreement_link">"&lt;Data&gt;E li e concordei com o &lt;a href=\"%1$s\"&gt;Acordo de Usuário da Xiaomi&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Política de Privacidade&lt;/a&gt;.&lt;/Data&gt;"</string>
+  <string name="passport_user_agreement_link_more">"&lt;Data&gt;Eu li e concordei com os seguintes documentos: &lt;a href=\"%1$s\"&gt;Acordo de Usuário da Xiaomi&lt;/a&gt; e &lt;a href=\"%4$s\"&gt;Política de Privacidade&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;"</string>
+  <string name="plus_continue_watching">Continuar assistindo</string>
+    <string name="plus_menu_delete">Excluir</string>
+  <string name="plus_menu_delete_popup_text">Excluir agora?</string>
+  <string name="plus_menu_properties">Propriedades</string>
+  <string name="plus_menu_rename">Renomear</string>
+  <string name="plus_menu_rename_fail">"O nome do arquivo não pode conter \"/\""</string>
+  <string name="plus_menu_share">Compartilhar</string>
+  <string name="plus_player_subtitle_online_declare_content">"Você está prestes a procurar por &lt;br/&gt;legendas em no banco de dados do &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;. &lt;br/&gt;Todas as legendas são fornecidas por &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;."</string>
+  <string name="plus_properties_bit_rate">Taxa de Bits</string>
+  <string name="plus_properties_codec">Codec</string>
+  <string name="plus_properties_date">Dado</string>
+  <string name="plus_properties_file">Arquivo</string>
+  <string name="plus_properties_file_name">Nome do arquivo</string>
+  <string name="plus_properties_finished">Concluído</string>
+  <string name="plus_properties_format">Formatot</string>
+  <string name="plus_properties_frame_rate">Taxa de quadros</string>
+  <string name="plus_properties_last_playback_position">Última posição</string>
+  <string name="plus_properties_last_playback_time">Último reproduzido</string>
+  <string name="plus_properties_length">Duração</string>
+  <string name="plus_properties_media">Mídia</string>
+  <string name="plus_properties_path">Localização</string>
+  <string name="plus_properties_playback_history">Histórico de reprodução</string>
+  <string name="plus_properties_resolution">Resolução</string>
+  <string name="plus_properties_sample_rate">Taxa de amostragem</string>
+  <string name="plus_properties_size">Tamanho</string>
+  <string name="plus_properties_status">Estado</string>
+  <string name="plus_properties_stream">Stream</string>
+  <string name="plus_properties_stream_title">Título</string>
+  <string name="plus_properties_type">Tipo</string>
+  <string name="plus_properties_type_audio">Áudio</string>
+  <string name="plus_properties_type_subtitle">Legendas</string>
+  <string name="plus_properties_type_video">Vídeo</string>
+  <string name="plus_properties_unfinish">Não concluído</string>
+  <string name="report_content_fakement">Spam ou fraude</string>
+  <string name="report_content_illegal">Declarações ilegais</string>
+  <string name="report_content_other">Outro</string>
+  <string name="report_content_sexy">Conteúdo sexual explícito</string>
+  <string name="report_content_violence">Discurso de ódio</string>
 </resources>

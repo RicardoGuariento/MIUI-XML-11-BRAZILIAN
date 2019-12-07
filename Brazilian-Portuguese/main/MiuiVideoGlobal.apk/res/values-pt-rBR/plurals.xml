@@ -20,4 +20,12 @@
         <item quantity="other"> inscritos</item>
         <item quantity="one"> inscrito</item>
     </plurals>
+	<plurals name="comment_model_watch_reply">
+        <item quantity="other">Ver %d respostas</item>
+        <item quantity="one">Ver %d resposta</item>
+    </plurals>
+	<plurals name="notice_user_banned">
+        <item quantity="other">Seu conteúdo contém itens (%1$s) que violam nossos padrões da comunidade. Sua conta está suspensa por %2$d dias até %3$s.</item>
+        <item quantity="one">Seu conteúdo contém itens (%1$s) que violam nossos padrões da comunidade. Sua conta está suspensa por %2$d dias até %3$s.</item>
+    </plurals>
 </resources>

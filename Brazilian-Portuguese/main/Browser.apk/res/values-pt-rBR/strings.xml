@@ -933,4 +933,12 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="system_permission_storage_purpose">Usado para ler e gravar arquivos, como imagens salvas, e para ativar as funções de upload / download de arquivos</string>
     <string name="system_permission_user_agreement_url">http://www.miui.com/res/doc/eula/en.html</string>
     <string name="wechat_not_installed">Wechat não está instalado</string>
+	<string name="browser_default_setting_cancel">Cancelar</string>
+    <string name="browser_default_setting_confirm">OK</string>
+    <string name="browser_default_setting_content">Navegação na Web rápida e segura</string>
+    <string name="browser_default_setting_title">Definir como navegador padrão</string>
+	<string name="load_error_tip">Não foi possível carregar os itens, tente novamente</string>
+	<string name="network_error_tips">Ocorreu um erro de rede. Tente novamente</string>
+	<string name="notification_channel_name_local_push">Notificações do navegador</string>
+	<string name="refresh_text">Tente novamente</string>
 </resources>
