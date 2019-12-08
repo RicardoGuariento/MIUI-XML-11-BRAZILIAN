@@ -2000,4 +2000,6 @@ uma captura de tela contínua"</string>
 	<string name="multi_face_name_prefix">"Rosto "</string>
 	<string name="multi_face_number_reach_limit">Não é possível adicionar mais do que 2 rostos"</string>
 	<string name="quick_settings_cellular_detail_unable_change">Não é possível configurar durante uma chamada</string>
+	<string name="face_data_apply_for_category_title">Desbloquear utilizando dados faciais</string>
+	<string name="face_unlock_category_title">Opções da tela de bloqueio</string>
 </resources>
