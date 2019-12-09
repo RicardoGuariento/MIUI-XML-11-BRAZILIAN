@@ -1350,7 +1350,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="btn_text_network_speed_detail">Conexão</string>
     <string name="btn_text_quick_scan">Verificar</string>
     <string name="menu_text_antivirus">Verificar segurança</string>
-    <string name="menu_summary_antivirus">Verificar por vírus no seu dispositivo</string>
+    <string name="menu_summary_antivirus">Procurar por vírus no seu dispositivo</string>
     <string name="menu_summary_antivirus_2">Riscos em potencial encontrados</string>
     <string name="menu_summary_antivirus_3">Dispositivo não verificado</string>
     <string name="menu_text_optimize_manage">Otimizar velocidade</string>
