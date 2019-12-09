@@ -7189,4 +7189,12 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="accessibility_service_warning_description">O controle total é adequado para aolicativos que ajudam nas necessidades de acessibilidade, mas não para a maioria dos aplicativos</string>
   <string name="accessibility_service_screen_control_description">Pode ler todo o conteúdo da tela e sobrepor conteúdo a outros aplicativos</string>
   <string name="aod_style_description">Mostrar relógio, data, hora, notificações e outros itens quando a tela estiver desligado</string>
+  <string name="display_advanced_mode_summary">Opções de gama de cor</string>
+  <string name="display_advanced_mode_title">Configurações avançadas</string>
+  <string name="haptic_feedback_progress">Nível de resposta tátil</string>
+  <string name="haptic_feedback_summary">Receba respostas táteis para gestos e controles do sistema</string>
+  <string name="haptic_feedback_title">Resposta tátil</string>
+  <string name="ime_security_warning_global">Os métodos de entrada podem coletar todo o texto digitado, incluindo dados pessoais, como senha e números de cartão de crédito. Usar %1$s?</string>
+  <string name="ime_security_warning_title_global">Ativando o teclado</string>
+  <string name="open_haptic_feedback">Resposta tátil</string>
 </resources>

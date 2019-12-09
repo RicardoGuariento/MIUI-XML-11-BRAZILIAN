@@ -76,4 +76,25 @@
         <item quantity="other">" minutos"</item>
         <item quantity="one">" minuto"</item>
     </plurals>
+	<plurals name="last_several_days">
+        <item quantity="other">%d dias</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">Seu tempo de tela hoje é igual a sua média de %d dias</item>
+        <item quantity="one">Seu tempo de tela hoje é igual a sua média de %d dia</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">%2$s menos de tempo de tela que sua média de %1$d dias</item>
+        <item quantity="one">%2$s menos de tempo de tela que sua média de %1$d dia</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">%2$s mais de tempo de tela que sua média de %1$d dias</item>
+        <item quantity="one">%2$s mais de tempo de tela que sua média de %1$d dia</item>
+    </plurals>
+    <plurals name="unlock_times">
+        <item quantity="other">%.2f vezes</item>
+        <item quantity="zero">%.2f vezes</item>
+        <item quantity="one">%.2f vezes</item>
+    </plurals>
 </resources>

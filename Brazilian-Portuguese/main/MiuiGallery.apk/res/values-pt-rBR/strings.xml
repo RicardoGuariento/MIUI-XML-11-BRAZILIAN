@@ -1488,4 +1488,18 @@ para personalizar a Galeria"</string>
 	<string name="show_hidden_album_summary">Ver e gerenciar álbuns ocultos</string>
 	<string name="show_cloud_albumlist_summary">Gerenciar os álbuns sincronizados com a Mi Cloud</string>
 	<string name="image_selection_summary">A MIUI irá analisar as suas fotos e marcar as melhores. Desative esta funcionalidade para remover as marcações das fotos</string>
+	<string name="can_not_transfer_when_screening">Não é possível transmitir enquanto transfere</string>
+	<string name="dump_db_info">Descarregar informações do banco de dados</string>
+	<string name="filter_portrait_hint">Realce de cores</string>
+	<string name="photo_portrait_color_download_fail">Não foi possível baixar o plug-in. Conecte-se à rede e tente novamente</string>
+	<string name="photo_portrait_color_download_success">Filtros baixados com sucesso</string>
+	<string name="photo_portrait_color_no_face">O realce de cores funciona apenas com pessoas</string>
+	<string name="photo_portrait_download_sdk_without_wifi_msg">Parece que seu dispositivo não está conectado ao Wi-Fi agora. Você pode baixar os filtros (%1$dMB) usando os dádos móveis.</string>
+	<string name="photo_portrait_download_sdk_without_wifi_title">Baixar filtros</string>
+	<string name="send_heif_summary">Converta imagens antes de enviar para garantir a compatibilidade</string>
+	<string name="send_heif_title">Converta HEIF para JPG antes de enviar</string>
+	<string name="unsupported_media_downloading_tip_common">A visualização de imagens originais neste formato não é suportada nesta versão do Android. Baixar mesmo assim?"</string>
+	<string name="unsupported_media_downloading_tip_format">A visualização de %s imagens originais mão é suportada nesta versão do Android. Baixar mesmo assim?"</string>
+	<string name="unsupported_media_scanned_tip">"%1$s imagens foram detectadas. Ver %2$s imagens não é suportado nesta versão do Android."</string>
+	<string name="unsupported_media_vie-w_tip">A visualização de %s imagens originais não é suportada nesta versão do Android</string>
 </resources>

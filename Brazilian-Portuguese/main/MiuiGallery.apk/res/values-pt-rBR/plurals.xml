@@ -312,4 +312,8 @@
         <item quantity="other">Excluir %d fotos contínuas do seu dispositivo?</item>
         <item quantity="one">Excluir %d foto contínua do seu dispositivo?</item>
     </plurals>
+	 <plurals name="photo_remain_hours">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
 </resources>

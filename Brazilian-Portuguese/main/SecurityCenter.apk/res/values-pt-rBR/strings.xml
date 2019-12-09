@@ -1986,7 +1986,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="optimize_result_button_consume_power_analysis">Verificar bateria</string>
     <string name="optimize_result_button_purchase_flow">Ver tudo</string>
     <string name="optimize_result_button_purchase">Comprar</string>
-    <string name="optimize_result_button_cloudspace">Adicionar espaço na Mi Cloud</string>
+    <string name="optimize_result_button_cloudspace">Obtenha mais armazenamento na núvem</string>
     <string name="optimize_result_title_system_default_settings">As configurações padrão foram alteradas</string>
     <string name="optimize_result_summary_system_default_settings">Usar os aplicativos padrão do MIUI aumentam os níveis de estabilidade e segurança do sistema.</string>
     <string name="optimize_result_toast_system_default_settings">Configurações padrão restauradas</string>
@@ -2722,4 +2722,6 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="power_save_ps_close_setting">Desative serviços e recursos com alto consumo de energia (sincronização, GPS, resposta tátil, \ "Levantar para ligar \", \ "Toque duas vezes para ligar ou desligar a tela \", \ "Mostrar ícone de impressão digital quando a tela estiver desligada \" ) para economizar bateria</string>
 	<string name="power_save_ps_close_setting_5g">Desative serviços e recursos com alto consumo de energia (sincronização, conectividade de rede 5G, GPS, resposta tátil, \ "Levante para ligar \", \ "Toque duas vezes para ligar ou desligar a tela \", \ "Mostrar ícone de impressão digital quando a tela está desligada \ ") para economizar bateria</string>
 	<string name="power_setting_scenario_policies_summary">Identifica cenários para trocar entre modos de economia de bateria automaticamente</string>
+	<string name="power_save_ps_close_setting_5g_q">Desative serviços e recursos com alto consumo de energia (sincronização, GPS, resposta tátil, \ "Levantar para ligar \", \ "Toque duas vezes para ligar ou desligar a tela \", \ "Mostrar ícone de impressão digital quando a tela estiver desligada \" )</string>
+	<string name="power_save_ps_close_setting_q">Desative serviços e recursos com alto consumo de energia (sincronização, conectividade de rede 5G, GPS, resposta tátil, \ "Levante para ligar \", \ "Toque duas vezes para ligar ou desligar a tela \", \ "Mostrar ícone de impressão digital quando a tela está desligada \ ")</string>
 </resources>

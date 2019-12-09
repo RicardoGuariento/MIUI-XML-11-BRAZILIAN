@@ -423,4 +423,5 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
 	<string name="sync_detail_summary_master_sync_off">A sincronização está desativada</string>
 	<string name="sync_detail_summary_off">A sincronização está desativada</string>
 	<string name="micloud_sync_result_wifi_only">Este item é muito grande. Suncronize ele quando estiver conectado ao Wi-Fi.</string>
+	<string name="wipe_data_query_progress_title">Verificando…</string>
 </resources>

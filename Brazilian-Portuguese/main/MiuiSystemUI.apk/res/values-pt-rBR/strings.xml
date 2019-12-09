@@ -2002,4 +2002,6 @@ uma captura de tela contínua"</string>
 	<string name="quick_settings_cellular_detail_unable_change">Não é possível configurar durante uma chamada</string>
 	<string name="face_data_apply_for_category_title">Desbloquear utilizando dados faciais</string>
 	<string name="face_unlock_category_title">Opções da tela de bloqueio</string>
+	<string name="ime_security_warning_global">Os métodos de entrada podem coletar todo o texto digitado, incluindo dados pessoais, como senha e números de cartão de crédito. Usar %1$s?</string>
+	<string name="ime_security_warning_title_global">Ativando o teclado</string>
 </resources>

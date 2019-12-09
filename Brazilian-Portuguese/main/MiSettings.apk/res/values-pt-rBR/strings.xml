@@ -130,4 +130,31 @@
   <string name="healthy_use_phone">Gerenciar tempo de tela</string>
   <string name="usage_state_focus_mode_title">Modo foco</string>
   <string name="usage_state_focus_mode_summary">Restringir todas os recursos, exceto chamadas de emergência e câmera</string>
+  
+  <string name="advanced_mode">Configurações avançadas</string>
+  <string name="color_gamut">Gama de cores</string>
+  <string name="contrast_ratio">Contraste</string>
+  <string name="gamma">Gama</string>
+  <string name="hsv_space_color">Espaço de cores HSV</string>
+  <string name="hsv_space_color_hue">Matiz</string>
+  <string name="hsv_space_color_saturation">Saturação</string>
+  <string name="hsv_space_color_value">Valor</string>
+  <string name="other_parameter">Outros</string>
+  <string name="p3_color_region">P3</string>
+  <string name="p3_color_region_summary">Exibir todo o conteúdo da tela na gama de cores P3</string>
+  <string name="preview">Pré-visualização</string>
+  <string name="primary_color_region">Original</string>
+  <string name="primary_color_region_summary">Identifique a gama de cores automaticamente através da calibração de cores</string>
+  <string name="reset_edit">Descartar mudanças</string>
+  <string name="restore_default">Restaurar padrões</string>
+  <string name="rgb_space_color">Espaço de cores RGB</string>
+  <string name="rgb_space_color_B">B</string>
+  <string name="rgb_space_color_G">G</string>
+  <string name="rgb_space_color_R">R</string>
+  <string name="screen_original_gamut">Melhorado</string>
+  <string name="screen_original_gamut_summary">Exiba todo o conteúdo da tela na maior gama de cores possível</string>
+  <string name="search_app_name">Procurar por aplicativos</string>
+  <string name="search_empty">Não foram encontrados aplicativos</string>
+  <string name="srgb_color_region">sRGB</string>
+  <string name="srgb_color_region_summary">Exibir todo o conteúdo da tela na gama de cores sRGB</string>
 </resources>
