@@ -276,4 +276,6 @@
     <string name="no_alarm_setting">Nenhum alarme aqui</string>
     <string name="no_worldclock">Nenhum relógio aqui</string>
 	<string name="set_alarm_choose_ringtone">Selecionar toque</string>
+	<string name="bedtime_wake_up_time_remind">Um despertador irá tocar neste horário</string>
+	<string name="deskclock_sleep_no_disturbance">Relógio - Gerenciar hora de dormir - Modo DND</string>
 </resources>

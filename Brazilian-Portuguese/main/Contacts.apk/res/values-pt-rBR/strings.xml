@@ -1240,4 +1240,9 @@ Selecione uma das seguintes opções:"</string>
 	<string name="shortcut_new_contact_label">Novo contato</string>
     <string name="shortcut_scan_label">Digitalizar cartão de visita</string>
 	<string name="cloud_upgrade_recommend">Não é possível sincronizar os contatos devido ao espaço insuficiente de armazenamento na nuvem. Atualize seu plano de armazenamento em nuvem.</string>
+	<string name="bind_simcard_default">SIM padrão para chamadas</string>
+	<string name="bind_simcard_menu">Definir SIM padrão para chamadas</string>
+	<string name="bind_simcard_no_dual">Não foi possível encontrar Dual SIM</string>
+	<string name="bind_simcard_not_set">Não definido</string>
+	<string name="bind_simcard_title">SIM padrão para chamadas</string>
 </resources>
