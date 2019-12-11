@@ -274,7 +274,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="settings">Configuraçoes</string>
   <string name="settings_warning_dialog_detail">"Você será solicitado nos seguintes casos:
 Quando o aplicativo estiver infectado.
-O pacote de instalação vir de uma fonte desconhecida.<string>
+O pacote de instalação vir de uma fonte desconhecida.</string>
   <string name="settings_warning_dialog_msg">"Seu telefone está sujeito a riscos de segurança. Você não será solicitado a instalar versões seguras de aplicativos se desativar esse recurso. Desativar mesmo assim?"</string>
   <string name="settings_warning_dialog_title">Atenção</string>
   <string name="system_warning">Se você negar esta permissão, os recursos básicos do seu dispositivo poderão não funcionar mais como pretendido.</string>
