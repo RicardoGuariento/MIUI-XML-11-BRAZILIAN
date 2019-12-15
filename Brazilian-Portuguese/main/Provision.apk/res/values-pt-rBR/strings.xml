@@ -118,4 +118,6 @@ Você deve concordar com a Política de Privacidade do Kika antes de usar este r
     <string name="ai_button_double_press_desc">Configurar recursos do Mi AI</string>
     <string name="zone_picker_title">Escolher fuso horário</string>
 	<string name="permission_send_message">Enviar SMS:</string>
+	<string name="skip_gesture_guide_dialog_message">Certifique-se que sabe utilizar os gestos em tela cheia antes de selecionar esta opção</string>
+	<string name="skip_gesture_guide_dialog_title">Gestos em tela cheia</string>
 </resources>
