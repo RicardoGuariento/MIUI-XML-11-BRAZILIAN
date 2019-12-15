@@ -689,4 +689,7 @@
   <string name="text_select_all">Marcar todos</string>
   <string name="text_select_nothing">Desmarcar todos</string>
   <string name="settings">Configurações</string>
+  <string name="function_file_operation">Para acessar e abrir arquivos</string>
+  <string name="function_set_private">Para ver e criptografar arquivos</string>
+  <string name="function_use_imei">Para acessar o IMEI e criptografar arquivos</string>
 </resources>
