@@ -392,4 +392,8 @@
 	<string name="all_apps_setting_drawer_tips_title">Utilizando a gaveta de aplicativos</string>
 	<string name="drawer_settings">Gaveta de aplicativos</string>
 	<string name="category_choose_no_app_select_tip">Cada categoria deve conter pelo menos 1 aplicativo.</string>
+	<string name="all_apps">Todos aplicativos</string>
+	<string name="all_apps_no_search_results">Não foi possível encontrar resultados</string>
+	<string name="all_apps_suggestions">Sugestão de aplicativos</string>
+	<string name="recent_apps">Recentes</string>
 </resources>
