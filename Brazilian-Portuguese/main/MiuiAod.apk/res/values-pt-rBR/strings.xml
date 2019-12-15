@@ -90,4 +90,5 @@
   <string name="disable_aod_in_power_save_mode_summary">Não mosrtra os itens para economizar energia</string>
   <string name="chosen_picture">Selecionar fundo</string>
    <string name="scope_des">Cada caleidoscópio contém 5 padrões diferentes que serão mostrados alternadamente sempre que a tela ligar</string>
+   <string name="notification_screen_on">Ligar tela</string>
 </resources>
