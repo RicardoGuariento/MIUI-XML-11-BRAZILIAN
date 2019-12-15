@@ -1120,7 +1120,7 @@ para a conta %s."</string>
     <string name="permlab_readSms">Ler suas mensagens de texto (SMS ou MMS)</string>
     <string name="permlab_readSyncSettings">Ler as configurações de sincronização</string>
     <string name="permlab_readSyncStats">Ler estatísticas de sincronização</string>
-    <string name="permlab_receiveBootCompleted">executar na inicialização</string>
+    <string name="permlab_receiveBootCompleted">Executar na inicialização</string>
     <string name="permlab_receiveMms">Receber mensagens de texto (MMS)</string>
     <string name="permlab_receiveSms">Receber mensagens de texto (SMS)</string>
     <string name="permlab_receiveWapPush">Receber mensagens de texto (WAP)</string>
