@@ -7074,7 +7074,7 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
     <string name="open_privacy_thumbnail_blur_title">Pré-visualizações estão desfocadas</string>
     <string name="privacy_thumbnail_blur_progress_message">Só um segundo…</string>
     <string name="privacy_thumbnail_blur_title">Desfocar pré-visualizações de aplicativos</string>
-	<string name="aod_and_lock_screen_settings_title">Exibições ambiente e tela de bloqueio</string>
+	<string name="aod_and_lock_screen_settings_title">Tela de bloqueio</string>
 	<string name="aod_name_wanxiang">Exibição ambiente</string>
 	<string name="aod_settings_category_name">Exibições ambiente</string>
 	<string name="aod_settings_title">Exibições ambiente</string>
