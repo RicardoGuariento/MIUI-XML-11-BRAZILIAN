@@ -158,4 +158,5 @@
   <string name="srgb_color_region">sRGB</string>
   <string name="srgb_color_region_summary">Exibir todo o conteúdo da tela na gama de cores sRGB</string>
   <string name="stop_app_timer">Desligar o tempo de tela</string>
+   <string name="usage_state_turn_on">Ativar</string>
 </resources>

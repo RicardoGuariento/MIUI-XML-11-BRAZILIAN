@@ -7198,4 +7198,5 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="ime_security_warning_title_global">Ativando o teclado</string>
   <string name="open_haptic_feedback">Resposta tátil</string>
   <string name="ambient_display_wake_screen_title">Ligar tela</string>
+  <string name="screen_confirm">Ativar</string>
 </resources>
