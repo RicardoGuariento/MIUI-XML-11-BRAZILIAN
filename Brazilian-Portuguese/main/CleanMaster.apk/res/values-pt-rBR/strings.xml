@@ -628,7 +628,4 @@
   <string name="global_wa_shortcut_toast">Atalho na tela inicial criado com sucesso</string>
   <string name="global_wa_wrapper">Papéis de parede</string>
   <string name="golbal_wa_backend_alert_dialog_btn">Abrir</string>
-  <string name="resutl_function_deep_clean_summary">&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; mais arquivos podem ser limpos. Libere mais espaço.&lt;/Data&gt;</string>
-  <string name="resutl_function_qq_clean_summary">&lt;Data&gt;Você pode limpar &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; de cache gerado por QQ&lt;/Data&gt;</string>
-  <string name="resutl_function_wechat_clean_summary">&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; de cache do WeChat. Libere mais espaço.&lt;/Data&gt;</string>
 </resources>
