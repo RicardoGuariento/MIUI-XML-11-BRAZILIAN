@@ -97,7 +97,7 @@
   <string name="grant_dialog_button_deny_background_and_dont_ask_again">Negar e não perguntar novamente</string>
   <string name="location_settings">Configurações de localização</string>
   <string name="location_warning">%1$s é um fornecedor de serviços de localização para este dispositivo. O acesso à localização pode ser modificado através das configurações de localização.</string>
-  <string name="never_ask_again">Não mostrar novamente</string>
+  <string name="never_ask_again">Não perguntar novamente depois de restringir</string>
   <string name="ok">OK</string>
   <string name="permdesc_camera">Tirar fotos e gravar vídeos</string>
   <string name="permdesc_in_calls">Monitorar chamadas recebidas</string>

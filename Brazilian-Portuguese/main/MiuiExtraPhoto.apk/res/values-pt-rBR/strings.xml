@@ -21,4 +21,5 @@
   <string name="refocus_type_relighting_small_face">A iluminação de estúdio funciona em fotos onde os rostos tomam mais espaço que aqui.</string>
   <string name="refocus_type_static">Nível de desfoque</string>
   <string name="refocus_type_video">Rastro de luz</string>
+  <string name="extra_photo_common_save_fail">Não foi possível salvar</string>
 </resources>

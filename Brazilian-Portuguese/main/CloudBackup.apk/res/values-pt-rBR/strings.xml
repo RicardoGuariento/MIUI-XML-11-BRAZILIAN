@@ -162,7 +162,7 @@
     <string name="cloud_backup">Backups na Mi Cloud</string>
     <string name="open_backup_switch">Alterne o botão de backup</string>
     <string name="restore_cloud_backup_to_phone">Restaurar itens da Mi Cloud</string>
-    <string name="cloud_backup_in_process">Fazendo backup…</string>
+    <string name="cloud_backup_in_process">Fazendo backup</string>
     <string name="cloud_backup_in_cancel">Cancelar</string>
     <string name="dialog_cancel_backup_title">Cancelar o backup em andamento?</string>
     <string name="dialog_cancel_backup_msg">Alternar o botão cancelará os backups em andamento.</string>

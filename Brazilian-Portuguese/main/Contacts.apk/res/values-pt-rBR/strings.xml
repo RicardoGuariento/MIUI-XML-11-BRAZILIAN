@@ -792,7 +792,7 @@ Motivo: \"%s\""</string>
     <string name="option_send_to_others">Encaminhar</string>
     <string name="option_view_contact">Ver</string>
     <string name="option_view_group">Ver</string>
-    <string name="organizationLabelsGroup">Organização</string>
+    <string name="organizationLabelsGroup">Posição</string>
     <string name="organization_company_and_title">%1$s, %2$s</string>
     <string name="other_contacts">Outros contatos</string>
     <string name="other_phone">Outros dispositivos</string>

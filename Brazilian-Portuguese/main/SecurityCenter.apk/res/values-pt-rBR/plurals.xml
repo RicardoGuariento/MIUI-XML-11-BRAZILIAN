@@ -415,7 +415,7 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <plurals name="pc_main_power_center_battery_minute">
         <item quantity="other">%s minutos</item>
         <item quantity="one">%s minuto</item>
-		    <plurals name="keyguard_charging_info_drained_hour_time_format">
+	<plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%s horas</item>
         <item quantity="one">%s hora</item>
     </plurals>
@@ -423,5 +423,17 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%s minutos</item>
         <item quantity="one">%s minuto</item>
     </plurals>
+    </plurals>
+	<plurals name="applock_guide_app_count_tips">
+        <item quantity="other">Você pode protreger pelo menos %s aplicativos</item>
+        <item quantity="one">Você pode proteger pelo menos %s aplicativo</item>
+    </plurals>
+	    <plurals name="gb_record_time_title">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
+    </plurals>
+	    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d aplicativos</item>
+        <item quantity="one">%d aplicativo</item>
     </plurals>
 </resources>
