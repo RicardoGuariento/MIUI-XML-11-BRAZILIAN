@@ -1080,7 +1080,7 @@ Taxa de amostra"</string>
     <string name="bootloader_device_bind_server_token_expired_1">Não foi possível verificar. Tente adicionar sua conta novamente.</string>
     <string name="bootloader_device_bind_server_token_expired_2">Não foi possível verificar. Faça login em sua conta e comece novamente.</string>
     <string name="bootloader_device_bind_sim_invalid">O cartão SIM não é válido. Substitua-o e tente novamente.</string>
-    <string name="bootloader_locked_answer_1">Nós bloqueamos os dispositivos para garantir a sua segurança e suas informações pessoais não são divulgadas a terceiros. Se você precisa acessar o modo Fastboot para atualizar seu dispositivo, você pode desbloqueá-lo.</string>
+    <string name="bootloader_locked_answer_1">Nós bloqueamos os dispositivos para garantir a sua segurança e suas informações pessoais não são divulgadas a terceiros. Se você precisa acessar o modo Fastboot para atualizar seu dispositivo, desbloqueie ele primeiro.</string>
     <string name="bootloader_locked_answer_1_warning">Lembre-se: Você não poderá usar o \"Encontrar dispositivo\" depois que o telefone for desbloqueado.</string>
     <string name="bootloader_locked_answer_2">"1. Certifique-se de que já inseriu um cartão SIM no seu dispositivo.
 2. Desative o Wi-Fi e ative os dados móveis. Certifique-se de que seu dispositivo tem uma conexão com a internet usando os dados móveis.
@@ -7199,4 +7199,7 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="open_haptic_feedback">Resposta tátil</string>
   <string name="ambient_display_wake_screen_title">Ligar tela</string>
   <string name="screen_confirm">Ativar</string>
+  <string name="close_hotspot_hint">Desative o ponto de acesso portátil antes de transmitir</string>
+  <string name="close_slave_wifi_hint">Desconecte do Wi-Fi auxiliar antes de transmitir</string>
+  <string name="video_tool_box_title">Ferramentas de vídeo</string>
 </resources>
