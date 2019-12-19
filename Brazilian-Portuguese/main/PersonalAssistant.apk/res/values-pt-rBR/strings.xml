@@ -282,7 +282,7 @@
   <string name="empty_recharge_card_title">No data</string>
   <string name="entrance">Card shortcuts</string>
   <string name="error_share_not_support">"Such items aren't supported in favorites."</string>
-  <string name="exercise_setting_brief">Measure distance and count the steps you make daily</string>
+  <string name="exercise_setting_brief">Medir a distância e os passos dados diariamente</string>
   <string name="exercise_setting_misport_detail">Measure distance and count the steps you make daily (Allow Mi Fit to autostart in Security - Permissions).</string>
   <string name="express">Express delivery</string>
   <string name="express_add_new_address">Add address</string>
@@ -627,7 +627,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="launch_setting_alipay_logout_msg">Sign out of Alipay account?</string>
   <string name="launch_setting_alipay_logout_posi">Sign out</string>
   <string name="launch_setting_alipay_logout_success">Signed out successfully</string>
-  <string name="launch_top">Open specific features of popular apps</string>
+  <string name="launch_top">Abrir funções específicas dos aplicativos</string>
   <string name="launcher_else">Other</string>
   <string name="list_icon_add">Add</string>
   <string name="list_icon_delete">Remove</string>
@@ -1124,7 +1124,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="which_transport">How do you normally get to your destination?</string>
   <string name="widget_fav">Favorites</string>
   <string name="widget_fav_open">Show favorite card</string>
-  <string name="widget_fav_setting_brief">Save favorites from multiple apps here</string>
+  <string name="widget_fav_setting_brief">Salvar aqui os favoritos de vários aplicativos</string>
   <string name="widget_fav_setting_brief_detail">View all your favorites in one place.</string>
   <string name="widget_loading">Just a sec…</string>
   <string name="widget_more">View more</string>
