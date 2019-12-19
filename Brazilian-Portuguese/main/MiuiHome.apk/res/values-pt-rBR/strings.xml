@@ -398,4 +398,8 @@
 	<string name="recent_apps">Recentes</string>
 	<string name="manager_group_settings">Gerenciar categorias dos aplicativos</string>
 	<string name="recommend_app">Sugestões de aplicativos</string>
+	<string name="add_custom_category">Personalizado</string>
+	<string name="auto_delete_category_dialog_content">Os aplicativos atuais serão removidos desta categoria e a categoria será excluída. Excluir esta categoria agora?</string>
+	<string name="auto_delete_category_dialog_title">Excluindo categoria</string>
+	<string name="default_folder_title_other_apps">Outros aplicativos</string>
 </resources>
