@@ -15,7 +15,7 @@
   <string name="ringtone_sound">Toques</string>
   <string name="ringtone_title">Toques</string>
   <string name="screen_cancel">Cancelar</string>
-  <string name="screen_confirm">Ligar</string>
+  <string name="screen_confirm">Ativar</string>
   <string name="screen_paper_mode_apps_loading">Só um segundo...</string>
   <string name="several_days_use_time">Tempo de tela: %2$s</string>
   <string name="sim_slot_1">" (SIM 1)"</string>
@@ -157,6 +157,9 @@
   <string name="search_empty">Não foram encontrados aplicativos</string>
   <string name="srgb_color_region">sRGB</string>
   <string name="srgb_color_region_summary">Exibir todo o conteúdo da tela na gama de cores sRGB</string>
-  <string name="stop_app_timer">Desligar o tempo de tela</string>
-   <string name="usage_state_turn_on">Ativar</string>
+  <string name="stop_app_timer">Desativar o tempo de tela</string>
+  <string name="usage_state_turn_on">Ativar</string>
+  <string name="stop_app_timer_fail">Não foi possível desativar o tempo de tela</string>
+  <string name="stop_app_timer_success">O tempo de tela foi desativado com sucesso</string>
+  <string name="stop_app_timer_tip">Todos os dados do tempo de tela e suas permissões serão limpos após ser desativado</string>
 </resources>
