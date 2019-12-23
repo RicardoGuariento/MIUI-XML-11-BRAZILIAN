@@ -7203,4 +7203,7 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="close_slave_wifi_hint">Desconecte do Wi-Fi auxiliar antes de transmitir</string>
   <string name="video_tool_box_title">Ferramentas de vídeo</string>
   <string name="accessibility_service_action_perform_title">Ver e executar ações</string>
+  <string name="gps_description">Vários sistemas de navegação por satélite (GPS, BeiDou, GLONASS, Galileo) são suportados</string>
+  <string name="speaker">Falante</string>
+  <string name="speaker_clean">Limpar falante</string>
 </resources>

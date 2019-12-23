@@ -1241,7 +1241,7 @@ para personalizar a Galeria"</string>
     <string name="user_agreement2">Termos de Serviço</string>
     <string name="user_agreement4">Política de Privacidade</string>
     <string name="user_alias_self">Eu</string>
-    <string name="user_notice_identify_summary_format">Ao usar este serviço, você concorda com os %1$s e a %2$s da Xiaomi.</string>
+    <string name="user_notice_identify_summary_format">&lt;Data&gt;"Ao usar este serviço, você concorda com os &amp;lt;a href=\"%1$s\"&amp;gt;\"Termos de Serviço\"&amp;lt;/a&amp;gt; da Xiaomi e &amp;lt;a href=\"%2$s\"&amp;gt;\"Política de Privacidade\"&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
     <string name="user_notice_title">Termos e Condições</string>
     <string name="video_edit_file_not_exits_tip">Faça o download do vídeo primeiro</string>
     <string name="video_editor_abandon_changes_tip_message">Descartar todas as alterações?</string>
@@ -1502,4 +1502,18 @@ para personalizar a Galeria"</string>
 	<string name="unsupported_media_downloading_tip_format">A visualização de %s imagens originais mão é suportada nesta versão do Android. Baixar mesmo assim?"</string>
 	<string name="unsupported_media_scanned_tip">"%1$s imagens foram detectadas. Ver %2$s imagens não é suportado nesta versão do Android."</string>
 	<string name="unsupported_media_vie-w_tip">A visualização de %s imagens originais não é suportada nesta versão do Android</string>
+	<string name="delete_album_msg_format_cloud">Excluir %1$s %2$s da Xiaomi Cloud e todos os dispositivos sincronizados?</string>
+	<string name="delete_album_msg_format_local">Excluir %1$s %2$s?</string>
+	<string name="filter_sky_clear_sky">Céu limpo</string>
+	<string name="filter_sky_cumulus">Cumulus</string>
+	<string name="filter_sky_dawn">Amanhecer</string>
+	<string name="filter_sky_double_rainbow">Arco-iris duplo</string>
+	<string name="filter_sky_nimbus">Nimbus</string>
+	<string name="filter_sky_snowy">Neve</string>
+	<string name="filter_sky_stratus">Stratus</string>
+	<string name="filter_sky_twilight">Crepúsculo</string>
+	<string name="risk_control_deleted_message">Alguém excluiu os itens da sua galeria em um %3$s em %1$s às %2$s. Foi você?</string>		
+	<string name="risk_control_deleted_title">Aviso de segurança</string>
+	<string name="special_type_8k">IA 8K</string>
+	 <string name="trash_bin_summary_local">Ver fotos e vídeos excluídos recentemente</string>
 </resources>

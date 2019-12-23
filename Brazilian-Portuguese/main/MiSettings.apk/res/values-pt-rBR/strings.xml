@@ -162,4 +162,30 @@
   <string name="stop_app_timer_fail">Não foi possível desativar o tempo de tela</string>
   <string name="stop_app_timer_success">O tempo de tela foi desativado com sucesso</string>
   <string name="stop_app_timer_tip">Todos os dados do tempo de tela e suas permissões serão limpos após ser desativado</string>
+  <string name="create">Criar</string>
+  <string name="create_failed">Não foi possível criar</string>
+  <string name="create_shortcut">Atalho na tela inicial</string>
+  <string name="created">Criado</string>
+  <string name="created_successfully">Criado com sucesso</string>
+  <string name="lock_summary">Proteja suas informações pessoais</string>
+  <string name="more_settings">Configurações</string>
+  <string name="no_matching">Não foi possível encontrar um aplicativo para abrir o link</string>
+  <string name="privacy_policy">Política de privacidade</string>
+  <string name="screen_time_lock">Bloqueio do tempo de tela</string>
+  <string name="shortcut_created">Este atalho já existe</string>
+  <string name="stop_summary">Todas as estatísticas e dados de tempo da tela serão excluídos quando você desativar esse recurso</string>
+  <string name="suggestion">Feedback</string>
+  <string name="usage_agree">Concordar</string>
+  <string name="usage_exit">Sair</string>
+  <string name="usage_home_permission_account_summary">Para acessar a Conta Mi e sincronizar as estatísticas de tempo da tela</string>
+  <string name="usage_home_permission_account_title">Acessar informações da conta</string>
+  <string name="usage_home_permission_phone_summary">FPara identificar seu dispositivo usando o VAID</string>
+  <string name="usage_home_permission_phone_title">Acessar informações do dispositivo</string>
+  <string name="usage_home_premission_main_summary_new">"Bem vindo ao Tempo de tela!
+Para poder funcionar normalmente, este aplicativo precisa coletar informações de tempo de tela: o número de vezes que você desbloqueia o telefone, o nome do aplicativo e a duração de uso do aplicativo são necessários para gerar estatísticas de tempo de tela; As configurações do modo de foco são necessárias para gerar estatísticas do modo de foco.
+Este aplicativo também precisa se conectar à Internet e precisa das seguintes permissões para coletar suas informações pessoais:"</string>
+  <string name="usage_home_premission_main_summary_new_o">"Bem vindo ao Tempo de tela!
+Para poder funcionar normalmente, este aplicativo precisa coletar informações sobre o tempo de tela: o número de vezes que você desbloqueia o telefone, o nome do aplicativo e a duração do uso do aplicativo são necessários para gerar estatísticas de tempo de tela.
+Este aplicativo também precisa se conectar à Internet e precisa das seguintes permissões para coletar suas informações pessoais:"</string>
+	<string name="usage_home_premission_second_summary_new">"Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Se você não concordar em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, não poderá usar este aplicativo. Você pode revogar sua autorização nas Configurações e desativar o tempo de tela. Se você tiver mais perguntas sobre privacidade, entre em contato conosco em privacy@xiaomi.com."</string>
 </resources>

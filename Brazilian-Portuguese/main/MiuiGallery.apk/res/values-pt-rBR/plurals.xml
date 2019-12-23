@@ -316,4 +316,8 @@
         <item quantity="other">%d horas</item>
         <item quantity="one">%d hora</item>
     </plurals>
+	   <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d álbums</item>
+        <item quantity="one">%d álbum</item>
+    </plurals>
 </resources>

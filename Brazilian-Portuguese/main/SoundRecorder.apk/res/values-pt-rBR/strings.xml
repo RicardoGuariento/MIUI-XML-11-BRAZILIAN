@@ -269,4 +269,7 @@
     <string name="text_play_speed_1_0">Velocidade de reprodução regular</string>
     <string name="text_play_speed_1_5">Velocidade de reprodução 1.5X</string>
     <string name="text_play_speed_2_0">Velocidade de reprodução 2X</string>
+	<string name="delete_cloud_data_at_same_time">Excluir da nuvem também</string>
+	<string name="preference_record_desktop_indicator_summary">Mostrar um indicador azul na tela inicial quando o Gravador estiver trabalhando em segundo plano</string>
+	<string name="preference_record_desktop_indicator_title">Indicador na tela inicial</string>
 </resources>

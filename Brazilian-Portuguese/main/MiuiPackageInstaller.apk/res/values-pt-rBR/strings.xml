@@ -30,7 +30,7 @@
   <string name="app_store_installing_message">Instalando…</string>
   <string name="app_store_missing_message">Parece que você não instalou nossa App Store oficial. Instalar agora?</string>
   <string name="app_store_missing_title">App Store não instalada</string>
-  <string name="application_detail_tips">Configurações de permissões e informações do aplicativo</string>
+  <string name="application_detail_tips">Configurações de permissões e detalhes do aplicativo</string>
   <string name="auto_startup_dialog_msg">Este aplicativo não pode iniciar sem sua permissão.</string>
   <string name="btn_text_full_scan">Verificação completa</string>
   <string name="btn_text_install_new_version">Última versão</string>
@@ -104,8 +104,8 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="install_failed_invalid_apk">O pacote parece estar corrompido.</string>
   <string name="install_failed_msg">"%1$s não pôde ser instalado no seu telefone."</string>
   <string name="install_failed_system_incompatible">"Este aplicativo não é compatível com a MIUI"</string>
-  <string name="install_finished_notification_summary">Toque para limpar agora</string>
-  <string name="install_finished_notification_title">%1$s instalado com sucesso, limpe %2$s agora</string>
+  <string name="install_finished_notification_summary">Toque para limpar espaço no armazenamento</string>
+  <string name="install_finished_notification_title">%1$s instalado com sucesso! Você pode liberar até %2$s no espaço de armazenamento</string>
   <string name="install_from_appstore_hint">Recomendamos que você instale o aplicativo a partir da &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
   <string name="installing">Instalando…</string>
   <string name="intercept_install">Instalar</string>
@@ -258,7 +258,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="privacyPerms">Privacidade</string>
   <string name="privacy_relative">Privacidade</string>
   <string name="reboot_time">Preparando para reiniciar… (%1$s)</string>
-  <string name="replace_app_des_text">Quer atualizar este aplicativo?</string>
+  <string name="replace_app_des_text">Substituir o aplicativo por esta versão?</string>
   <string name="review_button_cancel">Cancelar</string>
   <string name="review_button_continue">Continuar</string>
   <string name="risk_warning_bottom_button">Instalar aplicativos da GetApps</string>
@@ -307,7 +307,7 @@ O pacote de instalação vir de uma fonte desconhecida.</string>
   <string name="untrusted_external_source_always_click">Sempre permitir</string>
   <string name="untrusted_external_source_title">Permitir que \"%1$s\" instale aplicativos?</string>
   <string name="untrusted_external_source_warning">"Para sua segurança, seu telefone não tem permissão para instalar aplicativos desconhecidos dessa fonte."</string>
-  <string name="untrusted_external_source_warning_summary">Seu telefone e dados pessoais são vulneráveis a ataques de fontes desconhecidas. Ao permitir a instalação de aplicativos dessa fonte, você concorda em aceitar a responsabilidade por qualquer dano ou perda de dados que possa resultar do uso desses aplicativos.</string>
+  <string name="untrusted_external_source_warning_summary">"Seu dispositivo e dados pessoais são vulneráveis a ataques dos aplicativos instalados de fontes desconhecidas. Ao permitir a instalação de aplicativos dessa fonte, você concorda em aceitar a responsabilidade por qualquer dano ou perda de dados que possa ocorrer enquanto estiver usando esses aplicativos."</string>
   <string name="user_is_not_allowed_dlg_text">O usuário atual não tem permissão para executar esta desinstalação.</string>
   <string name="user_is_not_allowed_dlg_title">Não permitido</string>
   <string name="virus_scan_caller_unknown">Desconhecido</string>

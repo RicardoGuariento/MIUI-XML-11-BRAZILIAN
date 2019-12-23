@@ -2004,11 +2004,11 @@ uma captura de tela contínua"</string>
 	<string name="face_unlock_category_title">Opções da tela de bloqueio</string>
 	<string name="ime_security_warning_global">Os métodos de entrada podem coletar todo o texto digitado, incluindo dados pessoais, como senha e números de cartão de crédito. Usar %1$s?</string>
 	<string name="ime_security_warning_title_global">Ativando o teclado</string>
-	<string name="accessibility_status_bar_no_slave_wifi">Wi-Fi escravo desconectado.</string>
-	<string name="accessibility_status_bar_slave_wifi_four_bars">Wi-Fi escravo com quatro barras.</string>
-	<string name="accessibility_status_bar_slave_wifi_one_bar">Wi-Fi escravo com uma barras.</string>
-	<string name="accessibility_status_bar_slave_wifi_three_bars">Wi-Fi escravo com três barras.</string>
-	<string name="accessibility_status_bar_slave_wifi_two_bars">Wi-Fi escravo com duas barras.</string>
+	<string name="accessibility_status_bar_no_slave_wifi">Wi-Fi auxiliar desconectado.</string>
+	<string name="accessibility_status_bar_slave_wifi_four_bars">Wi-Fi auxiliaro com quatro barras.</string>
+	<string name="accessibility_status_bar_slave_wifi_one_bar">Wi-Fi auxiliaro com uma barras.</string>
+	<string name="accessibility_status_bar_slave_wifi_three_bars">Wi-Fi auxiliar com três barras.</string>
+	<string name="accessibility_status_bar_slave_wifi_two_bars">Wi-Fi auxiliar com duas barras.</string>
 	<string name="quick_settings_wifi_detail_dual_wifi_accelerated">Aumentando a velocidade</string>
 	<string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Cancelar</string>
 	<string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Confirmar</string>

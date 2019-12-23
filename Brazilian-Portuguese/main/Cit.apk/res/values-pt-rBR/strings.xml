@@ -374,5 +374,10 @@ N: sem teste"</string>
   <string name="charge_positive_pls">Por favor, insira a carga positiva</string>
   <string name="charge_reverse_pls">Por favor, insira a carga reversa</string>
   <string name="pls_plug_otg_in_native">Por favor, remova o dispositivo OTG</string>
-  <string name="cit_tool_modem_test_mode_close">fechar modo de teste</string>
+  <string name="cit_tool_modem_test_mode_close">Fechar modo de teste</string>
+  <string name="cit_front_dual_camera_check_summary_no_zoom">As etapas de teste são as seguintes：
+
+1.Abra automaticamente a câmera para entrar na interface de visualização
+2.Aguarde a conclusão da visualização e retorne automaticamente</string>
+<string name="mtb_tool_modem_cdma_manager">Gerenciador CDMA Cap</string>
 </resources>

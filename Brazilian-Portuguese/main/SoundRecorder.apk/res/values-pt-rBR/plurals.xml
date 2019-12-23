@@ -24,4 +24,12 @@
         <item quantity="other">%d itens não sincronizados</item>
         <item quantity="one">%d item não sincronizado</item>
     </plurals>
+	    <plurals name="confirm_delete_cloud_records">
+        <item quantity="other">Excluir %d gravações da nuvem?</item>
+        <item quantity="one">Excluir %d gravação da nuvem?</item>
+    </plurals>
+    <plurals name="confirm_delete_records">
+        <item quantity="other">Excluir %d gravações?</item>
+        <item quantity="one">Excluir %d gravação?</item>
+    </plurals>
 </resources>
