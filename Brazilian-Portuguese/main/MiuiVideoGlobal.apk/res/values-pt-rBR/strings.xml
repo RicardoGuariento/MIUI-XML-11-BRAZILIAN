@@ -33,7 +33,7 @@
     <string name="lp_advance_sound">Melhorar áudio</string>
     <string name="lp_brightness">Brilho</string>
     <string name="lp_fullscreen">Tela cheia</string>
-    <string name="lp_setting">Configurações</string>
+    <string name="lp_setting">Config.</string>
     <string name="lp_videoView_error_button">Entendi</string>
     <string name="lp_videoView_error_text_unknown">Não é possível reproduzir este vídeo.</string>
     <string name="lp_videoView_error_title">Não é possível reproduzir</string>
@@ -246,4 +246,6 @@
   <string name="report_content_other">Outro</string>
   <string name="report_content_sexy">Conteúdo sexual explícito</string>
   <string name="report_content_violence">Discurso de ódio</string>
+  <string name="push_message_switch">Notificações</string>
+  <string name="push_message_tips">Ativar para receber notificações</string>
 </resources>
