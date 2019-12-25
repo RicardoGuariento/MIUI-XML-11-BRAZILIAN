@@ -120,4 +120,5 @@ Você deve concordar com a Política de Privacidade do Kika antes de usar este r
 	<string name="permission_send_message">Enviar SMS:</string>
 	<string name="skip_gesture_guide_dialog_message">Certifique-se que sabe utilizar os gestos em tela cheia antes de selecionar esta opção</string>
 	<string name="skip_gesture_guide_dialog_title">Gestos em tela cheia</string>
+	 <string name="service_name_download">Downloads</string>
 </resources>
