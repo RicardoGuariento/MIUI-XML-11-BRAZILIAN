@@ -1245,4 +1245,7 @@ Selecione uma das seguintes opções:"</string>
 	<string name="bind_simcard_no_dual">Não foi possível encontrar Dual SIM</string>
 	<string name="bind_simcard_not_set">Não definido</string>
 	<string name="bind_simcard_title">SIM padrão para chamadas</string>
+	<string name="confirm_delete_cloud_all_call_logs">Excluir todo o histórico de chamadas relacionados a %s tanto da nuvem quanto do dispositivo?</string>
+	<string name="deleteCloudConfirmationDetail">Excluir as informações de contato de %s tanto da nuvem quanto do dispositivo?</string>
+	<string name="no_phone_no_shortcut">Não é possível criar atalho para contatos sem número de telefone</string>
 </resources>
