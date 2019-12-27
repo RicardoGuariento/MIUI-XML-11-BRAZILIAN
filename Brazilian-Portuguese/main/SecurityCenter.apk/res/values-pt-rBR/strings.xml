@@ -2829,4 +2829,5 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
 	<string name="gs_game_manual_record_subtitle_child_carton">Gravar suas sessões de jogos requer um maior consumo de energia, o que pode resultar em atrasos.</string>
 	<string name="gs_game_manual_record_subtitle_child_conflict">Outros recursos de gravação de tela podem não funcionar corretamente.</string>
 	<string name="gs_game_record_intro_tips">*A gravação da sessão do jogo está disponível apenas para jogos compatíveis selecionados</string>
+	<string name="gamebox_manual_record">Gravar</string>
 </resources>

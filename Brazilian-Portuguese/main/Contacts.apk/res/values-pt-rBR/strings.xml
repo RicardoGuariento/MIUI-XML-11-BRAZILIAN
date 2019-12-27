@@ -1248,4 +1248,6 @@ Selecione uma das seguintes opções:"</string>
 	<string name="confirm_delete_cloud_all_call_logs">Excluir todo o histórico de chamadas relacionados a %s tanto da nuvem quanto do dispositivo?</string>
 	<string name="deleteCloudConfirmationDetail">Excluir as informações de contato de %s tanto da nuvem quanto do dispositivo?</string>
 	<string name="no_phone_no_shortcut">Não é possível criar atalho para contatos sem número de telefone</string>
+	<string name="delete_conference_call_log_message">Excluir todos os registros de chamadas de conferência associados a este contato agora?</string>
+	<string name="delete_conference_call_log_title">Excluir registros de chamadas de conferência</string>
 </resources>

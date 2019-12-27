@@ -265,4 +265,9 @@ Toque na tela para adicionar uma cidade manualmente"</string>
 	<string name="widget_cta_not_agree">Toque para obter informações de clima</string>
 	<string name="about_weather_setting">Sobre o Clima</string>
 	<string name="other_settings">Outras configurações</string>
+	<string name="manager_city_option_add_city_back_search">Voltar para a pesquisa</string>
+	<string name="manager_city_option_add_city_content">Cidade adicionada à página inicial com sucesso</string>
+	<string name="manager_city_option_add_city_title">Adicionada com sucesso</string>
+	<string name="manager_city_option_add_home">Adicionar à página inicial</string>
+	<string name="manager_city_option_view_on_home">Ver na página inicial</string>
 </resources>
