@@ -7206,4 +7206,5 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="gps_description">Vários sistemas de navegação por satélite (GPS, BeiDou, GLONASS, Galileo) são suportados</string>
   <string name="speaker">Falante</string>
   <string name="speaker_clean">Limpar falante</string>
+  <string name="aod_notification_style_screen_on">Ligar a tela</string>
 </resources>
