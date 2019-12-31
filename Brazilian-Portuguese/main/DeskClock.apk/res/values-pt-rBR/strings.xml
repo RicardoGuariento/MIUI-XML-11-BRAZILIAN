@@ -278,4 +278,21 @@
 	<string name="set_alarm_choose_ringtone">Selecionar toque</string>
 	<string name="bedtime_wake_up_time_remind">Um despertador irá tocar neste horário</string>
 	<string name="deskclock_sleep_no_disturbance">Relógio - Gerenciar hora de dormir - Modo DND</string>
+	<string name="alert_ringtone">Toques do despertador</string>
+	<string name="alert_volume">Volume do toque</string>
+	<string name="alert_volume_summary">Defina o volume do toque dos alarmes e temporizadores</string>
+	<string name="auto_silence_summary">Defina o tempo após o qual os alarmes e temporizadores serão silenciados</string>
+	<string name="edit_label">Editar descrição do despertador</string>
+	<string name="holiday_update_title">Atualizar informações sobre feriados públicos</string>
+	<string name="label_input_desc">Essa descrição será exibida na tela quando o despertador tocar</string>
+	<string name="label_input_hint">Insira a descrição</string>
+	<string name="more_alert_setting">Configurações adicionais do despertador</string>
+	<string name="net_permission_cancel">Não concordar</string>
+	<string name="net_permission_ok">Concordar</string>
+	<string name="new_label">Adicionar descrição do despertador</string>
+	<string name="normal_settings">Configurações gerais</string>
+	<string name="other_settings">Config. adicionais</string>
+	<string name="ringtone_digital_timer">Temporizador</string>
+	<string name="time_settings">Configurações do relógio</string>
+	<string name="timer_ringtone">Toque do temporizador</string>
 </resources>

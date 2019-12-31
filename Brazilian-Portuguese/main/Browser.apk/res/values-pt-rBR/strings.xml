@@ -940,4 +940,10 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
 	<string name="network_error_tips">Ocorreu um erro de rede. Tente novamente</string>
 	<string name="notification_channel_name_local_push">Notificações do navegador</string>
 	<string name="refresh_text">Tente novamente</string>
+	<string name="channel_network_error">Ocorreu um erro de rede. Verifique as configurações de sua rede e tente novamente.</string>
+	<string name="channel_no_data">Por hora, é tudo. Experimente outros canais!</string>
+	<string name="comment_fail">Não foi possível adicionar comentário. Tente novamente</string>
+	<string name="comment_success">Comentário adicionado com sucesso</string>
+	<string name="feedback_not_interested_response">Você verá poucos itens deste tipo</string>
+	<string name="short_video_network_error">Ocorreu um erro de rede. Verifique as configurações de sua rede e tente novamente.</string>
 </resources>

@@ -1189,4 +1189,8 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="setting_sticky_done">Fixado no topo</string>
   <string name="sport_headline">"Atividades de hoje"</string>
   <string name="timeline_headline">Próximas</string>
+  <string name="app_suggest_setting_brief">Receba sugestões de aplicativos e recursos que você provavelmente usará</string>
+  <string name="app_suggest_setting_brief_detail">Receba sugestões de aplicativos e recursos que você provavelmente usará.</string>
+  <string name="app_suggest_setting_title">Sugestões inteligentes</string>
+  <string name="card_expand_note_toast_share_null">Essa nota está vazia</string>
 </resources>

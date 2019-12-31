@@ -96,4 +96,10 @@
         <item quantity="other">%1$d de %2$d</item>
         <item quantity="one">1 resultado</item>
     </plurals>
+	<plurals name="video_playback_error">
+        <item quantity="other">Não foi possível carregar o vídeo.
+O próximo vídeo será reproduzido em %d segundos…</item>
+        <item quantity="one">Não foi possível carregar o vídeo.
+O próximo vídeo será reproduzido em %d segundo…</item>
+    </plurals>
 </resources>
