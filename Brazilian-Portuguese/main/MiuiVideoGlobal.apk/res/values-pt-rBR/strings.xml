@@ -248,4 +248,7 @@
   <string name="report_content_violence">Discurso de ódio</string>
   <string name="push_message_switch">Notificações</string>
   <string name="push_message_tips">Ativar para receber notificações</string>
+  <string name="lv_home_settings">Configurações</string>
+  <string name="lv_setting">Configurações</string>
+  <string name="ovp_navigation_setting">Configurações</string>
 </resources>
