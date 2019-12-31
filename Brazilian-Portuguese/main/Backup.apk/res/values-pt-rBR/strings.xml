@@ -644,4 +644,5 @@ Tamanho: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introduzindo a versão %1$s
 Atualização incremental: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Atualização disponível</string>
+  <string name="camera_summary_for_cta">Configurações da câmera</string>
 </resources>

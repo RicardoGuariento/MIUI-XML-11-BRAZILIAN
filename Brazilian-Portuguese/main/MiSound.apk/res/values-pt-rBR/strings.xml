@@ -78,7 +78,7 @@
   <string name="music_headset_mode_settings">Botões dos fones de ouvido</string>
   <string name="music_headset_mode_volume">Controlar nível do volume</string>
   <string name="music_headset_no_contected">Nenhum fone de ouvido detectado</string>
-  <string name="music_headset_settings">Fones de ouvido e efeitos de áudio</string>
+  <string name="music_headset_settings">Efeitos de áudio</string>
   <string name="music_hifi_summary">Reduz o ruído e distorção e aumente a qualidade</string>
   <string name="music_hifi_title">Áudio Hi-Fi</string>
   <string name="music_mi_effect_summary">Use o Mi Sound Enhancer quando usar os falantes</string>

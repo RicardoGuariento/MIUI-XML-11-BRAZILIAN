@@ -384,8 +384,8 @@ Se você girar seu telefone"</string>
     <string name="pref_camera_front_ai_scene_entry_off">Câmera IA desativada</string>
     <string name="text_ai_scene_selector_text_on">SILHUETA</string>
     <string name="text_ai_scene_selector_text_off">CONTRE-JOUR</string>
-    <string name="ai_scene_mode_use_hint_text">"A Câmera IA detecta cenários automaticamente
-e otimiza suas fotos com base nestas informações"</string>
+    <string name="ai_scene_mode_use_hint_text">"Reconhe cenas utilizando IA
+e ajusta preferências automaticamente"</string>
     <string name="lens_dirty_detected_title_back">A lente da câmera traseira está suja</string>
     <string name="lens_dirty_detected_title_front">A lente da câmera frontal está suja</string>
     <string name="lens_dirty_detected_content">"Parece que a lente da sua câmera está suja.
@@ -718,5 +718,8 @@ Imprima uma cópia em papel A4 através do Wi-Fi."</string>
   <string name="pref_camera_auxiliary_focus_peak">Pico de foco</string>
   <string name="pref_camera_manual_description_title">Sobre os recursos Pro</string>
   <string name="video_ultra_clear_tip_8k">IA 8K</string>
-   <string name="kaleidoscope_fragment_tab_name">Caleidoscópio</string>
+  <string name="kaleidoscope_fragment_tab_name">Caleidoscópio</string>
+  <string name="camcorder_tip_8k_max_video_duration">Você pode gravar até 6 minutos em 8K</string>
+  <string name="video_beauty_tip_filter">Filtros</string>
+  <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
 </resources>

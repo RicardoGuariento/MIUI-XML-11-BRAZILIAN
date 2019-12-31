@@ -91,4 +91,25 @@
 controle os aplicativos e restrinja o uso"</string>
 	<string name="greenguard_parent_des">Gerencie os dispositivos de seus amigos e familiares</string>
 	<string name="greenguard_parent_des_title">Use o Kite Guard para adicionar dispositivos</string>
+	<string name="ew_detail_earthquake_center_title">Epicentro</string>
+	<string name="ew_detail_earthquake_feel_little">Tremor leve</string>
+	<string name="ew_detail_earthquake_feel_max">Muito forte</string>
+	<string name="ew_detail_earthquake_feel_middle">Forte</string>
+	<string name="ew_detail_earthquake_feel_none">Não sentido</string>
+	<string name="ew_detail_earthquake_feel_normal">Moderada</string>
+	<string name="ew_detail_earthquake_feel_title">Intensidade estimada</string>
+	<string name="ew_detail_earthquake_level_title">agnitude estimada</string>
+	<string name="ew_detail_receive_alert_from">Dados fornecidos pelo Chengdu Hi-tech Disaster Reduction Institute</string>
+	<string name="ew_detail_receive_distance_message1">%s km</string>
+	<string name="ew_detail_receive_distance_message2">%s km (O epicentro está longe de você. Você pode não sentir o terremoto.)</string>
+	<string name="ew_detail_receive_distance_title">istância ao epicentro</string>
+	<string name="ew_detail_receive_location_message">%2$s°N %1$s°E</string>
+	<string name="ew_detail_receive_location_title">Localização</string>
+	<string name="ew_detail_receive_time_title">Hora de início</string>
+	<string name="ew_detail_receive_warn_time_message">%ss</string>
+	<string name="ew_detail_receive_warn_time_title">Tempo antes do início</string>
+	<string name="ew_share_logo_title">Alerta de terremoto</string>
+	<string name="ew_share_save_tips">Salvo em %s</string>
+	<string name="ew_share_title">Compartilhar</string>
+	<string name="ew_warning_detail">Detalhes do alerta</string>
 </resources>

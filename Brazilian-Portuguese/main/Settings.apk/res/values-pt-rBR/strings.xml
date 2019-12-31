@@ -7208,4 +7208,20 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="speaker_clean">Limpar falante</string>
   <string name="aod_notification_style_screen_on">Ligar tela</string>
   <string name="status_bar_settings_notification_use_app_icon">Utilizar ícones dos aplicativos para notificações</string>
+  <string name="codec_low_latency_summary">Fornece uma experiência de baixa latência para sincronização de áudio e vídeo</string>
+  <string name="codec_low_latency_title">Baixa latência</string>
+  <string name="default_suppression_title">Padrão (Recomendado)</string>
+  <string name="diy_suppression_summary">Ajuste o tamanho da área próxima às bordas onde o toque acidental será ignorado</string>
+  <string name="diy_suppression_title">Personalizado</string>
+  <string name="edge_mode_state_summary">"A área em torno das bordas curvas não responde ao toque"</string>
+  <string name="edge_mode_state_title">Ignorar toque acidental nas bordas</string>
+  <string name="headset_settings_title">Efeitos de som</string>
+  <string name="privacy_failed_need_to_unlock_nofingerprint">Digite a senha antes de usar uma nova impressão digital</string>
+  <string name="seek_bar_info">Ajustar tamanho</string>
+  <string name="strong_suppression_summary">"Seu dispositivo não responde ao toque acidental, alguns controles de gesto podem não funcionar perto das bordas"</string>
+  <string name="strong_suppression_title">Área maior</string>
+  <string name="wake_suppression_summary">Seu dispositivo pode responder ao toque acidental, mas também responde a controles de gesto próximos às bordas</string>
+  <string name="wake_suppression_title">Área menor</string>
+  <string name="wifi_direct_close_hotspot_hint">Desative o ponto de acesso portátil antes de usar o Wi-Fi Direct</string>
+  <string name="wifi_direct_close_slave_wifi_hint">Desconecte do Wi-Fi auxiliar antes de usar o Wi-Fi Direct</string>
 </resources>

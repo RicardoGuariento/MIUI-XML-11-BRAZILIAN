@@ -402,4 +402,7 @@
 	<string name="auto_delete_category_dialog_content">Os aplicativos atuais serão removidos desta categoria e a categoria será excluída. Excluir esta categoria agora?</string>
 	<string name="auto_delete_category_dialog_title">Excluindo categoria</string>
 	<string name="default_folder_title_other_apps">Outros aplicativos</string>
+	<string name="category_edit_back_confirm_dialog_content">Salvar alterações agora?</string>
+	<string name="category_edit_back_confirm_dialog_negative_button">Não salvar</string>
+	<string name="category_edit_back_confirm_dialog_positive_button">Salvar</string>
 </resources>

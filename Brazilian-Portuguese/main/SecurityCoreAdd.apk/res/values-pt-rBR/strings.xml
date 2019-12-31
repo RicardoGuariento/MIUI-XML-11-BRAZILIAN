@@ -469,4 +469,8 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
 	<string name="facebook_send">Compartilhar no Facebook</string>
 	<string name="instagram_send">Compartilhar no Instagram</string>
 	<string name="whatsapp_send">Compartilhar no WhatsApp</string>
+	<string name="greenguard_install_cancle">Não, obrigadp</string>
+	<string name="greenguard_install_confirm">Instalar</string>
+	<string name="greenguard_install_message">"Family Guard é um aplicativo do sistema. Você não precisa de internet para instalá-lo."</string>
+	<string name="greenguard_install_title">Instalar Family Guard</string>
 </resources>
