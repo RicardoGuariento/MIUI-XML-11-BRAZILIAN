@@ -7207,4 +7207,5 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="speaker">Falante</string>
   <string name="speaker_clean">Limpar falante</string>
   <string name="aod_notification_style_screen_on">Ligar tela</string>
+  <string name="status_bar_settings_notification_use_app_icon">Utilizar ícones dos aplicativos para notificações</string>
 </resources>
