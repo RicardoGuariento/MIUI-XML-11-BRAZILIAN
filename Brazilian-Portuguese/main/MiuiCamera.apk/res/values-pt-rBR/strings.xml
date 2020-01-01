@@ -384,7 +384,7 @@ Se você girar seu telefone"</string>
     <string name="pref_camera_front_ai_scene_entry_off">Câmera IA desativada</string>
     <string name="text_ai_scene_selector_text_on">SILHUETA</string>
     <string name="text_ai_scene_selector_text_off">CONTRE-JOUR</string>
-    <string name="ai_scene_mode_use_hint_text">"Reconhe cenas utilizando IA
+    <string name="ai_scene_mode_use_hint_text">"Reconhece cenas utilizando IA
 e ajusta preferências automaticamente"</string>
     <string name="lens_dirty_detected_title_back">A lente da câmera traseira está suja</string>
     <string name="lens_dirty_detected_title_front">A lente da câmera frontal está suja</string>
