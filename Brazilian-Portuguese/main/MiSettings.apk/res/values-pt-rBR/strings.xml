@@ -179,7 +179,7 @@
   <string name="usage_exit">Sair</string>
   <string name="usage_home_permission_account_summary">Para acessar a Conta Mi e sincronizar as estatísticas de tempo da tela</string>
   <string name="usage_home_permission_account_title">Acessar informações da conta</string>
-  <string name="usage_home_permission_phone_summary">FPara identificar seu dispositivo usando o VAID</string>
+  <string name="usage_home_permission_phone_summary">Para identificar seu dispositivo usando o VAID</string>
   <string name="usage_home_permission_phone_title">Acessar informações do dispositivo</string>
   <string name="usage_home_premission_main_summary_new">"Bem vindo ao Tempo de tela!
 Para poder funcionar normalmente, este aplicativo precisa coletar informações de tempo de tela: o número de vezes que você desbloqueia o telefone, o nome do aplicativo e a duração de uso do aplicativo são necessários para gerar estatísticas de tempo de tela; As configurações do modo de foco são necessárias para gerar estatísticas do modo de foco.
