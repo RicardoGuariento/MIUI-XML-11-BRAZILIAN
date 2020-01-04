@@ -146,5 +146,4 @@
         <item quantity="other">&lt;Data>Encontradas &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> mensagens de voz&lt;/Data></item>
         <item quantity="one">&lt;Data>Encontrada &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> mensagem de voz&lt;/Data></item>
     </plurals>
-    </plurals>
 </resources>
