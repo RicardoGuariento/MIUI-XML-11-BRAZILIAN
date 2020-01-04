@@ -1516,4 +1516,5 @@ para personalizar a Galeria"</string>
 	<string name="risk_control_deleted_title">Aviso de segurança</string>
 	<string name="special_type_8k">IA 8K</string>
 	 <string name="trash_bin_summary_local">Ver fotos e vídeos excluídos recentemente</string>
+	 <string name="video_editor_not_support_8k_tips">Não é possível editar vídeos em 8K</string>
 </resources>

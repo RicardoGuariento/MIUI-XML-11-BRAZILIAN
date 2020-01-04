@@ -179,4 +179,8 @@
   <string name="search_menu_title">Procurar</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="title_settings_dialog">Permissões necessárias</string>
+  <string name="miservice_notification_huanji_content">Transfira eles usando o Mi Mover</string>
+  <string name="miservice_notification_huanji_title">Tem arquivos importantes no seu telefone antigo?</string>
+  <string name="miservice_notification_scan_content">Use o digitalizador para traduzir palavras e frases</string>
+  <string name="miservice_notification_scan_title">Traduza rapidamente</string>
 </resources>

@@ -722,4 +722,9 @@ Imprima uma cópia em papel A4 através do Wi-Fi."</string>
   <string name="camcorder_tip_8k_max_video_duration">Você pode gravar até 6 minutos em 8K</string>
   <string name="video_beauty_tip_filter">Filtros</string>
   <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
+  <string name="ai_watermark_title">"Marca d'água inteligente"</string>
+  <string name="document_mode_use_hint_text_body">Alinhe e aprimore
+documentos digitalizados automaticamente</string>
+  <string name="document_mode_use_hint_text_title">Digitalizar documentos</string>
+  <string name="video_beauty_tip_beautification">Embelezar</string>
 </resources>

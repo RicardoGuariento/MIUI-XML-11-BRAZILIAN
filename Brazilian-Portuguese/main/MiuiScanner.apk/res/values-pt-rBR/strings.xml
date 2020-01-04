@@ -201,4 +201,5 @@
 	<string name="waybill_num">"Pedidor: "</string>
 	<string name="xiaoai_dialog">"Tente dizer o que
 você deseja digitalizar para a Mi IA"</string>
+	<string name="agree_app_use">Digitalizando códigos QR e outras imagens (alguns recursos podem exigir acesso à sua localização)</string>
 </resources>

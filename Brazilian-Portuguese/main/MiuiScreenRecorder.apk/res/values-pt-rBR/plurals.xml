@@ -2,7 +2,7 @@
 <resources>
     <plurals name="delete_confirm_text">
         <item quantity="other">Excluir %1$d gravações de tela?</item>
-        <item quantity="one">Excluir esta gravação de tela?</item>
+        <item quantity="one">Excluir %1$d gravação de tela?</item>
     </plurals>
     <plurals name="home_title_selected">
         <item quantity="other">%1$d itens selecionados</item>

@@ -64,7 +64,7 @@
   <string name="usage_state_friday">Sex</string>
   <string name="usage_state_go_more">Mais aplicativos</string>
   <string name="usage_state_hour_minute">%1$dh %2$dm</string>
-  <string name="usage_state_less_one_minute">Menos de 1 minuto</string>
+  <string name="usage_state_less_one_minute">&lt; 1 minuto</string>
   <string name="usage_state_monday">Seg</string>
   <string name="usage_state_mourth_day">Tempo de tela ativado %s</string>
   <string name="usage_state_noti_mourth_day">Notificações ativadas %s</string>
@@ -188,4 +188,13 @@ Este aplicativo também precisa se conectar à Internet e precisa das seguintes 
 Para poder funcionar normalmente, este aplicativo precisa coletar informações sobre o tempo de tela: o número de vezes que você desbloqueia o telefone, o nome do aplicativo e a duração do uso do aplicativo são necessários para gerar estatísticas de tempo de tela.
 Este aplicativo também precisa se conectar à Internet e precisa das seguintes permissões para coletar suas informações pessoais:"</string>
 	<string name="usage_home_premission_second_summary_new">"Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Se você não concordar em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, não poderá usar este aplicativo. Você pode revogar sua autorização nas Configurações e desativar o tempo de tela. Se você tiver mais perguntas sobre privacidade, entre em contato conosco em privacy@xiaomi.com."</string>
+	<string name="usage_creating_weekly_report">Criando relatório semanal…</string>
+	<string name="usage_focus_new_summary">Torne-se mais consciente e focado</string>
+	<string name="usage_no_net_summary">Verifique suas configurações de rede e tente novamente</string>
+	<string name="usage_refresh">Tentar novamente</string>
+	<string name="usage_request_error_summary">Ocorreu um erro desconhecido</string>
+	<string name="usage_request_timeout_summary">A solicitação expirou</string>
+	<string name="usage_special_feature">Recursos especiais</string>
+	<string name="usage_weekly_report_summary">Saiba como você passa o tempo com seu dispositivo</string>
+  <string name="usage_weekly_report_title">Relatório semanal</string>
 </resources>

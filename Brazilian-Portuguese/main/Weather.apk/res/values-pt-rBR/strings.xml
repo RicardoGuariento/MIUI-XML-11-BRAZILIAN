@@ -270,4 +270,5 @@ Toque na tela para adicionar uma cidade manualmente"</string>
 	<string name="manager_city_option_add_city_title">Adicionada com sucesso</string>
 	<string name="manager_city_option_add_home">Adicionar à página inicial</string>
 	<string name="manager_city_option_view_on_home">Ver na página inicial</string>
+	<string name="more_expanded">Mais</string>
 </resources>

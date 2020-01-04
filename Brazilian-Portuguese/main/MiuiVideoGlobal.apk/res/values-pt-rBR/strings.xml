@@ -251,4 +251,13 @@
   <string name="lv_home_settings">Configurações</string>
   <string name="lv_setting">Configurações</string>
   <string name="ovp_navigation_setting">Configurações</string>
+  <string name="gallery_fold_tags">Ocultar marcações</string>
+  <string name="gallery_view_tags">Mostrar marcações</string>
+  <string name="local_push_title">Popular hoje</string>
+  <string name="lp_play_mode_list_loop">Repetir tudo</string>
+  <string name="lp_play_mode_pause">Reproduzir uma vez</string>
+  <string name="lp_play_mode_single_loop">Repetir uma vez</string>
+  <string name="lp_play_mode_title">Modo de reprodução</string>
+  <string name="lv_cast">Transmitir</string>
+  <string name="no_more_content">É tudo por hora</string>
 </resources>

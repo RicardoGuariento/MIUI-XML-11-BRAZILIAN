@@ -7223,4 +7223,9 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="wake_suppression_title">Área menor</string>
   <string name="wifi_direct_close_hotspot_hint">Desative o ponto de acesso portátil antes de usar o Wi-Fi Direct</string>
   <string name="wifi_direct_close_slave_wifi_hint">Desconecte do Wi-Fi auxiliar antes de usar o Wi-Fi Direct</string>
+  <string name="use_otg_charge_only">Carregamento reverso</string>
+  <string name="use_otg_charge_only_summary">Carregamento de 1A mais rápido</string>
+  <string name="use_otg_file_transfers">Carregamento reverso  e transferência de arquivos</string>
+  <string name="use_otg_file_transfers_summary">Carregamento lento de 500mA e transferência de arquivos</string>
+  <string name="use_otg_title">USB On-The-Go</string>
 </resources>

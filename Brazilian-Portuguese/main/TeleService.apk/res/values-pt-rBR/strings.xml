@@ -1559,4 +1559,6 @@ Este tablet não possui auriculares. Você pode alterar para o modo viva-voz ou 
 	<string name="fiveg_switch_status1">Status da comutação 5G:</string>
 	<string name="fiveg_upperlayer_indication1">Status do indicador da camada superior:</string>
 	<string name="incall_error_outgoing_call_failed">Não foi possível fazer ligação</string>
+	<string name="notification_demo_version_text">Não é possível fazer chamadas ou usar os dados móveis</string>
+	<string name="notification_demo_version_title">Este é um dispositivo de demonstração</string>
 </resources>

@@ -228,4 +228,26 @@
     <string name="unknown_source">Fonte desconhecida</string>
     <string name="widget_content_loading">Aguarde…</string>
     <string name="widget_havenot_content">Toque para criar uma anotação. Segure o widget para redimensioná-lo.</string>
+	<string name="repeat_mode_day">Todos os dias</string>
+	<string name="repeat_mode_default">Nunca</string>
+	<string name="repeat_mode_dialog_title">Repetir</string>
+	<string name="repeat_mode_month">Todo mês</string>
+	<string name="repeat_mode_normal_workday">De segunda a sexta</string>
+	<string name="repeat_mode_set_item_day">Todos os dias</string>
+	<string name="repeat_mode_set_item_month_detail_lastday">Último dia de cada mês</string>
+	<string name="repeat_mode_set_item_month_global">Todo mês (mesma data)</string>
+	<string name="repeat_mode_set_item_none">Nunca</string>
+	<string name="repeat_mode_set_item_normal_workday">Segunda à sexta</string>
+	<string name="repeat_mode_set_item_week">Toda semana (%s)</string>
+	<string name="repeat_mode_set_item_week_detail">Toda semana (%s)</string>
+	<string name="repeat_mode_set_item_year">Todo ano (%s)</string>
+	<string name="repeat_mode_set_item_year_detail">Todo ano (%s)</string>
+	<string name="repeat_mode_set_title">Repetir</string>
+	<string name="repeat_mode_week">Toda semana</string>
+	<string name="repeat_mode_year">Todo ano</string>
+	<string name="todo_schedule_time_repeat_day">, todos os dias</string>
+	<string name="todo_schedule_time_repeat_month">, todo mês</string>
+	<string name="todo_schedule_time_repeat_normal_workday">, segunda a sexta</string>
+	<string name="todo_schedule_time_repeat_week">, toda semana</string>
+	<string name="todo_schedule_time_repeat_year">, todo ano</string>
 </resources>
