@@ -448,4 +448,14 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
 	<string name="privacy_doc_finddevice_with_telephony_feature_phone">"Bem-vindo ao Localizar dispositivo! Você pode usar este serviço para localizar, bloquear ou apagar dados em seu dispositivo, se estiverem perdidos. Você pode ir em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear ou redefinir.&lt;br /&gt;&lt;br /&gt;Pode ser necessária uma mensagem SMS de saída para ativar este serviço. Sua operadora cobrará por esta mensagem. Quando você troca o cartão SIM, uma mensagem pode ser enviada automaticamente para reativar este serviço.&lt;br /&gt;&lt;br /&gt;Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.&lt;br /&gt;Para poder funcionar normalmente, este serviço precisa se conectar à Internet e requer as seguintes permissões para coletar suas informações pessoais:&lt;br /&gt;• Acessar informações do dispositivo:&lt;br /&gt;Para identificar seu dispositivo&lt;br /&gt;• Localização:&lt;br /&gt;Para localizar seu dispositivo e alternar para o modo perdido&lt;br /&gt;Se você não concordar em conceder essas permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este serviço. Você pode optar por desinstalar este aplicativo, sair ou restringir permissões nas Configurações nesses casos.&lt;br /&gt;Leia e concorde com nosso &lt;a href=%1$s&gt;&lt;u&gt;Termo de Acordo do Usuário&lt;/u&gt;&lt;/a&gt; e &lt;a href=%2$s&gt;&lt;u&gt;Política de Privacidade&lt;/u&gt;&lt;/a&gt; anter de usar o Encontrar dispositivo.&lt;br /&gt;"</string>
 	<string name="micloud_manual_syncing">Sincronizando…</string>
 	<string name="micloud_preference_syncing">Sincronizando…</string>
+	<string name="sync_setting_title">Configurações de sincronização</string>
+	<string name="storage_manage_upgrade">Atualizar</string>
+	<string name="warning_bar_action_upgrade_vip">Atualizar</string>
+	<string name="warning_bar_title_cloud_space_already_full">O armazenamento da Mi Cloud está quase cheio. Suas suas fotos podem não ser sincronizadas</string>
+	<string name="warning_bar_action_turn_on_master_sync">Ativar</string>
+	<string name="warning_bar_action_turn_on_sync">Ativar</string>
+	<string name="warning_bar_title_cloud_space_full">O armazenamento da Mi Cloud está cheio. Não é possível sincronizar</string>
+	<string name="warning_bar_title_network_unconnected">Não foi possível conectar-se à rede</string>
+	<string name="warning_bar_title_short_cut">Adicionar um atalho na tela inicial?</string>
+	<string name="warning_bar_title_sync_off">Sincronização desativada</string>
 </resources>
