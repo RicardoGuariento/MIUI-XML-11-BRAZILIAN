@@ -727,4 +727,11 @@ Imprima uma cópia em papel A4 através do Wi-Fi."</string>
 documentos digitalizados automaticamente</string>
   <string name="document_mode_use_hint_text_title">Digitalizar documentos</string>
   <string name="video_beauty_tip_beautification">Embelezar</string>
+  <string name="network_access_user_notice_title">Conexão com a Internet</string>
+  <string name="network_access_user_notice_message_live_video">"A Câmera precisa conectar-se à Internet para fornecer efeitos, música e outras funcionalidades para os vídeos curtos.
+Ao tocar em \"Concordar\", está concordando com os nossos "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Termos de Utilização&lt;/a&gt; e &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Política de Privacidade&lt;/a&gt; e permite que a Câmera conectar-se à Internet</string>
+  <string name="network_access_user_notice_message_sticker">"A Câmera precisa conectar-se à Internet para fornecer stickers.
+Ao tocar em \"Concordar\", está a concordar com os nossos "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Termos de Utilização&lt;/a&gt; e &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Política de Privacidade&lt;/a&gt; e permite que a Câmera conectar-se à Internet</string>
+  <string name="network_access_user_notice_message_voice_caption">"A Câmera precisa conectar-se à Internet para fornecer a funcionalidade de texto para voz.
+Ao tocar em \"Concordar\", está a concordar com os nossos "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Termos de Utilização&lt;/a&gt; e &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Política de Privacidade&lt;/a&gt; e permite que a Câmera conectar-se à Internet</string>
 </resources>
