@@ -295,7 +295,6 @@
 	<string name="ringtone_digital_timer">Temporizador</string>
 	<string name="time_settings">Configurações do relógio</string>
 	<string name="timer_ringtone">Toque do temporizador</string>
-	<string name="bedtime_manage_tip">Gerenciar a sua hora de dormir</string>
 	<string name="bedtime_welcome">Gerenciar a sua hora de dormir</string>
 	<string name="bedtime_welcome_desc">Manter um horário de sono regular e consistente beneficia a sua saúde. Configure lembretes que vão lhe ajudar a ir para a cama e acordar todos os dias</string>
 	<string name="bedtime_guide_back_desc">Você não receberá alertas da hora de dormir se sair agora. Sair mesmo assim?</string>
