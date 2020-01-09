@@ -946,4 +946,5 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
 	<string name="comment_success">Comentário adicionado com sucesso</string>
 	<string name="feedback_not_interested_response">Você verá poucos itens deste tipo</string>
 	<string name="short_video_network_error">Ocorreu um erro de rede. Verifique as configurações de sua rede e tente novamente.</string>
+	<string name="vo_mi_ad_detail">Abrir em %s</string>
 </resources>

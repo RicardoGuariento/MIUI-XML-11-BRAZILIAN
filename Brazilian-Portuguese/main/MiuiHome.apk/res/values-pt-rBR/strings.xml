@@ -405,5 +405,6 @@
 	<string name="category_edit_back_confirm_dialog_content">Salvar alterações agora?</string>
 	<string name="category_edit_back_confirm_dialog_negative_button">Não salvar</string>
 	<string name="category_edit_back_confirm_dialog_positive_button">Salvar</string>
-	<string name="auto_add_app_shortcut">Adicionar aplicativos recém-instalados à tela inicial</string>
+	<string name="auto_add_app_shortcut">Adicionar novos aplicativos à tela inicial</string>
+	<string name="one_key_call_title">Toque para discar</string>
 </resources>

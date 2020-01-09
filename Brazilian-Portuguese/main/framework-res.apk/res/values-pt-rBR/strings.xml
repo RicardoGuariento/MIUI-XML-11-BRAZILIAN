@@ -1620,5 +1620,5 @@ Quer fechá-la?"</string>
 	<string name="permdesc_mediaLocation">Permite que esse aplicativo leia a localização da sua coleção de mídia.</string>
 	<string name="permlab_accessBackgroundLocation">Acessar localização em segundo plano</string>
 	<string name="permdesc_accessBackgroundLocation">Se isso for concedido adicionalmente ao acesso aproximado ou preciso ao local, o aplicativo poderá acessar o local durante a execução em segundo plano.</string>
-	<string name="slatoast">O uso de dados móveis para aumentar a velocidade pode consumir dados móveis</string>
+	<string name="slatoast">O uso de dados móveis para aumentar a velocidade pode gerar taxas adicionais da operadora</string>
 </resources>

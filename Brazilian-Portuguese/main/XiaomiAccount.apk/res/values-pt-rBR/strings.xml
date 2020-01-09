@@ -63,10 +63,7 @@
     <string name="passport_international_register_by_email">Criar uma conta com um endereço de e-mail</string>
     <string name="passport_account_not_actived">A sua conta não foi ativada</string>
     <string name="passport_active_email_visit">Verifique sua caixa de entrada em %s</string>
-    <string name="passport_click_email_to_valid">"
-
-Para ativar sua conta, siga o
- link que enviamos para sua caixa de entrada."</string>
+	<string name="passport_click_email_to_valid">Para ativar sua conta, veja o link que enviamos para sua caixa de entrada</string>
     <string name="passport_resend_active_email">Reenviar e-mail</string>
     <string name="passport_failed_to_send_activate_email">Não foi possível enviar o e-mail de ativação</string>
     <string name="passport_reg_success">Conta criada</string>

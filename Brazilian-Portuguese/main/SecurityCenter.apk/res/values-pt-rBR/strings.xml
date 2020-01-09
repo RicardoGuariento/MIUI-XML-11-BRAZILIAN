@@ -2719,11 +2719,11 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="power_save_mode_close_xiaoai_wakeup_summary">Funciona quando a economia de bateria estiver ativada</string>
 	<string name="power_save_mode_close_xiaoai_wakeup_title">Não inicializa o Mi AI com a voz</string>
 	<string name="power_save_mode_other_optimization">Otimização opcional</string>
-	<string name="power_save_ps_close_setting">Desative serviços e recursos com alto consumo de energia (sincronização, GPS, resposta tátil, \ "Levantar para ligar \", \ "Toque duas vezes para ligar ou desligar a tela \", \ "Mostrar ícone de impressão digital quando a tela estiver desligada \" ) para economizar bateria</string>
-	<string name="power_save_ps_close_setting_5g">Desative serviços e recursos com alto consumo de energia (sincronização, conectividade de rede 5G, GPS, resposta tátil, \ "Levante para ligar \", \ "Toque duas vezes para ligar ou desligar a tela \", \ "Mostrar ícone de impressão digital quando a tela está desligada \ ") para economizar bateria</string>
+	<string name="power_save_ps_close_setting">Desative serviços e recursos com alto consumo de energia (sincronização, GPS, resposta tátil, \ "Levantar para ligar \" e \ "Mostrar ícone de impressão digital quando a tela estiver desligada \" ) para economizar bateria</string>
+	<string name="power_save_ps_close_setting_5g">Desative serviços e recursos com alto consumo de energia (sincronização, conectividade de rede 5G, GPS, resposta tátil, \ "Levante para ligar \" e \ "Mostrar ícone de impressão digital quando a tela está desligada \ ") para economizar bateria</string>
 	<string name="power_setting_scenario_policies_summary">Identifica cenários para trocar entre modos de economia de bateria automaticamente</string>
-	<string name="power_save_ps_close_setting_5g_q">Desative serviços e recursos com alto consumo de energia (sincronização, GPS, resposta tátil, \ "Levantar para ligar \", \ "Toque duas vezes para ligar ou desligar a tela \", \ "Mostrar ícone de impressão digital quando a tela estiver desligada \" )</string>
-	<string name="power_save_ps_close_setting_q">Desative serviços e recursos com alto consumo de energia (sincronização, conectividade de rede 5G, GPS, resposta tátil, \ "Levante para ligar \", \ "Toque duas vezes para ligar ou desligar a tela \", \ "Mostrar ícone de impressão digital quando a tela está desligada \ ")</string>
+	<string name="power_save_ps_close_setting_5g_q">Desative serviços e recursos com alto consumo de energia (sincronização, GPS, resposta tátil, \ "Levantar para ligar \" e \ "Mostrar ícone de impressão digital quando a tela estiver desligada \" )</string>
+	<string name="power_save_ps_close_setting_q">Desative serviços e recursos com alto consumo de energia (sincronização, conectividade de rede 5G, GPS, resposta tátil, \ "Levante para ligar \" e \ "Mostrar ícone de impressão digital quando a tela está desligada \ ")</string>
 	<string name="alert_back_milink_hangup_tips_content_vb">A transmissão não será interrompida quando a tela estiver desligada e o aplicativo estiver funcionando em segundo plano. Você pode pressionar o botão Liga/Desliga para ligar a tela novamente.</string>
 	<string name="appcleaner_wechat_notification_garbage_cleanup_summary">Limpar %s do cache do WeChat para liberar espaço de armazenamento</string>
 	<string name="appcleaner_wechat_notification_garbage_cleanup_title">Não se esqueça de limpar o cache</string>
@@ -2880,4 +2880,10 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
 	<string name="vtb_func_frc_title">Suavização de movimento</string>
 	<string name="vtb_func_vpp_desc4">"Esse recurso não funcionará quando a resolução do vídeo for superior a 4K."</string>
 	<string name="vtb_func_vpp_title">Contornos aprimorados</string>
+	<string name="gb_voice_changer_dlg_button_agree">Allow</string>
+	<string name="gb_voice_changer_dlg_button_refuse">Restrict</string>
+	<string name="gb_voice_changer_permission_dlg_msg">Voice changer needs to be able to record audio to work normally.</string>
+	<string name="gb_voice_changer_permission_dlg_title">Permissions required</string>
+	<string name="gtb_exit_game_to_gtb">Abrir Gamebox</string>
+	<string name="gtb_exit_game_to_home">Voltar à tela inicial</string>
 </resources>

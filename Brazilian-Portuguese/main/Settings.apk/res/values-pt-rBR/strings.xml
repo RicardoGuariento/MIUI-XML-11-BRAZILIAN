@@ -7228,4 +7228,5 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="use_otg_file_transfers">Carregamento reverso  e transferência de arquivos</string>
   <string name="use_otg_file_transfers_summary">Carregamento lento de 500mA e transferência de arquivos</string>
   <string name="use_otg_title">USB On-The-Go</string>
+  <string name="call_example_name">Nome</string>
 </resources>
