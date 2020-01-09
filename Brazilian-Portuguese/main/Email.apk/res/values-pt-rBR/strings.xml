@@ -1179,8 +1179,5 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="xiaomi_auth_toastbar">Entre para autorizar seu dispositivo</string>
 	<string name="xiaomi_email">E-mail</string>
 	<string name="xiaomi_under_certification">Autorizando…</string>
-	<string name="account_settings_preference_add_account">Adicionar conta de e-mail</string>
-	<string name="mailbox_name_display_add_account">Adicionar conta de e-mail</string>
-	<string name="open_androidp_warning">Avisar sobre SDKs 9.0 não oficiais</string>
 	<string name="show_more_attachment">Mais anexos</string>
 </resources>
