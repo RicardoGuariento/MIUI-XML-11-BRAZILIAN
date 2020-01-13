@@ -736,7 +736,6 @@ Ao tocar em \"Concordar\", está a concordar com os nossos "&lt;a href="http://w
 Ao tocar em \"Concordar\", está a concordar com os nossos "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Termos de Utilização&lt;/a&gt; e &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Política de Privacidade&lt;/a&gt; e permite que a Câmera conectar-se à Internet</string>
 <string name="lying_direct_hint">Orientação atual</string>
 <string name="macro_mode">Macro</string>
-<string name="macro_mode_tip">"A distância entre a lente e o objeto não deve exceder 10cm"</string>
 <string name="macro_mode_use_hint_text_body">"Use o modo Macro para fazer com que objetos pequenos
 fiquem maiores nas fotos"</string>
 <string name="macro_mode_use_hint_text_title">Macro</string>

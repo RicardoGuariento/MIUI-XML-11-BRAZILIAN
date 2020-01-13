@@ -458,4 +458,10 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
 	<string name="warning_bar_title_network_unconnected">Não foi possível conectar-se à rede</string>
 	<string name="warning_bar_title_short_cut">Adicionar um atalho na tela inicial?</string>
 	<string name="warning_bar_title_sync_off">Sincronização desativada</string>
+	<string name="check_contact">Adicionar</string>
+	<string name="choose_contact_title">Contatos</string>
+	<string name="picker_list_empty">Não há contatos aqui</string>
+	<string name="picker_search_empty">Não foi possível encontrar contatos</string>
+	<string name="picker_search_hint">Pesquisar</string>
+	<string name="starred_contact">Favoritos</string>
 </resources>

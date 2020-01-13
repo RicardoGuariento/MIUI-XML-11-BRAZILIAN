@@ -76,4 +76,8 @@
         <item quantity="other">Retomando sincronização em %d minutos</item>
         <item quantity="one">Retomando sincronização em %d minuto</item>
     </plurals>
+	<plurals name="select_no_more_than">
+        <item quantity="other">Não é possível selecionar mais do que %d itens"</item>
+        <item quantity="one">Não é possível selecionar mais do que %d item"</item>
+    </plurals>
 </resources>

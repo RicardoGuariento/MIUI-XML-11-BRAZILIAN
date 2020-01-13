@@ -380,4 +380,7 @@ N: sem teste"</string>
 1.Abra automaticamente a câmera para entrar na interface de visualização
 2.Aguarde a conclusão da visualização e retorne automaticamente</string>
 <string name="mtb_tool_modem_cdma_manager">Gerenciador CDMA Cap</string>
+<string name="cit_front_camera_motor_cali_fail">A calibração do motor falhou</string>
+<string name="cit_front_camera_motor_cali_success">Motor calibrado com sucesso</string>
+<string name="cit_front_camera_motor_cali_tips">Não bloqueie a câmera durante o processo de calibração do motor da câmera pop-up</string>
 </resources>

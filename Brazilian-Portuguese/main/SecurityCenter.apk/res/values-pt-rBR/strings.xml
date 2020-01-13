@@ -2719,11 +2719,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="power_save_mode_close_xiaoai_wakeup_summary">Funciona quando a economia de bateria estiver ativada</string>
 	<string name="power_save_mode_close_xiaoai_wakeup_title">Não inicializa o Mi AI com a voz</string>
 	<string name="power_save_mode_other_optimization">Otimização opcional</string>
-	<string name="power_save_ps_close_setting">Desative serviços e recursos com alto consumo de energia (sincronização, GPS, resposta tátil, \ "Levantar para ligar \" e \ "Mostrar ícone de impressão digital quando a tela estiver desligada \" ) para economizar bateria</string>
-	<string name="power_save_ps_close_setting_5g">Desative serviços e recursos com alto consumo de energia (sincronização, conectividade de rede 5G, GPS, resposta tátil, \ "Levante para ligar \" e \ "Mostrar ícone de impressão digital quando a tela está desligada \ ") para economizar bateria</string>
 	<string name="power_setting_scenario_policies_summary">Identifica cenários para trocar entre modos de economia de bateria automaticamente</string>
-	<string name="power_save_ps_close_setting_5g_q">Desative serviços e recursos com alto consumo de energia (sincronização, GPS, resposta tátil, \ "Levantar para ligar \" e \ "Mostrar ícone de impressão digital quando a tela estiver desligada \" )</string>
-	<string name="power_save_ps_close_setting_q">Desative serviços e recursos com alto consumo de energia (sincronização, conectividade de rede 5G, GPS, resposta tátil, \ "Levante para ligar \" e \ "Mostrar ícone de impressão digital quando a tela está desligada \ ")</string>
 	<string name="alert_back_milink_hangup_tips_content_vb">A transmissão não será interrompida quando a tela estiver desligada e o aplicativo estiver funcionando em segundo plano. Você pode pressionar o botão Liga/Desliga para ligar a tela novamente.</string>
 	<string name="appcleaner_wechat_notification_garbage_cleanup_summary">Limpar %s do cache do WeChat para liberar espaço de armazenamento</string>
 	<string name="appcleaner_wechat_notification_garbage_cleanup_title">Não se esqueça de limpar o cache</string>
@@ -2889,4 +2885,16 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
 	<string name="create_gamebooster_destop">Atalho criado na tela inicial</string>
 	<string name="gs_advanced_setting_title">Configurações adicionais</string>
 	<string name="gs_advanced_setting_summary">Configurações para jogos individualmente</string>
+	<string name="power_save_ps_close_setting_3">Desative serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s)</string>
+	<string name="power_save_ps_close_setting_4">Desative serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s)</string>
+	<string name="power_save_ps_close_setting_5">Desative serviços e recursos com alto consumo de energia (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
+	<string name="power_save_ps_close_setting_5gnet">Conectividade da rede 5G</string>
+	<string name="power_save_ps_close_setting_6">Desative serviços e recursos com alto consumo de energi (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
+	<string name="power_save_ps_close_setting_7">Desative serviços e recursos com alto consumo de energi (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
+	<string name="power_save_ps_close_setting_dclickwakeup">\"Toque duas vezes para ligar ou desligar a tela\"</string>
+	<string name="power_save_ps_close_setting_fingeraod">\"Mostrar ícone de impressão digital quando a tela está desligada\"</string>
+	<string name="power_save_ps_close_setting_gps">GPS</string>
+	<string name="power_save_ps_close_setting_haptic">Resposta tátil</string>
+	<string name="power_save_ps_close_setting_pickupwakeup">\"Levantar para ligar\"</string>
+	<string name="power_save_ps_close_setting_sync">Sincronizar</string>
 </resources>

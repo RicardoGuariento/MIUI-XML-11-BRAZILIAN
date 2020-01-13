@@ -1621,4 +1621,6 @@ Quer fechá-la?"</string>
 	<string name="permlab_accessBackgroundLocation">Acessar localização em segundo plano</string>
 	<string name="permdesc_accessBackgroundLocation">Se isso for concedido adicionalmente ao acesso aproximado ou preciso ao local, o aplicativo poderá acessar o local durante a execução em segundo plano.</string>
 	<string name="slatoast">O uso de dados móveis para aumentar a velocidade pode gerar taxas adicionais da operadora</string>
+	<string name="help">Ver ajuda</string>
+	<string name="help_content">Se não encontrar o dispositivo que precisa, peça à outra pessoa para ativar o Mi Share.</string>
 </resources>

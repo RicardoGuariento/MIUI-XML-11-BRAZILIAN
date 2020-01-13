@@ -692,4 +692,5 @@
   <string name="function_file_operation">Para acessar e abrir arquivos</string>
   <string name="function_set_private">Para ver e criptografar arquivos</string>
   <string name="function_use_imei">Para acessar o IMEI e criptografar arquivos</string>
+  <string name="error_hint_copy_folder_to_self_or_sub">Não é possível mover ou copiar pastas para si mesmas ou para suas subpastas</string>
 </resources>

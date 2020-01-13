@@ -2015,4 +2015,8 @@ uma captura de tela contínua"</string>
 	<string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Não mostrar novamente</string>
 	<string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Alternando entre as redes</string>
 	<string name="quick_settings_wifi_detail_dual_wifi_switching_summary">O aumento da velocidade do Dual Wi-Fi precisa usar duas bandas Wi-Fi diferentes. Se você se conectar a uma rede principal diferente, a conexão auxiliar será perdida.</string>
+	<string name="accessibility_status_bar_micphone">Microfone conectado</string>
+	<string name="how_to_use_app_quick">Como alternar entre aplicativos</string>
+	<string name="how_to_use_app_quick_hide_line_summary">Deslize para cima a partir da parte inferior da tela e deslize para a esquerda ou direita</string>
+	<string name="how_to_use_app_quick_summary">Deslize para a esquerda ou direita a partir do indicador de tela cheia ou na parte inferior da tela</string>
 </resources>
