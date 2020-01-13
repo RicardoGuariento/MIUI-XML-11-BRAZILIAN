@@ -2205,7 +2205,7 @@ Você não perderá nenhum dado de aplicativos."</string>
     <string name="application_item_already_permission">Permitido</string>
     <string name="man_add_application">Adicionar aplicativos de início automático</string>
     <string name="power_autorun_apps_empty">Nenhum aplicativo com início automático</string>
-    <string name="shield_keyboard_title">Desligar botões</string>
+    <string name="shield_keyboard_title">Desativar botões</string>
     <string name="shield_keyboard_detail">Dê um toque duplo nos botões para religá-los</string>
     <string name="anti_disturb_msg_title">Não perturbe</string>
     <string name="anti_disturb_msg_detail">Desativar todas as notificações exceto para chamadas recebidas</string>
@@ -2220,7 +2220,7 @@ Você não perderá nenhum dado de aplicativos."</string>
     <string name="auto_booster_suc">Otimizado com sucesso</string>
     <string name="auto_back_booster">Parar otimização</string>
     <string name="support_game_booster_tips">Otimizar velocidade e melhorar a experiência em jogos</string>
-    <string name="setting">Configuraçõies</string>
+    <string name="setting">Configurações</string>
     <string name="loading">Aguarde…</string>
     <string name="auto_import_games">Coloque todos os seus jogos em um só lugar</string>
     <string name="game_more_improve">Restringir atividades em segundo plano e velocidade de download para economizar banda e bateria para jogos</string>
@@ -2564,7 +2564,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="function_shield_eye_shield">Desativar modo leitura</string>
     <string name="function_shield_pull_notification_bar">"Não abrir a sombra das notificações"</string>
     <string name="function_shield_settings_title">restringir os seguintes recursos enquanto estiver jogando</string>
-    <string name="function_shield_summary">Restringer recursos do sistema selecionados enquanto estiver jogando</string>
+    <string name="function_shield_summary">Restringir recursos do sistema selecionados enquanto estiver jogando</string>
     <string name="function_shield_three_finger">Restringir gestos de captura de tela</string>
 	<string name="gs_show_way">Orientação da tela inicial</string>
     <string name="gs_show_way_horizontal">Horizontal</string>
@@ -2886,4 +2886,7 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
 	<string name="gb_voice_changer_permission_dlg_title">Permissions required</string>
 	<string name="gtb_exit_game_to_gtb">Abrir Gamebox</string>
 	<string name="gtb_exit_game_to_home">Voltar à tela inicial</string>
+	<string name="create_gamebooster_destop">Atalho criado na tela inicial</string>
+	<string name="gs_advanced_setting_title">Configurações adicionais</string>
+	<string name="gs_advanced_setting_summary">Configurações para jogos individualmente</string>
 </resources>
