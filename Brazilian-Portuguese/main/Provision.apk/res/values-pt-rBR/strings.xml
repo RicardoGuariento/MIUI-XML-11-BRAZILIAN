@@ -121,4 +121,6 @@ Você deve concordar com a Política de Privacidade do Kika antes de usar este r
 	<string name="skip_gesture_guide_dialog_message">Certifique-se que sabe utilizar os gestos em tela cheia antes de selecionar esta opção</string>
 	<string name="skip_gesture_guide_dialog_title">Gestos em tela cheia</string>
 	 <string name="service_name_download">Downloads</string>
+	 <string name="data_traffic_enable_dialog_title">Se você não está conectado ao Wi-Fi agora, seu dispositivo usará dados móveis. O uso de dados móveis pode gerar taxas adicionais da operadora.</string>
+	 <string name="other_settings_enhanced_lockscreen_for_india">Acene para o Mi</string>
 </resources>
