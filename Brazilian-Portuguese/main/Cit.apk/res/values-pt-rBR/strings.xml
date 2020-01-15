@@ -383,4 +383,8 @@ N: sem teste"</string>
 <string name="cit_front_camera_motor_cali_fail">A calibração do motor falhou</string>
 <string name="cit_front_camera_motor_cali_success">Motor calibrado com sucesso</string>
 <string name="cit_front_camera_motor_cali_tips">Não bloqueie a câmera durante o processo de calibração do motor da câmera pop-up</string>
+<string name="cit_charge_usb_dcp">Carregando： USB_DCP</string>
+<string name="cit_charge_usb_hvdcp">Carregando： USB_HVDCP</string>
+<string name="cit_charge_usb_pd">Carregando: USB_PD</string>
+<string name="cit_charger_test_tips_pd">A máquina atual precisa testar o USB_PD</string>
 </resources>

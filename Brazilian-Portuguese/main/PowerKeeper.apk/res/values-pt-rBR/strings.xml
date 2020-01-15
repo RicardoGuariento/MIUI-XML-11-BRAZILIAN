@@ -101,4 +101,6 @@ A Economia de bateria irá tratar aplicativos importantes de forma seletiva."</s
     <string name="atrace_start">Gravando log do atrace…</string>
     <string name="atrace_saving">Salvando log do atrace…</string>
     <string name="atrace_saved">Salvo com sucesso</string>
+	<string name="power_tools_current">Atual</string>
+	<string name="power_tools_fps">FPS</string>
 </resources>
