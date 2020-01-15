@@ -2897,4 +2897,6 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
 	<string name="power_save_ps_close_setting_haptic">Resposta tátil</string>
 	<string name="power_save_ps_close_setting_pickupwakeup">\"Levantar para ligar\"</string>
 	<string name="power_save_ps_close_setting_sync">Sincronizar</string>
+	<string name="antispam_mms_text">Defina Mensagens como seu aplicativo de SMS padrão para poder visualizar mensagens bloqueadas</string>
+	<string name="antispam_mms_text_setting">Defina Mensagens como seu aplicativo de SMS padrão para poder usar a lista de bloqueio</string>
 </resources>

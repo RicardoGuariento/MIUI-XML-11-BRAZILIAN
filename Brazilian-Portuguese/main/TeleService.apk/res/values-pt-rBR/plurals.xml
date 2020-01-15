@@ -34,4 +34,12 @@
         <item quantity="other">%1$d dispositivos conectados</item>
         <item quantity="one">%1$d dispositivo conectado</item>
     </plurals>
+	<plurals name="day">
+        <item quantity="other">%s dias</item>
+        <item quantity="one">%s dia</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
 </resources>

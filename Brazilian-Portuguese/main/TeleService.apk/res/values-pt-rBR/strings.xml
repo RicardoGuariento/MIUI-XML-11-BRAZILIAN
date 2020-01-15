@@ -1561,4 +1561,12 @@ Este tablet não possui auriculares. Você pode alterar para o modo viva-voz ou 
 	<string name="incall_error_outgoing_call_failed">Não foi possível fazer ligação</string>
 	<string name="notification_demo_version_text">Não é possível fazer chamadas ou usar os dados móveis</string>
 	<string name="notification_demo_version_title">Este é um dispositivo de demonstração</string>
+	<string name="mobile_advanced_nr_network_title">Tipo de rede 5G</string>
+	<string name="nr_network_info">5G network usage info</string>
+	<string name="nr_usaged_first_used_time">Registrado na rede 5G</string>
+	<string name="nr_usaged_module">Modelo do dispositivo</string>
+	<string name="nr_usaged_network_rate">Maior velocidade</string>
+	<string name="nr_usaged_network_usaged">Dados de hoje</string>
+	<string name="nr_usaged_operator">Operadora</string>
+	<string name="nr_usaged_used_time">Duração do uso</string>
 </resources>

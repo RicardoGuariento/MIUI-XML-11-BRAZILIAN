@@ -7238,4 +7238,6 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="navigation_guide_gesture_line_dialog_title">Aprenda um novo gesto</string>
   <string name="navigation_guide_hide_gesture_line_summary">Não mostrar indicador de tela cheia ao usar gestos de tela cheia</string>
   <string name="navigation_guide_hide_gesture_line_title">Ocultar indicador de tela cheia</string>
+  <string name="power_monitor_summary">Ferramentas usadas para monitorar o consumo de energia.</string>
+  <string name="power_monitor_title">Monitor de consumo de energia</string>
 </resources>
