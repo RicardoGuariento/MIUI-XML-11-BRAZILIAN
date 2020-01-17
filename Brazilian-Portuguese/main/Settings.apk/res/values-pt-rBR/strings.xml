@@ -7008,7 +7008,7 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="choose_unlock_face_msg">Escolha um bloqueio de tela antes de registrar os dados faciais.</string>
     <string name="choose_unlock_fingerprint_msg">Escolha um bloqueio de tela antes de registrar as impressões digitais.</string>
     <string name="fingerprint_wakeup_summary">Ligue a tela quando nenhuma impressão digital for registrada.</string>
-    <string name="fingerprint_wakeup_title">Toque no senhor de impressão digital para ligar</string>
+    <string name="fingerprint_wakeup_title">Toque no sensor de impressão digital para ligar</string>
 	<string name="miui_lab_gesture_desc">Use gestos ao invés de botões para navegação</string>
     <string name="miui_lab_gesture_title">Gestos em tela cheia</string>
 	<string name="search_ambient_display_screen_title">Tela ambiente;Exibições ambiente;Exibição ambiente</string>
