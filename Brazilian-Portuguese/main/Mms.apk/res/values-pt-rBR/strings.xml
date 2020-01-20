@@ -854,4 +854,6 @@ Tentativas efetuadas: %s."</string>
 	<string name="turn_on">Ativar</string>
 	<string name="user_term">Termo de Acordo do Usuário</string>
 	<string name="yulore_term">Política de Privacidade</string>
+	<string name="notification_add_todo">Me lembre</string>
+	<string name="notification_add_todo_content">Código de retirada: %s</string>
 </resources>
