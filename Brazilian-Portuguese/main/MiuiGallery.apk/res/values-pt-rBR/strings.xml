@@ -88,7 +88,7 @@
     <string name="alert_secret_album_message">Deslize para baixo na visualização de Álbuns para ver o álbum oculto.</string>
     <string name="alert_secret_album_message_lower_case"> deslize para baixo na lista de Álbuns para ver</string>
     <string name="alert_secret_album_title">Como ver o álbum oculto</string>
-    <string name="alert_selection_description">A IA marca a melhor fotos entre imagens semelhantes com uma estrela.</string>
+    <string name="alert_selection_description">A IA marca a melhor foto entre imagens semelhantes com uma estrela.</string>
     <string name="alert_selection_title">Selecionado pela IA</string>
     <string name="all_faces">Fotos com esta pessoa</string>
     <string name="all_items_synced">Todos os álbuns foram salvos na Mi Cloud</string>
