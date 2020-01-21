@@ -102,4 +102,24 @@ O próximo vídeo será reproduzido em %d segundos…</item>
         <item quantity="one">Não foi possível carregar o vídeo.
 O próximo vídeo será reproduzido em %d segundo…</item>
     </plurals>
+	<plurals name="comment_detail_title">
+        <item quantity="other">%d respostas</item>
+        <item quantity="one">%d resposta</item>
+    </plurals>
+    <plurals name="comment_hour_ago">
+        <item quantity="other">%d horas atrás</item>
+        <item quantity="one">%d hora atrás</item>
+    </plurals>
+    <plurals name="comment_look_all">
+        <item quantity="other">Ver %d comentários</item>
+        <item quantity="one">Ver %d comentário</item>
+    </plurals>
+    <plurals name="comment_minute_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">%d minuto atrás</item>
+    </plurals>
+    <plurals name="comment_selected">
+        <item quantity="other">Selecionadas %d razões</item>
+        <item quantity="one">Selecionada %d razão</item>
+    </plurals>
 </resources>
