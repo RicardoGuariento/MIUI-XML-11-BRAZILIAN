@@ -105,7 +105,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="dialog_permission_loading_msg">Verificando…</string>
   <string name="dialog_privacy_policy_statement">Declaração de Política de Privacidade</string>
   <string name="dialog_privacy_title">Termos e condições</string>
-  <string name="dialog_read_phone_perm_desc">Para acessar o ID do dispositivo e identificar o seu dispositivo</string>
+  <string name="dialog_read_phone_perm_desc">Para identificar recursos do dispositivo usando OAID ou Android ID</string>
   <string name="dialog_sleep_goal_setting">Definir metas de sono</string>
   <string name="dialog_sleep_goal_subtitle">Obter 7 a 9 horas de sono todos os dias</string>
   <string name="dialog_sleep_goal_title">Metas de duração do sono</string>
@@ -398,4 +398,18 @@ Atualizar agora?"</string>
   <string name="weight_trend_offset_date">"De %1$s até %2$s: "</string>
   <string name="weight_unit_kg">kg</string>
   <string name="year">Ano</string>
+  <string name="collect_diagnosis_log">Coletar log de diagnóstico</string>
+  <string name="delete_all_data_sources">Excluir todas as fontes de dados</string>
+  <string name="delete_all_data_sources_description">Excluir todas as fontes de dados adicionadas?</string>
+  <string name="diagnosis_log_send_failed">Falha ao enviar log de diagnóstico.</string>
+  <string name="diagnosis_log_sent_format">"O log de diagnóstico foi enviado.
+ID:%s
+Por favor, envie este código para o técnico."</string>
+  <string name="dialog_account_perm_desc">Para acessar a conta do sistema</string>
+  <string name="for_diagnosis_usage_only">Use essa informação apenas para diagnóstico.</string>
+  <string name="passport_oauth_actionbar_title">Conta Mi</string>
+  <string name="passport_oauth_sucess_tip">Autorizado com sucesso</string>
+  <string name="send_diagnosis_log">Enviar log de diagnóstico</string>
+  <string name="sending">Enviando…</string>
+  <string name="temporary_not_available">Temporariamente não disponível</string>
 </resources>
