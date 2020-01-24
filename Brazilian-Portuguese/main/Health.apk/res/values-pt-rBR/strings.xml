@@ -130,7 +130,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="expand_button_title">Avançado</string>
   <string name="exposed_dropdown_menu_content_description">Mostrar menu</string>
   <string name="feedback_need_permission_msg">Permitir que o Mi Health escreva no armazenamento externo para poder gerar registos para enviar comentários</string>
-  <string name="feedback_permission_denied_msg">O Mi Healtj não consegue salvar registos no armazenamento externo. Conceda ao Mi Health as permissões necessárias em Configurações</string>
+  <string name="feedback_permission_denied_msg">O Mi Health não consegue salvar registos no armazenamento externo. Conceda ao Mi Health as permissões necessárias em Configurações</string>
   <string name="finish">Concluir</string>
   <string name="gender_female">Feminino</string>
   <string name="gender_male">Masculino</string>
@@ -412,4 +412,14 @@ Por favor, envie este código para o técnico."</string>
   <string name="send_diagnosis_log">Enviar log de diagnóstico</string>
   <string name="sending">Enviando…</string>
   <string name="temporary_not_available">Temporariamente não disponível</string>
+  <string name="delete_all_data">Excluir todos os dados</string>
+  <string name="add_data_source_open_sync">Ativar a sincronização com a Mi Cloud para adicionar origens de dados</string>
+  <string name="open_sync">Ativar sincronização</string>
+  <string name="add_data_source">Adicionando dados</string>
+  <string name="health_data_cloud_sync_title">Sincronização com a Mi Cloud</string>
+  <string name="sync_status_in_progress">Sincronizando…</string>
+  <string name="sync_status_network_failure">Não foi possível sincronizar. Conecte-se à rede e tente novamente</string>
+  <string name="sync_is_off">Sincronização desativada</string>
+  <string name="sync_set_network">Configurações de rede</string>
+  <string name="health_cloud_service">Mi Cloud</string>
 </resources>
