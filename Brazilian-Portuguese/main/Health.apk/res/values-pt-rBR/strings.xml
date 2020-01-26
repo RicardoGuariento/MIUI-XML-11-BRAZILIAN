@@ -422,4 +422,6 @@ Por favor, envie este código para o técnico."</string>
   <string name="sync_is_off">Sincronização desativada</string>
   <string name="sync_set_network">Configurações de rede</string>
   <string name="health_cloud_service">Mi Cloud</string>
+  <string name="guide_data_cloud_sync_tip">Pode desativar a sincronização em Configurações > Conta Mi</string>
+  <string name="health_data_cloud_sync_subtitle">Sincronizar os seus dados com a Mi Cloud e acessar de qualquer dispositivo</string>
 </resources>
