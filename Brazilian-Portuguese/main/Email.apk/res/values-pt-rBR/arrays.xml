@@ -75,6 +75,6 @@
     </string-array>
 	 <string-array name="prefEntries_contact_add">
         <item>Todos</item>
-        <item>Apenas destinatários</item>
+        <item>Apenas remetentes</item>
     </string-array>
 </resources>
