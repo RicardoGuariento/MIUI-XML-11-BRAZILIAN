@@ -398,4 +398,6 @@ Atualizar agora?"</string>
   <string name="weight_trend_offset_date">"De %1$s até %2$s: "</string>
   <string name="weight_unit_kg">kg</string>
   <string name="year">Ano</string>
+  <string name="health_data_cloud_sync_subtitle">Sincronizar os seus dados com a Mi Cloud e acessar de qualquer dispositivo</string>
+  <string name="guide_data_cloud_sync_tip">Pode desativar a sincronização em Configurações &gt; Conta Mi</string>
 </resources>
