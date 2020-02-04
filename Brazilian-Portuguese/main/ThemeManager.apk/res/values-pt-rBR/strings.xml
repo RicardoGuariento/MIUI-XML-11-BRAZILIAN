@@ -712,4 +712,5 @@ Para desativar este recureso, vá em Configurações &gt; Som e vibração &gt; 
 	<string name="wallpaper_online_no_more">"Por hora, é tudo"</string>
 	<string name="wallpaper_online_tip">Conecte-se à rede para ver mais itens</string>
 	<string name="wallpaper_static">Estático</string>
+	<string name="present_local_fonts">Minhas fontes</string>
 </resources>
