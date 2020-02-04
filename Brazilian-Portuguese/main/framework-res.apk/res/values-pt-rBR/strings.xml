@@ -1028,7 +1028,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="permgroupdesc_microphone">Grave áudio</string>
     <string name="permgroupdesc_phone">Faça e gerencie chamadas telefônicas</string>
     <string name="permgroupdesc_sensors">Acesse dados do sensor sobre seus sinais vitais</string>
-    <string name="permgroupdesc_sms">Envie e veja mensagens SMS</string>
+    <string name="permgroupdesc_sms">Enviar e ler mensagens SMS</string>
     <string name="permgroupdesc_storage">Acesse fotos, mídia e arquivos do dispositivo</string>
     <string name="permgrouplab_calendar">Agenda</string>
     <string name="permgrouplab_calllog">Registro de chamadas</string>
@@ -1136,7 +1136,7 @@ para a conta %s."</string>
     <string name="permlab_runInBackground">Executar em segundo plano</string>
     <string name="permlab_sdcardRead">Ler conteúdo do armaz. USB</string>
     <string name="permlab_sdcardWrite">Modificar ou excluir conteúdo do armazenamento USB</string>
-    <string name="permlab_sendSms">Envie e veja mensagens SMS</string>
+    <string name="permlab_sendSms">Enviar e ler mensagens SMS</string>
     <string name="permlab_setAlarm">Definir um alarme</string>
     <string name="permlab_setInputCalibration">Alterar calibragem do dispositivo de entrada</string>
     <string name="permlab_setTimeZone">Definir fuso horário</string>

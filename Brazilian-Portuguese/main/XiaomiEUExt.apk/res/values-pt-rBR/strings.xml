@@ -10,4 +10,8 @@
   <string name="reset">Redefinir</string>
   <string name="select_app">Escolha um aplicativo</string>
   <string name="select_apps">Selecionar aplicativos</string>
+  <string name="hide_apps_close">Ícones de aplicativos visíveis</string>
+  <string name="hide_apps_open">Ícones de aplicativos ocultados</string>
+  <string name="home_hide_apps">Ocultar ícones dos aplicativos</string>
+  <string name="loading">Só um momento…</string>
 </resources>

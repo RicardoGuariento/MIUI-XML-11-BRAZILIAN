@@ -434,4 +434,5 @@
 	<string name="recents_title_market">Encontrar aplicativos</string>
 	<string name="recents_title_security_scan">Verificação de segurança</string>
 	<string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponíveis</string>
+	<string name="hide_apps_title">Ocultar ícones dos aplicativos</string>
 </resources>
