@@ -173,7 +173,7 @@
     <string name="item_resource_audio_optional_color_ring">Tom de chamada</string>
     <string name="item_resource_audio_optional_notification_ring">Notificações</string>
     <string name="item_resource_audio_optional_phone_ring">Toque de chamada</string>
-    <string name="live_wallpaper">Pl. de fundo anim.</string>
+    <string name="live_wallpaper">Planos de fundo animados</string>
     <string name="loading">Aguarde…</string>
     <string name="loading_resource_detail_fail">Não é possível carregar o recurso</string>
     <string name="loading_resource_detail_info">Aguarde…</string>
