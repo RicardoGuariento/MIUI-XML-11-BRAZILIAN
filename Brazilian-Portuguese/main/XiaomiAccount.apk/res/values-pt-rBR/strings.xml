@@ -46,7 +46,7 @@
     <string name="passport_input_password_for_login">Este número está associado a uma conta existente, insira a sua senha</string>
     <string name="passport_registered_phone_user_ID">ID do usuário: %s</string>
     <string name="passport_registered_phone_user_name">Usuário: %s</string>
-    <string name="passport_password_req_notice">A senha deve ter de 8 a 16 caracteres e incluir letras e números (sensível a maiúsculas).</string>
+    <string name="passport_password_req_notice">A senha deve ter de 8 a 16 caracteres e incluir letras e números (sensível a maiúsculas e minúsculas).</string>
     <string name="passport_reset_password_prompt">A senha está incorreta</string>
     <string name="passport_reset_password_title">Redefinir senha</string>
     <string name="passport_auto_generate_pwd">Gerar senha segura</string>
@@ -553,4 +553,6 @@ Envie este código para o supervisor."</string>
 	<string name="bind_weixin">Conecte sua conta WeChat</string>
 	<string name="need_install_wechat">Instale o WeChat primeiro</string>
 	<string name="passport_can_not_receive_verification_code">Não consegue receber o código de verificação?</string>
+	<string name="input_new_pwd">Insira uma nova senha</string>
+	<string name="confirm_new_pwd">Confirme a nova senha</string>
 </resources>
