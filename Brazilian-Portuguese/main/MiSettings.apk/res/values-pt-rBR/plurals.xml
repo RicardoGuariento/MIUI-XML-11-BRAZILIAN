@@ -104,6 +104,7 @@
     <plurals name="usage_remain_about_miunte">
         <item quantity="other">≈%s minutos</item>
         <item quantity="one">≈%s minuto</item>
+	</plurals>
 	<plurals name="usage_stats_remain_hour">
         <item quantity="other">%s horas</item>
         <item quantity="one">%s hora</item>
