@@ -645,4 +645,32 @@ Tamanho: %2$s"</string>
 Atualização incremental: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Atualização disponível</string>
   <string name="camera_summary_for_cta">Configurações da câmera</string>
+  <string name="local_back_up_detail_description">"Nota:
+1. Para evitar perda de dados, copie os backups locais para o seu computador.
+2. Sempre copie os backups locais para o seu computador antes de fazer uma restauração de frábrica; caso contrário, seus backups locais serão excluídos.
+3. Onde os backups locais estão armazenados? %1$s"</string>
+  <string name="local_backup_select_activity">Criar um backup</string>
+  <string name="local_button_backup_data">Backup</string>
+  <string name="local_button_backup_now">Backup</string>
+  <string name="local_button_restore_data">Restaurar neste dispositivo</string>
+  <string name="local_button_restore_now">Restaurar</string>
+  <string name="local_click_to_jump">Toque para ver</string>
+  <string name="local_config_off">Desativar</string>
+  <string name="local_config_on">Ativar</string>
+  <string name="local_main_auto_backup_title">Fazer backup automático</string>
+  <string name="local_main_backup">Backups locais</string>
+  <string name="local_main_backup_and_restore">Neste dispositivo</string>
+  <string name="local_main_backup_detail_title">Configurações do sistema, contas e dados de aplicativos</string>
+  <string name="local_main_backup_manage_null">%s</string>
+  <string name="local_main_backup_manager">Gerenciar backups locais</string>
+  <string name="local_main_backup_manager_title">Gerenciar backups</string>
+  <string name="local_main_backup_settings">Configurações do backup local</string>
+  <string name="local_main_backup_time">Último backup: %1$s</string>
+  <string name="local_main_date_format">MM/dd/yyyy HH:mm</string>
+  <string name="local_main_encrypt_backup_summary">Criptografe os itens do backup usando a sua Conta Mi</string>
+  <string name="local_main_encrypt_backup_title">Criptografar backups</string>
+  <string name="local_main_latest_backup_time_loading">Aguarde um momento…</string>
+  <string name="local_no_backup_data">Ainda não há backups aqui</string>
+  <string name="local_restore_select_activity">Gerenciar backups</string>
+  <string name="local_restore_select_data_activity">Restaurar de um backup</string>
 </resources>

@@ -320,4 +320,11 @@ O pacote de instalação vir de uma fonte desconhecida.</string>
   <string name="wear_app_channel">Instalando/desinstalando aplicativos Android Wear</string>
   <string name="wear_not_allowed_dlg_text">Ações de Instalar/Desinstalar não suportadas no Wear.</string>
   <string name="wear_not_allowed_dlg_title">Android Wear</string>
+  <string name="install_app_progress_clear_apk">Excluir APK</string>
+  <string name="install_control_cancel_install">Não instalar</string>
+  <string name="install_control_continue_install">Instalar mesmo assim</string>
+  <string name="install_control_lite_mode_explain_des">Este aplicativo vem de uma fonte desconhecida e pode não funcionar no modo Lite.</string>
+  <string name="install_control_lite_mode_solution_des">Você pode escolher instalar este aplicativo mesmo assim.
+Como alternativa, você pode desativar o modo Lite e tentar novamente.</string>
+  <string name="install_control_normal_mode_explain_des">Não é possível instalar este aplicativo por questões legais</string>
 </resources>

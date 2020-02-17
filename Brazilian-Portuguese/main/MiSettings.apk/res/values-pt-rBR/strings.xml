@@ -187,14 +187,38 @@ Este aplicativo também precisa se conectar à Internet e precisa das seguintes 
   <string name="usage_home_premission_main_summary_new_o">"Bem vindo ao Tempo de tela!
 Para poder funcionar normalmente, este aplicativo precisa coletar informações sobre o tempo de tela: o número de vezes que você desbloqueia o telefone, o nome do aplicativo e a duração do uso do aplicativo são necessários para gerar estatísticas de tempo de tela.
 Este aplicativo também precisa se conectar à Internet e precisa das seguintes permissões para coletar suas informações pessoais:"</string>
-	<string name="usage_home_premission_second_summary_new">"Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Se você não concordar em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, não poderá usar este aplicativo. Você pode revogar sua autorização nas Configurações e desativar o tempo de tela. Se você tiver mais perguntas sobre privacidade, entre em contato conosco em privacy@xiaomi.com."</string>
-	<string name="usage_creating_weekly_report">Criando relatório semanal…</string>
-	<string name="usage_focus_new_summary">Torne-se mais consciente e focado</string>
-	<string name="usage_no_net_summary">Verifique suas configurações de rede e tente novamente</string>
-	<string name="usage_refresh">Tentar novamente</string>
-	<string name="usage_request_error_summary">Ocorreu um erro desconhecido</string>
-	<string name="usage_request_timeout_summary">A solicitação expirou</string>
-	<string name="usage_special_feature">Recursos especiais</string>
-	<string name="usage_weekly_report_summary">Saiba como você passa o tempo com seu dispositivo</string>
+  <string name="usage_home_premission_second_summary_new">"Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Se você não concordar em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, não poderá usar este aplicativo. Você pode revogar sua autorização nas Configurações e desativar o tempo de tela. Se você tiver mais perguntas sobre privacidade, entre em contato conosco em privacy@xiaomi.com."</string>
+  <string name="usage_creating_weekly_report">Criando relatório semanal…</string>
+  <string name="usage_focus_new_summary">Torne-se mais consciente e focado</string>
+  <string name="usage_no_net_summary">Verifique suas configurações de rede e tente novamente</string>
+  <string name="usage_refresh">Tentar novamente</string>
+  <string name="usage_request_error_summary">Ocorreu um erro desconhecido</string>
+  <string name="usage_request_timeout_summary">A solicitação expirou</string>
+  <string name="usage_special_feature">Recursos especiais</string>
+  <string name="usage_weekly_report_summary">Saiba como você passa o tempo com seu dispositivo</string>
   <string name="usage_weekly_report_title">Relatório semanal</string>
+  <string name="usage_current_week_usage">%s em média nos últimos 7 dias</string>
+  <string name="usage_device_limit_app_prolong">Adicionar tempo</string>
+  <string name="usage_device_limit_app_prolong_time1">Adicionar 20 minutos</string>
+  <string name="usage_device_limit_app_prolong_time2">Adicionar 40 minutos</string>
+  <string name="usage_device_limit_app_prolong_time3">Adicionar 60 minutos</string>
+  <string name="usage_device_limit_app_prolong_time4">Não limitar hoje</string>
+  <string name="usage_device_limit_notifation_summary_start">Você atingirá o limite em %1$s"</string>
+  <string name="usage_device_limit_notifation_title">Tempo restante de hoje</string>
+  <string name="usage_device_limit_time_over">Você atingiu o limite de hoje (%1$s)"</string>
+  <string name="usage_reach_device_limit">O tempo acabou! Você atingiu o limite</string>
+  <string name="usage_reach_device_limit_warning_text">Você atingiu o seu tempo de tela de hoje</string>
+  <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
+  <string name="usage_remain_hour_miunte">%1$s %2$s</string>
+  <string name="usage_stats_device_limit">Tempo limite diário de tela</string>
+  <string name="usage_stats_device_limit_summary">Definir limites diários de uso</string>
+  <string name="usage_stats_limit_time_accuracy_title">Precisão da estimativa de tempo restante</string>
+  <string name="usage_stats_limit_time_high_accuracy_summary">Mostrar o tempo restante com precisão a um minuto. Isso aumenta o consumo de energia.</string>
+  <string name="usage_stats_limit_time_high_accuracy_title">Alto</string>
+  <string name="usage_stats_limit_time_low_accuracy_summary">Mostre o tempo restante com precisão a um minuto nas últimas 2 horas restantes para economizar bateria.</string>
+  <string name="usage_stats_limit_time_low_accuracy_title">Baixo</string>
+  <string name="usage_stats_limit_time_warn">Alertas de tempo de tela</string>
+  <string name="usage_stats_limit_time_warn_summary">Mostrar o tempo restante da tela na tela de notificações</string>
+  <string name="usage_stats_limit_time_warn_title">Alertar sobre o tempo restante da tela</string>
+  <string name="usage_stats_no_limit">Exceção de aplicativo</string>
 </resources>

@@ -1623,4 +1623,6 @@ Quer fechá-la?"</string>
 	<string name="slatoast">O uso de dados móveis para aumentar a velocidade pode gerar taxas adicionais da operadora</string>
 	<string name="help">Ver ajuda</string>
 	<string name="help_content">Se não encontrar o dispositivo que precisa, peça à outra pessoa para ativar o Mi Share.</string>
+	<string name="miaudiovisual_notification_summary">Ative para mostrar os efeitos na tela de bloqueio</string>
+	<string name="miaudiovisual_notification_title">Efeitos visuais e de áudio</string>
 </resources>

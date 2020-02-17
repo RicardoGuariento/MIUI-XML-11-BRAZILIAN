@@ -427,14 +427,14 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
 	<string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Essa conta também é usada em outro dispositivo. Mesclar os itens de vários aplicativos (incluindo %1$s e %2$s) com os itens neste dispositivo?</string>
 	<string name="data_merge_dialog_alert_active_on_phone_msg_one">Essa conta também é usada em outro dispositivo. Mesclar os itens do %s com os itens neste dispositivo?</string>
 	<string name="data_merge_dialog_alert_active_on_phone_msg_two">Essa conta também é usada em outro dispositivo. Mesclar os itens do %1$s e %2$s com os itens deste dispositivo?</string>
-	<string name="data_merge_dialog_alert_msg_more_than_two">Os itens de vários aplicativos (incluindo %1$s e %2$s) neste dispositivo serão mesclados com os itens na nuvem. Mesclar itens agora?</string>
-	<string name="data_merge_dialog_alert_msg_more_than_two_pad">Os itens de vários aplicativos (incluindo %1$s e %2$s) neste dispositivo serão mesclados com os itens na nuvem. Mesclar itens agora</string>
-	<string name="data_merge_dialog_alert_msg_one">Os itens do %s neste dispositivo serão mesclados com os itens na nuvem. Mesclar itens agora?</string>
-	<string name="data_merge_dialog_alert_msg_one_pad">Os itens do %s neste dispositivo serão mesclados com os itens na nuvem. Mesclar itens agora?</string>
-	<string name="data_merge_dialog_alert_msg_two">Os itens do %1$s e %2$s neste dispositivo serão mesclados com os itens na nuvem. Mesclar itens agora?</string>
-	<string name="data_merge_dialog_alert_msg_two_pad">Os itens do %1$s e %2$s neste dispositivo serão mesclados com os itens na nuvem. Mesclar itens agora?</string>
+	<string name="data_merge_dialog_alert_msg_more_than_two">Itens de várias fontes, incluindo %1$s e %2$s, estão armazenados na Mi Cloud. Sincronizar e mesclar com os itens deste dispositivo?</string>
+	<string name="data_merge_dialog_alert_msg_more_than_two_pad">Itens de várias fontes, incluindo %1$s e %2$s, estão armazenados na Mi Cloud. Sincronizar e mesclar com os itens deste dispositivo?</string>
+	<string name="data_merge_dialog_alert_msg_one">Os itens de %s estão armazenados na Mi Cloud. Sincronizar e mesclar com os itens deste dispositivo?</string>
+	<string name="data_merge_dialog_alert_msg_one_pad">Os itens de %s estão armazenados na Mi Cloud. Sincronizar e mesclar com os itens deste dispositivo?</string>
+	<string name="data_merge_dialog_alert_msg_two">Os itens de %1$s e %2$s estão armazenados na Mi Cloud. Sincronizar e mesclar com os itens deste dispositivo?</string>
+	<string name="data_merge_dialog_alert_msg_two_pad">Os itens de %1$s e %2$s estão armazenados na Mi Cloud. Sincronizar e mesclar com os itens deste dispositivo?</string>
 	<string name="data_merge_dialog_loading">Verificando dados…</string>
-	<string name="do_not_merge">Não mesclar</string>
+	<string name="do_not_merge">Cancelar</string>
 	<string name="finddevice_miservice_notification_content">Bloqueie seu dispositivo remotamente se você perdê-lo</string>
 	<string name="finddevice_miservice_notification_title">Ativar o Encontrar dispositivo</string>
 	<string name="merge">Mesclar</string>
@@ -464,4 +464,5 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
 	<string name="picker_search_empty">Não foi possível encontrar contatos</string>
 	<string name="picker_search_hint">Pesquisar</string>
 	<string name="starred_contact">Favoritos</string>
+	<string name="data_merge_dialog_title">Mesclar itens</string>
 </resources>

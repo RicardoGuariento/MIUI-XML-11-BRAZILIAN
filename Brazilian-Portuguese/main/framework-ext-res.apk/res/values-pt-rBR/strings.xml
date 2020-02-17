@@ -217,4 +217,6 @@
 	<string name="user_switching_dialog_switch_into_kid_space">Alternando para o espaço Kid…</string>
     <string name="user_switching_dialog_switch_out_kid_space">Saindo do espaço Kid…</string>
 	<string name="tips_prompt_enable_midrop">Compartilhar arquivos com dispositivos próximos</string>
+	<string name="sunlight_notification_content">Ajustar o brilho para luz ambiente forte automaticamente</string>
+	<string name="sunlight_notification_title">Ativar o modo Luz do Sol</string>
 </resources>

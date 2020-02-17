@@ -1569,4 +1569,5 @@ Este tablet não possui auriculares. Você pode alterar para o modo viva-voz ou 
 	<string name="nr_usaged_network_usaged">Dados de hoje</string>
 	<string name="nr_usaged_operator">Operadora</string>
 	<string name="nr_usaged_used_time">Duração do uso</string>
+	<string name="notification_channel_demo">Dispositivo de demonstração</string>
 </resources>

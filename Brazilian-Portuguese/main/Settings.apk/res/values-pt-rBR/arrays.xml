@@ -1482,5 +1482,19 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Automática (recomendado)</item>
         <item>Saturada</item>
         <item>Cor original</item>
-    </string-array>	    
+    </string-array>
+<string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Otimizado para baixa latência</item>
+        <item>Otimizado para qualidade da conexão</item>
+        <item>Qualidade balanceada de áudio e conexão</item>
+        <item>Otimizado para qualidade do áudio</item>
+        <item>Melhor aplicação (Bitrate automático)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Otimizado para baixa latência (256kbps)</item>
+        <item>Otimizado para qualidade da conexão (400kbps)</item>
+        <item>Qualidade balanceada de áudio e conexão (500/560kbps)</item>
+        <item>Otimizado para qualidade do áudio (900kbps)</item>
+        <item>Melhor aplicação (Bitrate automático)</item>
+    </string-array>	
 </resources>

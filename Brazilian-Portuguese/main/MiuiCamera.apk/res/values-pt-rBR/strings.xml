@@ -734,10 +734,15 @@ Ao tocar em \"Concordar\", está concordando com os nossos "&lt;a href="http://w
 Ao tocar em \"Concordar\", está a concordar com os nossos "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Termos de Utilização&lt;/a&gt; e &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Política de Privacidade&lt;/a&gt; e permite que a Câmera conectar-se à Internet</string>
   <string name="network_access_user_notice_message_voice_caption">"A Câmera precisa conectar-se à Internet para fornecer a funcionalidade de texto para voz.
 Ao tocar em \"Concordar\", está a concordar com os nossos "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Termos de Utilização&lt;/a&gt; e &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Política de Privacidade&lt;/a&gt; e permite que a Câmera conectar-se à Internet</string>
-<string name="lying_direct_hint">Orientação atual</string>
-<string name="macro_mode">Macro</string>
-<string name="macro_mode_use_hint_text_body">"Use o modo Macro para fazer com que objetos pequenos
+  <string name="lying_direct_hint">Orientação atual</string>
+  <string name="macro_mode">Macro</string>
+  <string name="macro_mode_use_hint_text_body">"Use o modo Macro para fazer com que objetos pequenos
 fiquem maiores nas fotos"</string>
-<string name="macro_mode_use_hint_text_title">Macro</string>
-<string name="recommend_macro_mode">Experimente o modo Macro</string>
+  <string name="macro_mode_use_hint_text_title">Macro</string>
+  <string name="recommend_macro_mode">Experimente o modo Macro</string
+  <string name="watermark_tab_city">Cidade</string>
+  <string name="watermark_tab_festival">Feriado</string>
+  <string name="watermark_tab_general">Geralal</string>
+  <string name="watermark_tab_scene">Cena</string>
+  <string name="watermark_tab_spots">Lugar</string>
 </resources>
