@@ -1129,8 +1129,6 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
     <string name="bt_hci_snoop_log">Registro de Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Capturar todos os pacotes Bluetooth HCI em um arquivo</string>
     <string name="bt_ldac_declaration">Quando um dispositivo Bluetooth suportar LDAC, ele será conectado automaticamente. O LDAC fornece uma experiência sonora de alta qualidade, mas também aumenta o consumo de energia. Problemas podem ocorrer durante a reprodução devido a limitações no hardware de Bluetooth.</string>
-    <string name="bt_ldac_dialog_summary">"O LDAC permite uma experiência de áudio de alta qualidade com um consumo maior de energia
-Este recurso pode ser desativado nas [Configurações]"</string>
     <string name="bt_ldac_dialog_title">O dispositivo atual suporta LDAC, que foi conectado por padrão:</string>
     <string name="bt_ldac_open_dialog_summary">O LDAC fornece uma experiência sonora de alta qualidade, mas também aumenta o consumo de energia. Problemas podem ocorrer durante a reprodução devido a limitações no hardware de Bluetooth.</string>
     <string name="bt_ldac_open_dialog_title">Ativar o LDAC?</string>
@@ -6199,7 +6197,6 @@ Toque no + para adicionar palavras."</string>
     <string name="wifi_assistant_confirm_always">Não perguntar da próxima vez</string>
     <string name="wifi_assistant_confirm_connection_title">Confirmar conexão</string>
     <string name="wifi_assistant_data_prompt">Ativar aviso</string>
-    <string name="wifi_assistant_data_prompt_summary">Quando o Assistente Wi-Fi alterar a rede para dados móveis, mostrar um diálogo de aviso</string>
     <string name="wifi_assistant_description">"Depois de ativar este recurso:
 1. Quando a conexão Wi-Fi estiver ruim, o sistema tentará se conectar a outra rede Wi-Fi disponível automaticamente
 2. Quando todas as conexões Wi-Fi forem ruins e os dados móveis estiverem ativados, o sistema escolherá a melhor conexão de rede de forma inteligente"</string>
@@ -7027,11 +7024,11 @@ Observações importantes: as notificações críticas para atividades e status 
     <string name="color_led_incall_pulse_title">Piscar para chamadas recebidas</string>
     <string name="color_led_lucky_dialog_message">Este recurso requer o uso do assistente Red Envelope. Ativar agora?</string>
     <string name="color_led_lucky_dialog_title">Ativar o assistente Red Envelope</string>
-    <string name="color_led_music_mode_summary">Mostrar efeitos ritmicos de luz quando reproduzir músicas</string>
+    <string name="color_led_music_mode_summary">Mostrar efeitos rítmicos de luz quando reproduzir músicas</string>
     <string name="color_led_music_mode_title">Música</string>
     <string name="color_led_notification_pulse_title">Pulsar para notificações</string>
     <string name="color_led_red_more_feature">Efeitos especiais</string>
-    <string name="color_led_red_package_title">Red Envelopes</string>
+    <string name="color_led_red_package_title">Envelopes vermelhos</string>
     <string name="color_led_start_time">Tempo de início</string>
     <string name="color_led_title">Luz do LED</string>
 	<string name="toggle_auto_speaker_preference_summary">O dispositivo irá alternar para os falantes quando você afastá-lo da orelha. Este recurso funcionará apenas se o TalkBack estiver ativado.</string>
@@ -7040,7 +7037,7 @@ Observações importantes: as notificações críticas para atividades e status 
 	<string name="bluetooth_unlock_confirm_device_text_for_huami_band">Confirme na pulseira.</string>
 	<string name="device_oaid">ID do dispositivo</string>
 	<string name="miui_touch_filtered_touchassistant_warning">A caixa de diálogo de permissões é coberta pela Quick ball. Mova a Quick ball para longe ou desligue esse recurso.</string>	 
-	<string name="mqs_privacy_automatically_upload">Upload automatically next time</string>
+	<string name="mqs_privacy_automatically_upload">Carregar automaticamente na próxima vez</string>
     <string name="mqs_privacy_dialog_cancel">Cancelar</string>
     <string name="mqs_privacy_dialog_confirm">Enviar</string>
     <string name="mqs_privacy_dialog_content">Enviar logs para nos ajudar a localizar e resolver problemas? Logs podem conter suas informações pessoais, incluindo informações sobre sua localização.</string>
@@ -7138,7 +7135,7 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
 	<string name="wireless_charging_settings">Carregue outros dispositivos sem fios</string>
 	<string name="wireless_closed">Desativado</string>
 	<string name="wireless_opened">Ativado</string>
-	<string name="wireless_tip">"Use seu telefone para carregar outros doispositivos sem fio.
+	<string name="wireless_tip">"Use seu telefone para carregar outros dispositivos sem fio.
 
 Este recurso será desativado se não começar o carregamento em 90 segundos."</string>
 	<string name="xiaomi_cloud_service_description_contact">contatos e</string>
@@ -7185,7 +7182,7 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="lockscreen_magazine_india">Olhe para a Mi</string>
   <string name="accessibility_service_screen_control_title">Ver e controlar a tela</string>
   <string name="accessibility_service_action_perform_description">Pode monitorar suas interações com um aplicativo ou um sensor de hardware e interagir com o aplicativo em seu nome</string>
-  <string name="accessibility_service_warning_description">O controle total é adequado para aolicativos que ajudam nas necessidades de acessibilidade, mas não para a maioria dos aplicativos</string>
+  <string name="accessibility_service_warning_description">O controle total é adequado para aplicativos que ajudam nas necessidades de acessibilidade, mas não para a maioria dos aplicativos</string>
   <string name="accessibility_service_screen_control_description">Pode ler todo o conteúdo da tela e sobrepor conteúdo a outros aplicativos</string>
   <string name="aod_style_description">Mostrar relógio, data, hora, notificações e outros itens quando a tela estiver desligado</string>
   <string name="display_advanced_mode_summary">Opções de gama de cor</string>
@@ -7207,7 +7204,6 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="speaker_clean">Limpar falante</string>
   <string name="aod_notification_style_screen_on">Ligar tela</string>
   <string name="status_bar_settings_notification_use_app_icon">Utilizar ícones dos aplicativos para notificações</string>
-  <string name="codec_low_latency_summary">Fornece uma experiência de baixa latência para sincronização de áudio e vídeo</string>
   <string name="codec_low_latency_title">Baixa latência</string>
   <string name="default_suppression_title">Padrão (Recomendado)</string>
   <string name="diy_suppression_summary">Ajuste o tamanho da área próxima às bordas onde o toque acidental será ignorado</string>
@@ -7217,9 +7213,7 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="headset_settings_title">Efeitos de som</string>
   <string name="privacy_failed_need_to_unlock_nofingerprint">Digite a senha antes de usar uma nova impressão digital</string>
   <string name="seek_bar_info">Ajustar tamanho</string>
-  <string name="strong_suppression_summary">"Seu dispositivo não responde ao toque acidental, alguns controles de gesto podem não funcionar perto das bordas"</string>
   <string name="strong_suppression_title">Área maior</string>
-  <string name="wake_suppression_summary">Seu dispositivo pode responder ao toque acidental, mas também responde a controles de gesto próximos às bordas</string>
   <string name="wake_suppression_title">Área menor</string>
   <string name="wifi_direct_close_hotspot_hint">Desative o ponto de acesso portátil antes de usar o Wi-Fi Direct</string>
   <string name="wifi_direct_close_slave_wifi_hint">Desconecte do Wi-Fi auxiliar antes de usar o Wi-Fi Direct</string>
@@ -7231,7 +7225,7 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="call_example_name">Nome</string>
   <string name="poco_launcher_privacy_policy">Política de Privacidade do POCO Launcher</string>
   <string name="poco_launcher_user_agreement">Termo de Acordo do Usuário do POCO Launcher</string>
-  <string name="navigation_guide_app_quick_switch_hide_line_summary">Deslize para cima a partir da parte inferior da tela e deslize para a esquerda ou direitat</string>
+  <string name="navigation_guide_app_quick_switch_hide_line_summary">Deslize para cima a partir da parte inferior da tela e deslize para a esquerda ou direita</string>
   <string name="navigation_guide_app_quick_switch_summary">Deslize para a esquerda ou direita a partir do indicador de tela cheia ou na parte inferior da tela</string>
   <string name="navigation_guide_app_quick_switch_title">Alternar entre aplicativos</string>
   <string name="navigation_guide_gesture_line_dialog_summary">Um novo gesto para alternar entre aplicativos será usado depois que você ocultar o indicador de tela cheia. Aprender este gesto agora?</string>
@@ -7242,4 +7236,76 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="power_monitor_title">Monitor de consumo de energia</string>
   <string name="corner_assistant_gesture_summary">Deslize para cima a partir do canto inferior esquerdo ou inferior direito para ativar o Assistente do Google</string>
   <string name="corner_assistant_gesture_title">Deslize para cima a partir da borda do Google Assistant</string>
+  <string name="acount_data">Contas</string>
+<string name="application_data">Aplicativos</string>
+<string name="backup_data">Backups</string>
+<string name="backup_difference_content">"Backups locais:
+Os backups locais podem incluir dados dos aplicativos e normalmente contêm mais itens. Os arquivos de backup são armazenados no MIUI-backup-AllBackup e precisam ser copiados para um computador após a conclusão do processo de backup.
+
+Backups na nuvem:
+Os backups são armazenados na Mi Cloud e podem ser acessados pela Internet. Esse método é mais rápido e fácil do que os backups locais, mas você não pode fazer backup dos dados dos aplicativos na Mi Cloud.
+"</string>
+<string name="backup_difference_title">4. Como os backups locais são diferentes dos backups na nuvem?</string>
+<string name="backup_restore_data_content">Seus backups podem conter contatos, mensagens (SMS e MMS), histórico de chamadas, eventos da agenda, fotos, arquivos de áudio, vídeos, documentos, aplicativos, dados do aplicativo e layout da tela inicial.</string>
+<string name="backup_restore_data_title">5. Quais itens posso fazer backup ou restaurar?</string>
+<string name="bt_ldac_dialog_summary">O LDAC fornece uma experiência de áudio de alta qualidade, mas também aumenta o consumo de energia. Este recurso pode ser desativado nas Configurações.</string>
+<string name="bt_lhdc_dialog_summary">O LDAC fornece uma experiência de áudio de alta qualidade, mas também aumenta o consumo de energia. Este recurso pode ser desativado nas Configurações.</string>
+<string name="clear_all_data">Apagar todos os dados</string>
+<string name="clear_phone_data_category">Apagar os seguintes itens</string>
+<string name="cloud_restore_section_summary_new">Faça um backup do layout da tela inicial, aplicativos, configurações do sistema e muito mais</string>
+<string name="cloud_restore_section_title_new">Na Mi Cloud</string>
+<string name="codec_low_latency_summary">Minimize a latência durante a sincronização de áudio e vídeo do jogo</string>
+<string name="contact_data">Contatos</string>
+<string name="datasize_decrease_content">"Contatos, mensagens e dados do sistema são compactados durante o backup, o que resulta em um tamanho de arquivo menor.</string>
+<string name="datasize_decrease_title">6. Por que alguns arquivos de backup são menores que os itens reais?</string>
+<string name="how_backup_content">"Existem três tipos de backups que você pode criar: local, nuvem e USB.
+
+Backups locais:
+Os backups locais permitem salvar as configurações do sistema, contas, dados do aplicativo e outros itens em um arquivo separado armazenado no seu dispositivo (MIUI-backup-AllBackup). Após a criação do arquivo de backup, você pode transferi-lo para o seu computador via cabo USB.
+Nota:
+Você pode usar o Mi PC Suite para fazer backup e depois restaurá-los.
+Backups na nuvem:
+Você pode fazer backup das configurações do sistema, layout da tela inicial, aplicativos e outros itens na Mi Cloud pela Internet.
+
+Backups USB:
+Esse método permite salvar configurações do sistema, contas, dados do aplicativo e outros itens em um dispositivo de armazenamento USB externo.</string>
+<string name="how_backup_title">1. Como posso fazer backup dos itens?</string>
+<string name="how_encrypt_content">"Você só pode criptografar backups locais. Existem 2 maneiras de fazer isso:
+a) Abra a página com seus backups locais, toque no botão para ativar a criptografia e entre na sua Conta Mi. Os backups serão criptografados automaticamente depois disso. Lembre-se de que você precisará fazer login na sua Conta Mi para restaurar itens de backups criptografados.
+b) Se você estiver usando o Mi PC Suite para fazer backup de itens, poderá usar as opções de criptografia.
+
+Nota:
+Lembre-se da senha que você definiu para backups criptografados! Você não poderá descriptografar seus backups se o esquecer.</string>
+<string name="how_encrypt_title">3. Como criptografo os meus backups?</string>
+<string name="how_restore_backup_content">"Veja como restaurar itens que foram copiados usando métodos diferentes:
+
+Backups locais:
+Copie o arquivo de backup do seu computador para o seu dispositivo (MIUI-backup-AllBackup). Vá para Configurações > Fazer backup, restaurar ou redefinir > Neste dispositivo e selecione o arquivo de backup.
+
+Backups na nuvem:
+Entre na sua Conta Mi, vá para Configurações > Fazer backup, restaurar ou redefinir > Na Mi Cloud e selecione o arquivo de backup.
+
+Backups USB:
+Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá para Configurações > Fazer backup, restaurar ou redefinir > Neste dispositivo e selecione o arquivo de backup.</string>
+<string name="how_restore_backup_title">2. Como posso restaurar meus backups?</string>
+<string name="local_backup_section_summary_new">Faça backup de contas, dados de aplicativos, configurações do sistema e muito mais</string>
+<string name="local_backup_section_title_new">Neste dispositivo</string>
+<string name="master_clear_title_new">Apagar todos os dados (restauração de fábrica)</string>
+<string name="other_data">Outros itens neste dispositivo</string>
+<string name="photo_data">Fotos e vídeos</string>
+<string name="privacy_settings_new">Fazer Backup, restaurar ou redefinir</string>
+<string name="reset_title">Redefinir</string>
+<string name="sd_data">Dados do cartão SD</string>
+<string name="strong_suppression_summary">Seu dispositivo responderá menos ao toque acidental. Alguns controles de gesto podem não funcionar perto das bordas</string>
+<string name="system_backup_section_title_new">Fazer backup ou restaurar</string>
+<string name="tip_remove_data">A redefinição de fábrica apagará esses itens do seu dispositivo</string>
+<string name="wake_suppression_summary">Seu dispositivo responderá melhor ao toque acidental, mas também reagirá à maioria dos controles de gestos próximos às bordas</string>
+<string name="wifi_assist">Assistente de Wi-Fi</string>
+<string name="wifi_assistant">Selecionar a melhor rede automaticamente</string>
+<string name="wifi_assistant_data_prompt_summary">Mostrar aviso de uso de dados ao alternar para dados móveis</string>
+<string name="wifi_link_turbo_customize">Aplicativos personalizados</string>
+<string name="wifi_link_turbo_customize_summary">Selecione aplicativos que funcionarão com o assistente de Wi-Fi de acordo com suas preferências</string>
+<string name="wifi_link_turbo_list">Aplicativos</string>
+<string name="wifi_link_turbo_recommendation">Aplicativos recomendados</string>
+<string name="wifi_link_turbo_recommendation_summary">Receba recomendações com base nas estatísticas de uso de dados</string>
 </resources>
