@@ -7300,7 +7300,6 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
 <string name="system_backup_section_title_new">Fazer backup ou restaurar</string>
 <string name="tip_remove_data">A redefinição de fábrica apagará esses itens do seu dispositivo</string>
 <string name="wake_suppression_summary">Seu dispositivo responderá melhor ao toque acidental, mas também reagirá à maioria dos controles de gestos próximos às bordas</string>
-<string name="wifi_assist">Assistente de Wi-Fi</string>
 <string name="wifi_assistant">Selecionar a melhor rede automaticamente</string>
 <string name="wifi_assistant_data_prompt_summary">Mostrar aviso de uso de dados ao alternar para dados móveis</string>
 <string name="wifi_link_turbo_customize">Aplicativos personalizados</string>
