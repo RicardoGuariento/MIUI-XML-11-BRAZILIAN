@@ -94,7 +94,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="dialog_feedback_purpose">O Mi Health necessita acessar o armazenamento para enviar comentários</string>
   <string name="dialog_feedback_purpose2">Para enviar comentários</string>
   <string name="dialog_feedback_title">Comentários</string>
-  <string name="dialog_health_applicator">O Mi Health fornece serviços para adultos apenas</string>
+  <string name="dialog_health_applicator">O Mi Health fornece serviços apenas para adultos</string>
   <string name="dialog_juveniles_details">De acordo com nossa Política de Privacidade, a idade miníma para utilizar este produto é de 18 anos</string>
   <string name="dialog_juveniles_link">De acordo com nossa &lt;font color=\"#FE6D67\"&gt;&lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt;, a idade miníma para utilizar este produto é de 18 anos</string>
   <string name="dialog_known">Entendido</string>
@@ -107,7 +107,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="dialog_privacy_title">Termos e condições</string>
   <string name="dialog_read_phone_perm_desc">Para identificar recursos do dispositivo usando OAID ou Android ID</string>
   <string name="dialog_sleep_goal_setting">Definir metas de sono</string>
-  <string name="dialog_sleep_goal_subtitle">Obter 7 a 9 horas de sono todos os dias</string>
+  <string name="dialog_sleep_goal_subtitle">Tenha de 7 a 9 horas de sono todos os dias</string>
   <string name="dialog_sleep_goal_title">Metas de duração do sono</string>
   <string name="dialog_sleep_record_auto_start">Para registar o sono com mais precisão, permita que o  Mi Health inicie automaticamente</string>
   <string name="dialog_sure">OK</string>
@@ -139,8 +139,8 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="go_back_to_today">Voltar a hoje</string>
   <string name="go_open_sleep_detector">Iniciar</string>
   <string name="go_setting">Configurações</string>
-  <string name="goal_daily_exercise">Metas de atividade</string>
-  <string name="goal_sleep_time">Metas de duração de sono</string>
+  <string name="goal_daily_exercise">Metas das atividades</string>
+  <string name="goal_sleep_time">Metas de tempo de sono</string>
   <string name="goal_title">Mantenha-se saudável</string>
   <string name="goto_setting_auto_start">Configurações</string>
   <string name="guide_setting">Fornecer as informações seguintes para obter estatísticas menstruais mais precisas</string>
@@ -334,7 +334,7 @@ baseados nas suas informações pessoais"</string>
   <string name="state_disagree">Restringido</string>
   <string name="state_disagree2">Não aceitar</string>
   <string name="subtitle_be_ready">Esteja preparado</string>
-  <string name="subtitle_get_health_advice">Obtenha estatísticas precisas e dicas de saúde baseadas nos dados que fornece</string>
+  <string name="subtitle_get_health_advice">Obtenha estatísticas precisas e dicas de saúde baseadas nos dados que você fornece</string>
   <string name="subtitle_exercise_and_sleep">Mantenha-se fisicamente ativo e durma o suficiente</string>
   <string name="subtitle_keep_warm">Mantenha-se aquecido na sua dieta</string>
   <string name="subtitle_mi_health_predict_menstruation">Registe e estime futuros períodos de menstruais utilizando o Mi Health</string>
