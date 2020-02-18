@@ -250,4 +250,5 @@
 	<string name="todo_schedule_time_repeat_normal_workday">, segunda a sexta</string>
 	<string name="todo_schedule_time_repeat_week">, toda semana</string>
 	<string name="todo_schedule_time_repeat_year">, todo ano</string>
+	<string name="notification_content_add_todo_from_other_app">Você adicionou uma nova tarefa Toque para ver.</string>
 </resources>

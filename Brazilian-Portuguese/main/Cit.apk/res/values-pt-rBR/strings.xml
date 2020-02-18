@@ -391,4 +391,5 @@ N: sem teste"</string>
 <string name="cit_nfc_check_enable_tip">Iniciar ambiente de teste NFC</string>
 <string name="cit_nfc_check_summary">Clique no botão para iniciar o NFC e, em seguida, coloque o cartão na parte superior da parte traseira do telefone.</string>
 <string name="cit_nfc_check_tip">Coloque o cartão na parte superior da parte traseira do telefone</string>
+<string name="cit_camera_rearsub">O teste da camera traseira secundária está em progresso, aguarde....</string>
 </resources>

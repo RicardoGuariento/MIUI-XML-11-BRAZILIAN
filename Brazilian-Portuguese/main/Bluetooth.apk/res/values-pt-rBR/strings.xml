@@ -18,8 +18,8 @@
   <string name="bluetooth_disconnected">Áudio Bluetooth desconectado</string>
   <string name="bluetooth_map_remote_advance_feature_support">Recursos avançados de acesso às mensagens suportados</string>
   <string name="bluetooth_map_remote_message_access_feature_downgrade">Downgrade dos recursos de acesso remoto às mensagens</string>
-  <string name="bluetooth_map_repair_for_adv_message_access_feature">Parear novamente para os recursos avançados de acesso às mensagens</string>
-  <string name="bluetooth_map_repair_for_message_access_version_comp">Parear novamente para a versão de compatibilidade de acesso às mensagens</string>
+  <string name="bluetooth_map_repair_for_adv_message_access_feature">Parear novamente para usar os recursos avançados de acesso às mensagens</string>
+  <string name="bluetooth_map_repair_for_message_access_version_comp">Parear novamente para se certificar da versão de compatibilidade de acesso às mensagens</string>
   <string name="bluetooth_map_settings_app_icon">Ícone do app</string>
   <string name="bluetooth_map_settings_cancel">Cancelar</string>
   <string name="bluetooth_map_settings_count">Espaços restantes:</string>
