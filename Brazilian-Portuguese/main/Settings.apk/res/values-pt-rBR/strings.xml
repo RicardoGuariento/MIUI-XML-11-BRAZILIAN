@@ -55,8 +55,7 @@
     <string name="accelerometer_title">Girar tela automaticamente</string>
     <string name="access_control_app_entry_multiple">Abrir %s</string>
     <string name="access_control_app_entry_single">Abrir aplicativo</string>
-    <string name="access_control_need_password">"%s está protegido
-"</string>
+    <string name="access_control_need_password">"%s está protegido"</string>
     <string name="access_control_need_to_unlock">Senha exigida:</string>
     <string name="access_control_no_back_footer">Toque em [icon] para sair</string>
     <string name="access_control_password_title">Senha</string>
@@ -6192,7 +6191,6 @@ Toque no + para adicionar palavras."</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Ponto de acesso temporariamente cheio</string>
     <string name="wifi_ask_disable">%s quer desativar o Wi-Fi</string>
     <string name="wifi_ask_enable">%s quer ativar o Wi-Fi</string>
-    <string name="wifi_assistant">Assistente de Wi-Fi</string>
     <string name="wifi_assistant_auto_confirm_data_message">A rede Wi-Fi atual não possui acesso à Internet e os dados móveis serão usados. Você pode desativar o Assistente Wi-Fi nas Configurações</string>
     <string name="wifi_assistant_confirm_always">Não perguntar da próxima vez</string>
     <string name="wifi_assistant_confirm_connection_title">Confirmar conexão</string>
