@@ -346,4 +346,10 @@
   <string name="toast_has_open_gallery">Os papeis de parede aleatórios foram ativados</string>
   <string name="carousel_declaration_btn_text">Ativar papéis de parede aleatórios</string>
   <string name="open_btn_start">Ativar papéis de parede aleatórios</string>
+  <string name="disable_dlg_title">Desativar os papéis de parede aleatórios?</string>
+  <string name="sure_close_gallery">Desativar os papéis de parede aleatórios?</string>
+  <string name="sure_close_gallery_des">Você não receberá imagens novas na sua tela inicial e tela de bloqueio. Desativar mesmo assim?</string>
+  <string name="close_gallery">Desativar</string>
+  <string name="disable_dlg_ok">Desativar</string>
+  <string name="recommend_switch_dlg_close">Desativar</string>
 </resources>
