@@ -126,4 +126,8 @@ Nota: O arquivo também será excluído do dispositivo."</item>
         <item quantity="other">%d dias restantes</item>
         <item quantity="one">%d dia restante</item>
     </plurals>
+	    <plurals name="sound_fade_duration_in_seconds">
+        <item quantity="other">Crossfade entre as músicas: %d segundos</item>
+        <item quantity="one">Crossfade entre as músicas: %d segundo</item>
+    </plurals>
 </resources>

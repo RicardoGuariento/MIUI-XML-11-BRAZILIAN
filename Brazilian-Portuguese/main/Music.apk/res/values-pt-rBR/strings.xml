@@ -712,5 +712,6 @@ Toque em %s para inicias este download da próxima vez que você estiver conecta
 	<string name="cannot_download_to_sdcard_hint">Não é possível baixar itens no cartão SD devido a restrições de direitos autorais. Os itens serão baixados para armazenamento interno.</string>
 	<string name="create_playlist_input_hint">Insira o nome da lista de reprodução</string>
 	<string name="online_apk_install_tips">Você precisa baixar o plug-in deste provedor de conteúdo uma vez. Você poderá acessar músicas diretamente da próxima vez.</string>
-	
+	<string name="play_setting">Reprodução</string>
+	<string name="sound_fade_in_and_out_when_change_song_automatically">Experimente usar o crossfade entre a reprodução das músicas</string>
 </resources>

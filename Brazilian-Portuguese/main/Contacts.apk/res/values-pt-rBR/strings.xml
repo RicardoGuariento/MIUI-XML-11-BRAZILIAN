@@ -375,10 +375,10 @@ Cartões de contatos estão desativados"</string>
     <string name="device_pairing_dialog_title">Emparelhar dispositivos</string>
     <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Ative o Bluetooth no outro dispositivo.
 
-- O Bluetooth pode ser encontrado nas Configurações de rede em dispositivos Android. 
-- Em dispositivos com iOS, o Bluetooth está nas Configurações. 
+- O Bluetooth pode ser encontrado nas Configurações de rede em dispositivos Android.
+- Em dispositivos com iOS, o Bluetooth está nas Configurações.
 
-%d. O modo Detectável também deve estar ativado nos dispositivos Android. 
+%d. O modo Detectável também deve estar ativado nos dispositivos Android.
 
 %d. Toque em \"Avançar\", e dê as permissões necessárias aos Contatos."</string>
     <string name="device_transfer_by_sim_message" formatted="false">"%d. Salve os contatos do outro dispositivo no cartão SIM; 
@@ -1250,4 +1250,11 @@ Selecione uma das seguintes opções:"</string>
 	<string name="no_phone_no_shortcut">Não é possível criar atalho para contatos sem número de telefone</string>
 	<string name="delete_conference_call_log_message">Excluir todos os registros de chamadas de conferência associados a este contato agora?</string>
 	<string name="delete_conference_call_log_title">Excluir registros de chamadas de conferência</string>
+	<string name="return_call">Toque para voltar para a ligação</string>
+	<string name="return_call_calling">Chamada em andamento</string>
+	<string name="return_call_dialing">Discando</string>
+	<string name="return_call_incoming">Chamada recebida</string>
+	<string name="send_contact_shortcut_todesktop_duplicate">Este atalho já existe</string>
+	<string name="send_contact_shortcut_todesktop_failed">Não foi possível criar o atalho na tela inicial</string>
+	<string name="send_contact_shortcut_todesktop_overflow">Não é possível criar mais atalhos na tela inicial</string>
 </resources>

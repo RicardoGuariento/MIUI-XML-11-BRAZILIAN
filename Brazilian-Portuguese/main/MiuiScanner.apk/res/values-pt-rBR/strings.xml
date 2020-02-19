@@ -202,15 +202,7 @@
 	<string name="xiaoai_dialog">"Tente dizer o que
 você deseja digitalizar para a Mi IA"</string>
 	<string name="agree_app_use">Digitalizando códigos QR e outras imagens (alguns recursos podem exigir acesso à sua localização)</string>
-	<string name="crop__cancel">CANCELAR</string>
-	<string name="crop__done">CONCLUÍDO</string>
-	<string name="crop__pick_error">A origem da imagem não está disponível</string>
-	<string name="crop__saving">Salvando foto…</string>
-	<string name="crop__wait">Aguarde…</string>
-	<string name="error_null_cursor">Oops, alguma coisa deu errado!</string>
-	<string name="grant_permission">Dar permissão</string>
-	<string name="permission_denied_albums">Permitir acesso a fotos, mídia e arquivos no seu dispositivo para visualizar álbuns</string>
-	<string name="permission_denied_images">Permitir acesso a fotos, mídia e arquivos no seu dispositivo para visualizar álbuns</string>
 	<string name="select_from_album">Selecionar do álbum</string>
 	<string name="take_a_picture">Tirar uma foto</string>
+	<string name="submitting">Enviando</string>
 </resources>
