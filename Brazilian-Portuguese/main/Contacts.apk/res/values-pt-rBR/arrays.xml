@@ -4,8 +4,4 @@
         <item>Organização</item>
         <item>Anotação</item>
     </string-array>
-	<string-array name="otherLabels">
-        <item>Organização</item>
-        <item>Nota</item>
-    </string-array>
 </resources>
