@@ -986,4 +986,8 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
 	<string name="vo_fast_game_card_title_text">Você pode gostar também destes jogos</string>
 	<string name="vo_feed_back_dislike">Não estou interessado</string>
 	<string name="vo_search_tag_title_text">Itens relacionados</string>
+	<string name="dark_mode_setting_dark">Modo noite (escuro)</string>
+	<string name="dark_mode_setting_follow">Conforme o sistema</string>
+	<string name="dark_mode_setting_light">Modo dia (claro)</string>
+	<string name="dark_mode_setting_title">Modo noite</string>
 </resources>

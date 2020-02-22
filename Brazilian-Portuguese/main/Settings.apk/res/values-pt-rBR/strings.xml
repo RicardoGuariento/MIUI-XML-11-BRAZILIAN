@@ -7233,7 +7233,7 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
   <string name="power_monitor_summary">Ferramentas usadas para monitorar o consumo de energia.</string>
   <string name="power_monitor_title">Monitor de consumo de energia</string>
   <string name="corner_assistant_gesture_summary">Deslize para cima a partir do canto inferior esquerdo ou inferior direito para ativar o Assistente do Google</string>
-  <string name="corner_assistant_gesture_title">Deslize para cima a partir da borda do Google Assistant</string>
+  <string name="corner_assistant_gesture_title">Deslize para cima a partir da borda para ativar o Assistente Google</string>
   <string name="acount_data">Contas</string>
 <string name="application_data">Aplicativos</string>
 <string name="backup_data">Backups</string>
