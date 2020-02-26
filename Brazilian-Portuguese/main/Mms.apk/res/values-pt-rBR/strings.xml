@@ -920,7 +920,6 @@ Dê uma olhada nos recomendados!"</string>
 	<string name="rcs_chatdetail_special_chabot_tip">Não foi possível bloquear esse mini aplicativo</string>
 	<string name="rcs_chatlist_scan_error">Não foi possível ler esse código QR</string>
 	<string name="rcs_conversation_rcs_tip">Mini aplicativo: %s</string>
-	<string name="rcs_create_new_group">Criar grupo de bate-papo</string>
 	<string name="rcs_list_bottom_loading">Só um momento…</string>
     <string name="rcs_list_bottom_search">Procurando…</string>
 	<string name="rcs_more_bar_title">Mais informações</string>
