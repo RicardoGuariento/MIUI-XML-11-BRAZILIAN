@@ -465,4 +465,5 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
 	<string name="picker_search_hint">Pesquisar</string>
 	<string name="starred_contact">Favoritos</string>
 	<string name="data_merge_dialog_title">Mesclar itens</string>
+	<string name="micloud_setting_sms_summary_for_google_csp">Mensagens de texto</string>
 </resources>

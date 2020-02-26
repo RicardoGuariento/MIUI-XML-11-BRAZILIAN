@@ -443,7 +443,7 @@ no Modo Retrato"</string>
     <string name="pref_camera_coloreffect_entry_posterize" />
     <string name="pref_camera_coloreffect_entry_aqua" />
     <string name="pref_camera_coloreffect_entry_instagram_rise">Lomo</string>
-    <string name="pref_camera_coloreffect_entry_instagram_clarendon">Color pop</string>
+    <string name="pref_camera_coloreffect_entry_instagram_clarendon">Realce de cores</string>
     <string name="pref_camera_coloreffect_entry_instagram_crema">Rústico</string>
     <string name="pref_camera_coloreffect_entry_instagram_hudson">Frio</string>
     <string name="pref_camera_coloreffect_entry_vivid">Vívido</string>
@@ -745,4 +745,10 @@ fiquem maiores nas fotos"</string>
   <string name="watermark_tab_general">Geralal</string>
   <string name="watermark_tab_scene">Cena</string>
   <string name="watermark_tab_spots">Lugar</string>
+  <string name="accessibility_mimovie_off">Enquadramento de filme não está em uso</string>
+  <string name="accessibility_mimovie_on">Usando enquadramento de filme</string>
+  <string name="config_name_mimovie">Enquadramento de filme</string>
+  <string name="mimoji_save_success">Salvo com sucesso</string>
+  <string name="super_eis">Vídeo estável</string>
+  <string name="super_eis_disabled_hint">O vídeo estabilizado está desativado</string>
 </resources>

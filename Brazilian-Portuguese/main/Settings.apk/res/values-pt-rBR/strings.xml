@@ -7262,6 +7262,7 @@ Backups locais:
 Os backups locais permitem salvar as configurações do sistema, contas, dados do aplicativo e outros itens em um arquivo separado armazenado no seu dispositivo (MIUI-backup-AllBackup). Após a criação do arquivo de backup, você pode transferi-lo para o seu computador via cabo USB.
 Nota:
 Você pode usar o Mi PC Suite para fazer backup e depois restaurá-los.
+
 Backups na nuvem:
 Você pode fazer backup das configurações do sistema, layout da tela inicial, aplicativos e outros itens na Mi Cloud pela Internet.
 
@@ -7305,4 +7306,7 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
 <string name="wifi_link_turbo_list">Aplicativos</string>
 <string name="wifi_link_turbo_recommendation">Aplicativos recomendados</string>
 <string name="wifi_link_turbo_recommendation_summary">Receba recomendações com base nas estatísticas de uso de dados</string>
+<string name="dark_wallpaper_mode">Ajustar o papel de parede ao modo escuro</string>
+<string name="tether_use_wifi6_summary">Alguns dispositivos podem ser incompativeis com o padrão 802.11ax. Desative este recurso caso tenha problemas.</string>
+<string name="tether_use_wifi6_title">Suporta o padrão de sexta geração</string>
 </resources>

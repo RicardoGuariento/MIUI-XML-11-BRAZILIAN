@@ -260,4 +260,27 @@
   <string name="lp_play_mode_title">Modo de reprodução</string>
   <string name="lv_cast">Transmitir</string>
   <string name="no_more_content">É tudo por hora</string>
+  <string name="ad_buy">Comprar</string>
+  <string name="ad_download">Baixar</string>
+  <string name="ad_join">Entrar na comunidade</string>
+  <string name="ad_more">Mais</string>
+  <string name="cloud_online_switch">Recomendações personalizadas</string>
+  <string name="cloud_online_switch_close_time">Você pode ativar as recomendações personalizadas de conetúdo em %s</string>
+  <string name="cloud_online_switch_open_time">Mostrar recomendações personalizadas de conteúdo</string>
+  <string name="comment_model_close">Não é possível comentar agora. Fique ligado!</string>
+  <string name="error_details">Erro inesperado</string>
+  <string name="explore">Descobrir</string>
+  <string name="gallery_video_icon_is_8k">8K</string>
+  <string name="gallery_video_icon_is_record_log">LOG</string>
+  <string name="hot">Popular</string>
+  <string name="live_tv_title">TV ao vivo</string>
+  <string name="new_channel_tip">Dê uma olhada nos novos canais!</string>
+  <string name="not_support_share">Não é possível compartilhar este item agora</string>
+  <string name="reveal">Rotacionar</string>
+  <string name="reveal_tip">Rotacione seu dispositivo para melhorar a experiência de visualização</string>
+  <string name="screenshot_8k">Captura de tela em 8K</string>
+  <string name="screenshot_8k_save_toast">Salvar capturas de tela em 8K em %s</string>
+  <string name="screenshot_8k_saving">Salvando captura de tela em 8K…</string>
+  <string name="screenshot_8k_share">Enviar arquivo para</string>
+  <string name="toast_no_data">"Este item não está disponível no momento. Volte mais tarde.</string>
 </resources>

@@ -94,4 +94,17 @@
     <string name="v7_preference_on">ATIVADO</string>
 	<string name="fast_connect_headset_reset">Pressione e segure o botão na caixa por %1$d segundos</string>
 	<string name="fast_connect_wbs_reset">Pressione e segure o botão por %1$s segundos enquanto desliga</string>
+	<string name="mi_home_device_find">Encontrar dispositivos</string>
+	<string name="mi_home_device_ignore">Ignorar</string>
+	<string name="mi_home_device_start_binding">Parear agora</string>
+	<string name="mihome_app_download">Instalar agora</string>
+	<string name="mihome_app_update">Atualizar agora</string>
+	<string name="mihome_download_tips">Instale o aplicativo Mi Home, entre e segure seu telefone perto do dispositivo.</string>
+	<string name="mihome_download_title">Instalar o Mi Home</string>
+	<string name="mihome_ignore">Cancelar</string>
+	<string name="mihome_ignore_query">Ignorar</string>
+	<string name="mihome_ignore_tips">Se você ignorar este dispositivo, precisará adicioná-lo no aplicativo Mi Home manualmente.</string>
+	<string name="mihome_ignore_title">Ignorar este dispositivo?</string>
+	<string name="mihome_update_tips">Atualize o aplicativo Hi Home e depois segure seu telefone perto do dispositivo.</string>
+	<string name="mihome_update_title">Atualizar o Mi Home</string>
 </resources>

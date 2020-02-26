@@ -201,16 +201,16 @@
         <item quantity="one">A foto selecionada (%dMB) não está no dispositivo. Fazer o download usando os dados móveis?</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">Cancelar o download das %d fotos restantes?</item>
-        <item quantity="one">Cancelar o download da foto restante?</item>
+        <item quantity="other">%d ainda não foram baixados. Cancelar mesmo assim?</item>
+        <item quantity="one">%d ainda não foi baixado. Cancelar mesmo assim?</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">Não foi possível fazer download de %1$d fotos, conecte-se à rede e tente novamente</item>
         <item quantity="one">Não foi possível fazer download da foto, conecte-se à rede e tente novamente</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">Não foi possível fazer o download de %1$d fotos (%2$dMB), conecte-se à rede e tente novamente</item>
-        <item quantity="one">Não foi possível fazer o download da foto (%2$dMB), conecte-se à rede e tente novamente</item>
+        <item quantity="other">Não foi possível fazer o download de %1$d arquivos (%2$dMB). Conecte-se à rede e tente novamente</item>
+        <item quantity="one">Não foi possível fazer o download da foto (%2$dMB). Conecte-se à rede e tente novamente</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">Não foi possível fazer o download de %1$d fotos, tentar novamente?</item>
@@ -319,5 +319,9 @@
 	   <plurals name="album_item_msg_format_new">
         <item quantity="other">%d álbums</item>
         <item quantity="one">%d álbum</item>
+    </plurals>
+	<plurals name="picker_origin_need_to_download">
+        <item quantity="other">"%1$d arquivos (%2$dMB) ainda não foram baixados. Baixar usando os dados móveis?"</item>
+        <item quantity="one">"%1$d arquivo (%2$dMB) ainda não foi baixado. Baixar usando os dados móveis?"</item>
     </plurals>
 </resources>

@@ -219,4 +219,10 @@
 	<string name="tips_prompt_enable_midrop">Compartilhar arquivos com dispositivos próximos</string>
 	<string name="sunlight_notification_content">Ajustar o brilho para luz ambiente forte automaticamente</string>
 	<string name="sunlight_notification_title">Ativar o modo Luz do Sol</string>
+	<string name="handset_text_unsupported_handset_insert">Toque para ver os detalhes</string>
+	<string name="handset_text_usb_handset_insert">Toque para abrir as configurações adicionais</string>
+	<string name="handset_title_unsupported_handset_insert">Adaptadores de fone de ouvido USB não são suportados</string>
+	<string name="handset_title_usb_handset_insert">Reproduzindo som através do USB</string>
+	<string name="miaudiovisual_notification_summary">Ative para mostrar os efeitos na tela de bloqueio</string>
+	<string name="miaudiovisual_notification_title">Áudio e efeitos visuais</string>
 </resources>

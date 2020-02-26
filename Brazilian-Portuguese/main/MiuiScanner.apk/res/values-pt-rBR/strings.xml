@@ -202,7 +202,19 @@
 	<string name="xiaoai_dialog">"Tente dizer o que
 você deseja digitalizar para a Mi IA"</string>
 	<string name="agree_app_use">Digitalizando códigos QR e outras imagens (alguns recursos podem exigir acesso à sua localização)</string>
-	<string name="select_from_album">Selecionar do álbum</string>
-	<string name="take_a_picture">Tirar uma foto</string>
+	<string name="select_from_album">Galeria</string>
+	<string name="take_a_picture">Câmera</string>
 	<string name="submitting">Enviando</string>
+	<string name="classesNameNull_toast">O nome da aula não pode estar em branco</string>
+	<string name="classes_canfirmTitle">Confirmar resultados e começar a importação</string>
+	<string name="classes_company">Importar</string>
+	<string name="classes_dealalert">Nota: As aulas importadas irão sobrescrever os dados anteriores.</string>
+	<string name="classes_delete">Excluir aula</string>
+	<string name="classes_deleteMessage">Excluir essa aula permanentemente?</string>
+	<string name="classes_edit_dialog_title">Nome da aula</string>
+	<string name="classes_edit_name">Insira o nome da aula</string>
+	<string name="classes_fail">Não foi possível reconhecer. Tente novamente.</string>
+	<string name="classes_isNull">Você ainda não adicionou nenhuma aula</string>
+	<string name="classes_titlt">Horário de aula</string>
+	<string name="classes_topTitle">Digitalize seu horário de aula</string>
 </resources>

@@ -13,8 +13,8 @@
         <item quantity="one">Restaurando %d arquivo</item>
     </plurals>
     <plurals name="restore_app_order_prior">
-        <item quantity="other">Prioridade alta: %d itens</item>
-        <item quantity="one">Prioridade alta: %d ítem</item>
+        <item quantity="other">Prioridade alta: %d aplicativos</item>
+        <item quantity="one">Prioridade alta: %d aplicativo</item>
     </plurals>
     <plurals name="restore_app_order_normal">
         <item quantity="other">Prioridade normal: %d itens</item>

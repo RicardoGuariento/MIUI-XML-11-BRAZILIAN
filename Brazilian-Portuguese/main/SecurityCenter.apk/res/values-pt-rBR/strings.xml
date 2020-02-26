@@ -2900,4 +2900,5 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
 	<string name="antispam_mms_text">Defina Mensagens como seu aplicativo de SMS padrão para poder visualizar mensagens bloqueadas</string>
 	<string name="antispam_mms_text_setting">Defina Mensagens como seu aplicativo de SMS padrão para poder usar a lista de bloqueio</string>
 	<string name="st_hint_operatelist">Parece que essa regra já existe</string>
+	<string name="gb_add_game_loading_tips">Só um momento…</string>
 </resources>

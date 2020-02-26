@@ -78,4 +78,21 @@
         <item>Fazer backup das fotos</item>
         <item>Sincronizar fotos com Mi Cloud</item>
     </string-array>
+	<string-array name="last_week_baby_title">
+        <item>Hora de brincar</item>
+        <item>Fim de semana da criança</item>
+        <item>O pequenino</item>
+    </string-array>
+	<string-array name="last_year_group_people">
+        <item>Novos amigos e velhos companheiros</item>
+        <item>Último ano reunidos</item>
+    </string-array>
+	<string-array name="recent_group_people">
+        <item>Juntos</item>
+        <item>Vínculos e laços</item>
+    </string-array>
+	<string-array name="three_month_baby_title">
+        <item>Eles crescem muito rápido</item>
+        <item>"Fotos da criança</item>
+    </string-array>
 </resources>
