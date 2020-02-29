@@ -1182,4 +1182,6 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="xiaomi_auth_toastbar">Entre para autorizar seu dispositivo</string>
 	<string name="xiaomi_email">E-mail</string>
 	<string name="xiaomi_under_certification">Autorizando...</string>
+	<string name="database_exception">Exceção de dados, faça login novamente</string>
+	<string name="db_error">Há uma exceção nos dados do e-mail. Por favor faça login novamente. Os dados do e-mail podem ser recuperados após o login.</string>
 </resources>
