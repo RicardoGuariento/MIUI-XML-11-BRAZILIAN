@@ -221,7 +221,6 @@
   <string name="shortcut_failed">Não foi possível criar o atalho</string>
   <string name="sign_in_title">Iniciar sessão com Conta Mi</string>
   <string name="sliding_on_unlock">Deslize para cima para desbloquear</string>
-  <string name="sns_sign_in">Outros métodos de iniciar sessão</string>
   <string name="sst_auto_recommand_desc">Subscrever as suas categorias favoritas para receber imagens novas na sua tela de bloqueio diariamente</string>
   <string name="sst_auto_recommand_title">Obter recomendações para papéis de parede personalizados</string>
   <string name="sst_change_wallpaper_desc">Selecionar onde quer aplicar o papel de parede</string>
@@ -247,7 +246,7 @@
   <string name="sst_mode_selection">Modo</string>
   <string name="sst_more_subscription">Mais subscrições</string>
   <string name="sst_morning_greeting_desc">Obtenha uma imagem nova todas as manhãs</string>
-   <string name="sst_morning_greeting_disable_toast">Este recurso estará disponível em breve</string>
+  <string name="sst_morning_greeting_disable_toast">Este recurso estará disponível em breve</string>
   <string name="sst_morning_greeting_title">Saudações matinais</string>
   <string name="sst_new_feature">Novas funcionalidades</string>
   <string name="sst_no_favor_wallpaper_hint">Sem papéis de parede favoritos</string>
@@ -304,8 +303,6 @@
   <string name="uninstall_warning_text_title">Excluindo papéis de parede aleatórios</string>
   <string name="user_ac_click_to_login">Toque para iniciar sessão</string>
   <string name="user_ac_not_login">Sessão não iniciada</string>
-  <string name="user_id_hint">E-mail/Telefone</string>
-  <string name="v_code_title">Introduza o código de verificação em 2 passos</string>
   <string name="wallpaper_feed_title">Pode também gostar de</string>
   <string name="wallpaper_relations_title">Recomendado</string>
   <string name="wlan_download">Atualizar apenas através de Wi-Fi</string>
