@@ -204,7 +204,7 @@
     <string name="tanDesc">tangente</string>
     <string name="tax_accumulation_fund">Fundo acumulado</string>
     <string name="tax_annual_bonus_hint">Insira seu bônus bruto</string>
-    <string name="tax_annual_bonus_number">Bonus (CNY)</string>
+    <string name="tax_annual_bonus_number">Bônus (CNY)</string>
     <string name="tax_birth">Aniversário</string>
     <string name="tax_bonus_error">Insira o valor correto do bônus</string>
     <string name="tax_cal_method_annual">Cálculo de bônus anual</string>
@@ -578,7 +578,7 @@ Tamanho da atualização: %2$s"</string>
 	<string name="mortgage_provider_east_money">Dados fornecidos por East Money</string>
 	<string name="choose_radix">Selecione o sistema numeral</string>
     <string name="convertion_unit_radix">Sistema numeral</string>
-    <string name="item_title_radix">Systema numeral</string>
+    <string name="item_title_radix">Sistema numeral</string>
     <string name="unit_data_display_radix_10">Decimal</string>
     <string name="unit_data_display_radix_16">Hexadecimal</string>
     <string name="unit_data_display_radix_2">Binário</string>
@@ -595,4 +595,11 @@ Tamanho da atualização: %2$s"</string>
 	<string name="permission_purpose">Bem-vindo à Calculadora! Além das funcionalidades básicas, a Calculadora permite converter moedas e unidades de medida, calcular pagamentos de hipotecas e muito mais. Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.
 Observe que este aplicativo precisa se conectar à Internet e requer as seguintes permissões para coletar suas informações pessoais:</string>
 	<string name="permission_remove_desc">Você pode optar por desinstalar este aplicativo ou restringir permissões e revogar sua autorização nas Configurações.</string>
+	<string name="dob_selection_error">A data de nascimento precisa ser anterior à data atual</string>
+	<string name="history_delete_confirmation">Limpar o histórico agora?</string>
+	<string name="label_about">Sobre</string>
+	<string name="label_clear_history">Limpar tudo</string>
+	<string name="label_delete">Limpar</string>
+	<string name="label_history">Histórico</string>
+	<string name="label_no_history">Ainda não há itens aqui</string>
 </resources>

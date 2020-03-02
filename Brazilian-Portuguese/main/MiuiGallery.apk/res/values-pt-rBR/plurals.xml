@@ -6,7 +6,7 @@
     </plurals>
 	    <plurals name="photo_count_format">
         <item quantity="other">Total %1$d itens</item>
-        <item quantity="one">Total %1$d ítem</item>
+        <item quantity="one">Total %1$d item</item>
     </plurals>
 	    <plurals name="video_count_format">
         <item quantity="other">%1$d arquivos</item>
@@ -222,7 +222,7 @@
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">Ignorando %d fotos que não estão no dispositivo.</item>
-        <item quantity="one">Ignorando 1 foto que não está no dispositivo.</item>
+        <item quantity="one">Ignorando %d foto que não está no dispositivo.</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">%1$d novas fotos encontradas</item>
