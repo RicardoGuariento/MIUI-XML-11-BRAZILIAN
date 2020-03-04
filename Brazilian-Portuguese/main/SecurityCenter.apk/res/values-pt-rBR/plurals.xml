@@ -405,8 +405,8 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="one">%d aplicativo está gastando bateria</item>
     </plurals>
 	    <plurals name="pc_main_power_center_battery_day">
-        <item quantity="other">%s days</item>
-        <item quantity="one">%s day</item>
+        <item quantity="other">%s dias</item>
+        <item quantity="one">%s dia</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_hour">
         <item quantity="other">%s horas</item>
@@ -425,7 +425,7 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     </plurals>
     </plurals>
 	<plurals name="applock_guide_app_count_tips">
-        <item quantity="other">Você pode protreger pelo menos %s aplicativos</item>
+        <item quantity="other">Você pode proteger pelo menos %s aplicativos</item>
         <item quantity="one">Você pode proteger pelo menos %s aplicativo</item>
     </plurals>
 	    <plurals name="gb_record_time_title">
@@ -435,5 +435,21 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
 	    <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d aplicativos</item>
         <item quantity="one">%d aplicativo</item>
+    </plurals>
+	<plurals name="app_behavior_desc_allow">
+        <item quantity="other">Permitido %3$d vezes entre %1$s e %2$s</item>
+        <item quantity="one">Permitido %3$d vez entre %1$s e %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny">
+        <item quantity="other">Restringido %3$d vezes entre %1$s e %2$s</item>
+        <item quantity="one">Restringido %3$d vez entre %1$s e %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_off">
+        <item quantity="other">Você não será notificado sobre ações sensíveis executadas por %1$d aplicativos</item>
+        <item quantity="one">Você não será notificado sobre ações sensíveis executadas por %1$d aplicativo</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_on">
+        <item quantity="other">Você será notificado sobre ações sensíveis executadas por %1$d aplicativos</item>
+        <item quantity="one">Você não será notificado sobre ações sensíveis executadas por %1$d aplicativo</item>
     </plurals>
 </resources>

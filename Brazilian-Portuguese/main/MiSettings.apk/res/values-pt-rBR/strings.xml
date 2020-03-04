@@ -221,4 +221,15 @@ Este aplicativo também precisa se conectar à Internet e precisa das seguintes 
   <string name="usage_stats_limit_time_warn_summary">Mostrar o tempo restante da tela na tela de notificações</string>
   <string name="usage_stats_limit_time_warn_title">Alertar sobre o tempo restante da tela</string>
   <string name="usage_stats_no_limit">Exceção de aplicativo</string>
+  <string name="contact_description">Coloque atalhos de contato na tela inicial e toque para fazer uma chamada</string>
+  <string name="contact_title">Atalhos de contatos</string>
+  <string name="display_description">Ícones maiores, texto grande, menor poluição visual</string>
+  <string name="display_title">Itens maiores</string>
+  <string name="exit_easymode">Desativar modo Lite</string>
+  <string name="start_easymode">Ativar modo Lite</string>
+  <string name="title_activity_easy_mode">Modo Lite</string>
+  <string name="touch_description">Botões e atalhos otimizados ajudarão a evitar o toque acidental</string>
+  <string name="touch_title">Controles avançados de toque</string>
+  <string name="usage_home_premission_second_summary_double_link_prefix">"Protegeremos suas informações pessoais de acordo com as leis relevantes, regulamentos e políticas de privacidade. Se você não concordar em conceder essas permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este aplicativo. Você pode revogar a autorização no Tempo de tela em > Configurações > Desativar tempo de tela."</string>
+  <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;"Antes de usar este aplicativo, leia e concorde com o nosso &amp;lt;a href='%1s'&amp;gt;Termo de Acordo do Usuário&amp;lt;/a&amp;gt; e &amp;lt;a href='%2s'&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
 </resources>

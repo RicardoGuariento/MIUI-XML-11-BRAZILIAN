@@ -18,7 +18,7 @@
     <string name="pref_title_sync_contacts_title">Sincronizar contatos</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Sincronizar fotos apenas por Wi-Fi</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Apenas sincronizar fotos de perfil dos contatos quando você estiver conectado a uma rede Wi-Fi</string>
-	<string name="priv_dialog_sync_all_purpose">Bem-vindo aos serviços Mi Cloud! Você pode usar o Mi Cloud para sincronizar suas mensagens, histórico de chamadas, contatos, notas, configurações do navegador, músicas, fotos e vídeos, configurações de WLAN, gravações, layout da tela inicial, aplicativos, eventos do calendário, itens da lista de bloqueio e cofre de aplicativos em todos os dispositivos conectados .</string>
+	<string name="priv_dialog_sync_all_purpose">Bem-vindo aos serviços Mi Cloud! Você pode usar o Mi Cloud para sincronizar suas mensagens, histórico de chamadas, contatos, notas, configurações do navegador, músicas, fotos e vídeos, configurações de Wi-Fi, gravações, layout da tela inicial, aplicativos, eventos do calendário, itens da lista de bloqueio e cofre de aplicativos em todos os dispositivos conectados .</string>
     <string name="error_data_in_transfer_title">Mi Cloud indisponível</string>
     <string name="error_data_in_transfer">A sincronização terminará em %s horas.</string>
     <string name="no_sim">Nenhum cartão SIM detectado</string>
@@ -266,7 +266,7 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
     <string name="micloud_upgrade_member">Obter armazenamento</string>
     <string name="micloud_notif_content_depend_wifi">Conecte-se ao Wi-Fi para sincronizar.</string>
     <string name="micloud_notif_title_master_depend_wifi">Sincronização interrompida enquanto você usa dados móveis</string>
-    <string name="micloud_notif_content_master_depend_wifi">Conecte-se à WLAN ou altere as configurações de sincronização. Toque para alterar.</string>
+    <string name="micloud_notif_content_master_depend_wifi">Conecte-se ao Wi-Fi ou altere as configurações de sincronização. Toque para alterar.</string>
     <string name="micloud_notif_content_memory_low">Espaço de armazenamento insuficiente.</string>
     <string name="micloud_notif_title_battery_low">Não é possível sincronizar com a Mi Cloud</string>
     <string name="micloud_notif_content_battery_low">Bateria muito fraca.</string>

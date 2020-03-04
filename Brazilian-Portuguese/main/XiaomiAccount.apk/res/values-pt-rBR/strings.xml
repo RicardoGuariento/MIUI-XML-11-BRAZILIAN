@@ -555,4 +555,12 @@ Envie este código para o supervisor."</string>
 	<string name="passport_can_not_receive_verification_code">Não consegue receber o código de verificação?</string>
 	<string name="input_new_pwd">Insira uma nova senha</string>
 	<string name="confirm_new_pwd">Confirme a nova senha</string>
+	<string name="find_device">Encontrar dispositivo</string>
+	<string name="find_device_clear_data">Limpar dados</string>
+	<string name="find_device_close">Desativado</string>
+	<string name="find_device_location">Localizar</string>
+	<string name="find_device_open">Ativado</string>
+	<string name="find_device_set_lost_model">Modo Perdido</string>
+	<string name="find_device_title">Encontrar dispositivo</string>
+	<string name="password_toggle_content_description">Ativar visibilidade da senha</string>
 </resources>

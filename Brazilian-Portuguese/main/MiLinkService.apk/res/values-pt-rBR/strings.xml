@@ -4,7 +4,7 @@
   <string name="console_guide_btn_got_it">Entendido</string>
   <string name="console_guide_subtitle_hang_up">Você pode continuar transmitindo quando a tela do seu dispositivo estiver desligada. Este recurso diminui o consumo de energia.</string>
   <string name="console_guide_subtitle_private">Não exibir notificações flutuantes, chamadas recebidas e outros itens particulares em monitores externos</string>
-  <string name="console_guide_subtitle_small_window">"Minimize the window that's being cast to be able to use other features of your phone"</string>
+  <string name="console_guide_subtitle_small_window">Minimize a janela que está sendo transmitida para poder usar outros recursos do seu telefone</string>
   <string name="dialog_can_not_find_device">Não foi possível encontrar dispositivos próximos</string>
   <string name="dialog_cancle">Cancelar</string>
   <string name="dialog_connect_fail">Não foi possível conectar</string>
@@ -77,7 +77,7 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
   <string name="help_page_text_40">Primeiro, verifique se a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, Você pode selecionar Aplicativos, Espelhamento de tela.</string>
   <string name="help_page_text_41">Suporte ao cliente Panasonic: 400-881-1315</string>
   <string name="help_page_text_42">Changhong</string>
-  <string name="help_page_text_43">Primeiro, verifique se a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, você pode selecionar Sistema, Ferramentas do Sistema, Multiplas telas, Espelhamento de tela.</string>
+  <string name="help_page_text_43">Verifique as configurações da sua TV para garantir que seu monitor externo seja compatível com a funcionalidade do Miracast.</string>
   <string name="help_page_text_44">Suporte ao cliente Changhong: 400-811-1666</string>
   <string name="help_page_text_45">TCL</string>
   <string name="help_page_text_46">Primeiro, verifique se a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, você pode selecionar Aplicativos, Monitor sem fio.</string>
@@ -122,4 +122,11 @@ Protegeremos suas informações pessoais de acordo com as leis, regulamentos e p
 Para poder funcionar normalmente, este aplicativo precisa se conectar à Internet e precisa das seguintes permissões para coletar suas informações pessoais:"&lt;/Data&gt;</string>
   <string name="privacy_text_2">&lt;Data&gt;"Se você não concordar em conceder essas permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este aplicativo. Você pode optar por desinstalar este aplicativo, sair ou restringir permissões nas Configurações nesses casos..
 Leia e concorde com o nosso &amp;lt;a href=%1$s&amp;gt;Termo de Acordo do Usuário&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de usar este recurso."&lt;/Data&gt;</string>
+	<string name="help_page_text_06_global">"1. TVs Mi, Mi Boxes, e Projetores Mi:
+Conecte o telefone e o monitor externo à mesma rede Wi-Fi para obter o melhor resultado. Se eles estiverem conectados a redes diferentes, poderá levar mais tempo para encontrar o monitor externo e conectar-se.
+Nota: As TVs Mi mais antigas podem não suportar transmissão em redes diferentes.
+2. Se você estiver usando TVs, decodificadores ou projetores de outras marcas, conecte o telefone e o monitor externo à mesma rede Wi-Fi.
+Se os dois dispositivos não puderem ser conectados à mesma rede, ligue o Miracast no seu monitor externo. O nome da funcionalidade do Miracast pode variar."</string>
+<string name="nfc_connect_failed_toast">Não foi possível transmitir. Tente novamente</string>
+<string name="small_window_not_supported">Não é possível minimizar este aplicativo enquanto ele está transmitindo</string>
 </resources>
