@@ -415,7 +415,8 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <plurals name="pc_main_power_center_battery_minute">
         <item quantity="other">%s minutos</item>
         <item quantity="one">%s minuto</item>
-	<plurals name="keyguard_charging_info_drained_hour_time_format">
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%s horas</item>
         <item quantity="one">%s hora</item>
     </plurals>

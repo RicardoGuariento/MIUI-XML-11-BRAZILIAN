@@ -63,8 +63,4 @@
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>Ocorreu um problema ao registrar a chamada no Wi‑Fi junto à sua operadora: %1$s</item>
     </string-array>
-    <string-array name="wfcSpnFormats">
-        <item>%s</item>
-        <item>%s chamada Wi-Fi</item>
-    </string-array>
 </resources>

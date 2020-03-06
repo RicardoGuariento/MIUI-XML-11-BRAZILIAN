@@ -9,10 +9,6 @@
         <item>MORNO</item>
         <item>FRIO</item>
     </string-array>
-    <string-array name="agps_si_mode_entries">
-        <item>MSB</item>
-        <item>MSA</item>
-    </string-array>
     <string-array name="ai_key_item_name">
         <item>Fale para o Assistente do Google</item>
         <item>Abrir Pesquisa Google</item>
@@ -314,12 +310,6 @@
         <item>, ativo</item>
         <item>, ativo (mídia)</item>
         <item>, ativo (telefone)</item>
-    </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
-        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Padrão)</item>
@@ -726,14 +716,9 @@
         <item>Compatibilidade</item>
         <item>Alta velocidade</item>
     </string-array>
-    <string-array name="connect_mode_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="dark_ui_mode_entries">
-        <item>Automático (com base na hora do dia)</item>
-        <item>Sempre ativado</item>
-        <item>Sempre desativado</item>
+        <item>Escuro</item>
+        <item>Claro</item>
     </string-array>
     <string-array name="data_usage_data_range">
         <item>Últimos 30 dias</item>
@@ -1078,11 +1063,6 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>10 minutos</item>
         <item>Nunca</item>
     </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>Perguntar</item>
-        <item>Nunca permitir</item>
-        <item>Sempre permitir</item>
-    </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Desativado</item>
         <item>64KB</item>
@@ -1129,17 +1109,6 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>2 horas</item>
         <item>8 horas</item>
     </string-array>
-    <string-array name="silent_mode_duration_value">
-        <item>0</item>
-        <item>30</item>
-        <item>60</item>
-        <item>120</item>
-        <item>480</item>
-    </string-array>
-    <string-array name="silent_values">
-        <item>4</item>
-        <item>1</item>
-    </string-array>
     <string-array name="startup_hips_action">
         <item>Permitir</item>
         <item>Negar</item>
@@ -1171,11 +1140,6 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Regular</item>
         <item>Extremo</item>
     </string-array>
-    <string-array name="traffic_balance_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animação desativada</item>
         <item>Escala de animação 0.5x</item>
@@ -1195,17 +1159,6 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Rápida</item>
         <item>Muito rápida</item>
         <item>Super-rápida</item>
-    </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>Muito lenta</item>
@@ -1289,16 +1242,6 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Média</item>
         <item>Alta</item>
     </string-array>
-    <string-array name="whetstone_level_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="wifi_ap_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wpa2</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Wi-Fi preferido</item>
         <item>Preferência pela rede móvel</item>
@@ -1316,15 +1259,6 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>Wi-Fi preferido</item>
         <item>Preferência pela rede móvel</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_values_without_wifi_only">
-        <item>2</item>
-        <item>1</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Conectar automaticamente</item>
