@@ -36,7 +36,6 @@
   <string name="aod_dual_togother_12">hh:mm aa</string>
   <string name="aod_lock_screen_date">EE, MMMM d</string>
   <string name="aod_lock_screen_date_12">EE, MMMM d</string>
-  <string name="aod_lock_screen_date_lunar">YY年 N月e</string>
   <string name="aod_mode_preview">Pré-visualização</string>
   <string name="aod_mode_style">Fundo &amp; Estilo do Relógio</string>
   <string name="aod_mode_style_title">Mais opções</string>
@@ -51,7 +50,6 @@
   <string name="black_white_clock_panel">Relógio</string>
   <string name="cancel">Cancelar</string>
   <string name="character_counter_content_description">Inseridos %1$d caracteres de %2$d</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="choose_aod_style">Selecionar tema</string>
   <string name="clock_panel_icon">Clock face</string>
   <string name="color_change_with_time_description">Alterar cor do texto automaticamente ao longo do tempo</string>
@@ -61,7 +59,7 @@
   <string name="large_time">Relógio grande</string>
   <string name="mini_time">Relógio pequeno</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
-  <string name="only_show_bg_description">"Não mostrar hora, data e outros itens"</string>
+  <string name="only_show_bg_description">Não mostrar hora, data e outros itens</string>
   <string name="only_show_bg_title">Mostrar somente o fundo</string>
   <string name="paper_mode_end_time_title">Desligar</string>
   <string name="paper_mode_start_time_title">Ligar</string>
