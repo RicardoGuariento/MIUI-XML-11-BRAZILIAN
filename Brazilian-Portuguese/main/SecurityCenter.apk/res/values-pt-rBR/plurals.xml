@@ -424,7 +424,6 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%s minutos</item>
         <item quantity="one">%s minuto</item>
     </plurals>
-    </plurals>
 	<plurals name="applock_guide_app_count_tips">
         <item quantity="other">Você pode proteger pelo menos %s aplicativos</item>
         <item quantity="one">Você pode proteger pelo menos %s aplicativo</item>
