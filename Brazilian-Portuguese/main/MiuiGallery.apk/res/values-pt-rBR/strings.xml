@@ -1723,4 +1723,7 @@ para personalizar a Galeria"</string>
 	<string name="slideshow_loop_title">Repetir todos os slides</string>
 	<string name="sort">Organizar</string>
 	<string name="vlog_mi_clip_cn">Editor de vídeo</string>
+	<string name="drag_view_tip_sub_title">Pressione e segure em um álbum para reorganizar</string>
+	<string name="drag_view_tip_title">Reorganizar álbuns</string>
+	<string name="vlog_clip_cut_fail_min_time">Os clipes precisam ter pelo menos %1$s segundos</string>
 </resources>

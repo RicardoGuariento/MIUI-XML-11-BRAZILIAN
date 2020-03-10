@@ -562,5 +562,8 @@ Envie este código para o supervisor."</string>
 	<string name="find_device_open">Ativado</string>
 	<string name="find_device_set_lost_model">Modo Perdido</string>
 	<string name="find_device_title">Encontrar dispositivo</string>
-	<string name="password_toggle_content_description">Ativar visibilidade da senha</string>
+	<string name="password_toggle_content_description">Mostrar senha</string>
+	<string name="character_counter_content_description">Excedeu o limite de %1$d caracteres em %2$d</string>
+	<string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
+	
 </resources>

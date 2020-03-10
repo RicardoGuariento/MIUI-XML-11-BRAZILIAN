@@ -225,4 +225,18 @@
 	<string name="handset_title_usb_handset_insert">Reproduzindo som através do USB</string>
 	<string name="miaudiovisual_notification_summary">Ative para mostrar os efeitos na tela de bloqueio</string>
 	<string name="miaudiovisual_notification_title">Áudio e efeitos visuais</string>
+	<string name="input_method_clipboard_check_more_add_to_phrase">Adicionar frase frequente</string>
+	<string name="input_method_clipboard_check_more_copy">Copiar</string>
+	<string name="input_method_clipboard_check_more_delete">Excluir</string>
+	<string name="input_method_clipboard_checkbox_cancle">Cancelar</string>
+	<string name="input_method_clipboard_checkbox_confirm">Limpar</string>
+	<string name="input_method_clipboard_clear_all_button">Limpar tudo</string>
+	<string name="input_method_clipboard_clear_all_phrase_des">Limpar todos os itens da área de transferência?</string>
+	<string name="input_method_clipboard_clear_all_phrase_title">Limpando área de transferência</string>
+	<string name="input_method_clipboard_copy_success">Copiado com sucesso</string>
+	<string name="input_method_clipboard_delete_success">Excluído com sucesso</string>
+	<string name="input_method_clipboard_participle">Palavras separadas</string>
+	<string name="input_method_clipboard_settings_button">Configurações</string>
+	<string name="input_method_phrase_edit">Editar</string>
+	<string name="input_method_phrase_top">Fixar</string>
 </resources>

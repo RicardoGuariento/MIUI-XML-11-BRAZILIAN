@@ -7247,7 +7247,7 @@ Os backups são armazenados na Mi Cloud e podem ser acessados pela Internet. Ess
 <string name="backup_restore_data_content">Seus backups podem conter contatos, mensagens (SMS e MMS), histórico de chamadas, eventos da agenda, fotos, arquivos de áudio, vídeos, documentos, aplicativos, dados do aplicativo e layout da tela inicial.</string>
 <string name="backup_restore_data_title">5. Quais itens posso fazer backup ou restaurar?</string>
 <string name="bt_ldac_dialog_summary">O LDAC fornece uma experiência de áudio de alta qualidade, mas também aumenta o consumo de energia. Este recurso pode ser desativado nas Configurações.</string>
-<string name="bt_lhdc_dialog_summary">O LDAC fornece uma experiência de áudio de alta qualidade, mas também aumenta o consumo de energia. Este recurso pode ser desativado nas Configurações.</string>
+<string name="bt_lhdc_dialog_summary">O LHDC permite reproduzir áudio de alta qualidade e reduz a latência durante os jogos, mas também aumenta o consumo de energia. Este recurso pode ser desativado nas Configurações.</string>
 <string name="clear_all_data">Apagar todos os dados</string>
 <string name="clear_phone_data_category">Apagar os seguintes itens</string>
 <string name="cloud_restore_section_summary_new">Faça um backup do layout da tela inicial, aplicativos, configurações do sistema e muito mais</string>
@@ -7311,4 +7311,24 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
 <string name="tether_use_wifi6_title">Suporta o padrão de sexta geração</string>
 <string name="easymode_hint">Toque para desativar o modo Lite</string>
 <string name="oldman_mode_settings">Modo Lite</string>
+<string name="bt_lhdc_declaration">Quando um dispositivo Bluetooth suporta LHDC, ele será conectado por padrão. O LHDC permite reproduzir áudio de alta qualidade e reduz a latência durante os jogos, mas também aumenta o consumo de energia. Problemas podem ocorrer durante a reprodução devido a limitações de hardware do Bluetooth.</string>
+<string name="bt_lhdc_open_dialog_summary">O LHDC permite reproduzir áudio de alta qualidade e reduz a latência durante os jogos, mas também aumenta o consumo de energia. Problemas podem ocorrer durante a reprodução devido a limitações de hardware do Bluetooth.</string>
+<string name="input_method_clipboard_settings">Configurações da área de transferência</string>
+<string name="input_method_cloud_data_title">Área de transferência da nuvem</string>
+<string name="input_method_cloud_paste_mode_bubble_des">Você verá um balão sempre que um novo conteúdo aparecer na área de transferência da nuvem. Toque no balão para inserir o texto copiado.</string>
+<string name="input_method_cloud_paste_mode_bubble_title">Balão</string>
+<string name="input_method_cloud_paste_mode_no_des">Você não verá notificações quando novo conteúdo aparecer na área de transferência da nuvem. No entanto, você ainda poderá usar sua área de transferência tocando no ícone.</string>
+<string name="input_method_cloud_paste_mode_no_title">Nenhum</string>
+<string name="input_method_cloud_paste_mode_red_point_des">Você verá um ponto vermelho na parte inferior do teclado sempre que um novo conteúdo aparecer na área de transferência da nuvem. Toque no ícone para abrir a área de transferência e usar o conteúdo copiado.</string>
+<string name="input_method_cloud_paste_mode_red_point_title">Ponto vermelho</string>
+<string name="input_method_quick_access">Acesso rápido</string>
+<string name="input_method_quick_cloud_mode_title">Notificações sobre o novo conteúdo da área de transferência</string>
+<string name="input_method_quick_cloud_summary">Copie itens em computadores compatíveis e cole-os no seu dispositivo</string>
+<string name="input_method_quick_cloud_title">Área de transferência da nuvem</string>
+<string name="input_method_quick_paste_summary">Veja os itens copiados tocando no ícone da área de transferência</string>
+<string name="input_method_quick_paste_title">Colagem rápida</string>
+<string name="input_method_quick_taobao_summary">Abra os links copiados do Taobao tocando no ícone da área de transferência</string>
+<string name="input_method_quick_taobao_title">Links do Taobao</string>
+<string name="input_method_quick_url_summary">Abra os URLs copiados tocando no ícone da área de transferência</string>
+<string name="input_method_quick_url_title">Sites</string>
 </resources>
