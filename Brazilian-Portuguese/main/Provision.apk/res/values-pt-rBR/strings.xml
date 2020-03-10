@@ -83,7 +83,6 @@ Você deve concordar com a Política de Privacidade do Kika antes de usar este r
     <string name="desc_fingerprint">Use sua impressão digital para desbloquear o dispositivo, verificar transações no Mi Pay, ou para fazer login em aplicativos e serviços.</string>
     <string name="desc_extra_fingerprint" />
     <string name="next_fingerprint">Avançar</string>
-    <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">Use sua impressão digital para desbloquear seu dispositivo ou fazer login em aplicativos e serviços.</string>
     <string name="content_description_start">Iniciar</string>
     <string name="start_up_slogan">Projetado para uma experiência em tela cheia</string>

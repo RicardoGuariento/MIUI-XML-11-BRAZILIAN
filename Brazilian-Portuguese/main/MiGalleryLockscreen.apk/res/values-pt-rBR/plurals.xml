@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="feed_article_entrance_title">
-        <item quantity="other">%d artigos neste tópico</item>
-        <item quantity="one">%d artigo neste tópico</item>
+        <item quantity="other">%s artigos neste tópico</item>
+        <item quantity="one">%s artigo neste tópico</item>
     </plurals>
     <plurals name="lockscreen_magazine_subscribe">
         <item quantity="other">%1$s pessoas inscritas</item>
@@ -25,11 +25,11 @@
         <item quantity="one">%d minuto atrás</item>
     </plurals>
 	<plurals name="llks_tools_remote_control_data">
-        <item quantity="other">%d itens</item>
-        <item quantity="one">%d item</item>
+        <item quantity="other">%s itens</item>
+        <item quantity="one">%s item</item>
     </plurals>
     <plurals name="llks_tools_smart_devices_data">
-        <item quantity="other">%d dispositivos</item>
-        <item quantity="one">%d dispositivo</item>
+        <item quantity="other">%s dispositivos</item>
+        <item quantity="one">%s dispositivo</item>
     </plurals>
 </resources>

@@ -164,7 +164,7 @@
     <string name="backup_only_in_wifi_summary">Nunca usar dados móveis para o backup de fotos ou vídeos</string>
     <string name="backup_only_wifi_dialog_message">Usar os dados móveis para o backup de fotos e vídeos?</string>
     <string name="backup_pause">Pausar backup</string>
-    <string name="backup_pause_title">Fazer backup em %s</string>
+    <string name="backup_pause_title">Sincronização parada</string>
     <string name="backup_pending">O backup será feito automaticamente</string>
     <string name="backup_stop">Parar backup</string>
     <string name="backup_sync_dialog_confirm">Ativar</string>

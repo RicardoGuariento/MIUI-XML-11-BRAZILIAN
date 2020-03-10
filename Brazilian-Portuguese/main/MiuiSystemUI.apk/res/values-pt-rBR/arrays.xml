@@ -110,29 +110,11 @@
         <item>, ativo (mídia)</item>
         <item>, ativo (telefone)</item>
     </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
-        <item>avrcp16</item>
-    </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Padrão)</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
         <item>AVRCP 1.6</item>
-    </string-array>
-    <string-array name="carrier_name">
-        <item>China Mobile</item>
-        <item>China Unicom</item>
-        <item>China Telecom</item>
-        <item>SmarToneVodafone</item>
-    </string-array>
-    <string-array name="carrier_simple_name">
-        <item>CM</item>
-        <item>CU</item>
-        <item>CT</item>
-        <item>SMC HK</item>
     </string-array>
     <string-array name="clock_options">
         <item>Mostrar horas, minutos e segundos</item>
@@ -266,17 +248,6 @@
         <item>Rápida</item>
         <item>Muito rápida</item>
         <item>Super-rápida</item>
-    </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Carregando</item>

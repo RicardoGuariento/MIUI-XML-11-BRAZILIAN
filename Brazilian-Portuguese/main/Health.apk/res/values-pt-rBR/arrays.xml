@@ -52,10 +52,6 @@
         <item>Sem dados de sono por hora</item>
         <item>Abrindo Mi Health</item>
     </string-array>
-    <string-array name="temperature_unit">
-        <item>℃</item>
-        <item>°F</item>
-    </string-array>
     <string-array name="week">
         <item>Domingo</item>
         <item>Segunda-feira</item>
@@ -74,11 +70,6 @@
         <item>Sex</item>
         <item>Sáb</item>
     </string-array>
-    <integer-array name="weight_line_chart_default_y">
-        <item>42</item>
-        <item>45</item>
-        <item>48</item>
-    </integer-array>
     <string-array name="weight_unit">
         <item>" g"</item>
         <item>" kg"</item>

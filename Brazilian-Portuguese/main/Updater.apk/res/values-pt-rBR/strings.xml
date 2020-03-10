@@ -56,7 +56,6 @@ Não há atualizações disponíveis"</string>
   <string name="share_title">Compartilhar com</string>
   <string name="stable">Estável</string>
   <string name="version">Instalado atualmente:</string>
-  <string name="version_type">MIUI %3$s | %1$s | (Semanal)</string>
   <string name="weekly">Semanal</string>
    <string name="wifi_recommended">Sem conexão Wi-Fi para iniciar a transferência</string>
 </resources>
