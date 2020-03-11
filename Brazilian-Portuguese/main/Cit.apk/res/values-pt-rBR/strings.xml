@@ -395,5 +395,5 @@ N: sem teste"</string>
 <string name="cit_proximity_data_check_summary">"Sensor de distância infravermelho: cubra o sensor de distância do telefone com a mão e então deixe o sensor de distância. 
  Sensor de distância ultra-sônico: simule pegar o telefone para atender uma chamada
  Se a área de teste inferior mostrar um valor de 0,0 ao se aproximar e um valor 5,0 quando estiver longe, o teste será bem-sucedido, caso contrário, o teste falhará."</string>
- <string name="battery_dual_connector">Segundo conector da bateria</strin
+ <string name="battery_dual_connector">Segundo conector da bateria</string>
 </resources>
