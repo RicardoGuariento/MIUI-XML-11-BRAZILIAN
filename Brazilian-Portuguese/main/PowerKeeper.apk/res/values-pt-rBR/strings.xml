@@ -103,4 +103,5 @@ A Economia de bateria irá tratar aplicativos importantes de forma seletiva."</s
     <string name="atrace_saved">Salvo com sucesso</string>
 	<string name="power_tools_current">Atual</string>
 	<string name="power_tools_fps">FPS</string>
+	<string name="cloud_russion_addr">Atualizar dados do servidor Russion</string>
 </resources>

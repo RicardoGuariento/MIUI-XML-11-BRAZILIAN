@@ -1431,4 +1431,14 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Otimizado para qualidade do áudio (900kbps)</item>
         <item>Melhor aplicação (Bitrate automático)</item>
     </string-array>	
+	<string-array name="aggregate_entries">
+        <item>Recomendado</item>
+        <item>Importante</item>
+        <item>Não é importante</item>
+    </string-array>
+    <string-array name="aggregate_summaries">
+        <item>A MIUI decidirá quais notificações devem aparecer diretamente</item>
+        <item>As notificações aparecerão na tela de notificação</item>
+        <item>As notificações aparecerão em uma pasta separada</item>
+    </string-array>
 </resources>

@@ -7331,4 +7331,5 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
 <string name="input_method_quick_taobao_title">Links do Taobao</string>
 <string name="input_method_quick_url_summary">Abra os URLs copiados tocando no ícone da área de transferência</string>
 <string name="input_method_quick_url_title">Sites</string>
+<string name="aggregate_title">Regras para notificações agrupadas</string>
 </resources>
