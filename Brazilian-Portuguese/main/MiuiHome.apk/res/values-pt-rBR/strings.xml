@@ -15,7 +15,7 @@
     <string name="announce_for_delete_item">%1$s foi excluído</string>
     <string name="announce_for_drag_enter_delete_zone">Itens arrastados para a zona de desinstalação</string>
     <string name="announce_for_drag_enter_folder_grid">Você pode soltar itens na pasta</string>
-    <string name="announce_for_drag_enter_workspace_thumbnail">Itens arrastados para a pré-visualizaçãod e tela número %1$d</string>
+    <string name="announce_for_drag_enter_workspace_thumbnail">Itens arrastados para a pré-visualização e tela número %1$d</string>
     <string name="announce_for_drop">Soltou %1$s</string>
     <string name="announce_for_drop_folder_grid_view">Número %1$d na pasta</string>
     <string name="announce_for_drop_folder_icon">Na pasta %1$s</string>
@@ -196,7 +196,7 @@
     <string name="is_system_wallpaper_message">Não é possível excluir recursos do sistema</string>
     <string name="launcher_auto_fill_empty_title">Preencher espaços vazios</string>
     <string name="launcher_not_exist">Ocorreu um erro, volte para a tela inicial e tente novamente.</string>
-	<string name="launcher_sliding_up_gesture">Delize para cima na tela inicial para abrir a pesquisa</string>
+	<string name="launcher_sliding_up_gesture">Deslize para cima na tela inicial para abrir a pesquisa</string>
     <string name="launcher_title">Tela inicial &amp; Recentes</string>
     <string name="like">Adicionar aos favoritos</string>
     <string name="liked">Adicionado aos favoritos</string>
@@ -246,7 +246,7 @@
     <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Desativar</string>
     <string name="open_personal_assistant_dialog_desc">Você não será capaz de usar o cofre de aplicativos e receber suas atualizações. Desativar agora?</string>
-    <string name="open_personal_assistant_dialog_desc_international">Você nao será capaz de usar os cartões do cofre de aplicativos (Ações, Atalhos, etc.) e receber atualizações depois que você desativar este recurso.</string>
+    <string name="open_personal_assistant_dialog_desc_international">Você não será capaz de usar os cartões do cofre de aplicativos (Ações, Atalhos, etc.) e receber atualizações depois que você desativar este recurso.</string>
     <string name="open_personal_assistant_dialog_title">Desativar o cofre de aplicativos</string>
     <string name="open_personal_assistant_title">Cofre de aplicativos</string>
     <string name="out_of_space">Não há mais espaço nesta tela inicial</string>
@@ -407,7 +407,7 @@
 	<string name="category_edit_back_confirm_dialog_positive_button">Salvar</string>
 	<string name="auto_add_app_shortcut">Adicionar novos aplicativos à tela inicial</string>
 	<string name="one_key_call_title">Toque para discar</string>
-	<string name="accessibility_menu_item_split_disable">O aplicatio não suporta tela dividida</string>
+	<string name="accessibility_menu_item_split_disable">O aplicativo não suporta tela dividida</string>
 	<string name="accessibility_menu_item_split_enable">O aplicativo suporta tela dividida</string>
 	<string name="accessibility_recents_item_open_app_info">Abrir %s informações da aplicação.</string>
 	<string name="accessibility_splite_screen_primary">Abrir como o aplicativo primário na tela dividida</string>
@@ -435,4 +435,5 @@
 	<string name="recents_title_security_scan">Verificação de segurança</string>
 	<string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponíveis</string>
 	<string name="hide_apps_title">Ocultar ícones dos aplicativos</string>
+	<string name="home_switch_personal_assistant">Assistente da tela inicial</string>
 </resources>
