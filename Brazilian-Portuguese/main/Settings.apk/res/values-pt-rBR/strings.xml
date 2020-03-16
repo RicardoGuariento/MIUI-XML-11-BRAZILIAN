@@ -7332,4 +7332,7 @@ Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá pa
 <string name="input_method_quick_url_summary">Abra os URLs copiados tocando no ícone da área de transferência</string>
 <string name="input_method_quick_url_title">Sites</string>
 <string name="aggregate_title">Regras para notificações agrupadas</string>
+<string name="ring_to_you">FeelRing</string>
+<string name="ring_to_you_address">http://ringtoyou.kt.com</string>
+<string name="ring_to_you_info">Defina um tom personalizado que outras pessoas ouvirão antes de você atender</string>
 </resources>

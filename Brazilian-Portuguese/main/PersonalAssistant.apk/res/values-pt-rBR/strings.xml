@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_select">Selecionado %s</string>
-  <string name="access_unselect">Desselecionados %s</string>
+  <string name="access_unselect">Selecionado %s</string>
   <string name="accordingto_position">Reconhecer lugares frequentes usando o GPS</string>
   <string name="account_address">Endereço</string>
   <string name="add_stock">Adicionar</string>
@@ -1193,4 +1193,14 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="app_suggest_setting_brief_detail">Receba sugestões de aplicativos e recursos que você provavelmente usará.</string>
   <string name="app_suggest_setting_title">Sugestões inteligentes</string>
   <string name="card_expand_note_toast_share_null">Essa nota está vazia</string>
+  <string name="access_deselect">Desmarcar %s</string>
+  <string name="access_deselected">Desmarcado %s</string>
+  <string name="app_version_name">"Versão do assistente: "</string>
+  <string name="debug_card_brief">Depurando configurações e ferramentas</string>
+  <string name="debug_card_detail">Depurando configurações e ferramentas</string>
+  <string name="debug_card_title">Depurando</string>
+  <string name="miot_device_closed">O dispositivo está desligado</string>
+  <string name="miot_device_disabled">Não é possível controlar este dispositivo agora</string>
+  <string name="miot_device_opening">O dispositivo está ativo</string>
+  <string name="trip_required_info">Obrigatório</string>
 </resources>
