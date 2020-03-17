@@ -33,7 +33,6 @@
     <string name="passport_activing_account">Ativando…</string>
     <string name="passport_adding_account">Adicionando conta…</string>
     <string name="passport_area_code_hot">USADOS COM FREQUÊNCIA</string>
-    <string name="passport_area_code_title">Código do país</string>
     <string name="passport_auto_generate_pwd">Gerar senha segura</string>
     <string name="passport_back">Voltar</string>
     <string name="passport_bad_authentication">Usuário ou senha incorretos</string>
@@ -56,28 +55,22 @@ Para ativar sua conta, siga o
     <string name="passport_email">Endereço de e-mail</string>
     <string name="passport_email_or_id_hint_text">E-mail ou ID da Conta Mi</string>
     <string name="passport_email_reg_success_summary">%1$s foi vinculado à sua conta. Você poderá usaá-lo para fazer login ou redefinir sua senha.</string>
-    <string name="passport_error_auth_fail">Sessão expirada, faça o login novamente mais tarde</string>
-    <string name="passport_error_device_id">Não é possível obter a id do dispositivo</string>
     <string name="passport_error_dup_email">O e-mail inserido já está associado com outra conta.</string>
     <string name="passport_error_email">O endereço de e-mail inserido é inválido</string>
     <string name="passport_error_empty_captcha_code">Inserir captcha</string>
     <string name="passport_error_empty_email">Insira seu endereço de e-mail</string>
     <string name="passport_error_empty_phone_num">Insira o número do telefone</string>
-    <string name="passport_error_empty_pwd">Insira sua senha</string>
     <string name="passport_error_empty_username">Insira o ID de sua conta</string>
     <string name="passport_error_empty_vcode">Insira o código de verificação</string>
     <string name="passport_error_illegal_pwd">Senha inválida</string>
     <string name="passport_error_invalid_dev_id">Sua ID de dispositivo é inválida.</string>
     <string name="passport_error_invalid_phone_num">Número do telefone inválido</string>
     <string name="passport_error_login">Não foi possível fazer o login</string>
-    <string name="passport_error_network">Não é possível conectar-se à rede</string>
     <string name="passport_error_no_password_user">Você não definiu uma senha ainda. Faça o login com SMS.</string>
     <string name="passport_error_phone_error">Número do telefone inválido</string>
     <string name="passport_error_server">Erro no servidor</string>
     <string name="passport_error_sim_not_ready">Não é possível encontrar o cartão SIM</string>
     <string name="passport_error_ssl_hand_shake">Não foi possível conectar-se ao servidor</string>
-    <string name="passport_error_unknown">Não é possível fazer o login</string>
-    <string name="passport_error_user_name">O usuário inserido está incorreto.</string>
     <string name="passport_error_verify_activator_phone_message">Certifique-se de que o serviço do cartão SIM está ativado e o dispositivo está conectado à rede.</string>
     <string name="passport_error_verify_activator_phone_title">Não foi possível verificar o número do telefone</string>
     <string name="passport_failed_to_send_activate_email">Não foi possível enviar o e-mail de ativação</string>
@@ -87,9 +80,7 @@ Para ativar sua conta, siga o
     <string name="passport_get_back_pwd">Recuperar senha da conta</string>
     <string name="passport_get_verify_code">Obter código</string>
     <string name="passport_getting_activator_phone">Obtendo informações do SIM…</string>
-    <string name="passport_getting_verify_code">Obtendo</string>
     <string name="passport_i_know">OK</string>
-    <string name="passport_identification_expired">Código de verificação expirado, tente novamente</string>
     <string name="passport_imei_permission_denied_message">O MIUI está solicitando permissão para obter o IMEI do seu dispositivo. A Conta Mi usa seu IMEI para identificar os dispositivos em que você faz o login ou se registra, ajudando a manter sua Conta Mi mais segura.</string>
     <string name="passport_imei_permission_denied_title">Solicitação de acesso ao IMEI</string>
     <string name="passport_input_captcha_hint">Insira o código</string>
@@ -100,7 +91,6 @@ Para ativar sua conta, siga o
     <string name="passport_license_host_unreachable">Não é possível conectar-se à rede. Você pode ver esta página em %s.</string>
     <string name="passport_loading">Carregando…</string>
     <string name="passport_login">Fazer login</string>
-    <string name="passport_login_failed">Não é possível fazer o login</string>
     <string name="passport_login_instead_reg">Usar este número</string>
     <string name="passport_login_instead_reg_with_email">Usar este e-mail</string>
     <string name="passport_login_other_account">Outra conta</string>
@@ -114,7 +104,6 @@ Para ativar sua conta, siga o
     <string name="passport_no">Não</string>
     <string name="passport_notification_title">Erro de login para %1$s</string>
     <string name="passport_password_phone_login">Fazer login na Conta Mi</string>
-    <string name="passport_password_req_notice">A senha deve ter de 8 a 16 caracteres e incluir letras e números (sensível a maiúsculas).</string>
     <string name="passport_phone_num_hint_text">Número do telefone</string>
     <string name="passport_phone_ticket_login">Fazer login com SMS</string>
     <string name="passport_prev">Voltar</string>
@@ -151,7 +140,6 @@ Para ativar sua conta, siga o
     <string name="passport_register_account_goto_email">Ir para caixa de entrada</string>
     <string name="passport_register_account_verified_confirm">Conta verificada</string>
     <string name="passport_register_by_email"><u>Criar conta com um endereço de e-mail</u></string>
-    <string name="passport_register_restricted">Muitas contas foram associadas a este número, tente um número diferente</string>
     <string name="passport_register_restricted_title">Não é possível usar este número</string>
     <string name="passport_registered_phone_num">Telefone: %s</string>
     <string name="passport_registered_phone_user_ID">ID do usuário: %s</string>
@@ -258,7 +246,6 @@ Envie esse código ao supervisor."</string>
 	<string name="passport_register_restricted">Muitas contas foram associadas a esse número. Tente um diferente.</string>
 	<string name="passport_reload_ph_ticket">Enviar novamente</string>
 	<string name="passport_send_too_many_sms">Muitos códigos de verificação foram enviados para esse número. Aguarde 24 horas e tente novamente.</string>
-	<string name="passport_sending_vcode">Enviando código…</string>
 	<string name="passport_set_password">Definir senha</string>
 	<string name="passport_sign_in">Entrar</string>
 	<string name="passport_sign_in_or_sign_up">Entrar/Criar conta</string>
@@ -268,7 +255,6 @@ Envie esse código ao supervisor."</string>
 	<string name="passport_talkback_switch_voice_captcha">Mudar para o código de verificação por voz</string>
 	<string name="passport_talkback_voice_captcha">Reproduzir código de verificação por voz</string>
 	<string name="passport_timeout_network_error">O tempo limite da solicitação de rede expirou</string>
-	<string name="passport_trust_device">Este é um dispositivo confiável</string>
 	<string name="passport_unknow_error">Ocorreu um erro desconhecido</string>
 	<string name="passport_unknow_host_network_error">Verifique suas configurações de rede e tente novamente</string>
 	<string name="passport_unknow_network_error">Ocorreu um erro de rede</string>
@@ -276,8 +262,6 @@ Envie esse código ao supervisor."</string>
 	<string name="passport_user_agreement_link_more">"&lt;Data&gt;Eu li e concordei com os seguintes documentos:&lt;a href=%1$s&gt;Termo de Acordo de Usuário&lt;/a&gt; e &lt;a href=%4$s&gt;Política de Privacidade&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;da Xiaomi.&lt;/Data&gt;"</string>
 	<string name="passport_user_id_intro">Insira a senha para %1$s</string>
 	<string name="passport_v_code_error">O código de verificação está incorreto</string>
-	<string name="passport_vcode_sms_send_prompt">Código enviado para %s</string>
-	<string name="passport_verification_failed">Não foi possível confirmar</string>
 	<string name="passport_wechat_not_install">Instale o WeChat primeiro</string>
 	<string name="passport_wrong_voice">O código digitado está incorreto</string>
 	<string name="password_toggle_content_description">Alternar visibilidade da senha</string>
