@@ -31,5 +31,5 @@
   <string name="doc_photo_idcard_mode_title">Cartão de ID</string>
   <string name="doc_photo_idcard_portrait">Frente</string>
   <string name="doc_photo_not_support">Não é possível editar essa imagem como um documento</string>
-  <string name="doc_photo_view_effect">PPré-visualização</string
+  <string name="doc_photo_view_effect">PPré-visualização</string>
 </resources>
