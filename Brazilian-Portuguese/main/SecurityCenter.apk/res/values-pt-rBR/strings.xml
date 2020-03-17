@@ -2940,7 +2940,7 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
 	<string name="app_behavior_audio_bg">%1s gravou um áudio em segundo plano</string>
 	<string name="app_behavior_audio_bg_single">Este aplicativo gravou um áudio em segundo plano</string>
 	<string name="app_behavior_audio_single">Este aplicativo gravou um áudio</string>
-	<string name="app_behavior_autostart">%1s inicialização automática</string>
+	<string name="app_behavior_autostart">%1s iniciaram automaticamente</string>
 	<string name="app_behavior_autostart_single">Este aplicativo iniciou automaticamente</string>
 	<string name="app_behavior_calendar">%1s acessou os eventos da sua agenda</string>
 	<string name="app_behavior_calendar_bg">%1s acessou os eventos da sua agenda em segundo plano</string>
