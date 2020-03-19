@@ -161,7 +161,7 @@
     <string name="delete_phrase">Excluir resposta</string>
     <string name="delete_unlocked">Excluir mensagens bloqueadas</string>
     <string name="delete_wild_sims">Excluir números</string>
-    <string name="delete_wild_sims_confirm">Todas as mensagens pertencentes aos números selecionados serão excluídas neste telefone. Você pode restaurá-las em i.mi.com.</string>
+    <string name="delete_wild_sims_confirm">Todas as mensagens pertencentes aos números selecionados serão excluídas neste telefone. Você pode restaurá-los em i.mi.com.</string>
     <string name="delete_wild_sims_title">Excluir números selecionados</string>
     <string name="delivery_report_activity">Relatório de entrega</string>
     <string name="delivery_toast_body">Mensagem recebida por %s</string>
@@ -332,7 +332,7 @@
     <string name="msg_type_hint_mms">Mensagem multimídia (MMS)</string>
     <string name="msg_type_hint_mms_omit">MMS</string>
     <string name="msg_type_hint_mx">Mi Message</string>
-    <string name="msg_type_hint_mx_omit">Mi Msg</string>
+    <string name="msg_type_hint_mx_omit">Mi Message</string>
     <string name="msg_type_hint_sms">Mensagem de texto</string>
     <string name="msg_type_hint_sms_omit">SMS</string>
     <string name="msg_type_sms_rcs">SMS, MMS, e mensagens pela internet</string>
@@ -890,7 +890,7 @@ Dê uma olhada nos recomendados!"</string>
 	<string name="rcs_chatbot_service">Suporte ao cliente</string>
 	<string name="rcs_chatbot_sms_remind_desp">Converter e enviar essa mensagem como SMS?</string>
 	<string name="rcs_chatbot_sms_remind_title">Converter para SMS</string>
-	<string name="rcs_chatbot_vcard_message">Voce recebeu um cartão de contato. Toque para ver os detalhes.</string>
+	<string name="rcs_chatbot_vcard_message">Você recebeu um cartão de contato. Toque para ver os detalhes.</string>
 	<string name="rcs_chatbot_video_message">Você recebeu um vídeo. Toque para ver os detalhes.</string>
 	<string name="rcs_chatdetail_apecial">" | Emergência"</string>
 	<string name="rcs_chatdetail_check_chatbot">Meus aplicativos</string>
@@ -914,7 +914,7 @@ Dê uma olhada nos recomendados!"</string>
 	<string name="rcs_chatdetail_more_type">Categoria</string>
 	<string name="rcs_chatdetail_name_unknow">Fornecedor desconhecido</string>
 	<string name="rcs_chatdetail_save_chatbot">Adicionar aos meus aplicativos</string>
-	<string name="rcs_chatdetail_save_fail">Nao foi possível adicionar. Tente novamente</string>
+	<string name="rcs_chatdetail_save_fail">Não foi possível adicionar. Tente novamente</string>
 	<string name="rcs_chatdetail_save_success">Adicionado com sucesso</string>
 	<string name="rcs_chatdetail_send_messge">Enviar mensagem</string>
 	<string name="rcs_chatdetail_special_chabot_tip">Não foi possível bloquear esse mini aplicativo</string>
@@ -930,5 +930,14 @@ Dê uma olhada nos recomendados!"</string>
 	<string name="rcs_search_result_empty">Não foi possível encontrar mini aplicativos</string>
 	<string name="rcs_search_result_server_data_empty">Não foi possível encontrar mini aplicativos online</string>
 	<string name="rcs_send_hello">Olá!</string>
-	<string name="share">compartilhar</string>
+	<string name="share">Compartilhar</string>
+	<string name="dialog_title_correct_as_ad">Definir como mensagem de negócios</string>
+	<string name="dialog_title_correct_as_normal">Definir como mensagem normal</string>
+	<string name="home_tab_ad">Negócios</string>
+	<string name="home_tab_common">Normal</string>
+	<string name="menu_correct_as_ad">Definir como negócios</string>
+	<string name="menu_correct_as_normal">Definir como normal</string>
+	<string name="pref_title_collapse_ad_notification">Recolher notificação de mensagem do AD</string>
+	<string name="search_menu_title">Pesquisar</string>
+	<string name="sms_card_partner_label">Parceiro de cartão SMS: "</string>
 </resources>
