@@ -128,11 +128,10 @@
     <string name="delete_calendar">Cancelar inscrição</string>
     <string name="delete_recurring_event_title">Excluir %s?</string>
     <string name="delete_this_event_title">Excluir este evento?</string>
-    <string name="deleting_calendar">Desinscrevendo…</string>
     <string name="description_calendar">Aplicativos do sistema/Agenda</string>
     <string name="description_calendar_edit_event">Aplicativos do sistema/Agenda/Agenda</string>
     <string name="directory_searching_fmt">Pesquisando %s…</string>
-    <string name="discard_label">Cancel</string>
+    <string name="discard_label">Cancelar</string>
     <string name="does_not_repeat">Evento único</string>
     <string name="edit_date_calculate_days_backward_error_hint">Não é possível calcular dias posteriores</string>
     <string name="edit_date_calculate_days_empty_hint">Insira o número de dias</string>
@@ -268,9 +267,9 @@
     <string name="monthly_on_day">Mensalmente (no mesmo dia)</string>
     <string name="network_not_available">Não é possível conectar-se à rede</string>
     <string name="new_event_description">Novo</string>
-    <string name="new_event_dialog_label">Novo eveto</string>
+    <string name="new_event_dialog_label">Novo evento</string>
     <string name="new_event_dialog_option">Novo evento</string>
-	<string name="next_alarm_time">Pórximo lembrete em %1$s</string>
+	<string name="next_alarm_time">Próximo lembrete em %1$s</string>
     <string name="no_contact_birthday_hint">Nenhum aniversário para importar</string>
     <string name="no_events_hint">Nenhum evento</string>
     <string name="no_internet">Não foi possível conectar-se à Internet</string>
@@ -407,8 +406,8 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
     <string name="tab_title_day">Dia</string>
     <string name="tab_title_month">Mês</string>
     <string name="tab_title_week">Semana</string>
-    <string name="talk_back_read_date">%1$s (%2$s according to lunar calendar).</string>
-    <string name="talk_back_setting">setting</string>
+    <string name="talk_back_read_date">%1$s (%2$s de acordo com o calendário lunar).</string>
+    <string name="talk_back_setting">Configuração</string>
     <string name="template_announce_item_index">Evento %1$s de %2$s.</string>
     <string name="template_week_num">Semana %1$s</string>
     <string name="time_zone">Fuso horário</string>
@@ -445,7 +444,7 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
     <string name="travel_train_station">Estação de trem</string>
     <string name="unsubscribe_card">Cancelar inscrição</string>
     <string name="unsubscribe_card_success">Inscrição de \"%1$s\" cancelada com sucesso</string>
-    <string name="unsubscribing_card">Desinscrito</string>
+    <string name="unsubscribing_card">Não inscrito</string>
     <string name="user_notice_button_exit">Cancelar</string>
     <string name="user_notice_button_ok">OK</string>
     <string name="user_notice_message">Ao usar este produto, você concorda com o %1$s e a %2$s da Xiaomi. Algumas funcionalidades exigem uma conexão com a internet, acesso à localização, contatos e SMS para funcionarem normalmente.</string>
@@ -480,7 +479,7 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
     <string name="repeat_alarm_changed_credit_event">Sempre lembrar sobre faturas de cartão de crédito</string>
     <string name="repeat_alarm_changed_electricity_event">Sempre lembrar sobre contas de energia</string>
     <string name="repeat_alarm_changed_event">Definir alarmes repetidos</string>
-    <string name="repeat_alarm_changed_flight_event">Sempre lembrar sobre vôos</string>
+    <string name="repeat_alarm_changed_flight_event">Sempre lembrar sobre voos</string>
     <string name="repeat_alarm_changed_gas_event">Sempre lembrar sobre contas de gás</string>
     <string name="repeat_alarm_changed_hotel_event">Sempre lembrar sobre hotéis</string>
     <string name="repeat_alarm_changed_loan_event">Sempre lembrar sobre pagamento de empréstimos</string>
@@ -501,7 +500,7 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
 	<string name="preferences_popup_alert_smart_summary">A MIUI irá identificar quais são os eventos mais relevantes automaticamente</string>
     <string name="preferences_popup_alert_smart_tips">"Substitui notificações tradicionais com alertas pop-up para evitar o esquecimento de eventos importantes. Alertas pop-up não aparecerão enquanto estiver jogando, assistindo vídeos em tela cheia ou usando o Modo Carro."</string>
     <string name="preferences_popup_alert_title">Alertas pop-up</string>
-	<string name="birthday_term_chinese_calendar">"Aniversdário de %1$s (calendário tradicional chinês)"</string>
+	<string name="birthday_term_chinese_calendar">"Aniversário de %1$s (calendário tradicional chinês)"</string>
 	<string name="content_confirm_close_chinese_calendar">Todos seus eventos baseados no calendário tradicional chinês serão convertidos para o calendário gregoriano depois que você desativar este recurso. Anos e meses do calendário gregoriano serão usados para eventos repetidos.</string>
 	<string name="lunar_to_solar_chinese_calendar">Chinês para Gregoriano</string>
 	<string name="setting_chinese_calendar">Calendário chinês</string>

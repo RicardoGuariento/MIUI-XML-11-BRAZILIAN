@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aquarius_info">
-        <item>aquarius</item>
+        <item>Aquário</item>
         <item>Aquário</item>
         <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="aries_info">
-        <item>áries</item>
+        <item>Áries</item>
         <item>Áries</item>
         <item>21/3 - 19/4</item>
     </string-array>
@@ -15,12 +15,12 @@
         <item>Bundesliga</item>
     </string-array>
     <string-array name="cancer_info">
-        <item>câncer</item>
+        <item>Câncer</item>
         <item>Câncer</item>
         <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="capricorn_info">
-        <item>capricorn</item>
+        <item>Capricórnio</item>
         <item>Capricórnio</item>
         <item>22/12 - 19/01</item>
     </string-array>
