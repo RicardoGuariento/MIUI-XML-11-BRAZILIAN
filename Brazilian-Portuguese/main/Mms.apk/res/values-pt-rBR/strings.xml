@@ -538,7 +538,7 @@
     <string name="rcs_create_new_group">Criar chat em grupo</string>
     <string name="rcs_dspt">Enviar e receber mensagens usando Wi-Fi ou a rede da China Mobile</string>
     <string name="rcs_dspt_unavailable">Não é possível usar este recurso agora. O cartão SIM China Mobile não é seu cartão padrão de dados.</string>
-    <string name="rcs_forward_faild">Não foi posível encaminhar</string>
+    <string name="rcs_forward_faild">Não foi possível encaminhar</string>
     <string name="rcs_forward_successful">Encaminhado com sucesso</string>
     <string name="rcs_group_notification_invitation">Convite de chat em grupo</string>
     <string name="rcs_message">China Mobile Messaging</string>
@@ -705,7 +705,7 @@
     <string name="sms_content">Conteúdo:</string>
     <string name="sms_full_body">Uma mensagem recebida foi rejeitada: Não existe espaço suficiente neste dispositivo.</string>
     <string name="sms_full_title">Memória de mensagens de texto cheia</string>
-    <string name="sms_rejected_body">Uma mensgem de texto recebida foi rejeitada.</string>
+    <string name="sms_rejected_body">Uma mensagem de texto recebida foi rejeitada.</string>
     <string name="sms_rejected_title">Mensagem de texto rejeitada</string>
     <string name="sms_report_dialog_content">Não foi possível enviar o relatório, tente novamente.</string>
     <string name="sms_report_dialog_retry">Tentar novamente</string>

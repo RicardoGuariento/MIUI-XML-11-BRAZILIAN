@@ -41,7 +41,7 @@
     <string name="add_music">Adicionar músicas</string>
     <string name="add_to_last_of_playlist">Adicionar ao fim da playlist</string>
     <string name="add_to_playlist_successful">Adicionada com sucesso</string>
-    <string name="added_next_play">Adicionaro para reproduzir a seguir</string>
+    <string name="added_next_play">Adicionar para reproduzir a seguir</string>
     <string name="alaka_required">Você deve pagar por esta música para ouvi-la</string>
     <string name="album_label">Capas de álbuns</string>
     <string name="album_name">Álbum</string>
@@ -310,8 +310,7 @@
     <string name="hot_icon_in_fast_indexer">P</string>
     <string name="hungama_batch_download_alert_summary">Apenas membros PRO podem fazer o download de várias músicas. Obter uma assinatura PRO agora?</string>
     <string name="hungama_free_download_out_summary">Você não pode fazer o download de mais músicas gratuitas. Obter uma assinatura PRO para fazer o download ilimitado de músicas?</string>
-    <string name="hungama_subscribe_message">Compre uma assinatura PRO para fazer o downloa de músicas em alta qualidade.</string>
-    <string name="hungama_subscribe_positive_button">Comprar assinatura PRO</string>
+    <string name="hungama_subscribe_message">Compre uma assinatura PRO para fazer o download
     <string name="hungama_subscribe_title">Assinatura PRO</string>
     <string name="i_know">OK</string>
     <string name="impunity_declaration_content">Você precisa ler e concordar com nosso &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Acordo do Usuário&lt;/a> e a &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Política de Privacidade&lt;/a> antes de usar o produto.</string>

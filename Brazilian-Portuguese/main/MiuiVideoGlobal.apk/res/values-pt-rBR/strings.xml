@@ -50,7 +50,7 @@
     <string name="storage_external_sdcard">Armazenamento externo</string>
     <string name="storage_internal_sdcard">Armazenamento interno</string>
     <string name="storage_root_dir">Você já está na pasta raiz</string>
-    <string name="subtitle_add_subtitle_failed">Não foi possível adicionar legandas. Certifique-se de que o arquivo não está corrompido.</string>
+    <string name="subtitle_add_subtitle_failed">Não foi possível adicionar legendas. Certifique-se de que o arquivo não está corrompido.</string>
     <string name="subtitle_changed">Novas legendas</string>
     <string name="subtitle_current_dir">Pasta atual</string>
     <string name="subtitle_folder_up">Pasta anterior</string>
@@ -222,7 +222,7 @@
   <string name="plus_properties_file">Arquivo</string>
   <string name="plus_properties_file_name">Nome do arquivo</string>
   <string name="plus_properties_finished">Concluído</string>
-  <string name="plus_properties_format">Formatot</string>
+  <string name="plus_properties_format">Formato</string>
   <string name="plus_properties_frame_rate">Taxa de quadros</string>
   <string name="plus_properties_last_playback_position">Última posição</string>
   <string name="plus_properties_last_playback_time">Último reproduzido</string>
@@ -265,7 +265,7 @@
   <string name="ad_join">Entrar na comunidade</string>
   <string name="ad_more">Mais</string>
   <string name="cloud_online_switch">Recomendações personalizadas</string>
-  <string name="cloud_online_switch_close_time">Você pode ativar as recomendações personalizadas de conetúdo em %s</string>
+  <string name="cloud_online_switch_close_time">Você pode ativar as recomendações personalizadas de conteúdo em %s</string>
   <string name="cloud_online_switch_open_time">Mostrar recomendações personalizadas de conteúdo</string>
   <string name="comment_model_close">Não é possível comentar agora. Fique ligado!</string>
   <string name="error_details">Erro inesperado</string>
