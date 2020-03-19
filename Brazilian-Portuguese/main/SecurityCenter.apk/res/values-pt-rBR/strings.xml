@@ -2999,4 +2999,19 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
 	<string name="wifi_danger_dialog_tips">Você pode gerenciar a segurança do Wi-Fi em Segurança > Verificação de segurança > Configurações > Wi-Fi.</string>
 	<string name="wifi_danger_dialog_title">Esta rede Wi-Fi não é segura</string>
 	<string name="wifi_item_title_encryption">Esta rede Wi-Fi não está criptografada</string>
+	<string name="app_behavior_key_audio">Gravar áudio</string>
+	<string name="app_behavior_key_camera">Câmera</string>
+	<string name="app_behavior_key_location">Localização</string>
+	<string name="app_behavior_key_protect">Proteger informações privadas</string>
+	<string name="app_behavior_notification_audio_now_one">%1s está gravando áudio</string>
+	<string name="app_behavior_notification_audio_now_two">%1s e mais 1 aplicativo estão gravando áudio</string>
+	<string name="app_behavior_notification_camera_one">%1s está usando a câmera</string>
+	<string name="app_behavior_notification_camera_two">%1s e mais 1 aplicativo estão usando a câmera</string>
+	<string name="app_behavior_notification_location_one">%1s está acessando sua localização</string>
+	<string name="app_behavior_notification_location_two">%1s e mais 1 aplicativo estão acessando sua localização</string>
+	<string name="app_behavior_settings_category_perm">Lembrete de uso de permissão</string>
+	<string name="app_behavior_settings_category_privacy">Proteção de informações privadas</string>
+	<string name="app_behavior_settings_perm_tips">Exibir uma notificação na barra de status sempre que o aplicativo usar qualquer uma dessas permissões:</string>
+	<string name="app_behavior_settings_privacy_tips">Exibir uma notificação sempre que o aplicativo ler/gravar informações confidenciais em segundo plano (contatos, histórico de chamadas etc.)</string>
+	<string name="notify_channel_name_behavior">Comportamento do aplicativo</string>
 </resources>
