@@ -131,7 +131,7 @@
   <string name="permission_warning_template_ask">Permitir ao aplicativo %1$s as seguintes permissões?</string>
   <string name="permisson_reject_notice_toast_text2">não tem permissão para %1$s.</string>
   <string name="screen_overlay_button">Abrir configurações</string>
-  <string name="screen_overlay_message">Para alterar esta permissão, você precisa desativar a sobreposição de tela em Configurações > aplicativos instalados.</string>
+  <string name="screen_overlay_message">Para alterar esta permissão, você precisa desativar a sobreposição de tela em Configurações > Aplicativos instalados.</string>
   <string name="screen_overlay_title">Sobreposição de tela detectada</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="HIPS_Perm_clipboard">Área de transferência</string>
