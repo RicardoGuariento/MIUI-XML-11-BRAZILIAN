@@ -12,11 +12,11 @@
     <string name="account_type_format">Contato %1$s</string>
     <string name="actionIncomingCall">Chamadas recebidas</string>
     <string name="action_menu_overflow_description">Mais opções</string>
-    <string name="activity_title_confirm_add_detail">Adic. a contato existente</string>
+    <string name="activity_title_confirm_add_detail">Adicionar a contato existente</string>
     <string name="activity_title_contacts_filter">Contatos para exibição</string>
     <string name="activity_title_settings">Configurações</string>
     <string name="addPeopleToGroup">Para adicionar pessoas, edite o grupo.</string>
-    <string name="add_2sec_pause">Adicionar 2 seg de pausa</string>
+    <string name="add_2sec_pause">Adicionar 2 seg. de pausa</string>
     <string name="add_account">Adicionar conta</string>
     <string name="add_blacklist">Bloquear</string>
     <string name="add_blacklist_dialog_message">Bloquear chamadas e mensagens deste número?</string>
@@ -61,10 +61,10 @@
     <string name="callAgain">Chamar novamente</string>
     <string name="callBack">Retornar chamada</string>
     <string name="callDetailTitle">Detalhes da chamada</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s min %s seg</string>
+    <string name="callDetailsDurationFormat" formatted="false">%s min %s seg.</string>
     <string name="callShortcutActivityTitle">Escolha um número para chamar</string>
     <string name="call_assistant">Ligar para %s</string>
-    <string name="call_callback">Ligar para callback</string>
+    <string name="call_callback">Retorno de chamada</string>
     <string name="call_car">Ligar para carro</string>
     <string name="call_charge">Recarregar</string>
     <string name="call_company_main">Ligar para empresa (principal)</string>
@@ -199,7 +199,7 @@
     <string name="confirm_export_message">Sua lista de contatos será exportada para o arquivo: %s.</string>
     <string name="confirm_export_title">Exportar contatos?</string>
     <string name="connections">Conexões</string>
-    <string name="contactDetailAbout">Info. do contato</string>
+    <string name="contactDetailAbout">Informações do contato</string>
     <string name="contactDetailCalllog">Registro de chamadas</string>
     <string name="contactDetailUpdates">Atualizações</string>
     <string name="contactMultiPickerActivityTitle">Selecionar contatos</string>
@@ -1084,7 +1084,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="smart_group_location_unavailable">Nenhuma informação de localização</string>
     <string name="sms">Mensagem de texto</string>
     <string name="sms_assistant">Enviar mensagem para %s</string>
-    <string name="sms_callback">Enviar mensagem para callback</string>
+    <string name="sms_callback">Retorno de mensagem</string>
     <string name="sms_car">Enviar mensagem para carro</string>
     <string name="sms_company_main">Enviar mensagem para empresa (principal)</string>
     <string name="sms_custom">Enviar mensagem para %s</string>
@@ -1122,7 +1122,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="t9_search_empty_create_contact">Novo contato</string>
     <string name="t9_search_empty_edit_contact">Adicionar aos contatos</string>
     <string name="t9_search_empty_send_sms">Enviar mensagem</string>
-    <string name="t9_search_empty_video_call">Vídeochamada</string>
+    <string name="t9_search_empty_video_call">Vídeo chamada</string>
     <string name="t9_search_guide_pinyin_title1">Insira números para encontrar contatos</string>
     <string name="t9_search_guide_pinyin_title2" formatted="false">Insira %d e %d para pesquisar por \"<font fgcolor="">X</font>avier <font fgcolor="">H</font>enry\"</string>
     <string name="t9_search_guide_zhuyin_title1">Insira números para encontrar contatos</string>
@@ -1142,7 +1142,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="toast_finish_delete_selected_call_log">Limpo com sucesso</string>
     <string name="toast_for_failed_saving_nickname">Não foi possível salvar o apelido</string>
     <string name="toast_for_saving_nickname">Apelido salvo</string>
-    <string name="toast_join_with_empty_contact">Insira o nome de contato antes de uní-lo a outro</string>
+    <string name="toast_join_with_empty_contact">Insira o nome de contato antes de uni-lo a outro</string>
     <string name="toast_making_personal_copy">Criando uma cópia pessoal…</string>
     <string name="toast_start_intent_failed">Não foi possível encontrar um aplicativo para executar esta ação</string>
     <string name="toast_text_copied">Texto copiado</string>
@@ -1161,7 +1161,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="unknown_contact_name">Contato desconhecido</string>
     <string name="unknown_details_add_to_contact">Existente</string>
     <string name="unknown_details_new_contact">Novo</string>
-    <string name="update_sim_contact_photo_toast">Não é possídel definir uma foto de perfil para contatos no SIM</string>
+    <string name="update_sim_contact_photo_toast">Não é possível definir uma foto de perfil para contatos no SIM</string>
     <string name="upgrade_in_progress">A lista de contatos está sendo atualizada.</string>
     <string name="upgrade_out_of_memory">"Os contatos estão sendo atualizados no momento. 
 
