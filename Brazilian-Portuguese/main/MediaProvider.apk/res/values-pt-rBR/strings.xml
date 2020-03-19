@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="add_alarm_text">Adicionar alarme</string>
-  <string name="add_notification_text">Aicionar notificação</string>
+  <string name="add_notification_text">Adicionar notificação</string>
   <string name="add_ringtone_text">Adicionar toque</string>
   <string name="alarm_sound_default">Som padrão do alarme</string>
   <string name="app_label">Armazenamento de mídia</string>
