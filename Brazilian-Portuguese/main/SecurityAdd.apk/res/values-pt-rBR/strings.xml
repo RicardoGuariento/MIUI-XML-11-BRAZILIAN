@@ -98,11 +98,11 @@ controle os aplicativos e restrinja o uso"</string>
 	<string name="ew_detail_earthquake_feel_none">Não sentido</string>
 	<string name="ew_detail_earthquake_feel_normal">Moderada</string>
 	<string name="ew_detail_earthquake_feel_title">Intensidade estimada</string>
-	<string name="ew_detail_earthquake_level_title">agnitude estimada</string>
+	<string name="ew_detail_earthquake_level_title">Magnitude estimada</string>
 	<string name="ew_detail_receive_alert_from">Dados fornecidos pelo Chengdu Hi-tech Disaster Reduction Institute</string>
 	<string name="ew_detail_receive_distance_message1">%s km</string>
 	<string name="ew_detail_receive_distance_message2">%s km (O epicentro está longe de você. Você pode não sentir o terremoto.)</string>
-	<string name="ew_detail_receive_distance_title">istância ao epicentro</string>
+	<string name="ew_detail_receive_distance_title">Distância ao epicentro</string>
 	<string name="ew_detail_receive_location_message">%2$s°N %1$s°E</string>
 	<string name="ew_detail_receive_location_title">Localização</string>
 	<string name="ew_detail_receive_time_title">Hora de início</string>

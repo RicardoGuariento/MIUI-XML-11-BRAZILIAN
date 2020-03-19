@@ -66,7 +66,7 @@
     <string name="list_empty_text_xspace">Instale o WeChat/QQ/Weibo, crie aplicativos clones, e tente novamente.</string>
     <string name="xspace_label">Aplicativos clones</string>
     <string name="xspace_setting_label">Configuração dos aplicativos clones</string>
-    <string name="xspace_account">Contas de aplicatvos clones</string>
+    <string name="xspace_account">Contas de aplicativos clones</string>
     <string name="xspace_remove">Excluir contas de aplicativos clones</string>
     <string name="declare_dialog_title">Sobre os aplicativos clones</string>
     <string name="menu_item_about_privacy_title">Política de Privacidade</string>
@@ -88,7 +88,7 @@ Alguns aplicativos clones requerem o suporte à Estrutura de Serviços do Google
     <string name="xspace_uninstall_completed">Aplicativo clone desinstalado com sucesso</string>
     <string name="xspace_uninstall_dialog_title">Desinstalar aplicativo clone</string>
     <string name="xspace_uninstall_dialog_content">Desinstalar o aplicativo clone removerá seus dados correspondentes.</string>
-    <string name="loading_apps">Carregando apps…</string>
+    <string name="loading_apps">Carregando aplicativos…</string>
     <string name="loading_success">Carregado com sucesso</string>
     <string name="switching">Movendo…</string>
     <string name="switch_success">Movido com sucesso</string>

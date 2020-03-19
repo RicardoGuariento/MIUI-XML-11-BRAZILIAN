@@ -104,7 +104,7 @@ Pode alterar esta configuração em Configurações &gt; Aplicativos do sistema 
   <string name="switch_application">Aplicativos</string>
   <string name="switch_browser">Navegador</string>
   <string name="switch_contacts">Contatos</string>
-  <string name="switch_email">Emails</string>
+  <string name="switch_email">E-mails</string>
   <string name="switch_file">Arquivos</string>
   <string name="switch_mms">Mensagens</string>
   <string name="switch_notes">Notas</string>

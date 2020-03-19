@@ -291,7 +291,7 @@ Permitir que %4$s envie um relatório de erro?"</string>
   <string name="role_call_redirection_label">Aplicativo padrão de encaminhamento de chamadas</string>
   <string name="role_call_redirection_request_description">Sem permissões necessárias</string>
   <string name="role_call_redirection_request_title">Definir %1$s como seu aplicativo padrão de encaminhamento de chamadas?</string>
-  <string name="role_call_redirection_short_label">Aplicativo de encaminhamento de chamdas</string>
+  <string name="role_call_redirection_short_label">Aplicativo de encaminhamento de chamadas</string>
   <string name="role_call_screening_description">Aplicativos que permitem identificar chamadas, bloquear spam e robôs e colocar números indesejados na lista negra</string>
   <string name="role_call_screening_label">Aplicativo padrão de identificação de chamadas</string>
   <string name="role_call_screening_request_description">Sem permissões necessárias</string>

@@ -76,7 +76,7 @@ Você deve concordar com a Política de Privacidade do Kika antes de usar este r
     <string name="miui_terms_no_network">Você não tem uma conexão com a internet. Veja os Termos de Serviço em %s.</string>
     <string name="miui_privacy_policy_no_network">Você não tem uma conexão com a internet. Veja a Política de Privacidade em %s.</string>
     <string name="locale_picker_title">Escolha sua região</string>
-    <string name="install_preinstall_app">Carregando apps…</string>
+    <string name="install_preinstall_app">Carregando aplicativos…</string>
     <string name="title_fingerprint">Definir senha</string>
     <string name="item_fingerprint">Digital</string>
     <string name="item_lock_screen_password">Bloquear apenas a tela</string>

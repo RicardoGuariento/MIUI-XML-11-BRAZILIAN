@@ -423,7 +423,7 @@ da operadora"</string>
     <string name="network_control">Ver configurações do aplicativo</string>
     <string name="foreground_traffic">Primeiro plano %s</string>
     <string name="background_traffic">Segundo plano %s</string>
-    <string name="detail_app_button">Info do aplicativo</string>
+    <string name="detail_app_button">Info. do aplicativo</string>
     <string name="managed_user_title">Todos os aplicativos de trabalho</string>
     <string name="not_limited_brand">Ilimitado</string>
     <string name="pref_about_traffic_title">Configurações do uso de dados</string>
@@ -633,7 +633,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="tc_sms_report_direction">Código de requisição SMS</string>
     <string name="tc_sms_report_send_num">Telefone da operadora</string>
     <string name="tc_sms_report_receive_num">Número do destinatário</string>
-    <string name="tc_sms_report_receive_content">Conteúdo do SMS de relatório de uso de dados (Confirme as estatisticas de uso)</string>
+    <string name="tc_sms_report_receive_content">Conteúdo do SMS de relatório de uso de dados (Confirme as estatísticas de uso)</string>
     <string name="tc_sms_report_receive_content_null">Ajude a melhorar este recurso!&lt;br/>Veja como:&lt;br/>1. Vá a \"Verifique o comando SMS\" e \"Número de destinatário\"&lt;br/>2. Toque \"Obter modelo SMS\"&lt;br/>3. Aguarde até receber uma mensagem da sua operadora &lt;br/>4. Toque \"Enviar para o MIUI\"</string>
     <string name="tc_sms_report_get_sms">Obter SMS</string>
     <string name="tc_sms_report_get_sms_bill">Obter SMS</string>
