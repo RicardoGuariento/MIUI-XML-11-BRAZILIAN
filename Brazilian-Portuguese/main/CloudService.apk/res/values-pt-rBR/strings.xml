@@ -388,7 +388,7 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
     <string name="find_device_service_title">Encontrar dispositivo</string>
     <string name="micloud_wipe_data_confirm_title">Remover os itens sincronizados com a Mi Cloud em seu telefone após você sair?</string>
     <string name="wipe_data_dialog_msg">Alguns itens %s não estão sincronizados. Eles serão salvos no seu dispositivo e não serão excluídos.</string>
-	<string name="enable_sync_setting_title">Configurando serviços na núvem…</string>
+	<string name="enable_sync_setting_title">Configurando serviços na nuvem…</string>
 	<string name="provision_sync_items_loading">Preparando para sincronizar itens</string>
 	<string name="user_detail_agreement">Acordo de uso</string>
 	<string name="user_detail_privacy_policy">Política de privacidade</string>
@@ -418,11 +418,11 @@ Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
 	<string name="micloud_sync_result_cloud_storage_full">"Não foi possível sincronizar. Armazenamento insuficiente na Mi Cloud."</string>
 	<string name="micloud_sync_result_common_message">A sincronização foi interrompida. Tente novamente.</string>
 	<string name="micloud_sync_result_cta_permission_error">Permita a conexão com a rede para sincronizar</string>
-	<string name="micloud_sync_result_get_sim_info_error">"Não foi possíver obter informação do cartão SIM. Espere um ou dois minutos e tente novamente."</string>
+	<string name="micloud_sync_result_get_sim_info_error">"Não foi possível obter informação do cartão SIM. Espere um ou dois minutos e tente novamente."</string>
 	<string name="micloud_sync_result_sim_activated_error">"Não foi possível ativar o cartão SIM"</string>
 	<string name="sync_detail_summary_master_sync_off">A sincronização está desativada</string>
 	<string name="sync_detail_summary_off">A sincronização está desativada</string>
-	<string name="micloud_sync_result_wifi_only">Este item é muito grande. Suncronize ele quando estiver conectado ao Wi-Fi.</string>
+	<string name="micloud_sync_result_wifi_only">Este item é muito grande. Sincronize ele quando estiver conectado ao Wi-Fi.</string>
 	<string name="wipe_data_query_progress_title">Verificando…</string>
 	<string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Essa conta também é usada em outro dispositivo. Mesclar os itens de vários aplicativos (incluindo %1$s e %2$s) com os itens neste dispositivo?</string>
 	<string name="data_merge_dialog_alert_active_on_phone_msg_one">Essa conta também é usada em outro dispositivo. Mesclar os itens do %s com os itens neste dispositivo?</string>

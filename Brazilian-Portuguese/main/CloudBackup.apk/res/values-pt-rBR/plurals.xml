@@ -18,7 +18,7 @@
     </plurals>
     <plurals name="restore_app_order_normal">
         <item quantity="other">Prioridade normal: %d itens</item>
-        <item quantity="one">Prioridade normal: %d ítem</item>
+        <item quantity="one">Prioridade normal: %d item</item>
     </plurals>
     <plurals name="restore_app_order_installed">
         <item quantity="other">%d aplicativos neste dispositivo</item>

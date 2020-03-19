@@ -143,7 +143,7 @@
     <string name="try_continue">Toque para continuar</string>
     <string name="download_home_data">Fazendo o download do layout da tela inicial…</string>
     <string name="restore_home_failed">Não foi possível restaurar a tela inicial.</string>
-    <string name="arrange_restore_order">Reordenando apps…</string>
+    <string name="arrange_restore_order">Reordenando aplicativos…</string>
     <string name="try_again">Toque para repetir</string>
     <string name="lack_of_storage">Não há espaço suficiente no armazenamento</string>
     <string name="network_error">Conecte-se à rede</string>
@@ -201,7 +201,7 @@ Verifique sua conexão e tente novamente."</string>
     <string name="restore_app_order_search_installed">Aplicativos neste dispositivo</string>
     <string name="restore_app_order_search_normal">Aplicativos de prioridade normal</string>
     <string name="restore_app_order_search_prior">Aplicativos de prioridade alta</string>
-    <string name="restore_app_order_title">Piorizar arquivos restaurados</string>
+    <string name="restore_app_order_title">Priorizar arquivos restaurados</string>
 	<string name="restore_detail_category_apps">Layout da tela inicial e aplicativos</string>
     <string name="restore_detail_category_settings">Configurações</string>
     <string name="restore_detail_more">Mais</string>
@@ -219,5 +219,5 @@ Verifique sua conexão e tente novamente."</string>
     <string name="restore_failed_reason_network_error">Erro de rede. Espere um minuto ou dois e tente novamente.</string>
 	<string name="restore_task_unfinished">"Não foi possível restaurar"</string>
 	<string name="restoring_data">Restaurando dados…</string>
-	<string name="restore_from_mimover">Tranfira do seu dispositivo antigo usando o Mi Mover</string>
+	<string name="restore_from_mimover">Transfira do seu dispositivo antigo usando o Mi Mover</string>
 </resources>
