@@ -94,7 +94,7 @@
     <string name="hints_memory_header_left">Memória</string>
     <string name="hints_large_file_header_left">Arquivos grandes: %d</string>
     <string name="hints_installed_apps_header_left">Aplicativos instalados: %d</string>
-    <string name="toast_resolve_apk_error">Erro ao analisar apk</string>
+    <string name="toast_resolve_apk_error">Erro ao analisar APK</string>
     <string name="hints_apk_version">Versão %s</string>
     <string name="apk_status_uninstalled">Não instalado</string>
     <string name="apk_status_installed_old">Versão antiga</string>
@@ -179,7 +179,7 @@
     <string name="dialog_msg_uninstall_apps">Desinstalar estes aplicativos?</string>
     <string name="dialog_msg_uninstall_apps_xspace">Desinstalar estes aplicativos incluindo seus aplicativos clones?</string>
     <string name="dialog_msg_backup_and_uninstall_apps">Fazer backup e desinstalar os aplicativos selecionados?</string>
-    <string name="toast_backup_is_running">O backup já está excutando</string>
+    <string name="toast_backup_is_running">O backup já está sendo executado</string>
     <string name="toast_backup_uninstall_failed">Não foi possível fazer o backup de %d aplicativos</string>
     <string name="toast_backup_uninstall_failed2">Não foi possível fazer o backup</string>
     <string name="toast_backup_uninstall_success">Backup e desinstalação concluídos</string>
