@@ -21,7 +21,7 @@
     <string name="debug_dump_email_body">Em anexo encontra-se o banco de dados com todas as minhas informações de contato. Por favor, use-o com cautela.</string>
     <string name="pound_search_tip">Insira um número depois de # para pesquisar por contatos</string>
     <string name="create_contact">Novo contato</string>
-    <string name="video_call">Vídeochamada</string>
+    <string name="video_call">Vídeo chamada</string>
     <string name="send_sms">Enviar uma mensagem</string>
     <string name="search_the_yellowpage">Pesquisar Páginas Amarelas</string>
     <string name="edit_contact">Adicionar a um contato</string>

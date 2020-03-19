@@ -437,7 +437,7 @@ Acelere downloads em todos os seus dispositivos."</string>
     <string name="info_flow_only_load_wifi">Carregar conteúdo apenas com Wi-Fi</string>
     <string name="info_flow_show">Mostrar conteúdo recomendado</string>
     <string name="info_flow_setting">Configurações de conteúdo</string>
-    <string name="no_result_for_keyword">Não foi possível enconrtrar \"%1$s\"</string>
+    <string name="no_result_for_keyword">Não foi possível encontrar \"%1$s\"</string>
     <string name="download_status_paused">Pausar</string>
     <string name="download_status_continue">Retomar</string>
     <string name="download_status_fail">Repetir</string>
