@@ -29,7 +29,7 @@
   <string name="bg_control_dialog_title">Restrições de segundo plano</string>
   <string name="bmi_label">IMC</string>
   <string name="body_weight">Peso</string>
-  <string name="body_weight_descripe_content">O indíce de massa corporal (IMC) é a massa corporal dividida pelo quadrado da altura do corpo (kg/m²)</string>
+  <string name="body_weight_descripe_content">O índice de massa corporal (IMC) é a massa corporal dividida pelo quadrado da altura do corpo (kg/m²)</string>
   <string name="body_weight_extremely_obesity">Obesidade mórbida</string>
   <string name="body_weight_fkg">%1$.1f kg</string>
   <string name="body_weight_kg">%1$d kg</string>
@@ -98,7 +98,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="dialog_juveniles_details">De acordo com nossa Política de Privacidade, a idade miníma para utilizar este produto é de 18 anos</string>
   <string name="dialog_juveniles_link">De acordo com nossa &lt;font color=\"#FE6D67\"&gt;&lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt;, a idade miníma para utilizar este produto é de 18 anos</string>
   <string name="dialog_known">Entendido</string>
-  <string name="dialog_menstruation_purpose">Bem-vindo ao Mi Health! A \"Menstruação\" permitie registar período, determinar datas estimadas dos próximos períodos e receber lembretes</string>
+  <string name="dialog_menstruation_purpose">Bem-vindo ao Mi Health! A \"Menstruação\" permite registar período, determinar datas estimadas dos próximos períodos e receber lembretes</string>
   <string name="dialog_no_more_prompt">Não mostrar novamente</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_open">Permitir</string>
@@ -148,7 +148,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="health_app_name">Mi Health</string>
   <string name="health_app_name_dev">Desenvolvimento do Mi Health</string>
   <string name="health_score">Resultado de saúde</string>
-  <string name="health_score_tips">O resultado de saúde é calculado com base no seu IMC (indíce de massa corporal), assim como o seu sono e atividade física. Quanto mais perto estiver das suas metas, maior vai ser a sua pontuação de saúde</string>
+  <string name="health_score_tips">O resultado de saúde é calculado com base no seu IMC (índice de massa corporal), assim como o seu sono e atividade física. Quanto mais perto estiver das suas metas, maior vai ser a sua pontuação de saúde</string>
   <string name="history_statistics">Estatísticas</string>
   <string name="home_page_card_setting">Cartões da página inicial</string>
   <string name="icon_content_description">Ícone de diálogo</string>
@@ -221,7 +221,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="next_step">Seguinte</string>
   <string name="no_body_weight_record">Sem registos</string>
   <string name="no_records">Sem itens</string>
-  <string name="not_support_step">O seu disposiivo não consegue contar passos</string>
+  <string name="not_support_step">O seu dispositivo não consegue contar passos</string>
   <string name="open_unrestricted_permissions">Para registar o sono com mais precisão, permita que o Mi Health execute sempre em segundo plano</string>
   <string name="permission_check_result">Definido com sucesso</string>
   <string name="permission_check_result_failed">Não foi possível definir</string>
@@ -253,7 +253,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="remind_menstruation_acquired_start">O seu período pode começar em 2 dias</string>
   <string name="remind_open_tips">Permitir que o Mi Health o lembre dos próximos períodos</string>
   <string name="remind_query_menstruation_end">O seu período já acabou? Não se esqueça de registar</string>
-  <string name="remind_query_menstruation_start">O seu período já comecou? Não se esqueça de registar</string>
+  <string name="remind_query_menstruation_start">O seu período já começou? Não se esqueça de registar</string>
   <string name="remind_sleep_report_complete">As estatísticas de sono estão prontas</string>
   <string name="remind_subtitle_menstruation_start">Receber um lembrete 2 dias antes do próximo período</string>
   <string name="remind_subtitle_record">Receber lembretes quando necessitar de registar a data de início e fim dos seus períodos</string>
@@ -358,7 +358,7 @@ baseados nas suas informações pessoais"</string>
   <string name="title_menstruation_predict_start">O período vai começar em %1$s</string>
   <string name="title_month_exercise_sum">Estatísticas mensais</string>
   <string name="title_network_license">Acesso à rede</string>
-  <string name="title_no_record_menstruation">Ainda não regitou os seus períodos</string>
+  <string name="title_no_record_menstruation">Ainda não regitrou os seus períodos</string>
   <string name="title_run_in_background">Executar em segundo plano</string>
   <string name="title_select_birthday">Selecionar data de nascimento</string>
   <string name="title_select_gender">Selecionar gênero</string>
@@ -374,7 +374,7 @@ baseados nas suas informações pessoais"</string>
   <string name="total_consumption_label">Total de calorias</string>
   <string name="total_distance_label">Total de distância</string>
   <string name="total_time_label">Total de tempo</string>
-  <string name="turn_on_necessary_permissions">São necessárias permissões para monitoar o sono.</string>
+  <string name="turn_on_necessary_permissions">São necessárias permissões para monitorar o sono.</string>
   <string name="unable_record_future_menstruation">"Não é possível registar períodos futuros"</string>
   <string name="unit_day">Dia</string>
   <string name="unit_hour">" h"</string>
