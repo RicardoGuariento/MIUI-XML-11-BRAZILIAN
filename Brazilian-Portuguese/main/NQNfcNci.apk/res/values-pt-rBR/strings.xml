@@ -9,8 +9,8 @@
   <string name="beam_complete">Beam complete</string>
   <string name="beam_failed">Beam did not complete</string>
   <string name="beam_handover_not_supported">"The receiver's device doesn't support large file transfer via beam."</string>
-  <string name="beam_outgoing">Beaming...</string>
-  <string name="beam_progress">Incoming beam...</string>
+  <string name="beam_outgoing">Beaming…</string>
+  <string name="beam_progress">Incoming beam…</string>
   <string name="beam_requires_external_storage_permission">Application does not have External Storage Permission. This is required to Beam this file</string>
   <string name="beam_requires_nfc_enabled">Android Beam requires NFC to be enabled. Do you want to enable it?</string>
   <string name="beam_tap_to_view">Tap to view</string>

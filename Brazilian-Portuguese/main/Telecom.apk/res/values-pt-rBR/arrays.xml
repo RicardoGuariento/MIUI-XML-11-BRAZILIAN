@@ -3,8 +3,8 @@
     <string-array name="wifi_status">
         <item></item>
         <item>Procurando…</item>
-        <item>Conectando...</item>
-        <item>Autenticando...</item>
+        <item>Conectando…</item>
+        <item>Autenticando…</item>
         <item>Obtendo endereço IP…</item>
         <item>Conectado</item>
         <item>Suspenso</item>

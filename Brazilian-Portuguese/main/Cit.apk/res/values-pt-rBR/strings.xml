@@ -392,7 +392,7 @@ N: sem teste"</string>
 <string name="cit_nfc_check_summary">"Clique no botão para iniciar o NFC e, em seguida, coloque o cartão na parte superior da parte traseira do telefone.
 Não desligue a tela durante o teste"</string>
 <string name="cit_nfc_check_tip">Coloque o cartão na parte superior da parte traseira do telefone</string>
-<string name="cit_camera_rearsub">O teste da câmera traseira secundária está em progresso, aguarde....</string>
+<string name="cit_camera_rearsub">O teste da câmera traseira secundária está em progresso, aguarde….</string>
 <string name="cit_proximity_data_check_summary">"Sensor de distância infravermelho: cubra o sensor de distância do telefone com a mão e então deixe o sensor de distância. 
  Sensor de distância ultra-sônico: simule pegar o telefone para atender uma chamada
  Se a área de teste inferior mostrar um valor de 0,0 ao se aproximar e um valor 5,0 quando estiver longe, o teste será bem-sucedido, caso contrário, o teste falhará."</string>

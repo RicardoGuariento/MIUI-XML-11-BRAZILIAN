@@ -352,9 +352,9 @@ usando %s"</string>
     <string name="ext_media_nomedia_notification_title">%s removido</string>
     <string name="ext_media_ready_notification_message">Para transferir fotos e mídia</string>
     <string name="ext_media_status_bad_removal">Removido de forma não segura</string>
-    <string name="ext_media_status_checking">Verificando...</string>
+    <string name="ext_media_status_checking">Verificando…</string>
     <string name="ext_media_status_ejecting">Ejetando…</string>
-    <string name="ext_media_status_formatting">Formatando...</string>
+    <string name="ext_media_status_formatting">Formatando…</string>
     <string name="ext_media_status_missing">Não inserida</string>
     <string name="ext_media_status_mounted">Pronto</string>
     <string name="ext_media_status_mounted_ro">Somente leitura</string>
@@ -573,7 +573,7 @@ Tem certeza que quer sair desta página?"</string>
     <string name="kg_invalid_sim_puk_hint">O código PUK deve ter oito números.</string>
     <string name="kg_login_account_recovery_hint">"Esqueceu seu nome de usuário ou senha?
 Acesse "<b>google.com.br/accounts/recovery</b>.</string>
-    <string name="kg_login_checking_password">Verificando a conta...</string>
+    <string name="kg_login_checking_password">Verificando a conta…</string>
     <string name="kg_login_instructions">Para desbloquear, faça login usando sua Conta do Google.</string>
     <string name="kg_login_invalid_input">Nome de usuário ou senha inválidos.</string>
     <string name="kg_login_password_hint">Senha</string>
@@ -708,10 +708,10 @@ Tente novamente em %2$d segundos."</string>
     <string name="media_route_chooser_title_for_remote_display">Transmitir tela para dispositivo</string>
     <string name="media_route_controller_disconnect">Desconectar</string>
     <string name="media_route_status_available">Disponível</string>
-    <string name="media_route_status_connecting">Conectando...</string>
+    <string name="media_route_status_connecting">Conectando…</string>
     <string name="media_route_status_in_use">Em uso</string>
     <string name="media_route_status_not_available">Não disponível</string>
-    <string name="media_route_status_scanning">Verificando...</string>
+    <string name="media_route_status_scanning">Verificando…</string>
     <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Kai</string>
     <string name="mediasize_chinese_om_jurro_ku_kai">Jurro Ku Kai</string>
     <string name="mediasize_chinese_om_pa_kai">Pa Kai</string>
@@ -1226,17 +1226,17 @@ para a conta %s."</string>
     <string name="printing_disabled_by">Impressão desativada por %s.</string>
     <string name="profile_encrypted_detail">Perfil de trabalho bloqueado</string>
     <string name="profile_encrypted_message">Toque p/ desbl. perfil de trab.</string>
-    <string name="progress_erasing">Apagando o armazenamento USB...</string>
+    <string name="progress_erasing">Apagando o armazenamento USB…</string>
     <string name="quick_contacts_not_available">Nenhum aplicativo encontrado para visualizar este contato.</string>
     <string name="reason_service_unavailable">Serviço de impressão não ativado</string>
     <string name="reason_unknown">desconhecido</string>
     <string name="reboot_safemode_confirm">Quer reiniciar no modo de segurança? Isso desativará todos os aplicativos de terceiros instalados. Eles serão restaurados quando você reiniciar novamente.</string>
     <string name="reboot_safemode_title">Reiniciar no modo de segurança</string>
-    <string name="reboot_to_reset_message">Reiniciando...</string>
+    <string name="reboot_to_reset_message">Reiniciando…</string>
     <string name="reboot_to_reset_title">Redefinição para configuração original</string>
     <string name="reboot_to_update_package">Processando o pacote de atualização…</string>
-    <string name="reboot_to_update_prepare">Preparando para atualizar...</string>
-    <string name="reboot_to_update_reboot">Reiniciando...</string>
+    <string name="reboot_to_update_prepare">Preparando para atualizar…</string>
+    <string name="reboot_to_update_reboot">Reiniciando…</string>
     <string name="reboot_to_update_title">Atualização do sistema Android</string>
     <string name="recent_tasks_title">Recente</string>
     <string name="redo">Refazer</string>
@@ -1257,7 +1257,7 @@ para a conta %s."</string>
     <string name="relationTypeSister">Irmã</string>
     <string name="relationTypeSpouse">Cônjuge</string>
     <string name="relative_time">%1$s, %2$s</string>
-    <string name="replace">Substituir...</string>
+    <string name="replace">Substituir…</string>
     <string name="report">Informar</string>
     <string name="reset">Redefinir</string>
     <string name="restr_pin_confirm_pin">Confirme o novo PIN</string>
@@ -1306,7 +1306,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="screen_compat_mode_show">Mostrar sempre</string>
     <string name="screen_lock">Bloquear tela</string>
     <string name="screenshot_edit">Editar</string>
-    <string name="search_hint">Pesquisar...</string>
+    <string name="search_hint">Pesquisar…</string>
     <string name="search_language_hint">Digitar nome do idioma</string>
     <string name="searchview_description_clear">Limpar consulta</string>
     <string name="searchview_description_query">Consulta de pesquisa</string>
@@ -1324,7 +1324,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="select_minutes">Selecione os minutos</string>
     <string name="select_year">Selecione o ano</string>
     <string name="sendText">Escolha uma ação para o texto</string>
-    <string name="sending">Enviando...</string>
+    <string name="sending">Enviando…</string>
     <string name="serial_number">Número de série:</string>
     <string name="serviceClassData">Dados</string>
     <string name="serviceClassDataAsync">Assíncrono</string>
@@ -1423,7 +1423,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="sync_undo_deletes">Desfazer as exclusões</string>
     <string name="system_error_manufacturer">Há um problema interno com seu dispositivo. Entre em contato com o fabricante para saber mais detalhes.</string>
     <string name="system_error_wipe_data">Há um problema interno com seu dispositivo. Ele pode ficar instável até que você faça a redefinição para configuração original.</string>
-    <string name="taking_remote_bugreport_notification_title">Gerando relatório do bug...</string>
+    <string name="taking_remote_bugreport_notification_title">Gerando relatório do bug…</string>
     <string name="terabyteShort">TB</string>
     <string name="tethered_notification_message">Toque para configurar.</string>
     <string name="tethered_notification_multi_device_message">Dispositivos conectados: %1$s</string>
@@ -1508,7 +1508,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="volume_unknown">Volume</string>
     <string name="vpn_lockdown_config">Alterar configurações de VPN ou rede</string>
     <string name="vpn_lockdown_connected">VPN sempre ativa conectada</string>
-    <string name="vpn_lockdown_connecting">VPN sempre ativa conectando...</string>
+    <string name="vpn_lockdown_connecting">VPN sempre ativa conectando…</string>
     <string name="vpn_lockdown_disconnected">Desconectado da VPN sempre ativa</string>
     <string name="vpn_lockdown_error">Não foi possível se conectar à VPN sempre ativa</string>
     <string name="vpn_text">Toque para gerenciar a rede.</string>

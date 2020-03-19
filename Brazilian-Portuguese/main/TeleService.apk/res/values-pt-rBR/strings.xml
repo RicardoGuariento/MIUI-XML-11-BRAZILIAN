@@ -22,7 +22,7 @@
     <string name="abc_menu_space_shortcut_label">espaço</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
-    <string name="abc_search_hint">Pesquisar...</string>
+    <string name="abc_search_hint">Pesquisar…</string>
     <string name="abc_searchview_description_clear">Limpar consulta</string>
     <string name="abc_searchview_description_query">Consulta de pesquisa</string>
     <string name="abc_searchview_description_search">Pesquisar</string>
@@ -139,7 +139,7 @@
     <string name="bluetooth_connected_no_headset_no_a2dp">Conectado (sem telefone ou mídia) a %1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Conectado (sem telefone ou mídia), %1$s%2$s de bateria</string>
     <string name="bluetooth_connected_no_map">Conectado (sem acesso a mensagens) a %1$s</string>
-    <string name="bluetooth_connecting">Conectando...</string>
+    <string name="bluetooth_connecting">Conectando…</string>
     <string name="bluetooth_disable_absolute_volume">Desativar volume absoluto</string>
     <string name="bluetooth_disable_absolute_volume_summary">Desativa o recurso Bluetooth de volume absoluto em caso de problemas com o volume em dispositivos remotos, como volume excessivamente alto ou falta de controle.</string>
     <string name="bluetooth_disconnected">Desconectado</string>
@@ -217,7 +217,7 @@ Seleção"</string>
     <string name="bt_hci_snoop_log_summary">Capturar todos os pacotes Bluetooth HCI em um arquivo (ative o Bluetooth depois de alterar esta configuração)</string>
     <string name="bugreport_in_power">Atalho para relatório do bug</string>
     <string name="bugreport_in_power_summary">Mostrar um botão para gerar relatórios de bugs no menu do botão liga/desliga</string>
-    <string name="button_convert_fbe">Limpar e converter...</string>
+    <string name="button_convert_fbe">Limpar e converter…</string>
     <string name="callFailed_cdma_activation">Um cartão SIM ativou seu serviço e atualizou as capacidades de roaming do seu telefone.</string>
     <string name="callFailed_cdma_call_limit">Existem muitas chamadas ativas. Encerre ou junte as chamadas existentes antes de fazer uma nova.</string>
     <string name="callFailed_imei_not_accepted">Não é possível conectar, insira um cartão SIM válido.</string>
@@ -382,10 +382,10 @@ Seleção"</string>
     <string name="convert_to_fbe_warning">"Converter partição de dados para criptografia baseada em arquivos.
  !!Atenção!! Isso limpará todos os seus dados.
  Esse recurso é alfa e pode não funcionar corretamente.
- Pressione \"Limpar e converter...\" para continuar."</string>
+ Pressione \"Limpar e converter…\" para continuar."</string>
     <string name="convert_to_file_encryption">Converter para criptografia de arquivos</string>
     <string name="convert_to_file_encryption_done">Já criptografado com base em arquivos</string>
-    <string name="convert_to_file_encryption_enabled">Converter...</string>
+    <string name="convert_to_file_encryption_enabled">Converter…</string>
     <string name="crescendo_ringer_summary">O volume do toque irá aumentar gradualmente para o nível definido</string>
     <string name="crescendo_ringer_title">Volume de toque crescente</string>
     <string name="ct_ut_not_support_close_4glte">O UT não está disponível, desative o Modo 4G LTE Avançado nas Configurações</string>
@@ -1362,7 +1362,7 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="tts_reset_speech_pitch_title">Redefinir o tom da fala</string>
     <string name="tts_settings">Configurações da conversão de texto em voz</string>
     <string name="tts_settings_title">Conversão de texto em voz</string>
-    <string name="tts_status_checking">Verificando...</string>
+    <string name="tts_status_checking">Verificando…</string>
     <string name="tts_status_not_supported">%1$s não é suportado</string>
     <string name="tts_status_ok">%1$s é totalmente suportado</string>
     <string name="tts_status_requires_network">%1$s requer conexão de rede</string>

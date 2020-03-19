@@ -22,7 +22,7 @@
     <string name="abc_menu_space_shortcut_label">espaço</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
-    <string name="abc_search_hint">Pesquisar...</string>
+    <string name="abc_search_hint">Pesquisar…</string>
     <string name="abc_searchview_description_clear">Limpar consulta</string>
     <string name="abc_searchview_description_query">Consulta de pesquisa</string>
     <string name="abc_searchview_description_search">Pesquisar</string>
@@ -43,14 +43,14 @@
     <string name="accessibility_action_divider_top_70">Superior em 70%</string>
     <string name="accessibility_action_divider_top_full">Superior em tela cheia</string>
     <string name="accessibility_airplane_mode">Modo avião.</string>
-    <string name="accessibility_ambient_display_charging">Carregando...</string>
+    <string name="accessibility_ambient_display_charging">Carregando…</string>
     <string name="accessibility_aspect_button">Modo tela cheia</string>
     <string name="accessibility_assistant">Menu de atalhos</string>
     <string name="accessibility_back">Voltar</string>
     <string name="accessibility_battery_details">Abrir detalhes da bateria</string>
     <string name="accessibility_battery_full">Bateria cheia.</string>
     <string name="accessibility_battery_level">Bateria em %d por cento.</string>
-    <string name="accessibility_battery_level_charging">Bateria carregando..., %d por cento.</string>
+    <string name="accessibility_battery_level_charging">Bateria carregando…, %d por cento.</string>
     <string name="accessibility_battery_one_bar">Bateria uma barra.</string>
     <string name="accessibility_battery_three_bars">Bateria três barras.</string>
     <string name="accessibility_battery_two_bars">Bateria duas barras.</string>
@@ -314,8 +314,8 @@
     <string name="battery_detail_charging_summary">A economia de bateria não está disponível durante o carregamento</string>
     <string name="battery_detail_switch_summary">Reduz o desempenho e dados em segundo plano</string>
     <string name="battery_detail_switch_title">Economia de bateria</string>
-    <string name="battery_info_status_charging">Carregando...</string>
-    <string name="battery_info_status_charging_lower">Carregando...</string>
+    <string name="battery_info_status_charging">Carregando…</string>
+    <string name="battery_info_status_charging_lower">Carregando…</string>
     <string name="battery_info_status_discharging">Não está carregando</string>
     <string name="battery_info_status_full">Carregada</string>
     <string name="battery_info_status_not_charging">Não está carregando</string>
@@ -491,7 +491,7 @@ Taxa de amostra"</string>
  Pressione \"Limpar e converter..…\" para continuar."</string>
     <string name="convert_to_file_encryption">Converter para criptografia de arquivos</string>
     <string name="convert_to_file_encryption_done">Os arquivos estão criptografados</string>
-    <string name="convert_to_file_encryption_enabled">Converter...</string>
+    <string name="convert_to_file_encryption_enabled">Converter…</string>
     <string name="custom_lock_wallpaper_enter">Confirmar</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermelho-verde)</string>
     <string name="daltonizer_mode_disabled">Desativado</string>

@@ -763,7 +763,7 @@ Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão s
     <string name="small_video_comment">Todos os comentários</string>
     <string name="small_video_comment_input_hint">Digite seu comentário</string>
     <string name="small_video_load_failed">Falha no carregamento</string>
-    <string name="small_video_loading">Carregando...</string>
+    <string name="small_video_loading">Carregando…</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">Não foi possível salvar a página</string>
     <string name="snapshot_successed">Abra Favoritos/Histórico->LOCAL para ver a página</string>

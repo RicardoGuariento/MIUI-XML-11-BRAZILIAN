@@ -3,7 +3,7 @@
     <string name="app_name">Instalador de certificado</string>
     <string name="pick_file_title">Escolher um certificado</string>
     <string name="pkcs12_password_dialog_title">Extrair certificado</string>
-    <string name="extracting_pkcs12">Extraindo...</string>
+    <string name="extracting_pkcs12">Extraindo…</string>
     <string name="pkcs12_file_password_dialog_title">Extrair de %s</string>
     <string name="name_credential_dialog_title">Nomear o certificado</string>
     <string name="credential_name">Nome do certificado:</string>

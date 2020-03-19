@@ -19,7 +19,7 @@
     <string name="abc_menu_space_shortcut_label">espaço</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
-    <string name="abc_search_hint">Pesquisar...</string>
+    <string name="abc_search_hint">Pesquisar…</string>
     <string name="abc_searchview_description_clear">Limpar consulta</string>
     <string name="abc_searchview_description_query">Consulta de pesquisa</string>
     <string name="abc_searchview_description_search">Pesquisar</string>
@@ -807,7 +807,7 @@ Apps:
     <string name="bluetooth_broadcasting">Transmissão</string>
     <string name="bluetooth_confirm_passkey_msg">Para parear com:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Verifique se ele está mostrando a seguinte senha:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connect_failed">Não foi possível conectar. Tente novamente.</string>
-    <string name="bluetooth_connect_specific_profiles_title">Conectar-se a...</string>
+    <string name="bluetooth_connect_specific_profiles_title">Conectar-se a…</string>
     <string name="bluetooth_connected">Conectado %1$s</string>
     <string name="bluetooth_connected_battery_level">Conectado, bateria %1$s%2$s</string>
     <string name="bluetooth_connected_multiple_devices_summary">Conectado a vários dispositivos</string>
@@ -989,7 +989,7 @@ Apps:
 
 Para melhorar a experiência, os aplicativos e serviços podem procurar por dispositivos próximos a qualquer momento, mesmo quando o Bluetooth está desativado. Essa configuração pode ser usada, por exemplo, para melhorar recursos e serviços baseados na localização. É possível alterar isso nas "<annotation id="link">configurações de verificação</annotation>.</string>
     <string name="bluetooth_search_for_devices">Atualizar</string>
-    <string name="bluetooth_searching_for_devices">Pesquisando...</string>
+    <string name="bluetooth_searching_for_devices">Pesquisando…</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bits por amostra de áudio Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Selecionar codec de áudio Bluetooth:
 Bits por amostra"</string>
@@ -1030,7 +1030,7 @@ Taxa de amostra"</string>
     <string name="bluetooth_tethering_overflow_error">Não é possível ancorar a mais de %1$d dispositivos.</string>
     <string name="bluetooth_tethering_subtext">Compartilhar a conexão com a Internet do smartphone via Bluetooth</string>
     <string name="bluetooth_turning_off">Desligar o Bluetooth…</string>
-    <string name="bluetooth_turning_on">Ativando Bluetooth...</string>
+    <string name="bluetooth_turning_on">Ativando Bluetooth…</string>
     <string name="bluetooth_unknown" />
     <string name="bluetooth_unlock_add_device">Adicionar dispositivo</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">O dispositivo antigo será substituído pelo atual.</string>
@@ -1264,7 +1264,7 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
     <string name="check_importance_dialog_cancel">Cancelar</string>
     <string name="check_update">Procurar atualizações</string>
     <string name="checkbox_notification_same_as_incoming_call">Usar volume de chamada recebida para notificações</string>
-    <string name="checking_decryption">Verificando...</string>
+    <string name="checking_decryption">Verificando…</string>
     <string name="checking_find_device_status">"Verificando status do 'Encontrar dispositivo'…"</string>
     <string name="checking_for_updates">Procurando atualizações…</string>
     <string name="choose_a_card_to_reset">Selecione o cartão SIM para redefinir</string>
@@ -1409,7 +1409,7 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
  Pressione \"Limpar e converter..…\" para continuar."</string>
     <string name="convert_to_file_encryption">Converter para criptografia de arquivos</string>
     <string name="convert_to_file_encryption_done">Os arquivos estão criptografados</string>
-    <string name="convert_to_file_encryption_enabled">Converter...</string>
+    <string name="convert_to_file_encryption_enabled">Converter…</string>
     <string name="cool_color">Fria</string>
     <string name="copyright_title">Direitos autorais</string>
     <string name="country_name">%s (sistema)</string>
@@ -1522,7 +1522,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="data_saver_title">Economia de dados</string>
     <string name="data_size_label">Dados do usuário</string>
     <string name="data_summary_format">%1$s usados desde %2$s</string>
-    <string name="data_switch_started">Trocando SIM de dados. Isso pode demorar um pouco...</string>
+    <string name="data_switch_started">Trocando SIM de dados. Isso pode demorar um pouco…</string>
     <string name="data_usage_accounting">O cálculo da operadora poderá ser diferente de seu dispositivo.</string>
     <string name="data_usage_app">Uso de aplicativos</string>
     <string name="data_usage_app_info_label">INFORMAÇÕES DE APPS</string>
@@ -1546,7 +1546,7 @@ Algumas contas também poderão copiar automaticamente as alterações feitas no
     <string name="data_usage_background_label">Segundo plano:</string>
     <string name="data_usage_cellular_data">Dados móveis</string>
     <string name="data_usage_cellular_data_summary">Pausa no limite</string>
-    <string name="data_usage_change_cycle">Alterar ciclo...</string>
+    <string name="data_usage_change_cycle">Alterar ciclo…</string>
     <string name="data_usage_cycle">Ciclo do uso de dados</string>
     <string name="data_usage_cycle_editor_positive">Definir</string>
     <string name="data_usage_cycle_editor_subtitle">Data de cada mês:</string>
@@ -3080,7 +3080,7 @@ Há outros usuários presentes neste dispositivo.
     <string name="master_clear_personal_data">Apagar todas as suas informações pessoais? Você não pode reverter esta ação!</string>
     <string name="master_clear_personal_data_application">Apagar todas as suas informações pessoais e aplicativos transferidos? Você não pode reverter esta ação!</string>
     <string name="master_clear_personal_data_sdcard">Apagar todas as suas informações pessoais e conteúdo? Você não pode reverter esta ação!</string>
-    <string name="master_clear_progress_text">Aguarde...</string>
+    <string name="master_clear_progress_text">Aguarde…</string>
     <string name="master_clear_progress_title">Apagando</string>
     <string name="master_clear_short_title">Limpar todos os dados</string>
     <string name="master_clear_title">Limpar todos os dados (redefinição para configuração original)</string>
@@ -3113,7 +3113,7 @@ Há outros usuários presentes neste dispositivo.
     <string name="memory_available_read_only">Disponível (somente leitura)</string>
     <string name="memory_avg_desc">Média de %1$s</string>
     <string name="memory_avg_use">Média</string>
-    <string name="memory_calculating_size">Calculando...</string>
+    <string name="memory_calculating_size">Calculando…</string>
     <string name="memory_clear_cache_message">Limpará dados em cache de todos os aplicativos.</string>
     <string name="memory_clear_cache_title">Limpar os dados em cache?</string>
     <string name="memory_dcim_usage">Imagens, vídeos</string>
@@ -3446,7 +3446,7 @@ Selecione seu sistema operacional:"</string>
     <string name="nfc_how_it_works_content">Configure um aplicativo de pagamento. Em seguida, basta segurar a parte traseira do seu smartphone em direção a qualquer terminal com o símbolo indicando ausência de contato.</string>
     <string name="nfc_how_it_works_got_it">Entendi</string>
     <string name="nfc_how_it_works_title">Como pagar no terminal</string>
-    <string name="nfc_more_title">Mais...</string>
+    <string name="nfc_more_title">Mais…</string>
     <string name="nfc_payment_default">Pagamento padrão</string>
     <string name="nfc_payment_default_not_set">Não definido</string>
     <string name="nfc_payment_favor_default">Sempre usar o aplicativo padrão</string>
@@ -4483,7 +4483,7 @@ Para usar a fixação de tela:
     <string name="sdcard_settings_mass_storage_status">Armaz. USB usado como armaz. em massa.</string>
     <string name="sdcard_settings_not_present_status">Armazenam. USB não conectado.</string>
     <string name="sdcard_settings_read_only_status">Armaz. USB somente leitura.</string>
-    <string name="sdcard_settings_scanning_status">Procurando arquivos na USB...</string>
+    <string name="sdcard_settings_scanning_status">Procurando arquivos na USB…</string>
     <string name="sdcard_settings_screen_mass_storage_text">Ativar o armazenamento USB em massa</string>
     <string name="sdcard_settings_total_bytes_label">Total de bytes:</string>
     <string name="sdcard_settings_unmounted_status">Armazen. USB pode ser removido</string>
@@ -4811,14 +4811,14 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="settings_forbidden_message">Esta configuração é restrita</string>
     <string name="settings_label">Configurações</string>
     <string name="settings_label_launcher">Configurações</string>
-    <string name="settings_license_activity_loading">Carregando...</string>
+    <string name="settings_license_activity_loading">Carregando…</string>
     <string name="settings_license_activity_title">Licenças de código aberto</string>
     <string name="settings_license_activity_unavailable">Há um problema ao carregar as licenças.</string>
     <string name="settings_manual_activity_title">Manual</string>
     <string name="settings_manual_activity_unavailable">Ocorreu um problema ao carregar o manual.</string>
     <string name="settings_notify_need_backup">Faça o backup de suas configurações na Mi Cloud para acessá-las quando trocar de telefone.</string>
     <string name="settings_notify_phone_recycled">Seu número de telefone foi reciclado. Toque para adicionar um número diferente.</string>
-    <string name="settings_safetylegal_activity_loading">Carregando...</string>
+    <string name="settings_safetylegal_activity_loading">Carregando…</string>
     <string name="settings_safetylegal_activity_title">Informações de segurança</string>
     <string name="settings_safetylegal_activity_unreachable">Você não tem uma conexão de dados. Para ver essas informações agora, acesse %s em qualquer computador conectado à Internet.</string>
     <string name="settings_safetylegal_title">Informações de segurança</string>
@@ -5090,7 +5090,7 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="standard_info">Chamadas e notificações serão silenciadas</string>
     <string name="standby_bucket_summary">Estado do standby do aplicativo: %s</string>
     <string name="start_silent_mode">Ativar Modo silencioso</string>
-    <string name="starting_android">Iniciando o Android...</string>
+    <string name="starting_android">Iniciando o Android…</string>
     <string name="status_awaiting_tap">Toque em uma marca para gravar…</string>
     <string name="status_awake_time">Tempo ativo</string>
     <string name="status_bar_and_notification_bar">Área de notificações e Barra de status</string>
@@ -5329,7 +5329,7 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
 • Mantenha o dispositivo carregado."</string>
     <string name="storage_wizard_migrate_later">Mover mais tarde</string>
     <string name="storage_wizard_migrate_now">Mover agora</string>
-    <string name="storage_wizard_migrate_progress_title">Movendo dados...</string>
+    <string name="storage_wizard_migrate_progress_title">Movendo dados…</string>
     <string name="storage_wizard_migrate_progress_v2_title">Movendo conteúdo…</string>
     <string name="storage_wizard_migrate_title">Mover dados para novo armazenamento</string>
     <string name="storage_wizard_migrate_v2_body">"É possível mover arquivos, mídia e alguns aplicativos para este ^1. 
@@ -5429,7 +5429,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="sync_error">Erro na sinc.</string>
     <string name="sync_failed">Falha na sincronização</string>
     <string name="sync_gmail">Gmail</string>
-    <string name="sync_in_progress">Sincronizando agora...</string>
+    <string name="sync_in_progress">Sincronizando agora…</string>
     <string name="sync_is_failing">A sincronização está enfrentando problemas no momento. Ela retornará em breve.</string>
     <string name="sync_menu_sync_cancel">Cancelar sincronização</string>
     <string name="sync_menu_sync_now">Sincronizar agora</string>
@@ -5799,7 +5799,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="usb_summary_power_only">Carregando dispositivo conectado</string>
     <string name="usb_summary_tether">Ancoragem USB</string>
     <string name="usb_summary_tether_power">Ancoragem USB e fornecimento de energia</string>
-    <string name="usb_switching">Alternando...</string>
+    <string name="usb_switching">Alternando…</string>
     <string name="usb_switching_failed">Não foi possível alternar</string>
     <string name="usb_tethering_active_subtext">Ancorado</string>
     <string name="usb_tethering_available_subtext">USB conectado, marque para ancorar</string>
@@ -5850,7 +5850,7 @@ Qualquer usuário pode atualizar aplicativos para os demais usuários."</string>
     <string name="user_add_user_or_profile_menu">Adicionar usuário ou perfil</string>
     <string name="user_add_user_title">Adicionar novo usuário?</string>
     <string name="user_add_user_type_title">Adicionar</string>
-    <string name="user_adding_new_user">Adicionando novo usuário...</string>
+    <string name="user_adding_new_user">Adicionando novo usuário…</string>
     <string name="user_admin">Administrador</string>
     <string name="user_cannot_add_accounts_message">Perfis restritos não podem adicionar contas</string>
     <string name="user_cannot_manage_message">Somente o proprietário do telefone pode gerenciar os usuários.</string>
@@ -5882,7 +5882,7 @@ Qualquer usuário pode atualizar aplicativos para os demais usuários."</string>
     <string name="user_dict_settings_edit_dialog_title">Editar palavra</string>
     <string name="user_dict_settings_empty_text">"Você não tem nenhum dicionário
 Toque no + para adicionar palavras."</string>
-    <string name="user_dict_settings_more_languages">Mais idiomas...</string>
+    <string name="user_dict_settings_more_languages">Mais idiomas…</string>
     <string name="user_dict_settings_summary" />
     <string name="user_dict_settings_title">Dicionário pessoal</string>
     <string name="user_enable_calling">Ativar chamadas telefônicas</string>
@@ -6109,7 +6109,7 @@ Toque no + para adicionar palavras."</string>
     <string name="wallpaper_desktop">Tela inicial</string>
     <string name="wallpaper_live">Planos de fundo animados</string>
     <string name="wallpaper_lockscreen">Tela de bloqueio</string>
-    <string name="wallpaper_settings_fragment_title">Selecionar de...</string>
+    <string name="wallpaper_settings_fragment_title">Selecionar de…</string>
     <string name="wallpaper_settings_summary_custom">Personalizado</string>
     <string name="wallpaper_settings_summary_default">Padrão</string>
     <string name="wallpaper_settings_title">Plano de fundo</string>
@@ -6340,7 +6340,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_hotspot_footer_info_regular">Use o ponto de acesso para criar uma rede Wi-Fi para outros dispositivos. O ponto de acesso fornece Internet usando sua conexão de dados móveis. Pode haver cobrança adicional para dados móveis.</string>
     <string name="wifi_hotspot_message">%1$s requer login on-line antes de conectar à rede.</string>
     <string name="wifi_hotspot_name_summary_connected">Outros dispositivos podem se conectar a %1$s</string>
-    <string name="wifi_hotspot_name_summary_connecting">Ativando %1$s...</string>
+    <string name="wifi_hotspot_name_summary_connecting">Ativando %1$s…</string>
     <string name="wifi_hotspot_name_title">Nome do ponto de acesso</string>
     <string name="wifi_hotspot_no_password_subtext">Nenhuma senha definida</string>
     <string name="wifi_hotspot_off_subtext">Não está compartilhando a Internet ou conteúdo com outros dispositivos</string>
@@ -6493,7 +6493,7 @@ Permitir isto para todos os aplicativos que quiserem verificar?"</string>
     <string name="wifi_setup_description_connected">Toque em <b>Avançar</b>" para continuar com a configuração.
 
 Toque em "<b>Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
-    <string name="wifi_setup_description_connecting">A conexão pode levar alguns minutos...</string>
+    <string name="wifi_setup_description_connecting">A conexão pode levar alguns minutos…</string>
     <string name="wifi_setup_detail">Detalhes da rede</string>
     <string name="wifi_setup_eap_not_supported">Você não pode configurar uma conexão Wi-Fi EAP durante a instalação. Após a instalação inicial, acesse Configurações > Sem fio e redes.</string>
     <string name="wifi_setup_forget">Esquecer</string>
@@ -6502,13 +6502,13 @@ Toque em "<b>Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
     <string name="wifi_setup_refresh_list">Atualizar lista</string>
     <string name="wifi_setup_save">Salvar</string>
     <string name="wifi_setup_skip">Pular</string>
-    <string name="wifi_setup_status_connecting">Conectando...</string>
+    <string name="wifi_setup_status_connecting">Conectando…</string>
     <string name="wifi_setup_status_eap_not_supported">EAP não é suportado.</string>
     <string name="wifi_setup_status_edit_network">Digite a configuração de rede</string>
     <string name="wifi_setup_status_existing_network">Conectar-se à rede existente</string>
     <string name="wifi_setup_status_new_network">Conectar-se à nova rede</string>
     <string name="wifi_setup_status_proceed_to_next">Ir para a próxima etapa</string>
-    <string name="wifi_setup_status_scanning">Procurando redes...</string>
+    <string name="wifi_setup_status_scanning">Procurando redes…</string>
     <string name="wifi_setup_status_select_network">Toque em uma rede para conectar-se a ela</string>
     <string name="wifi_setup_status_unsecured_network">Conectar-se à rede não segura</string>
     <string name="wifi_setup_title">Configuração de Wi-Fi</string>
@@ -6583,8 +6583,8 @@ Toque em "<b>Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
     <string name="wifi_tether_failed_subtext">Erro no ponto de acesso Wi-Fi</string>
     <string name="wifi_tether_setting_title">Configurações</string>
     <string name="wifi_tether_settings_title">Ponto de acesso</string>
-    <string name="wifi_tether_starting">Ativando o ponto de acesso...</string>
-    <string name="wifi_tether_stopping">Desativando o ponto de acesso...</string>
+    <string name="wifi_tether_starting">Ativando o ponto de acesso…</string>
+    <string name="wifi_tether_stopping">Desativando o ponto de acesso…</string>
     <string name="wifi_traffic_priority">Modo de tráfego</string>
     <string name="wifi_traffic_priority_extreme">Modo Extremo</string>
     <string name="wifi_traffic_priority_extreme_summary">O aplicativo em uso terá prioridade para usar recursos de rede para fornecer uma melhor experiência de uso, impedindo o uso da rede por aplicativos em segundo plano</string>

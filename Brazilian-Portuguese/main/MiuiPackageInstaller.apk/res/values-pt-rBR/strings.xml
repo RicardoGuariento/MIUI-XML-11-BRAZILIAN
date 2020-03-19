@@ -180,7 +180,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="miui_message_staging_0">Testando aplicativo   </string>
   <string name="miui_message_staging_1">Testando aplicativo.  </string>
   <string name="miui_message_staging_2">Testando aplicativo.. </string>
-  <string name="miui_message_staging_3">Testando aplicativo...</string>
+  <string name="miui_message_staging_3">Testando aplicativo…</string>
   <string name="miui_no_perms">Não são necessárias permissões</string>
   <string name="miui_not_uninstall_system_app">"Não é possível desinstalar aplicativos do sistema"</string>
   <string name="miui_other_relative">Outro</string>
@@ -201,7 +201,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="miui_virus_scanning_0">Verificando</string>
   <string name="miui_virus_scanning_1">Verificando.</string>
   <string name="miui_virus_scanning_2">Verificando..</string>
-  <string name="miui_virus_scanning_3">Verificando...</string>
+  <string name="miui_virus_scanning_3">Verificando…</string>
   <string name="miui_virus_title">Alto risco</string>
   <string name="mobil_net_work_warning_cancel">Cancelar</string>
   <string name="mobil_net_work_warning_msg">"Você está usando os dados móveis agora. Instalar este aplicativo requer %1$s de dados móveis. Instalar mesmo assim?"</string>

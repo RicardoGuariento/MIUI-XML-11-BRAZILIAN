@@ -2752,7 +2752,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="gb_voice_changer_robot">Robô</string>
 	<string name="global_wa_setting_alert_dialog_content">Você pode liberar até %s</string>
 	<string name="global_wa_setting_alert_dialog_title">Limpeza do WhatsApp</string>
-	<string name="net_boostering">Aumentando a velocidade da rede...</string>
+	<string name="net_boostering">Aumentando a velocidade da rede…</string>
 	<string name="notification_garbage_cleanup_summary">Limpar lixo (%s) para otimizar seu dispositivo</string>
 	<string name="notification_garbage_cleanup_title">Limpar arquivos obsoletos</string>
 	<string name="phone_manage_recent_use">Usado recentemente</string>

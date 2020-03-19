@@ -1157,7 +1157,7 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="sync_calendra_fail_permission">Não foi possível sincronizar os eventos da agenda. Permita prmeiro que o WPS Mail acesse a agenda</string>
 	<string name="toast_bar_sync_failed_client_cert">Não foi possível sincronizar devido a um certificado ausente. Toque para adicionar o certificado novamente.</string>
 	<string name="toast_bar_sync_failed_mi_authority">Faça login para autorizar seu dispositivo</string>
-	<string name="wait_while_update_db">Atualizando o banco de dados...</string>
+	<string name="wait_while_update_db">Atualizando o banco de dados…</string>
 	<string name="show_more_attachment">Mais anexos</string>
 	<string name="account_smime_cert_title">Certificados</string>
 	<string name="account_smime_encrypt">Criptografia S/MIME</string>
@@ -1180,7 +1180,7 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="user_new_auth_code">Entrar com um novo código</string>
 	<string name="xiaomi_auth_toastbar">Entre para autorizar seu dispositivo</string>
 	<string name="xiaomi_email">E-mail</string>
-	<string name="xiaomi_under_certification">Autorizando...</string>
+	<string name="xiaomi_under_certification">Autorizando…</string>
 	<string name="database_exception">Exceção de dados, faça login novamente</string>
 	<string name="db_error">Há uma exceção nos dados do e-mail. Por favor faça login novamente. Os dados do e-mail podem ser recuperados após o login.</string>
 </resources>

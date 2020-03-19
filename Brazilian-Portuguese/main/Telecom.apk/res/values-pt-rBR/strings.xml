@@ -19,7 +19,7 @@
     <string name="wifi_connected_no_internet">Conectada, sem Internet</string>
     <string name="bluetooth_disconnected">Desconectado</string>
     <string name="bluetooth_disconnecting">Desconectando…</string>
-    <string name="bluetooth_connecting">Conectando...</string>
+    <string name="bluetooth_connecting">Conectando…</string>
     <string name="bluetooth_connected">Conectado</string>
     <string name="bluetooth_pairing">Pareando…</string>
     <string name="bluetooth_connected_no_headset">Conectado (sem telefone)</string>
@@ -107,7 +107,7 @@
     <string name="tts_status_ok">%1$s é totalmente suportado</string>
     <string name="tts_status_requires_network">%1$s requer conexão de rede</string>
     <string name="tts_status_not_supported">%1$s não é suportado</string>
-    <string name="tts_status_checking">Verificando...</string>
+    <string name="tts_status_checking">Verificando…</string>
     <string name="tts_engine_settings_title">Configurações para %s</string>
     <string name="tts_engine_settings_button">Iniciar configurações do mecanismo</string>
     <string name="tts_engine_preference_section_title">Mecanismo preferencial</string>
@@ -276,14 +276,14 @@ qualidade de reprodução"</string>
     <string name="select_webview_provider_dialog_title">Configurar implementação do WebView</string>
     <string name="select_webview_provider_toast_text">Esta opção não é mais válida. Tente novamente.</string>
     <string name="convert_to_file_encryption">Converter para criptografia de arquivos</string>
-    <string name="convert_to_file_encryption_enabled">Converter...</string>
+    <string name="convert_to_file_encryption_enabled">Converter…</string>
     <string name="convert_to_file_encryption_done">Já criptografado com base em arquivos</string>
     <string name="title_convert_fbe">Convertendo para criptografia baseada em arquivos</string>
     <string name="convert_to_fbe_warning">"Converter partição de dados para criptografia baseada em arquivos.
  !!Atenção!! Isso limpará todos os seus dados.
  Esse recurso é alfa e pode não funcionar corretamente.
- Pressione \"Limpar e converter...\" para continuar."</string>
-    <string name="button_convert_fbe">Limpar e converter...</string>
+ Pressione \"Limpar e converter…\" para continuar."</string>
+    <string name="button_convert_fbe">Limpar e converter…</string>
     <string name="picture_color_mode">Modo de cor da imagem</string>
     <string name="picture_color_mode_desc">Usar sRGB</string>
     <string name="daltonizer_mode_disabled">Desativado</string>

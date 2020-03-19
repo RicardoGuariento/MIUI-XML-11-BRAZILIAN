@@ -19,9 +19,9 @@ Caso você não tenha solicitado a restauração, não permita que a operação 
     <string name="backup_enc_password_optional">Se você deseja criptografar os dados de backup por completo, digite uma senha abaixo:</string>
     <string name="backup_enc_password_required">Como seu dispositivo está criptografado, é necessário criptografar seu backup. Insira uma senha abaixo:</string>
     <string name="restore_enc_password_text">Se os dados restaurados forem criptografada, digite a senha abaixo:</string>
-    <string name="toast_backup_started">Iniciando backup...</string>
+    <string name="toast_backup_started">Iniciando backup…</string>
     <string name="toast_backup_ended">O backup foi concluído</string>
-    <string name="toast_restore_started">Iniciando restauração...</string>
+    <string name="toast_restore_started">Iniciando restauração…</string>
     <string name="toast_restore_ended">A restauração foi concluída</string>
     <string name="toast_timeout">A operação atingiu o tempo limite</string>
 </resources>
