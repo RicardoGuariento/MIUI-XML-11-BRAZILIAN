@@ -221,7 +221,7 @@ Este aplicativo também precisa se conectar à Internet e precisa das seguintes 
   <string name="usage_stats_limit_time_warn_summary">Mostrar o tempo restante da tela na tela de notificações</string>
   <string name="usage_stats_limit_time_warn_title">Alertar sobre o tempo restante da tela</string>
   <string name="usage_stats_no_limit">Exceção de aplicativo</string>
-  <string name="contact_description">Coloque atalhos de contato na tela inicial e toque para fazer uma chamada</string>
+  <string name="contact_description">Toque em Atalhos da tela inicial para fazer chamadas</string>
   <string name="contact_title">Atalhos de contatos</string>
   <string name="display_description">Ícones maiores, texto grande, menor poluição visual</string>
   <string name="display_title">Itens maiores</string>
