@@ -14,7 +14,7 @@
     </plurals>
     <plurals name="alert_message_delete">
         <item quantity="other">Excluir %1$s itens?</item>
-        <item quantity="one">Excluir %1$s ítem?</item>
+        <item quantity="one">Excluir %1$s item?</item>
     </plurals>
     <plurals name="format_move_notes_out_folder">
         <item quantity="other">Excluídas %1$s notas da pasta</item>
@@ -30,7 +30,7 @@
     </plurals>
     <plurals name="toast_notes_unhidden_count">
         <item quantity="other">%1$s notas reveladas com sucesso</item>
-        <item quantity="one">%1$s nota revelada com successo</item>
+        <item quantity="one">%1$s nota revelada com sucesso</item>
     </plurals>
     <plurals name="folder_terms">
         <item quantity="other">%1$s pastas</item>
