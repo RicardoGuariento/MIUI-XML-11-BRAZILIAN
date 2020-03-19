@@ -17,7 +17,7 @@
     <string name="account_setting">Contas</string>
     <string name="account_setting_keywords">Contas;contas de e-mail</string>
     <string name="account_setting_message_body_load_complete">Mensagem completa</string>
-    <string name="account_setting_message_body_load_head_abstract">Resumo do email</string>
+    <string name="account_setting_message_body_load_head_abstract">Resumo do e-mail</string>
     <string name="account_setting_message_body_load_head_only">Apenas o cabeçalho</string>
     <string name="account_setting_message_body_load_text">Apenas o corpo</string>
     <string name="account_settings_action">Configurações da conta</string>
@@ -41,7 +41,7 @@
     <string name="account_settings_name_label">Apelido</string>
     <string name="account_settings_notifications">Notificações</string>
     <string name="account_settings_notify_label">Notificações de e-mail</string>
-    <string name="account_settings_notify_summary">Mostrar notificações quando chegarem novos emails</string>
+    <string name="account_settings_notify_summary">Mostrar notificações quando chegarem novos e-mails</string>
     <string name="account_settings_param">Configurações da conta</string>
     <string name="account_settings_policies">Políticas de segurança</string>
     <string name="account_settings_preference_att_save_path">Caminho padrão para anexos</string>
@@ -167,7 +167,7 @@
     <string name="add_pre_message_attachments_yes">Adicionar</string>
     <string name="add_star">Estrela</string>
     <string name="allread">Ler tudo</string>
-    <string name="always_bcc_myself">Sempre enviar Cco para mim mesmo</string>
+    <string name="always_bcc_myself">Sempre enviar CCO para mim mesmo</string>
     <string name="always_show_images">Sempre mostrar imagens deste remetente</string>
     <string name="app_name">E-mail</string>
     <string name="archive">Arquivar</string>
@@ -281,7 +281,7 @@
     <string name="confirm_send_title">Enviar mensagem?</string>
     <string name="contact_edit_set_black_list_from">Mover todos os e-mails deste remetente para a Lixeira</string>
     <string name="contact_edit_set_black_list_receive">Mover e-mails com este destinatário para a Lixeira (apenas novos e-mails)</string>
-    <string name="contact_edit_set_black_list_receive_summary">"Excluir e-mails que incluam este destinatário no campo 'Para' ou 'Cc'"</string>
+    <string name="contact_edit_set_black_list_receive_summary">"Excluir e-mails que incluam este destinatário no campo 'Para' ou 'CC'"</string>
     <string name="contact_edit_set_black_list_title">Adicionar à lista de bloqueio</string>
     <string name="contact_edit_set_phone_contact">Editar contatos do telefone</string>
     <string name="contact_edit_title_phone_contact">Lista de contatos do telefone</string>
@@ -346,7 +346,7 @@
     <string name="delete_message_flow_keywords">Mensagem a exibir após excluir;redirecionamento de exclusão</string>
     <string name="deleted">Excluído</string>
     <string name="device_activity_btn_str">Ativar</string>
-    <string name="device_activity_lint_str">Ative a atualização completa do servilço de e-mail e ative em seguida as configurações de segurança</string>
+    <string name="device_activity_lint_str">Ative a atualização completa do serviço de e-mail e ative em seguida as configurações de segurança</string>
     <string name="device_admin_description">Ativa as políticas de segurança especificadas pelo servidor</string>
     <string name="device_admin_label">E-mail</string>
     <string name="device_not_activiey_lint1">O gerenciador do dispositivo não está ativado</string>
@@ -424,14 +424,14 @@
     <string name="feedback_sent">Obrigado por seu feedback</string>
     <string name="feedback_user_edit_hint">Descreva aqui o problema. Iremos enviar um e-mail para você após o analisarmos.</string>
     <string name="feedback_user_edit_tag">De MIUI</string>
-    <string name="fetch_bank_sender_list_failure">Não foi possíver obter as informações</string>
+    <string name="fetch_bank_sender_list_failure">Não foi possível obter as informações</string>
     <string name="fetching_attachment">Obtendo anexo</string>
     <string name="file_defailt_save_path">Os anexos são salvos na pasta %s por padrão. Você pode alterar a pasta nas configurações.</string>
     <string name="file_default_save_path_title">Caminho padrão para anexos</string>
     <string name="file_deleted_success">Arquivo excluído</string>
     <string name="file_not_found">Não foi possível localizar o arquivo</string>
     <string name="file_not_found_redownload">Não foi possível localizar o arquivo</string>
-    <string name="file_rar_not_support">Não é possível abrir arquivos rar criptografados</string>
+    <string name="file_rar_not_support">Não é possível abrir arquivos .rar criptografados</string>
     <string name="file_save_path_dialog_cancel">Entendi</string>
     <string name="file_save_path_dialog_ok">Alterar agora</string>
     <string name="file_save_term">Termos para salvamento</string>
@@ -569,7 +569,7 @@
 		%s
         (recorrente)
     "</string>
-    <string name="meeting_responded_failed">Sem respsota</string>
+    <string name="meeting_responded_failed">Sem resposta</string>
     <string name="meeting_tentative">"
         Talvez:
 		%s
@@ -862,7 +862,7 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="refreshing">Atualizando…</string>
     <string name="refreshing_done">Concluído</string>
     <string name="release_to_refresh">Solte para atualizar</string>
-    <string name="remind_attachment_size_limit">Os seus emails devem ser menores do que %sMB</string>
+    <string name="remind_attachment_size_limit">Os seus e-mails devem ser menores do que %sMB</string>
     <string name="remove_account">Remover conta</string>
     <string name="remove_folder">Remover da pasta %1$s</string>
     <string name="remove_star">Remover favorito</string>
@@ -1070,14 +1070,14 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
 	<string name="login_err_message">Use códigos de acesso autorizados para entrar em %1$s se você selecionou esta opção anteriormente. Vá para https://email.163.com/ para redefinir sua senha ou código de acesso.</string>
 	<string name="notify_channel_new_mail">Notificar sobre novas mensagens</string>
     <string name="notify_channel_no_disterb">Modo DND</string>
-    <string name="notify_channel_permission_notice">Permissões requieridas</string>
+    <string name="notify_channel_permission_notice">Permissões requeridas</string>
     <string name="notify_channel_send_fail">Notificar sobre falha em envios</string>
     <string name="notify_channel_service">Notificar sobre falha de sincronização</string>
 	<string name="open_androidp_warning">Avisar sobre SDKs 9.0 não oficiais</string>
 	<string name="print_scheduler_title">Agenda de impressões</string>
 	<string name="privacy_des">"Logs contém informações de depuração do cliente de e-mail e informações do seu dispositivo. Essas informações são usadas para localizar problemas rapidamente. Ao tocar \"%1$s\" abaixo, você está concordando com nossa \"%2$s\"."</string>
 	<string name="qq_login_notice">"Nota: Se você já definiu a senha, você deverá verificar ela quando entrar."</string>
-	<string name="qq_pwd_or_qq_auth_code">Enter QQ code or email password</string>
+	<string name="qq_pwd_or_qq_auth_code">Enter QQ code or e-mail password</string>
 	<string name="recommend_protocal">Protocolo de recomendação</string>
 	<string name="update_domain_summary">Atualizar lista de domínios e configurações</string>
     <string name="update_domain_title">Atualizar domínio</string>
@@ -1096,7 +1096,7 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
     <string name="search_remote_again">Não foi possível conectar à rede. Toque para tentar novamente.</string>
 	<string name="sync_failed_mi_authority_view_detail">Ver detalhes</string>
     <string name="agreement_url" formatted="false">http://www.miui.com/res/doc/eula.html?region=%1s&amp;lang=%2s</string>
-	<string name="all_purpose">Bem-vindo ao Mail! Este cliente de email foi criado pela Kingsoft para Xiaomi. Você pode usar este app para enviar e receber e-mails.</string>
+	<string name="all_purpose">Bem-vindo ao Mail! Este cliente de e-mail foi criado pela Kingsoft para Xiaomi. Você pode usar este app para enviar e receber e-mails.</string>
 	<string name="confirm_age">Confirmar Idade</string>
 	<string name="help_email_title">MI Mail</string>
 	<string name="over_16_content">Confirmar que você já tem 16 anos?</string>
@@ -1121,7 +1121,7 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="user_privacy_settings_path">Para revogar sua autorização, vá em Configurações > Configurações de Privacidade do Usuário</string>
 	<string name="user_privacy_settings_summary">Coletaremos seu ID do Android no formulário criptografado e o usaremos como seu identificador de usuário exclusivo no E-mail. Também podemos coletar logs de uso. Você pode revogar sua autorização nas configurações de privacidade a qualquer momento.</string>
 	<string name="user_privacy_settings_title">Declaração de privacidade do E-mail</string>
-	<string name="account_add_title">Selecione um serviço de email</string>
+	<string name="account_add_title">Selecione um serviço de e-mail</string>
 	<string name="header_label_general_preferences">Configurações gerais</string>
 	<string name="account_options_actionbar_title">Configurações da conta</string>
 	<string name="optimization_suggestion">Sugestões de otimização</string>
@@ -1130,20 +1130,20 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="certificate_alias_prompt_hit">Insira o alias do certificado</string>
 	<string name="certificate_alias_prompt_w">Já existe um certificado com esse nome</string>
 	<string name="conversation_cert_trust">Confiar</string>
-	<string name="email_sync_failed">Nao foi possível sincronizar o e-mail</string>
+	<string name="email_sync_failed">Não foi possível sincronizar o e-mail</string>
 	<string name="login_err_sina_message">Use códigos de acesso autorizados para entrar em %1$s se você selecionou esta opção anteriormente. Vá para https://mail.sina.com.cn/ para redefinir sua senha ou código de acesso.</string>
 	<string name="login_failed_tip">"Contate-nos no WeChat para receber ajuda: "</string>
 	<string name="mail_login_help">Como iniciar a sessão</string>
 	<string name="mail_login_help_bottom_tip">"Se você esqueceu sua senha ou precisa verificar o status da sua conta, use a versão web do NetEase Mail. Você também pode obter ajuda no WeChat: "</string>
-	<string name="mail_login_help_details1">1. A senha do email pode ser usada quando nenhum código de autorização foi configurado no cliente de email e os serviços POP3/IMAP/SMTP foram ativados.</string>
-	<string name="mail_login_help_details2">2. Os códigos de autorização de terceiros podem ser usados para entrar em clientes de email de terceiros quando os serviços POP3/IMAP/SMTP estão ativados..</string>
+	<string name="mail_login_help_details1">1. A senha do e-mail pode ser usada quando nenhum código de autorização foi configurado no cliente de e-mail e os serviços POP3/IMAP/SMTP foram ativados.</string>
+	<string name="mail_login_help_details2">2. Os códigos de autorização de terceiros podem ser usados para entrar em clientes de e-mail de terceiros quando os serviços POP3/IMAP/SMTP estão ativados..</string>
 	<string name="mail_login_help_title">Senha de e-mail/cliente de terceiros: </string>
 	<string name="mail_outlook_login_tips">Você será redirecionado para a Microsoft para inserir a senha.</string>
 	<string name="mail_outlook_oauth_login">Entrar com OAuth</string>
 	<string name="mail_outlook_psw_login">Entrar usando a senha</string>
 	<string name="no_open_smime_toast">Adicione o certificado S/MIME primeiro</string>
 	<string name="no_search_results">Procurar no servidor</string>
-	<string name="others_mail_des">Outro serviço de email privado ou corporativo</string>
+	<string name="others_mail_des">Outro serviço de e-mail privado ou corporativo</string>
 	<string name="outlook_login_failed_non_proxy_title">Não foi possível acessar o servidor do Outlook</string>
 	<string name="qq_login_help_bottom_tip">"Se você esqueceu sua senha ou precisa verificar o status da sua conta, use a versão web do QQ Mail. Você também pode obter ajuda no WeChat: "</string>
 	<string name="qq_login_help_details1">1. A senha QQ pode ser usada quando nenhuma senha ou código de autorização independente foi configurado com os protocolos IMAP/Exchange.</string>
@@ -1154,7 +1154,7 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="request_permission_activity">Permissões necessárias</string>
 	<string name="sync_calendra_fail_per_content">Toque para permitir</string>
 	<string name="sync_calendra_fail_per_title">Não foi possível sincronizar eventos da agenda</string>
-	<string name="sync_calendra_fail_permission">Não foi possível sincronizar os eventos da agenda. Permita prmeiro que o WPS Mail acesse a agenda</string>
+	<string name="sync_calendra_fail_permission">Não foi possível sincronizar os eventos da agenda. Permita primeiro que o WPS Mail acesse a agenda</string>
 	<string name="toast_bar_sync_failed_client_cert">Não foi possível sincronizar devido a um certificado ausente. Toque para adicionar o certificado novamente.</string>
 	<string name="toast_bar_sync_failed_mi_authority">Faça login para autorizar seu dispositivo</string>
 	<string name="wait_while_update_db">Atualizando o banco de dados…</string>
@@ -1172,10 +1172,10 @@ Aguarde até que esteja totalmente sincronizado ou veja no computador."</string>
 	<string name="conversation_cert_distrust">Não confiar</string>
 	<string name="conversation_cert_info_tips">Este e-mail foi assinado com um certificado confiável</string>
 	<string name="conversation_cert_info_title">Assinado</string>
-	<string name="conversation_message_encrypt_tips">Este é um email criptografado. Adicione o certificado necessário para descriptografá-lo.</string>
+	<string name="conversation_message_encrypt_tips">Este é um e-mail criptografado. Adicione o certificado necessário para descriptografá-lo.</string>
 	<string name="obtain_new_auth_code">Obter um novo código</string>
 	<string name="qq_changepw_dialog_tips">Obtenha um novo código de %s para entrar.</string>
-	<string name="send_encrypt_dialog_fail_content">Parece que o destinatário não possui o certificado confiável necessário para criptografar este email. Enviar um email regular?</string>
+	<string name="send_encrypt_dialog_fail_content">Parece que o destinatário não possui o certificado confiável necessário para criptografar este e-mail. Enviar um e-mail regular?</string>
 	<string name="send_encrypt_dialog_fail_title">Não foi possível enviar e-mail criptografado</string>
 	<string name="user_new_auth_code">Entrar com um novo código</string>
 	<string name="xiaomi_auth_toastbar">Entre para autorizar seu dispositivo</string>
