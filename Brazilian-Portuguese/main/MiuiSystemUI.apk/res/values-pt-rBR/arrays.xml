@@ -227,7 +227,7 @@
     <string-array name="track_frame_time_entries">
         <item>Desativado</item>
         <item>Na tela em barras</item>
-        <item>No adb shell dumpsys gfxinfo</item>
+        <item>Nenhum ADB shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animação desativada</item>

@@ -139,7 +139,7 @@
     <string name="accessibility_no_wifi">Desconectado do Wi-Fi.</string>
     <string name="accessibility_no_wimax">Sem WiMAX.</string>
     <string name="accessibility_not_connected">Não conectado.</string>
-    <string name="accessibility_notification_dismissed">Notitficação dispensada.</string>
+    <string name="accessibility_notification_dismissed">Notificação dispensada.</string>
     <string name="accessibility_notifications_button">Notificações.</string>
     <string name="accessibility_one_bar">Uma barra.</string>
     <string name="accessibility_overflow_action">Ver todas as notificações</string>
@@ -165,11 +165,11 @@
     <string name="accessibility_quick_settings_alarm_set">Alarme definido.</string>
     <string name="accessibility_quick_settings_battery">Bateria %s.</string>
     <string name="accessibility_quick_settings_bluetooth">Bluetooth.</string>
-    <string name="accessibility_quick_settings_bluetooth_changed_off">O bluetooth foi desativado.</string>
-    <string name="accessibility_quick_settings_bluetooth_changed_on">O bluetooth foi ativado.</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">O Bluetooth foi desativado.</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">O Bluetooth foi ativado.</string>
     <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth conectado.</string>
     <string name="accessibility_quick_settings_bluetooth_connecting">Bluetooth conectando.</string>
-    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Bateria do dispositivo bluetooth a %d por cento.</string>
+    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Bateria do dispositivo Bluetooth a %d por cento.</string>
     <string name="accessibility_quick_settings_bluetooth_off">Bluetooth desativado.</string>
     <string name="accessibility_quick_settings_bluetooth_on">Bluetooth ativado.</string>
     <string name="accessibility_quick_settings_close">Fechar painel.</string>
@@ -204,7 +204,7 @@
     <string name="accessibility_quick_settings_more_time">Mais tempo.</string>
     <string name="accessibility_quick_settings_no_internet">Sem internet.</string>
     <string name="accessibility_quick_settings_open_details">Abrir detalhes.</string>
-    <string name="accessibility_quick_settings_open_settings">Abrior configurações de %s.</string>
+    <string name="accessibility_quick_settings_open_settings">Abrir configurações de %s.</string>
     <string name="accessibility_quick_settings_page">Página %1$d de %2$d</string>
     <string name="accessibility_quick_settings_rotation">Girar tela automaticamente</string>
     <string name="accessibility_quick_settings_rotation_value">Modo %s</string>
@@ -397,7 +397,7 @@
     <string name="bluetooth_profile_map">Mensagens de texto</string>
     <string name="bluetooth_profile_opp">Transferência de arquivo</string>
     <string name="bluetooth_profile_pan">Acesso à Internet</string>
-    <string name="bluetooth_profile_pan_nap">Compart. de conexão com a internet</string>
+    <string name="bluetooth_profile_pan_nap">Compart. de conexão com a Internet</string>
     <string name="bluetooth_profile_pbap">Compartilhamento de contatos</string>
     <string name="bluetooth_profile_pbap_summary">Usar para compartilhamento de contatos</string>
     <string name="bluetooth_profile_sap">Acesso ao SIM</string>
@@ -473,7 +473,7 @@ Taxa de amostra"</string>
     <string name="clock">Relógio</string>
     <string name="clock_city_name_local">Local</string>
     <string name="clock_seconds">Mostrar segundos no relógio</string>
-    <string name="clock_seconds_desc">Mostrar sergundos do relógio na barra de status. Pode afetar a duração da bateria.</string>
+    <string name="clock_seconds_desc">Mostrar segundos do relógio na barra de status. Pode afetar a duração da bateria.</string>
     <string name="compat_mode_off">Esticar para preencher a tela</string>
     <string name="compat_mode_on">Ampliar para preencher a tela</string>
     <string name="confirm">Entendido</string>
@@ -732,8 +732,8 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="gps_notification_found_text">Localização definida pelo GPS</string>
     <string name="gps_notification_searching_text">Procurando GPS</string>
     <string name="guest_exit_guest">Remover convidado</string>
-    <string name="guest_exit_guest_dialog_message">Todos os aplicativos e dados nesta sesão serão excluídos.</string>
-    <string name="guest_exit_guest_dialog_remove">Remvoer</string>
+    <string name="guest_exit_guest_dialog_message">Todos os aplicativos e dados nesta sessão serão excluídos.</string>
+    <string name="guest_exit_guest_dialog_remove">Remover</string>
     <string name="guest_exit_guest_dialog_title">Remover convidado?</string>
     <string name="guest_new_guest">Adicionar convidado</string>
     <string name="guest_nickname">Convidado</string>
@@ -790,8 +790,8 @@ Assim que ele tiver resfriado, ele voltará ao normal."</string>
     <string name="input_puk_code">Inserir PUK</string>
     <string name="install_other_apps">Instalar aplicativos desconhecidos</string>
     <string name="installer_cd_button_title">Instale o aplicativo Android File Transfer para Mac</string>
-    <string name="instant_apps">Instant aplicativos</string>
-    <string name="instant_apps_message">Instant aplicativos não exigem instalação.</string>
+    <string name="instant_apps">Aplicativos instantâneos</string>
+    <string name="instant_apps_message">Aplicativos instantâneos não exigem instalação.</string>
     <string name="interruption_level_alarms">Apenas alarmes</string>
     <string name="interruption_level_alarms_twoline">"Apenas
 alarmes"</string>
@@ -914,7 +914,7 @@ Entre em contato com sua operadora para obter outro cartão SIM."</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Desbloqueando cartão SIM…</string>
     <string name="keyguard_torch_cover_text">Para manter a lanterna ligada, segure o botão Liga/Desliga</string>
     <string name="keyguard_unlock">Deslize para cima para desbloquear</string>
-    <string name="kg_enter_confirm_pin_hint">Confirmar o novo codigo PIN</string>
+    <string name="kg_enter_confirm_pin_hint">Confirmar o novo código PIN</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">Você tentou desbloquear o telefone incorretamente %1$d vezes. Depois de mais %2$d tentativas incorretas, o perfil de trabalho será removido, o que apagará todos os dados do perfil.</string>
     <string name="kg_failed_attempts_almost_at_erase_user">Você tentou desbloquear o telefone incorretamente %1$d vezes. Depois de mais %2$d tentativas incorretas, este usuário será removido, o que apagará todos os seus dados.</string>
     <string name="kg_failed_attempts_almost_at_login">"Você desenhou o seu padrão de desbloqueio incorretamente %1$d vezes. Depois de mais %2$d tentativas incorretas, será necessário desbloquear o telefone usando uma conta de e-mail.
@@ -976,7 +976,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="left_keycode">Código do botão esquerdo</string>
     <string name="left_nav_bar_button_type">Tipo de botão esquerdo extra</string>
     <string name="legacy_vpn_name">VPN</string>
-    <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha para bacups completos da tela inicial</string>
+    <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha para backups completos da tela inicial</string>
     <string name="local_backup_password_summary_none">Os backups completos da tela inicial não estão protegidos no momento</string>
     <string name="local_backup_password_title">Senha do backup da tela inicial</string>
     <string name="local_backup_password_toast_confirmation_mismatch">As senhas não correspondem</string>
@@ -1356,7 +1356,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="quick_settings_mute_label">Silencioso</string>
     <string name="quick_settings_nfc_label">NFC</string>
     <string name="quick_settings_nfc_off">O NFC está desativado</string>
-    <string name="quick_settings_nfc_on">O NFC está ativad</string>
+    <string name="quick_settings_nfc_on">O NFC está ativado</string>
     <string name="quick_settings_night_display_label">Luz noturna</string>
     <string name="quick_settings_night_secondary_label_on_at">Ligar às %s</string>
     <string name="quick_settings_night_secondary_label_on_at_sunset">Ligar no pôr do sol</string>
@@ -1394,7 +1394,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="quick_settings_wifi_not_connected">Não conectado</string>
     <string name="quick_settings_wifi_off_label">Wi-Fi desativado</string>
     <string name="quick_settings_wifi_on_label">Wi-Fi ativado</string>
-    <string name="quick_settings_work_mode_label">Modo trabalh</string>
+    <string name="quick_settings_work_mode_label">Modo trabalho</string>
 	<string name="rapid_charge_mode_tip">Carregamento rápido</string>
     <string name="recent_cannot_dock">Não é possível usar a Tela dividida no segundo espaço</string>
     <string name="recent_dock_tip">Toque para selecionar aplicativos</string>
@@ -1403,7 +1403,7 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
     <string name="recent_menu_item_multi_window">Dividir</string>
     <string name="recent_menu_item_unlock">Desbloquear</string>
     <string name="recent_task_app_info_text">Info</string>
-    <string name="recent_task_cleaning">Liberando apps…</string>
+    <string name="recent_task_cleaning">Liberando aplicativos…</string>
     <string name="recent_task_lock_text">Bloquear</string>
     <string name="recent_task_unlock_text">Desbloquear</string>
     <string name="recents_accessibility_split_screen_left">Dividir tela para a esquerda</string>
@@ -1656,7 +1656,7 @@ Deslize para baixo para bloquear"</string>
     <string name="structure_face_unlock_model_other_msg_2d">Reconhecimento 2D</string>
     <string name="structure_face_unlock_model_other_msg_3d">Reconhecimento 3D</string>
     <string name="structure_face_unlock_model_other_suggestion_2d">O reconhecimento facial 2D é menos seguro que um padrão de desbloqueio, PIN ou senha. Quando este recurso está ativado, seu dispositivo pode ser desbloqueado com uma foto sua, assim como pessoas ou objetos que pareçam com você.</string>
-    <string name="structure_face_unlock_model_other_suggestion_3d">O reconhecimento facial 3D é relativamente seguro. É muito imporvável que seu dispositivo possa ser desbloqueado com uma foto com este recurso ativado. Entretanto, ele pode ser desbloqueado por pessoas ou objetos que se pareçam com você.</string>
+    <string name="structure_face_unlock_model_other_suggestion_3d">O reconhecimento facial 3D é relativamente seguro. É muito improvável que seu dispositivo possa ser desbloqueado com uma foto com este recurso ativado. Entretanto, ele pode ser desbloqueado por pessoas ou objetos que se pareçam com você.</string>
     <string name="structure_face_unlock_model_other_title">Reconhecimento facial</string>
     <string name="structure_face_unlock_not_same_person">Você precisa completar todos os passos por conta própria. Não troque de lugar com outra pessoa.</string>
     <string name="structure_face_unlock_really_person">Parece que você substituiu seu rosto por um objeto.</string>
@@ -1686,7 +1686,7 @@ Ele pode esquentar em excesso se você:
     <string name="time_unit_just_now">Agora mesmo</string>
     <string name="title_convert_fbe">Convertendo para criptografia baseada em arquivos</string>
     <string name="title_usb_accessory">Acessório USB</string>
-    <string name="torch_activity_hint">Segure [icon] para ativar a lanterna na Tela de bloqueio</string>
+    <string name="torch_activity_hint">Segure para ativar a lanterna na Tela de bloqueio</string>
     <string name="torch_activity_name">Lanterna</string>
     <string name="torch_closed">Lanterna desligada</string>
     <string name="torch_high_temperature_warning">Seu dispositivo está superaquecido. Não é possível usar a lanterna agora.</string>
@@ -1955,7 +1955,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
 	<string name="battery_low_button_not_open_power_save">Agora não</string>
 	<string name="battery_low_button_open_power_save">Ativar</string>
 	<string name="battery_low_percent_format_save_mode_closed">Menos de %d%% de bateria restantes. Carregue seu dispositivo.</string>
-	<string name="battery_low_percent_format_save_mode_open">Menos %d%% de bateria restantes. Ative a econoimia de bateria para poupar energia.</string>
+	<string name="battery_low_percent_format_save_mode_open">Menos %d%% de bateria restantes. Ative a economia de bateria para poupar energia.</string>
 	<string name="battery_low_title_power_save">Economia de bateria</string>
 	<string name="dnd_notification_warnings_title">O DND está ativado. Ligações e notificações serão silenciadas</string>
 	<string name="face_data_manage_unlock_liftcamera_msg">Depois que a tela ligar, deslize para cima para desbloquear o dispositivo usando os dados faciais.</string>
@@ -2005,8 +2005,8 @@ uma captura de tela contínua"</string>
 	<string name="ime_security_warning_global">Os métodos de entrada podem coletar todo o texto digitado, incluindo dados pessoais, como senha e números de cartão de crédito. Usar %1$s?</string>
 	<string name="ime_security_warning_title_global">Ativando o teclado</string>
 	<string name="accessibility_status_bar_no_slave_wifi">Wi-Fi auxiliar desconectado.</string>
-	<string name="accessibility_status_bar_slave_wifi_four_bars">Wi-Fi auxiliaro com quatro barras.</string>
-	<string name="accessibility_status_bar_slave_wifi_one_bar">Wi-Fi auxiliaro com uma barras.</string>
+	<string name="accessibility_status_bar_slave_wifi_four_bars">Wi-Fi auxiliar com quatro barras.</string>
+	<string name="accessibility_status_bar_slave_wifi_one_bar">Wi-Fi auxiliar com uma barras.</string>
 	<string name="accessibility_status_bar_slave_wifi_three_bars">Wi-Fi auxiliar com três barras.</string>
 	<string name="accessibility_status_bar_slave_wifi_two_bars">Wi-Fi auxiliar com duas barras.</string>
 	<string name="quick_settings_wifi_detail_dual_wifi_accelerated">Aumentando a velocidade</string>
@@ -2019,5 +2019,5 @@ uma captura de tela contínua"</string>
 	<string name="how_to_use_app_quick">Como alternar entre aplicativos</string>
 	<string name="how_to_use_app_quick_hide_line_summary">Deslize para cima a partir da parte inferior da tela e deslize para a esquerda ou direita</string>
 	<string name="how_to_use_app_quick_summary">Deslize para a esquerda ou direita a partir do indicador de tela cheia ou na parte inferior da tela</string>
-	<string name="screenshot_failed_in_landscape_mode">Não é possível fazer captura de tela extendida na orientação de paisagem</string>
+	<string name="screenshot_failed_in_landscape_mode">Não é possível fazer captura de tela estendida na orientação de paisagem</string>
 </resources>
