@@ -1583,7 +1583,7 @@ Quer fechá-la?"</string>
     <string name="wifi_wakeup_onboarding_title">O Wi-Fi será ativado automaticamente</string>
     <string name="wifi_watchdog_network_disabled">Não foi possível se conectar a redes Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" tem uma conexão de baixa qualidade com a Internet."</string>
-    <string name="wireless_display_route_description">Display sem fio</string>
+    <string name="wireless_display_route_description">Tela sem fio</string>
     <string name="work_mode_off_message">Seus aplicativos, notificações, dados e outros recursos do perfil de trabalho serão ativados</string>
     <string name="work_mode_off_title">Ativar o perfil de trabalho?</string>
     <string name="work_mode_turn_on">Ativar</string>

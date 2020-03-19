@@ -462,7 +462,7 @@ Para ver mais informações sobre esses certificados, entre em contato com seu a
     </plurals>
 	<plurals name="lockpassword_password_too_long">
         <item quantity="other">Você pode inserir até %d caracteres</item>
-        <item quantity="one">Você pode inserir até %d caracter</item>
+        <item quantity="one">Você pode inserir até %d caractere</item>
     </plurals>
     <plurals name="lockpassword_password_too_short">
         <item quantity="other">Insira pelo menos %d caracteres</item>

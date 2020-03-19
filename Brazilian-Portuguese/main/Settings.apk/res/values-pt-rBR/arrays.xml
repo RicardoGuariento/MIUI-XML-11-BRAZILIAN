@@ -393,7 +393,7 @@
     <string-array name="check_importance_summary">
         <item>O MIUI vai decidir que notificações aparecerão diretamente</item>
         <item>As notificações aparecerão na Área de notificações</item>
-        <item>As notificações apareceção em uma seção separada</item>
+        <item>As notificações aparecerão em uma seção separada</item>
     </string-array>
     <string-array name="city_name">
         <item>Abidijã</item>
@@ -1133,7 +1133,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     <string-array name="track_frame_time_entries">
         <item>Desativado</item>
         <item>Na tela em barras</item>
-        <item>No adb shell dumpsys gfxinfo</item>
+        <item>Nenhum ADB shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="traffic_balance_entries">
         <item>Desativado</item>
@@ -1303,7 +1303,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
     <string-array name="wifi_p2p_wps_setup">
         <item>Pressione o botão</item>
         <item>PIN do dispositivo pareado</item>
-        <item>PIN deste disposit.</item>
+        <item>PIN deste dispositivo</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>Nenhum</item>

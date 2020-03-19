@@ -1875,8 +1875,8 @@ Qualquer usuário pode atualizar aplicativos para todos os outros usuários."</s
     <string name="wifi_disabled_network_failure">Não foi possível configurar o IP</string>
     <string name="wifi_disabled_password_failure">Problema de autenticação</string>
     <string name="wifi_disabled_wifi_failure">Não foi possível conectar-se ao Wi-Fi</string>
-    <string name="wifi_display_certification">Certificação do Display sem fios</string>
-    <string name="wifi_display_certification_summary">Mostrar opções de certificação de Display sem fios</string>
+    <string name="wifi_display_certification">Certificação da tela sem fios</string>
+    <string name="wifi_display_certification_summary">Mostrar opções de certificação da tela sem fios</string>
     <string name="wifi_fail_to_scan">Não é possível procurar por redes</string>
     <string name="wifi_hand_sel_wapi_cert">Certificado WAPI</string>
     <string name="wifi_is_off">Wi-Fi desativado</string>

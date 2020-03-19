@@ -134,14 +134,14 @@
     <string name="bt_hci_snoop_log">Ativar log de rastreamento Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Capturar todos os pacotes Bluetooth HCI em um arquivo</string>
     <string name="oem_unlock_enable">Desbloqueio de OEM</string>
-    <string name="oem_unlock_enable_summary">Permitir que o bootloader seja desbloqueado</string>
+    <string name="oem_unlock_enable_summary">Permitir que o Bootloader seja desbloqueado</string>
     <string name="confirm_enable_oem_unlock_title">Permitir desbloqueio de OEM?</string>
     <string name="confirm_enable_oem_unlock_text">AVISO: os recursos de proteção do dispositivo não funcionarão neste dispositivo enquanto esta configuração estiver desativada.</string>
     <string name="mock_location_app">Selecionar aplicativo de local fictício</string>
     <string name="mock_location_app_not_set">Nenhum aplicativo de local fictício definido</string>
     <string name="mock_location_app_set">Aplicativo de local fictício: %1$s</string>
     <string name="debug_networking_category">Redes</string>
-    <string name="wifi_display_certification">Certificação de Display sem fio</string>
+    <string name="wifi_display_certification">Certificação da tela sem fio</string>
     <string name="wifi_verbose_logging">Ativar registro extenso de Wi-Fi</string>
     <string name="wifi_aggressive_handover">Mudança agressiva de Wi-Fi para móvel</string>
     <string name="wifi_allow_scan_with_traffic">Sempre permitir verif. de roaming de Wi-Fi</string>
@@ -165,7 +165,7 @@ modo de canal"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Selecionar codec de áudio Bluetooth LDAC:
 qualidade de reprodução"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: %1$s</string>
-    <string name="wifi_display_certification_summary">Mostrar opções de certificação de Display sem fio</string>
+    <string name="wifi_display_certification_summary">Mostrar opções de certificação da tela sem fio</string>
     <string name="wifi_verbose_logging_summary">Aumentar o nível de registro do Wi-Fi; mostrar conforme o RSSI de SSID na Seleção de Wi-Fi</string>
     <string name="wifi_aggressive_handover_summary">Quando ativada, o Wi-Fi será mais agressivo em passar a conexão de dados para móvel, quando o sinal de Wi-Fi estiver fraco</string>
     <string name="wifi_allow_scan_with_traffic_summary">Permitir/proibir verificações de roaming de Wi-Fi com base no volume do tráfego de dados presente na interface</string>
