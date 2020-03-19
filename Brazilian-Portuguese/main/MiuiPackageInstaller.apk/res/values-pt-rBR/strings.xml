@@ -246,7 +246,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="permission_review_warning_title_template_update">%1$s foi atualizado. Permitir que %1$s acesse o seguinte?</string>
   <string name="permission_send_sms_descx">O aplicativo pode enviar SMS e MMS</string>
   <string name="permission_summary_enforced_by_policy">Exigido pela política</string>
-  <string name="permission_title">%1$s ppermissões</string>
+  <string name="permission_title">%1$s permissões</string>
   <string name="permission_warning_template">Permitir &lt;b&gt;%1$s&lt;/b&gt; para %2$s?</string>
   <string name="permlab_togglePermissions">alternar permissões</string>
   <string name="pref_ads">Recomendações</string>
@@ -271,7 +271,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
   <string name="screen_overlay_message">Para alterar essa configuração de permissão, primeiro você precisa desativar a sobreposição de tela em Configurações &gt; Aplicativos</string>
   <string name="screen_overlay_title">Sobreposição de tela detectada</string>
   <string name="security_settings_desc">Permitir que este aplicativo:</string>
-  <string name="settings">Configuraçoes</string>
+  <string name="settings">Configurações</string>
   <string name="settings_warning_dialog_detail">"Você será solicitado nos seguintes casos:
 Quando o aplicativo estiver infectado.
 O pacote de instalação vir de uma fonte desconhecida.</string>
@@ -289,7 +289,7 @@ O pacote de instalação vir de uma fonte desconhecida.</string>
   <string name="uninstall_blocked_device_owner">"Este aplicativo é requerido pelo administrador do dispositivo e não pode ser desinstalado."</string>
   <string name="uninstall_blocked_profile_owner">"Este aplicativo é necessário para o seu perfil e não pode ser desinstalado."</string>
   <string name="uninstall_confirm_question">Desinstalar este aplicativo?</string>
-  <string name="uninstall_done">Deinstalado com sucesso</string>
+  <string name="uninstall_done">Desinstalado com sucesso</string>
   <string name="uninstall_failed">"Não foi possível desinstalar"</string>
   <string name="uninstall_failed_device_policy_manager">"Não é possível desinstalar porque este pacote é um administrador de dispositivo ativo."</string>
   <string name="uninstall_failed_device_policy_manager_of_user">"Não é possível desinstalar porque este pacote é um administrador de dispositivo ativo para o usuário %1$s."</string>
@@ -312,7 +312,7 @@ O pacote de instalação vir de uma fonte desconhecida.</string>
   <string name="user_is_not_allowed_dlg_title">Não permitido</string>
   <string name="virus_scan_caller_unknown">Desconhecido</string>
   <string name="virus_scan_clear">Remover</string>
-  <string name="virus_scan_install">&lt;u&gt;Insyalar mesmo assim&lt;/u&gt;</string>
+  <string name="virus_scan_install">&lt;u&gt;Instalar mesmo assim&lt;/u&gt;</string>
   <string name="virus_scan_is_risk">"Este aplicativo representa um risco para a segurança do seu dispositivo."</string>
   <string name="virus_scan_is_virus">Este aplicativo contém vírus.</string>
   <string name="virus_title_subtext">"Este aplicativo pode conter vírus: "</string>

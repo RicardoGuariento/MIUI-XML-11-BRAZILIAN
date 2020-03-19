@@ -6,7 +6,7 @@
   <string name="auth_fingerprint_content_message">"Não foi possível verificar impressão digital, tente novamente"</string>
   <string name="auth_fingerprint_title">Verifique sua impressão digital</string>
   <string name="autofill_description">"A MIUI pode criptografar e armazenar suas senhas, assim elas serão preenchidas automaticamente onde você quiser. A Xiaomi não poderá ler suas senhas criptografadas."</string>
-  <string name="autofill_hint_email_address">Email</string>
+  <string name="autofill_hint_email_address">E-mail</string>
   <string name="autofill_hint_name">Nome</string>
   <string name="autofill_hint_password">Senha</string>
   <string name="autofill_hint_phone">Número de telefone</string>
