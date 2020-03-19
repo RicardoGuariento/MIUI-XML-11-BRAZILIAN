@@ -25,7 +25,7 @@
     <string name="passport_select_reg_ways_title">Outras formas de login</string>
     <string name="passport_reg_using_phone_number_prompt">Criar conta usando número do telefone</string>
     <string name="passport_reg_using_other_phone_number_prompt">"Criar uma nova conta usando "</string>
-    <string name="passport_reg_success_summary">%1$s foi vinculado à sua conta. Você poderá usaá-lo para fazer login ou redefinir sua senha.</string>
+    <string name="passport_reg_success_summary">%1$s foi vinculado à sua conta. Você poderá usa-lo para fazer login ou redefinir sua senha.</string>
     <string name="passport_re_register">Registrar novamente</string>
     <string name="passport_register">Criar uma conta</string>
     <string name="passport_new_user_register">Criar conta</string>
@@ -388,7 +388,7 @@ Você pode entrar na sua Conta Mi agora usando %s.</string>
     <string name="device_name">Nome do dispositivo</string>
     <string name="multi_user_not_show_sync_activity_title">Não ativar a sincronização com a Mi Cloud</string>
     <string name="multi_user_not_show_sync_activity_message_1">Parece que você está usando sua Conta Mi do primeiro espaço.</string>
-    <string name="multi_user_not_show_sync_activity_message_2">Neste caso, todos os seus dados serão srincronizados em seu segundo espaço. Para evitar isso, não ative a sincronização com a Mi Cloud.</string>
+    <string name="multi_user_not_show_sync_activity_message_2">Neste caso, todos os seus dados serão sincronizados em seu segundo espaço. Para evitar isso, não ative a sincronização com a Mi Cloud.</string>
     <string name="find_device_access_denied">Não é possível obter o status, acesso negado</string>
     <string name="find_device_account_error">Não é possível obter o status devido a um erro na conta</string>
     <string name="find_device_null_credential_error">Não é possível obter informações do dispositivo, entre em contato com o atendimento ao cliente Xiaomi</string>
@@ -433,12 +433,12 @@ Você pode entrar na sua Conta Mi agora usando %s.</string>
     <string name="find_device_activate_account">Ativar conta</string>
     <string name="login_check_find_device">Obtendo informações de segurança do dispositivo…</string>
     <string name="unlock_help_notice">"Ajuda:
-1. Se você esqueceu a sua senha, acesse id.mi.com para redefiní-la.
+1. Se você esqueceu a sua senha, acesse id.mi.com para redefini-la.
 2. Se você não puder redefinir a sua senha ou se alguém bloqueou o seu dispositivo, acesse i.mi.com para desbloqueá-lo.
 3. Seu número de desbloqueio: %s"</string>
     <string name="login_find_device_bind">Este dispositivo está associado à ID de uma Conta Mi existente (%s).</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, número de telefone associado: %s</string>
-    <string name="find_device_locked_account_email" formatted="false">%s, endereço de email associado: %s</string>
+    <string name="find_device_locked_account_email" formatted="false">%s, endereço de e-mail associado: %s</string>
     <string name="oauth_title">Fazer login na Conta Mi</string>
     <string name="oauth_getting_scopes">Verificando a conta…</string>
     <string name="oauth_get_scopes_failed">Não foi possível obter informações da conta</string>
@@ -565,5 +565,4 @@ Envie este código para o supervisor."</string>
 	<string name="password_toggle_content_description">Mostrar senha</string>
 	<string name="character_counter_content_description">Excedeu o limite de %1$d caracteres em %2$d</string>
 	<string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
-	
 </resources>

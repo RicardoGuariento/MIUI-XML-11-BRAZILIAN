@@ -74,7 +74,7 @@
     <string name="data_plan">Plano de dados</string>
     <string name="data_usage_uninstalled_apps">Aplicativos removidos</string>
     <string name="data_usage_uninstalled_apps_users">Aplicativos e usuários removidos</string>
-    <string name="dc_alert_dialog_message">Alguuns aplicativos precisam de uma conexão de dados. Contacte a sua operadora para saber que %s estão disponíveis para ti</string>
+    <string name="dc_alert_dialog_message">Alguns aplicativos precisam de uma conexão de dados. Contacte a sua operadora para saber que %s estão disponíveis para ti</string>
     <string name="dc_alert_dialog_title">Aviso de utilização de dados</string>
     <string name="tether_settings_title_wifi">Ponto de acesso</string>
     <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
@@ -252,7 +252,7 @@ qualidade de reprodução"</string>
     <string name="immediately_destroy_activities_summary">Destruir todas as atividades quando o usuário sair</string>
     <string name="app_process_limit_title">Limite do proc. 2º plano</string>
     <string name="show_all_anrs">Mostrar todos os ANRS</string>
-    <string name="show_all_anrs_summary">Exibir \"App não responde\" para aplicativo em 2º plano</string>
+    <string name="show_all_anrs_summary">Exibir \"Aplicativo não responde\" para aplicativo em 2º plano</string>
     <string name="show_notification_channel_warnings">Mostrar avisos do canal de notif.</string>
     <string name="show_notification_channel_warnings_summary">Exibe aviso na tela quando um aplicativo posta notificação sem canal válido</string>
     <string name="force_allow_on_external">Forçar permissão de aplicativos em armazenamento externo</string>
@@ -263,7 +263,7 @@ qualidade de reprodução"</string>
     <string name="enable_freeform_support_summary">Ativar a compatibilidade com janelas de forma livre experimentais.</string>
     <string name="local_backup_password_title">Senha do backup local</string>
     <string name="local_backup_password_summary_none">Os backups completos do computador não estão protegidos no momento</string>
-    <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha de backups completos do desktop</string>
+    <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha de backups completos do Desktop</string>
     <string name="local_backup_password_toast_success">Nova senha de backup definida</string>
     <string name="local_backup_password_toast_confirmation_mismatch">A nova senha e a confirmação não coincidem.</string>
     <string name="local_backup_password_toast_validation_failure">Falha ao definir a senha de backup</string>
@@ -390,13 +390,13 @@ qualidade de reprodução"</string>
     <string name="handle_restricted">RESTRICTED</string>
     <string name="toast_personal_call_msg">Usando o discador pessoal para fazer a chamada</string>
     <string name="notification_incoming_call">Chamada %1$s de %2$s</string>
-    <string name="notification_incoming_video_call">Vídeochamada %1$s de %2$s</string>
+    <string name="notification_incoming_video_call">Vídeo chamada %1$s de %2$s</string>
     <string name="answering_ends_other_call">Atender vai terminar a sua chamada %1$s</string>
     <string name="answering_ends_other_calls">Atender vai terminar as suas chamadas %1$s</string>
-    <string name="answering_ends_other_video_call">Atender vai terminar a sua vídeochamada %1$s</string>
+    <string name="answering_ends_other_video_call">Atender vai terminar a sua vídeo chamada %1$s</string>
     <string name="answering_ends_other_managed_call">Atender vai terminar a chamada em andamento</string>
     <string name="answering_ends_other_managed_calls">Atender vai terminar as chamadas em andamento</string>
-    <string name="answering_ends_other_managed_video_call">Atender vai terminar a vídeochamada em andamento</string>
+    <string name="answering_ends_other_managed_video_call">Atender vai terminar a vídeo chamada em andamento</string>
     <string name="answer_incoming_call">Atender</string>
     <string name="decline_incoming_call">Rejeitar</string>
     <string name="cant_call_due_to_ongoing_call">Não é possível realizar a chamada. Outra chamada %1$s está em curso.</string>

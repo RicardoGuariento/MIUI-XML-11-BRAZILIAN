@@ -222,7 +222,7 @@ Seleção"</string>
     <string name="callFailed_cdma_call_limit">Existem muitas chamadas ativas. Encerre ou junte as chamadas existentes antes de fazer uma nova.</string>
     <string name="callFailed_imei_not_accepted">Não é possível conectar, insira um cartão SIM válido.</string>
     <string name="callFailed_incoming_cb_enabled">Chamadas recebidas estão sendo bloqueadas.</string>
-    <string name="callFailed_low_battery">Vídeochamada encerrada por bateria fraca.</string>
+    <string name="callFailed_low_battery">Vídeo chamada encerrada por bateria fraca.</string>
     <string name="callFailed_wifi_lost">A conexão Wi-Fi foi perdida. Chamada encerrada.</string>
     <string name="callUnanswered_forwarded">Chamada não atendida e encaminhada</string>
     <string name="call_advanced_setting_title">Configurações avançadas</string>
@@ -480,7 +480,7 @@ Seleção"</string>
     <string name="disable_sim_pin">Desativar PIN do SIM</string>
     <string name="disabled">Desativado</string>
     <string name="disabled_by_admin">Desativado pelo administrador</string>
-    <string name="disabled_by_admin_summary_text">Controlada pelo admin</string>
+    <string name="disabled_by_admin_summary_text">Controlada pelo administrador</string>
     <string name="do_not_show_again">Não mostrar novamente</string>
     <string name="doneButton">Concluído</string>
     <string name="dtmf_tone_entries_long">Longo</string>
@@ -744,7 +744,7 @@ Mudar para o novo provedor?"</string>
     <string name="messageCFNRy">Encaminhar chamadas para</string>
     <string name="messageCFU">Encaminhar chamadas para</string>
     <string name="message_decode_error">Ocorreu um erro durante a decodificação da mensagem.</string>
-    <string name="mhh_disable">Servíços médicos, de saúde e hospitalares desativados</string>
+    <string name="mhh_disable">Serviços médicos, de saúde e hospitalares desativados</string>
     <string name="mhh_enable">Serviços médicos, de saúde e hospitalares ativados</string>
     <string name="mi_sim_settings_summary">Use dados móveis sem um cartão SIM</string>
     <string name="mi_sim_settings_title">Mi SIM</string>
@@ -876,7 +876,7 @@ A rede preferencial será usada."</string>
     <string name="notification_voicemail_title_count">Novo correio de voz (%d)</string>
     <string name="number">Número</string>
     <string name="oem_unlock_enable">Desbloqueio de OEM</string>
-    <string name="oem_unlock_enable_summary">Permitir que o bootloader seja desbloqueado</string>
+    <string name="oem_unlock_enable_summary">Permitir que o Bootloader seja desbloqueado</string>
     <string name="ok">OK</string>
     <string name="okay">Ok</string>
     <string name="oldPin2Label">PIN2 antigo</string>
@@ -895,7 +895,7 @@ A rede preferencial será usada."</string>
     <string name="onscreenMuteText">Mudo</string>
     <string name="onscreenShowDialpadText">Teclado</string>
     <string name="onscreenSwapCallsText">Trocar</string>
-    <string name="onscreenVideoCallText">Vídeochamada</string>
+    <string name="onscreenVideoCallText">Vídeo chamada</string>
     <string name="open_miui">Abrir</string>
     <string name="opened_dual_4g_confirm_prompt">Parece que você tem um cartão SIM apenas de 4G. Dual 4G ativado automaticamente.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">O cartão SIM %1$s só suporta 4G. Para garantir que o seu cartão SIM funciona normalmente, o dual 4G foi ativado.</string>
@@ -1371,7 +1371,7 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="tty_mode_entries_hco">TTY HCO</string>
     <string name="tty_mode_entries_off">TTY desativado</string>
     <string name="tty_mode_entries_vco">TTY VCO</string>
-    <string name="tty_mode_not_allowed_video_call">Alterações no modo TTY não são permitidas durante uma vídeochamada</string>
+    <string name="tty_mode_not_allowed_video_call">Alterações no modo TTY não são permitidas durante uma vídeo chamada</string>
     <string name="tty_mode_option_summary">Definir Modo TTY</string>
     <string name="tty_mode_option_title">Modo TTY</string>
     <string name="turn_off_dual_4g_failed">Não foi possível desativar o Dual 4G.</string>

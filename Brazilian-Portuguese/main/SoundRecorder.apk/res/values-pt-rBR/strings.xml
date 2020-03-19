@@ -57,7 +57,7 @@
     <string name="error_sdcard_access">Não é possível acessar o cartão SD</string>
     <string name="error_sdcard_unmounted">Insira o cartão SD agora</string>
     <string name="export_to_note">Exportar</string>
-    <string name="head_set_tip_dialog_msg">Desconecte seu fone de ouvido para gravar sons com predefinições específicad (ex.: Músicas, Voz).</string>
+    <string name="head_set_tip_dialog_msg">Desconecte seu fone de ouvido para gravar sons com predefinições específicas (ex.: Músicas, Voz).</string>
     <string name="head_set_tip_dialog_ok">OK</string>
     <string name="head_set_tip_dialog_title">Usar microfone interno</string>
     <string name="invalid_argument">Argumento inválido</string>

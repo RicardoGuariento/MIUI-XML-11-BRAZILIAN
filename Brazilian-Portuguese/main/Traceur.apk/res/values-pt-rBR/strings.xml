@@ -6,7 +6,7 @@
   <string name="clear_saved_traces">Limpar rastreamentos salvos</string>
   <string name="clear_saved_traces_question">Limpar rastreamentos salvos?</string>
   <string name="default_categories_restored">Categorias padrão restauradas</string>
-  <string name="record_system_activity">Grave as atividades do sistema para analiá-las depois para melhorar o desempenho</string>
+  <string name="record_system_activity">Grave as atividades do sistema para analisa-las depois para melhorar o desempenho</string>
   <string name="record_trace">Gravar rastreamento</string>
   <string name="restore_default_categories">Restaurar categorias padrão</string>
   <string name="show_quick_settings_tile">Mostrar nas configurações rápidas</string>
