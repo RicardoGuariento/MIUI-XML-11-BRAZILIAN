@@ -270,7 +270,7 @@
     <string name="pref_ai_detect">Detecção IA</string>
     <string name="pref_google_lens">Google lens</string>
     <string name="pref_camera_beauty">Embelezar</string>
-    <string name="pref_camera_beauty_deep">Beautiful Pro</string>
+    <string name="pref_camera_beauty_deep">Embelezamento Pro</string>
     <string name="pref_camera_asd_night_title">Melhorar fotos com baixa luminosidade</string>
     <string name="confirm_recording_fail_title">Não é possível gravar</string>
     <string name="confirm_recording_fail_calling_alert">Não é possível gravar durante uma chamada.</string>
@@ -315,9 +315,9 @@ e destaca quem está à frente."</string>
     <string name="snap_confirmed">Substituir</string>
     <string name="snap_cancel">Cancelar</string>
     <string name="toast_saving">Salvando fotos…</string>
-    <string name="cannot_connect_camera_volte_call">Vídeochamada em andamento, tente novamente mais tarde.</string>
+    <string name="cannot_connect_camera_volte_call">Vídeo chamada em andamento, tente novamente mais tarde.</string>
     <string name="pref_groupshot_with_primitive_title">Salvar também a foto original</string>
-    <string name="hint_groupshot_beauty">Não é possível usar o Beautiful em fotos de grupo</string>
+    <string name="hint_groupshot_beauty">Não é possível usar o Embelezamento em fotos de grupo</string>
     <string name="hint_groupshot">"A câmera tirará várias fotos
 e criará uma única foto onde todos estão no seu melhor."</string>
     <string name="hine_hht">"Em baixa luminosidade, a câmera irá capturar várias fotos
@@ -493,7 +493,7 @@ no Modo Retrato"</string>
     <string name="simple_mode_button_text_panorama">Desligar panorama</string>
     <string name="simple_mode_button_text_color_effect">Desligar filtros</string>
     <string name="simple_mode_button_text_slow_video">Desligar time-lapse</string>
-    <string name="simple_mode_button_text_fast_video">Desligar slow-motion</string>
+    <string name="simple_mode_button_text_fast_video">Desligar câmera lenta</string>
     <string name="pref_camera_face_info_watermark_title">Marcar idade nas fotos</string>
     <string name="face_analyze_info_male">Homem</string>
     <string name="face_analyze_info_female">Mulher</string>
@@ -503,8 +503,8 @@ no Modo Retrato"</string>
     <string name="face_beauty_intelligent_level_3">Alto</string>
     <string name="pref_camera_show_gender_age_title">Idade e gênero</string>
     <string name="pref_camera_show_gender_age_entry_off">Desligado</string>
-    <string name="pref_camera_show_gender_age_entry_on">Mostrar idade e gênero com o Beautiful ligado</string>
-    <string name="pref_camera_show_gender_age_entry_alias">Mostrar idade com o modo Beautiful ligado</string>
+    <string name="pref_camera_show_gender_age_entry_on">Mostrar idade e gênero com o Embelezamento ligado</string>
+    <string name="pref_camera_show_gender_age_entry_alias">Mostrar idade com o modo Embelezamento ligado</string>
     <string name="pref_camera_show_gender_age_label_on">Idade e gênero</string>
     <string name="pref_camera_show_gender_age_label_alias">Idade</string>
     <string name="face_beauty_age_alias_male_0_7">Homem 0-7</string>
@@ -519,7 +519,7 @@ no Modo Retrato"</string>
     <string name="face_beauty_age_alias_female_31_44">Mulher 31-44</string>
     <string name="face_beauty_age_alias_female_45_60">Mulher 45-60</string>
     <string name="face_beauty_age_alias_female_60_m">Mulher 60+</string>
-    <string name="simple_mode_button_text_face_beauty">Desligar Beautiful</string>
+    <string name="simple_mode_button_text_face_beauty">Desligar Embelezamento</string>
     <string name="pref_face_beauty_title">Embelezar</string>
     <string name="pref_camera_manual_mode_title">Manual</string>
     <string name="pref_camera_ubifocus_title">Refocalizar</string>
@@ -536,7 +536,7 @@ no Modo Retrato"</string>
     <string name="pref_audio_focus_entry_front">Frontal</string>
     <string name="pref_audio_focus_entry_rear">Traseira</string>
     <string name="audio_focus_exit_button_text">Desligar Foco por áudio</string>
-    <string name="simple_mode_button_text_delay_capture">Desligar Timer</string>
+    <string name="simple_mode_button_text_delay_capture">Desligar timer</string>
     <string name="pref_camera_delay_capture_entry_audio">Áudio</string>
     <string name="pref_camera_delay_capture_entry_10s">10s de atraso</string>
     <string name="pref_camera_super_resolution_title">Ativar SR</string>
@@ -633,7 +633,7 @@ o fundo das suas fotos"</string>
   <string name="document_blackwhite">Preto e branco</string>
   <string name="hint_subtitle">Dite legendas enquanto grava os vídeos</string>
   <string name="hint_subtitle_prompt">Você pode ditar as legendas agora</string>
-  <string name="id_card_mode_hint_back">Dizitalize a parte de trás da sua ID</string>
+  <string name="id_card_mode_hint_back">Digitalize a parte de trás da sua ID</string>
   <string name="id_card_mode_hint_front">Digitalize a parte da frente da sua ID</string>
   <string name="id_card_mode_use_hint_text_body">"Combine ambos os lados da sua ID em uma imagem.
 Imprima uma cópia em papel A4 através do Wi-Fi."</string>
@@ -742,7 +742,7 @@ fiquem maiores nas fotos"</string>
   <string name="recommend_macro_mode">Experimente o modo Macro</string>
   <string name="watermark_tab_city">Cidade</string>
   <string name="watermark_tab_festival">Feriado</string>
-  <string name="watermark_tab_general">Geralal</string>
+  <string name="watermark_tab_general">Geral</string>
   <string name="watermark_tab_scene">Cena</string>
   <string name="watermark_tab_spots">Lugar</string>
   <string name="accessibility_mimovie_off">Enquadramento de filme não está em uso</string>
