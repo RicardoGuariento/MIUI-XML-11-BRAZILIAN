@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="backup_items_app_tailer">
-        <item quantity="other">%d arquivos de dados do app</item>
-        <item quantity="one">%d arquivo de dados do app</item>
+        <item quantity="other">%d arquivos de dados do aplicativo</item>
+        <item quantity="one">%d arquivo de dados do aplicativo</item>
     </plurals>
     <plurals name="backup_items_sysdata_tailer">
         <item quantity="other">%d arquivos de dados do sistema</item>
@@ -18,7 +18,7 @@
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"%d itens importados. "</item>
-        <item quantity="one">"%d item imoportado. "</item>
+        <item quantity="one">"%d item importado. "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
         <item quantity="other">Importe %d itens novamente.</item>

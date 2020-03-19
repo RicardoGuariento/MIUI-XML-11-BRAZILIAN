@@ -159,8 +159,8 @@
 	<string name="my_favorite_channels">Meus canais</string>
 	<string name="ovp_navigation_subscribe">Cadastrar</string>
     <string name="ovp_player_plugin_dlg_neg_btn">Fechar</string>
-    <string name="ovp_player_plugin_dlg_no_content">Nenhum plugin de vídeo instalado.</string>
-    <string name="ovp_player_plugin_dlg_title">Plugins de vídeo</string>
+    <string name="ovp_player_plugin_dlg_no_content">Nenhum plug-in de vídeo instalado.</string>
+    <string name="ovp_player_plugin_dlg_title">Plug-ins de vídeo</string>
 	<string name="permission_phone">Telefone</string>
     <string name="permission_phone_desc">Para acessar o status do dispositivo e pausar reprodução durante ligações</string>
     <string name="permission_storage">Armazenamento</string>

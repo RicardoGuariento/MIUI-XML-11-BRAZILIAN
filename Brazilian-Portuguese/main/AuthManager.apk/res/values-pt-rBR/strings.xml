@@ -59,15 +59,15 @@
   <string name="HIPS_Perm_deamon_notification_Desc">Mostrar notificações permanentes</string>
   <string name="HIPS_Perm_get_accounts">Acessar contas no dispositivo</string>
   <string name="HIPS_Perm_get_accounts_Desc">Acessar todas as contas armazenadas no dispositivo</string>
-  <string name="HIPS_Perm_get_installed_apps">Obter informações sobre apps instalados</string>
-  <string name="HIPS_Perm_get_installed_apps_Desc">Obter informações sobre apps instalados neste dispositivo</string>
+  <string name="HIPS_Perm_get_installed_apps">Obter informações sobre aplicativos instalados</string>
+  <string name="HIPS_Perm_get_installed_apps_Desc">Obter informações sobre aplicativos instalados neste dispositivo</string>
   <string name="HIPS_Perm_get_tasks">Obter tarefas</string>
   <string name="HIPS_Perm_get_tasks_Desc">Obter tarefas</string>
   <string name="HIPS_Perm_install_shortcut">Atalhos na tela inicial</string>
   <string name="HIPS_Perm_install_shortcut_Desc">Adicionar atalhos na tela inicial</string>
   <string name="HIPS_Perm_process_nfc">NFC</string>
   <string name="HIPS_Perm_process_nfc_Desc">Acessar hardware de NFC</string>
-  <string name="HIPS_Perm_process_outgoing_calls">Acessar app Telefone</string>
+  <string name="HIPS_Perm_process_outgoing_calls">Acessar aplicativo Telefone</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Atender, monitorar e encerrar chamadas</string>
   <string name="HIPS_Perm_read_notification_sms">SMS de serviço</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">Ler SMS de serviço</string>
@@ -131,7 +131,7 @@
   <string name="permission_warning_template_ask">Permitir ao aplicativo %1$s as seguintes permissões?</string>
   <string name="permisson_reject_notice_toast_text2">não tem permissão para %1$s.</string>
   <string name="screen_overlay_button">Abrir configurações</string>
-  <string name="screen_overlay_message">Para alterar esta permissão, você precisa desativar a sobreposição de tela em Configurações > Apps instalados.</string>
+  <string name="screen_overlay_message">Para alterar esta permissão, você precisa desativar a sobreposição de tela em Configurações > aplicativos instalados.</string>
   <string name="screen_overlay_title">Sobreposição de tela detectada</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="HIPS_Perm_clipboard">Área de transferência</string>

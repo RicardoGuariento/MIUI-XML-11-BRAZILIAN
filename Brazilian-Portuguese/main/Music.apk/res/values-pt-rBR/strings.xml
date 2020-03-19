@@ -452,7 +452,7 @@
     <string name="online_apk_download_error_no_enough_space">Não foi possível fazer o download devido ao espaço de armazenamento ser insuficiente.</string>
     <string name="online_apk_downloading">Fazendo o download… %d%%</string>
     <string name="online_apk_install_alert_confirm">Download</string>
-    <string name="online_apk_install_alert_message">Você precisa fazer o download do plugin Yandex.Music. Fazer o download agora?</string>
+    <string name="online_apk_install_alert_message">Você precisa fazer o download do plug-in Yandex.Music. Fazer o download agora?</string>
     <string name="online_apk_install_alert_note">Este serviço é fornecido pelo Yandex.Music</string>
     <string name="online_apk_install_error_no_enough_space">Não foi possível instalar devido ao espaço de armazenamento ser insuficiente.</string>
     <string name="online_apk_install_error_with_reason">Não foi possível instalar (Erro %d)</string>
