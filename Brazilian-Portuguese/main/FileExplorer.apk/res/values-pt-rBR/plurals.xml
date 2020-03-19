@@ -169,8 +169,8 @@
     <item quantity="one">%1$s comentário</item>
   </plurals>
   <plurals name="user_sign_limt">
-    <item quantity="other">Pode introduzir %d caracteres</item>
-    <item quantity="one">Pode introduzir %d caracter</item>
+    <item quantity="other">Pode inserir %d caracteres</item>
+    <item quantity="one">Pode inserir %d caractere</item>
   </plurals>
   <plurals name="video_items">
     <item quantity="other"> %1$d itens</item>

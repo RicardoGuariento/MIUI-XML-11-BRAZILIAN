@@ -112,7 +112,7 @@
   <string name="decompress_confirm">Extrair</string>
   <string name="decompress_corrupt">Não foi possível descompactar os arquivos. O pacote está corrompido</string>
   <string name="decompress_destination_error">Não é possível extrair arquivos para este caminho</string>
-  <string name="decompress_encrypted_rar_not_supported">Arquivos rar encriptados não são suportados</string>
+  <string name="decompress_encrypted_rar_not_supported">Arquivos .rar encriptados não são suportados</string>
   <string name="decompress_fail">Não foi possível extrair</string>
   <string name="decompress_input_password">Introduzir palavra-chave…</string>
   <string name="decompress_password_error">A palavra-chave que introduziu está incorreta</string>
@@ -121,13 +121,13 @@
   <string name="decompress_to">Extrair arquivos para…</string>
   <string name="decompress_to_here">Extrair aqui</string>
   <string name="decrypt">Mostrar</string>
-  <string name="decrypt_error">Não foi possível desencriptar</string>
-  <string name="decrypt_to">Desencriptar e guardar para…</string>
-  <string name="decrypting">A desencriptar…</string>
+  <string name="decrypt_error">Não foi possível descriptografar</string>
+  <string name="decrypt_to">Descriptografar e salvar em…</string>
+  <string name="decrypting">Descriptografando…</string>
   <string name="delete_dialog_button">Excluir</string>
   <string name="delete_error">Não foi possível excluir arquivos. Tente novamente</string>
   <string name="delete_file">Excluir este arquivo?</string>
-  <string name="delete_file_error">"Não foi possível excluir o arquivor"</string>
+  <string name="delete_file_error">"Não foi possível excluir o arquivo"</string>
   <string name="delete_files">Excluir %1$d arquivos?</string>
   <string name="delete_folder">Excluir esta pasta?</string>
   <string name="delete_folders">Excluir %1$d pastas?</string>
@@ -218,8 +218,8 @@
   <string name="gbk_summary">Codificação predefinida do Chinês simplificado do Windows</string>
   <string name="gbk_title">GBK</string>
   <string name="gender_choose_sub_tile">Obter conteúdo personalizado​</string>
-  <string name="gender_choose_sub_title">Receber recomendações utéis</string>
-  <string name="gender_choose_tip">Escolher o seu genêro</string>
+  <string name="gender_choose_sub_title">Receber recomendações úteis</string>
+  <string name="gender_choose_tip">Escolher o seu gênero</string>
   <string name="get_user_info_err">Não foi possível obter a informação deste usuário</string>
   <string name="get_verification_code_fail">Não foi possível obter código de verificação</string>
   <string name="gigabyteShort">GB</string>
@@ -513,7 +513,7 @@
   <string name="shared_sticker_use_tip">"Pode enviar os stickers que gravou nos diálogos das conversas da mesma forma que envia imagens.
 (GIFs podem ser adicionados e personalizados nos Stickers WeChat)"</string>
   <string name="shared_sticker_use_tip_title">Como utilizar stickers</string>
-  <string name="shared_str">Comartilhado por %s</string>
+  <string name="shared_str">Compartilhado por %s</string>
   <string name="shortcut_exists">O atalho já existe</string>
   <string name="skip_file">Ignorar</string>
   <string name="smb_loading">Aguarde…</string>
@@ -579,7 +579,7 @@
   <string name="upload_external_notification_title">A publicar</string>
   <string name="upload_failed">Não foi possível enviar</string>
   <string name="upload_file_toolarge_message">%1$d é muito grande. Não é possível enviar arquivos maiores que 300MB</string>
-  <string name="upload_local_video">comartilhar vídeo</string>
+  <string name="upload_local_video">Compartilhar vídeo</string>
   <string name="upload_notification_compress_progress">Compactando %1$s%%</string>
   <string name="upload_notification_compress_title">Compactando vídeo</string>
   <string name="upload_notification_failed">Não foi possível enviar</string>
@@ -604,7 +604,7 @@
   <string name="user_icon">Foto de perfil</string>
   <string name="user_info_setting">Editar informação</string>
   <string name="user_login_dialog_cancle">Cancelar</string>
-  <string name="user_login_dialog_tip">Iniciar sessão para enviar vídeos e ganhar prémios</string>
+  <string name="user_login_dialog_tip">Iniciar sessão para enviar vídeos e ganhar prêmios</string>
   <string name="user_login_dialog_title">Iniciar sessão</string>
   <string name="user_nickname">Apelido</string>
   <string name="user_nickname_limit">O apelido deve ter 4 a 20 caracteres</string>
