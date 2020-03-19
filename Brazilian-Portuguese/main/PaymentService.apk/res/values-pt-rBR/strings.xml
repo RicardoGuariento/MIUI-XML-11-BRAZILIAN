@@ -54,7 +54,7 @@ Para ativar sua conta, siga o
     <string name="passport_downlink_reg">Criar conta usando número do telefone</string>
     <string name="passport_email">Endereço de e-mail</string>
     <string name="passport_email_or_id_hint_text">E-mail ou ID da Conta Mi</string>
-    <string name="passport_email_reg_success_summary">%1$s foi vinculado à sua conta. Você poderá usaá-lo para fazer login ou redefinir sua senha.</string>
+    <string name="passport_email_reg_success_summary">%1$s foi vinculado à sua conta. Você poderá usa-lo para fazer login ou redefinir sua senha.</string>
     <string name="passport_error_dup_email">O e-mail inserido já está associado com outra conta.</string>
     <string name="passport_error_email">O endereço de e-mail inserido é inválido</string>
     <string name="passport_error_empty_captcha_code">Inserir captcha</string>
@@ -129,7 +129,7 @@ Para ativar sua conta, siga o
     <string name="passport_reg_recycle_account_no">Não</string>
     <string name="passport_reg_recycle_account_yes">Sim</string>
     <string name="passport_reg_success">Conta criada</string>
-    <string name="passport_reg_success_summary">%1$s foi vinculado à sua conta. Você poderá usaá-lo para fazer login ou redefinir sua senha.</string>
+    <string name="passport_reg_success_summary">%1$s foi vinculado à sua conta. Você poderá usa-lo para fazer login ou redefinir sua senha.</string>
     <string name="passport_reg_type_email">Usar endereço de e-mail</string>
     <string name="passport_reg_using_other_phone"><u>Usar outro número de telefone</u></string>
     <string name="passport_reg_using_other_phone_number_prompt">"Criar uma nova conta usando "</string>
@@ -290,7 +290,7 @@ Envie esse código ao supervisor."</string>
 	<string name="sign_in">Entrando</string>
 	<string name="sign_in_progress">Entrando…</string>
 	<string name="sign_in_title">Entre com sua Conta Mi</string>
-	<string name="sms_send_success">Sent successfully</string>
+	<string name="sms_send_success">Enviado com sucesso</string>
 	<string name="sns_access_token_expired_warning">Sessão expirada. Faça login novamente para reconectar esta conta.</string>
 	<string name="sns_bind_limit">Muitas tentativas. Tente outras maneiras de fazer login.</string>
 	<string name="sns_sign_in">Outras maneiras de entrar</string>

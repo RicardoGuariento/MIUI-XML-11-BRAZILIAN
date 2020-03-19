@@ -40,7 +40,7 @@
   <string name="alipay_cancel_sel">Cancelar</string>
   <string name="alipay_confirm_cancel">Cancelar</string>
   <string name="alipay_init">Iniciando o Alipay…</string>
-  <string name="alipay_init_success">Alipay inicializado com successo​</string>
+  <string name="alipay_init_success">Alipay inicializado com sucesso​</string>
   <string name="alipay_pre_router_cancel">Cancelar</string>
   <string name="alipay_risk_process_cancel">Cancelar</string>
   <string name="alipay_scan">Scanner</string>
@@ -131,7 +131,7 @@
   <string name="card_bookall_train_started">Deixar estação</string>
   <string name="card_detail">Guia</string>
   <string name="card_example">Cartão</string>
-  <string name="card_expand_note_add_checkbox">Adiconar caixa de seleção</string>
+  <string name="card_expand_note_add_checkbox">Adicionar caixa de seleção</string>
   <string name="card_expand_note_clear">Limpar</string>
   <string name="card_expand_note_clear_all">Limpar</string>
   <string name="card_expand_note_dialog_button">Entendido</string>

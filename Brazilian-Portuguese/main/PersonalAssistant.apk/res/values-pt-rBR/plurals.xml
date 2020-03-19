@@ -38,8 +38,8 @@
         <item quantity="other">%1$dmin atrás</item>
     </plurals>
     <plurals name="miot_device_camera_size">
-        <item quantity="other">%d cameras inteligentes</item>
-        <item quantity="one">%d camera inteligente</item>
+        <item quantity="other">%d câmera inteligentes</item>
+        <item quantity="one">%d câmera inteligente</item>
     </plurals>
     <plurals name="payment_record_dialog_Excluir_message">
         <item quantity="other">Excluir %s itens do pagamento?</item>
