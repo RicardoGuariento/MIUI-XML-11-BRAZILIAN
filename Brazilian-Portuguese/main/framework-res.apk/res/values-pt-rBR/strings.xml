@@ -42,7 +42,7 @@
     <string name="ColrMmi">Restrição de ID de linha conectada</string>
     <string name="CwMmi">Chamada em espera</string>
     <string name="DndMmi">Não perturbe</string>
-    <string name="EmergencyCallWarningSummary">Não é possível fazer chamadas de emergência por Wi‑Fi</string>
+    <string name="EmergencyCallWarningSummary">Não é possível fazer chamadas de emergência por Wi-Fi</string>
     <string name="EmergencyCallWarningTitle">Chamadas de emergência indisponíveis</string>
     <string name="Midnight">Meia-noite</string>
     <string name="NetworkPreferenceSwitchSummary">Tente alterar a rede preferencial. Toque para alterar.</string>
@@ -174,7 +174,7 @@
     <string name="autofill_save_type_username">nome de usuário</string>
     <string name="autofill_save_yes">Salvar</string>
     <string name="autofill_state">Estado</string>
-    <string name="autofill_this_form">Preench. aut.</string>
+    <string name="autofill_this_form">Preenchimento. automático.</string>
     <string name="autofill_window_title">Preenchimento automático do %1$s</string>
     <string name="autofill_zip_code">CEP</string>
     <string name="back_button_label">Voltar</string>
@@ -268,7 +268,7 @@ usando %s"</string>
     <string name="decline_remote_bugreport_action">RECUSAR</string>
     <string name="default_audio_route_category_name">Sistema</string>
     <string name="default_audio_route_name">Telefone</string>
-    <string name="default_audio_route_name_dock_speakers">Alto-falantes da dock</string>
+    <string name="default_audio_route_name_dock_speakers">Alto-falantes da Dock</string>
     <string name="default_audio_route_name_hdmi">HDMI</string>
     <string name="default_audio_route_name_headphones">Fones de ouvido</string>
     <string name="default_audio_route_name_usb">USB</string>
@@ -493,7 +493,7 @@ Em caso de dúvidas, entre em contato com o administrador da sua organização."
     <string name="ime_action_done">Concluído</string>
     <string name="ime_action_go">Ir</string>
     <string name="ime_action_next">Avançar</string>
-    <string name="ime_action_previous">Anter.</string>
+    <string name="ime_action_previous">Anterior</string>
     <string name="ime_action_search">Pesquisar</string>
     <string name="ime_action_send">Enviar</string>
     <string name="imei">IMEI</string>
@@ -661,7 +661,7 @@ Acesse "<b>google.com.br/accounts/recovery</b>.</string>
     <string name="lockscreen_pattern_wrong">Tente novamente</string>
     <string name="lockscreen_permanent_disabled_sim_instructions">"Seu cartão SIM foi permanentemente desativado.
 Entre em cotnato com sua operadora para obter outro cartão SIM."</string>
-    <string name="lockscreen_permanent_disabled_sim_message_short">Cartão SIM inusaável.</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">Cartão SIM desativado.</string>
     <string name="lockscreen_return_to_call">Retornar à chamada</string>
     <string name="lockscreen_screen_locked">Tela bloqueada.</string>
     <string name="lockscreen_sim_locked_message">O cartão SIM está bloqueado.</string>
@@ -1524,7 +1524,7 @@ Quer fechá-la?"</string>
     <string name="websearch">Pesquisa Google na Web</string>
     <string name="week">semana</string>
     <string name="weeks">semanas</string>
-    <string name="wfcRegErrorTitle">Não foi possível configurar a chamada no Wi‑Fi</string>
+    <string name="wfcRegErrorTitle">Não foi possível configurar a chamada no Wi-Fi</string>
     <string name="wfc_mode_cellular_preferred_summary">Preferência pela rede móvel</string>
     <string name="wfc_mode_wifi_only_summary">Somente Wi-Fi</string>
     <string name="wfc_mode_wifi_preferred_summary">Wi-Fi preferido</string>
@@ -1551,18 +1551,18 @@ Quer fechá-la?"</string>
     <string name="whichViewApplicationNamed">Abrir com %1$s</string>
     <string name="wifi_available_action_all_networks">Todas as redes</string>
     <string name="wifi_available_action_connect">Conectar</string>
-    <string name="wifi_available_carrier_network_title">Conectar à rede Wi‑Fi da operadora</string>
+    <string name="wifi_available_carrier_network_title">Conectar à rede Wi-Fi da operadora</string>
     <string name="wifi_available_content_failed_to_connect">Toque para ver todas as redes</string>
     <string name="wifi_available_sign_in">Fazer login na rede Wi-Fi</string>
-    <string name="wifi_available_title">Conectar-se a uma rede Wi‑Fi aberta</string>
-    <string name="wifi_available_title_connected">Conectado a uma rede Wi‑Fi</string>
+    <string name="wifi_available_title">Conectar-se a uma rede Wi-Fi aberta</string>
+    <string name="wifi_available_title_connected">Conectado a uma rede Wi-Fi</string>
     <string name="wifi_available_title_connecting">Conectando-se à rede Wi-Fi</string>
-    <string name="wifi_available_title_failed_to_connect">Não foi possível conectar-se à rede Wi‑Fi</string>
+    <string name="wifi_available_title_failed_to_connect">Não foi possível conectar-se à rede Wi-Fi</string>
     <string name="wifi_calling_off_summary">Desativado</string>
     <string name="wifi_connect_alert_message">O aplicativo %1$s deseja se conectar à rede Wi-Fi %2$s</string>
     <string name="wifi_connect_alert_title">Permitir conexão?</string>
     <string name="wifi_connect_default_application">Um aplicativo</string>
-    <string name="wifi_no_internet">O Wi‑Fi não tem acesso à Internet</string>
+    <string name="wifi_no_internet">O Wi-Fi não tem acesso à Internet</string>
     <string name="wifi_no_internet_detailed">Toque para ver opções</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_enabled_notification_message">Toque para ver as configurações</string>
@@ -1577,10 +1577,10 @@ Quer fechá-la?"</string>
     <string name="wifi_p2p_to_message">Para:</string>
     <string name="wifi_p2p_turnon_message">Iniciar o Wi-Fi Direct. Isso desativará o ponto de acesso/cliente Wi-Fi.</string>
     <string name="wifi_wakeup_enabled_content">Você está perto de uma rede salva: %1$s</string>
-    <string name="wifi_wakeup_enabled_title">Wi‑Fi ativado automaticamente</string>
+    <string name="wifi_wakeup_enabled_title">Wi-Fi ativado automaticamente</string>
     <string name="wifi_wakeup_onboarding_action_disable">Não ativar novamente</string>
     <string name="wifi_wakeup_onboarding_subtext">Quando você estiver perto de uma rede salva de alta qualidade</string>
-    <string name="wifi_wakeup_onboarding_title">O Wi‑Fi será ativado automaticamente</string>
+    <string name="wifi_wakeup_onboarding_title">O Wi-Fi será ativado automaticamente</string>
     <string name="wifi_watchdog_network_disabled">Não foi possível se conectar a redes Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" tem uma conexão de baixa qualidade com a Internet."</string>
     <string name="wireless_display_route_description">Display sem fio</string>

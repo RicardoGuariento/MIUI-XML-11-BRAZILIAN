@@ -169,7 +169,7 @@
     <string name="miui_screen_ratio_hint_go_to_settings">Ir às Configurações</string>
     <string name="switching_tv">Alternando…</string>
     <string name="switch_desc_tv">Dois espaços. Um dispositivo.</string>
-    <string name="switch_brand_desc_tv">Serviços de segurança fornecidos pos Spaces Mobile</string>
+    <string name="switch_brand_desc_tv">Serviços de segurança fornecidos por Spaces Mobile</string>
     <string name="miui_forbid_poweroff_when_device_locked">Não é possível desligar, o dispositivo está bloqueado.</string>
     <string name="super_resolution_maintain_tips">A super resolução ainda não está disponível.</string>
     <string name="wifi_assistant_wifi_no_internet">Esta rede Wi-Fi não tem acesso à Internet</string>
@@ -200,7 +200,7 @@
     <string name="popup_camera_using_camera_background">%s está usando a câmera frontal</string>
 	<string name="stop_operate_camera_frequently">"Você está abrindo a câmera frontal com muita frequência."</string>
 	<string name="takeback_camera_front_failed">"Não foi possível fechar a câmera frontal. Tente novamente."</string>
-	<string name="sim_lock_non_ais_msg">"Seu cartão SIM não está totoalmente operacional com esse telefone porque ele não se enquadra nos termos e condições de seu cadastro. Se você tiver qualquer dúvida ou precisar de mais informações sobre isso, entre em contato com os centros de serviços Xiaomi ou com a loja que lhe vendeu o produto."</string>
+	<string name="sim_lock_non_ais_msg">"Seu cartão SIM não está totalmente operacional com esse telefone porque ele não se enquadra nos termos e condições de seu cadastro. Se você tiver qualquer dúvida ou precisar de mais informações sobre isso, entre em contato com os centros de serviços Xiaomi ou com a loja que lhe vendeu o produto."</string>
     <string name="sim_lock_now_ais_title">SIM%1$d</string>
 	<string name="autofill_save_message">Permitir que a MIUI salve suas contas e senhas?</string>
     <string name="autofill_save_ok">Permitir</string>
