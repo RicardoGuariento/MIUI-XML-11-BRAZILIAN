@@ -37,7 +37,7 @@
   <string name="app_not_found_dlg_title">Aplicativo não encontrado</string>
   <string name="app_permission_button_allow">Permitir</string>
   <string name="app_permission_button_allow_always">Permitir o tempo todo</string>
-  <string name="app_permission_button_allow_foreground">Permitir apenas enquanto estiver usando o aplicativo</string>
+  <string name="app_permission_button_allow_foreground">Permitir apenas durante o uso</string>
   <string name="app_permission_button_deny">Negar</string>
   <string name="app_permission_footer_app_permissions_link">Ver todas as %1$s permissões</string>
   <string name="app_permission_footer_no_usages_activity_recognition">%1$s não acessou sua atividade física</string>
@@ -120,7 +120,7 @@
   <string name="grant_dialog_button_allow">Permitir</string>
   <string name="grant_dialog_button_allow_always">Permitir o tempo todo</string>
   <string name="grant_dialog_button_allow_background">Permitir o tempo todo</string>
-  <string name="grant_dialog_button_allow_foreground">Permitir apenas enquanto estiver usando o aplicativo</string>
+  <string name="grant_dialog_button_allow_foreground">Permitir apenas durante o uso</string>
   <string name="grant_dialog_button_deny">Negar</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Negar e não perguntar novamente</string>
   <string name="grant_dialog_button_deny_anyway">Negar mesmo assim</string>
@@ -212,7 +212,7 @@ Permitir que %4$s envie um relatório de erro?"</string>
   <string name="permgrouprequest_storage_isolated">Permitir que &lt;b&gt;%1$s&lt;/b&gt; acesse fotos e mídia no seu dispositivo?</string>
   <string name="permission_access_always">Permitir o tempo todo</string>
   <string name="permission_access_never">Negar</string>
-  <string name="permission_access_only_foreground">Permitir apenas enquanto estiver usando o aplicativo</string>
+  <string name="permission_access_only_foreground">Permitir apenas durante o uso</string>
   <string name="permission_add_background_warning_template">Sempre permitir &lt;b&gt;%1$s&lt;/b&gt; para %2$s?</string>
   <string name="permission_description_summary_activity_recognition">Aplicativos com essa permissão podem acessar sua atividade física, como caminhar, andar de bicicleta, dirigir, contar passos e muito mais</string>
   <string name="permission_description_summary_calendar">Aplicativos com esta permissão podem acessar sua agenda</string>

@@ -90,11 +90,11 @@
   <string name="grant_dialog_button_allow">Permitir</string>
   <string name="grant_dialog_button_allow_always">Permitir sempre</string>
   <string name="grant_dialog_button_allow_background">Permitir sempre</string>
-  <string name="grant_dialog_button_allow_foreground">Permitir apenas quando estiver utilizando o aplicativo</string>
+  <string name="grant_dialog_button_allow_foreground">Permitir apenas durante o uso</string>
   <string name="grant_dialog_button_deny">Negar</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Negar e não perguntar novamente</string>
   <string name="grant_dialog_button_deny_background">Somente enquanto estiver usando o aplicativo</string>
-  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Permitir apenas durante o uso do aplicativo e não perguntar novamente</string>
+  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Permitir apenas durante o uso e não perguntar novamente</string>
   <string name="location_settings">Configurações de localização</string>
   <string name="location_warning">%1$s é um fornecedor de serviços de localização para este dispositivo. O acesso à localização pode ser modificado através das configurações de localização.</string>
   <string name="never_ask_again">Não perguntar novamente depois de restringir</string>
