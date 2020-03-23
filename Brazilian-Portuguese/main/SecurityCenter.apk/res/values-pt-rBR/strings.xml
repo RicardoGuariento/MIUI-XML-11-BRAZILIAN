@@ -2899,7 +2899,7 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
 	<string name="st_hint_operatelist">Parece que essa regra já existe</string>
 	<string name="gb_add_game_loading_tips">Só um momento…</string><string name="antivirus_monitored_app_empty">Não foi possível encontrar aplicativos de pagamento compatíveis</string>
 	<string name="app_behavior_about_content_no_link">A MIUI pode ser exibida quando os aplicativos iniciam outros aplicativos, iniciam automaticamente, usam permissões e executam ações confidenciais. Devido a problemas de compatibilidade de versão do Android, alguns desses registros podem não ser precisos. Se você encontrar um registro de comportamento do aplicativo que não seja preciso, relate-o usando o aplicativo \"Serviços e feedback\"</string>
-	<string name="app_behavior_about_negative">Feedback</string>
+	<string name="app_behavior_about_negative">Relatar imprecisões</string>
 	<string name="app_behavior_about_positive">Entendido</string>
 	<string name="app_behavior_allowed">Permitir</string>
 	<string name="app_behavior_denied">Restrito</string>
@@ -2988,9 +2988,9 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
 	<string name="app_behavior_storage_single">Este aplicativo acessou ou salvou arquivos</string>
 	<string name="app_behavior_wakepath" formatted="false">%1s iniciou %2s</string>
 	<string name="app_behavior_wakepath_single">Este aplicativo iniciou %2s</string>
-	<string name="app_statusbar_audio_now">Gravando</string>
-	<string name="app_statusbar_camera_now">Filmando</string>
-	<string name="app_statusbar_location_now">Posicionando</string>
+	<string name="app_statusbar_audio_now">Gravando áudio</string>
+	<string name="app_statusbar_camera_now">Tirando fotos</string>
+	<string name="app_statusbar_location_now">Localização</string>
 	<string name="button_text_trust">Confiar nesta rede</string>
 	<string name="sp_background_risk_dialog_summary_new">O ambiente de pagamento atual pode representar riscos à segurança. Reserve um momento para resolver os problemas existentes.</string>
 	<string name="sp_settings_info_input_method">Teste teclados para problemas de segurança ao fazer pagamentos</string>
@@ -2999,20 +2999,59 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
 	<string name="wifi_danger_dialog_tips">Você pode gerenciar a segurança do Wi-Fi em Segurança > Verificação de segurança > Configurações > Wi-Fi.</string>
 	<string name="wifi_danger_dialog_title">Esta rede Wi-Fi não é segura</string>
 	<string name="wifi_item_title_encryption">Esta rede Wi-Fi não está criptografada</string>
-	<string name="app_behavior_key_audio">Gravar áudio</string>
-	<string name="app_behavior_key_camera">Câmera</string>
+	<string name="app_behavior_key_audio">Gravando áudio</string>
+	<string name="app_behavior_key_camera">Tirando fotos</string>
 	<string name="app_behavior_key_location">Localização</string>
-	<string name="app_behavior_key_protect">Proteger informações privadas</string>
+	<string name="app_behavior_key_protect">Proteger informações pessoais</string>
 	<string name="app_behavior_notification_audio_now_one">%1s está gravando áudio</string>
-	<string name="app_behavior_notification_audio_now_two">%1s e mais 1 aplicativo estão gravando áudio</string>
-	<string name="app_behavior_notification_camera_one">%1s está usando a câmera</string>
-	<string name="app_behavior_notification_camera_two">%1s e mais 1 aplicativo estão usando a câmera</string>
+	<string name="app_behavior_notification_audio_now_two" formatted="false">%1s e %2s estão gravando áudio</string>
+	<string name="app_behavior_notification_camera_one">%1s está tirando fotos</string>
+	<string name="app_behavior_notification_camera_two" formatted="false">%1s e %2s estão tirando fotos</string>
 	<string name="app_behavior_notification_location_one">%1s está acessando sua localização</string>
-	<string name="app_behavior_notification_location_two">%1s e mais 1 aplicativo estão acessando sua localização</string>
-	<string name="app_behavior_settings_category_perm">Lembrete de uso de permissão</string>
-	<string name="app_behavior_settings_category_privacy">Proteção de informações privadas</string>
-	<string name="app_behavior_settings_perm_tips">Exibir uma notificação na barra de status sempre que o aplicativo usar qualquer uma dessas permissões:</string>
-	<string name="app_behavior_settings_privacy_tips">Exibir uma notificação sempre que o aplicativo ler/gravar informações confidenciais em segundo plano (contatos, histórico de chamadas etc.)</string>
-	<string name="notify_channel_name_behavior">Comportamento do aplicativo</string>
+	<string name="app_behavior_notification_location_two" formatted="false">%1s e %2s estão acessando sua localização</string>
+	<string name="app_behavior_settings_category_perm">Notificar sobre ações sensíveis</string>
+	<string name="app_behavior_settings_category_privacy">Proteger informações pessoais</string>
+	<string name="app_behavior_settings_perm_tips">Mostre um alerta na barra de status quando os aplicativos acessarem sua localização, gravarem áudio ou tirarem fotos</string>
+	<string name="app_behavior_settings_privacy_tips">Receba notificações quando os aplicativos acessarem seus contatos, histórico de chamadas ou realizarem outras ações sensíveis</string>
+	<string name="notify_channel_name_behavior">Histórico de comportamento</string>
 	<string name="system_permission_declare_revoke_system">Você pode sair deste aplicativo</string>
+	<string name="app_behavior_start_from_app_single">Este aplicativo foi iniciado por %1s</string>
+	<string name="app_behavior_start_from_launcher">%1s foi iniciado da tela inicial</string>
+	<string name="app_behavior_start_from_launcher_single">Este aplicativo foi iniciado da tela inicial</string>
+	<string name="app_behavior_start_from_notification">%1s foi iniciado por uma notificação</string>
+	<string name="app_behavior_start_from_notification_single">Este aplicativo foi iniciado por uma notificação</string>
+	<string name="app_behavior_start_from_recent">%1s foi iniciado em Recentes</string>
+	<string name="app_behavior_start_from_recent_single">Este aplicativo foi iniciado em Recentes</string>
+	<string name="app_behavior_time_today">Hoje</string>
+	<string name="app_behavior_time_yesterday">Ontem</string>
+	<string name="app_perm_manager_service">Permissões</string>
+	<string name="warningcenter_action_check">Visualizar</string>
+	<string name="warningcenter_alert_home">Localização</string>
+	<string name="warningcenter_alert_room">Quarto</string>
+	<string name="warningcenter_alert_source">Centro de Alertas MIUI | Fonte de dados: %s</string>
+	<string name="warningcenter_alert_time">Hora</string>
+	<string name="warningcenter_alert_warning_time">Hora recebida: %s</string>
+	<string name="warningcenter_earthquake_info">Avisos de terremoto</string>
+	<string name="warningcenter_mijia_alert_close">Fechar</string>
+	<string name="warningcenter_mijia_alert_settings">Alterar configurações em Segurança> Alertas de dispositivos domésticos inteligentes</string>
+	<string name="warningcenter_mijia_alert_tips_1">Detectada alta concentração de gás</string>
+	<string name="warningcenter_mijia_alert_tips_2">Fumaça detectada</string>
+	<string name="warningcenter_mijia_alert_tips_3">Inundação detectada</string>
+	<string name="warningcenter_mijia_alert_tips_4">Seu bloqueio foi danificado</string>
+	<string name="warningcenter_mijia_alert_view_device">Visualizar dispositivo</string>
+	<string name="warningcenter_mijia_devices_1">Detector de inundação</string>
+	<string name="warningcenter_mijia_devices_2">Detector de fumaça</string>
+	<string name="warningcenter_mijia_devices_3">Detector de gás</string>
+	<string name="warningcenter_mijia_devices_4">Bloqueio inteligente</string>
+	<string name="warningcenter_mijia_devices_support">Dispositivos suportados</string>
+	<string name="warningcenter_mijia_devices_support_tips">"Nota: Você não poderá receber alertas se sair da sua conta no Mi Home ou desinstalar o aplicativo."</string>
+	<string name="warningcenter_mijia_info">Monitore sua segurança doméstica</string>
+	<string name="warningcenter_mijia_notification_summary">Você pode receber alertas instantâneos</string>
+	<string name="warningcenter_mijia_notification_title">Os alertas de dispositivos domésticos inteligentes estão ativados</string>
+	<string name="warningcenter_mijia_open_desc">Você receberá alertas neste telefone e em outros dispositivos compartilhados sempre que alertas forem emitidos pelos dispositivos que você adicionou no Mi Home</string>
+	<string name="warningcenter_mijia_open_title">Receba alertas de dispositivos inteligentes</string>
+	<string name="warningcenter_mijia_page_title">Alertas</string>
+	<string name="warningcenter_mijia_title">Alertas de dispositivos domésticos inteligentes</string>
+	<string name="warningcenter_smarthome">Mi Home</string>
+	<string name="warningcenter_title">Centro de Alertas MIUI</string>
 </resources>

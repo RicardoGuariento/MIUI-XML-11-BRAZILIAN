@@ -751,4 +751,17 @@ fiquem maiores nas fotos"</string>
   <string name="mimoji_save_success">Salvo com sucesso</string>
   <string name="super_eis">Vídeo estável</string>
   <string name="super_eis_disabled_hint">O vídeo estabilizado está desativado</string>
+  <string name="accessibility_eis_normal">O EIS está ativado</string>
+  <string name="accessibility_eis_off">O EIS está desativado</string>
+  <string name="accessibility_eis_pro">O EIS Pro está ativado</string>
+  <string name="mimoji_select_number_error">Selecione pelo menos %d item</string>
+  <string name="pref_camera_eis_entry_normal">EIS</string>
+  <string name="pref_camera_eis_entry_off">Desativado</string>
+  <string name="pref_camera_eis_entry_pro">EIS Pro</string>
+  <string name="pref_camera_eis_title">EIS</string>
+  <string name="search_menu_title">Pesquisar</string>
+  <string name="speech_shutter_open_tip">Diga \"Tire uma foto\" ou \"Berinjela\" para tirar uma foto</string>
+  <string name="speech_shutter_tip">Obturador por voz</string>
+  <string name="super_eis_pro">Vídeo Estável Pro</string>
+  <string name="super_eis_pro_disabled_hint">O Vídeo Estável Pro está desativado</string>
 </resources>

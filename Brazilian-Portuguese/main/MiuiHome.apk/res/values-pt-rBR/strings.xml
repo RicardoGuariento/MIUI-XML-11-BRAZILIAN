@@ -436,4 +436,5 @@
 	<string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponíveis</string>
 	<string name="hide_apps_title">Ocultar ícones dos aplicativos</string>
 	<string name="home_switch_personal_assistant">Assistente da tela inicial</string>
+	<string name="system_shortcuts_remove">Remover</string>
 </resources>

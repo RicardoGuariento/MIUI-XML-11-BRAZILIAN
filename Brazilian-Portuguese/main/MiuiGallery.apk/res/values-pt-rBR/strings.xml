@@ -1726,4 +1726,6 @@ para personalizar a Galeria"</string>
 	<string name="drag_view_tip_sub_title">Pressione e segure em um álbum para reorganizar</string>
 	<string name="drag_view_tip_title">Reorganizar álbuns</string>
 	<string name="vlog_clip_cut_fail_min_time">Os clipes precisam ter pelo menos %1$s segundos</string>
+	<string name="downloading_title_file">Baixando itens da Mi Cloud…</string>
+	<string name="vlog_bottom_view_exit">Sair</string>
 </resources>
