@@ -2642,11 +2642,11 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="superpower_settins_other">Configurações adicionais</string>
 	<string name="superpower_settins_switch_summary">Restringe a maioria dos recursos que consomem energia, a fim de deixar as funcionalidades básicas (por exemplo: chamadas, SMS e aplicativos selecionados) disponíveis o maior tempo possível</string>
 	<string name="system_permission_declare_agree">Concordar</string>
-	<string name="system_permission_declare_double_link">&lt;Data&gt;Ler e concordar com &amp;lt;a href=\"%1$s\"&amp;gt;Termo de Acordo do Usuário&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Politica de Privacidade&amp;lt;/a&amp;gt; antes de usar este recurso.&lt;/Data&gt;</string>
+	<string name="system_permission_declare_double_link">Leia e concorde com  o Termo de Acordo do Usuário e a Politica de Privacidade antes de usar este recurso.</string>
 	<string name="system_permission_declare_main_purpose" formatted="false">Bem vindo ao %1s! Este aplicativo permite que seja usado o seguinte recurso: %2s.</string>
-	<string name="system_permission_declare_no_say_no">"Se você optar por não conceder as permissões necessárias ou não permitir que coletemos e usemos seus dados, este aplicativo não poderá funcionar normalmente."</string>
-	<string name="system_permission_declare_privacy_declare">"Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Observe que o Sistema de Segurança do Navegador precisa se conectar à Internet e requer as seguintes permissões para coletar suas informações pessoais:</string>
-	<string name="system_permission_declare_revoke_path">Você pode desinstalar este aplicativo, sair da sua conta, ou gerenciar permissões e autorizações em Segurança &gt; Gerenciar aplicativos &gt; Permissões &gt; Outras permissões.</string>
+	<string name="system_permission_declare_no_say_no">"Se você optar por não conceder as permissões necessárias ou não permitir que coletemos e usemos seus dados, este aplicativo poderá não funcionar normalmente."</string>
+	<string name="system_permission_declare_privacy_declare">Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Observe que este aplicativo precisa se conectar à Internet e requer as seguintes permissões para coletar suas informações pessoais:</string>
+	<string name="system_permission_declare_revoke_path">Você pode desinstalar este aplicativo, sair da sua conta, ou gerenciar permissões e autorizações em Segurança > Gerenciar aplicativos > Permissões > Outras permissões.</string>
 	<string name="system_permission_declare_use_network">Conecte-se à rede</string>
 	<string name="system_permission_perm_answer_call">Fazer chamadas</string>
 	<string name="system_permission_perm_read_mms">Ler MMS</string>
@@ -2695,7 +2695,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
 	<string name="HIPS_Perm_CallLog_Desc">Escrever e excluir o registo de chamadas</string>
 	<string name="HIPS_Perm_Call_Desc">Marcar números de telefone diretamente</string>
 	<string name="HIPS_Perm_Contact_Desc">Modificar e excluir os seus contatos</string>
-	<string name="HIPS_Perm_PhoneID_Desc">Acessar 0 número de telefone, IMEI e IMSI</string>
+	<string name="HIPS_Perm_PhoneID_Desc">Acessar o número do telefone, IMEI e IMSI</string>
 	<string name="HIPS_Perm_PhoneID_Desc_Q">Acessar o número de telefone e estado do dispositivo</string>
 	<string name="HIPS_Perm_Read_Call_Log_Desc">Ler o registo de chamadas</string>
 	<string name="HIPS_Perm_Read_Contact_Desc">Ler os seus contatos</string>
@@ -3014,4 +3014,5 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
 	<string name="app_behavior_settings_perm_tips">Exibir uma notificação na barra de status sempre que o aplicativo usar qualquer uma dessas permissões:</string>
 	<string name="app_behavior_settings_privacy_tips">Exibir uma notificação sempre que o aplicativo ler/gravar informações confidenciais em segundo plano (contatos, histórico de chamadas etc.)</string>
 	<string name="notify_channel_name_behavior">Comportamento do aplicativo</string>
+	<string name="system_permission_declare_revoke_system">Você pode sair deste aplicativo</string>
 </resources>

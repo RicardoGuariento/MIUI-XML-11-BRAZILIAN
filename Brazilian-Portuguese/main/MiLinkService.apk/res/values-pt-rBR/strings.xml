@@ -117,11 +117,11 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="dialog_please_make_sure_tv_ok_or_help">"Verifique se o recurso de transmissão sem fio está ativado no dispositivo de destino.
 Veja a ajuda se você tiver problemas para conectar."</string>
-  <string name="privacy_text_1">&lt;Data&gt;"Bem-vindo à Transmissão! A transmissão permite projetar os itens da tela do telefone em um monitor externo maior.
-Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Alguns recursos são fornecidos por um provedor de serviços terceirizado HappyCast. Antes de usar este recurso, leia e aceite a &amp;lt;a href=%2$s&amp;gt;Declaração Legal do HappyCast&amp;lt;/a&amp;gt; e &amp;lt;a href=%1$s&amp;gt;Política de Privacidade do HappyCast&amp;lt;/a&amp;gt;.
-Para poder funcionar normalmente, este aplicativo precisa se conectar à Internet e precisa das seguintes permissões para coletar suas informações pessoais:"&lt;/Data&gt;</string>
-  <string name="privacy_text_2">&lt;Data&gt;"Se você não concordar em conceder essas permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este aplicativo. Você pode optar por desinstalar este aplicativo, sair ou restringir permissões nas Configurações nesses casos..
-Leia e concorde com o nosso &amp;lt;a href=%1$s&amp;gt;Termo de Acordo do Usuário&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de usar este recurso."&lt;/Data&gt;</string>
+  <string name="privacy_text_1">Bem-vindo à Transmissão! A transmissão permite projetar os itens da tela do telefone em um monitor externo maior.
+Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Alguns recursos são fornecidos por um provedor de serviços terceirizado HappyCast. Antes de usar este recurso, leia e aceite a Declaração Legal do HappyCas e a Política de Privacidade do HappyCast.
+Para poder funcionar normalmente, este aplicativo precisa se conectar à Internet e precisa das seguintes permissões para coletar suas informações pessoais: </string>
+  <string name="privacy_text_2">Se você não concordar em conceder essas permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este aplicativo. Você pode optar por desinstalar este aplicativo, sair ou restringir permissões nas Configurações nesses casos.
+Leia e concorde com o nosso Termo de Acordo do Usuário e Política de Privacidade antes de usar este recurso.</string>
 	<string name="help_page_text_06_global">"1. TVs Mi, Mi Boxes, e Projetores Mi:
 Conecte o telefone e o monitor externo à mesma rede Wi-Fi para obter o melhor resultado. Se eles estiverem conectados a redes diferentes, poderá levar mais tempo para encontrar o monitor externo e conectar-se.
 Nota: As TVs Mi mais antigas podem não suportar transmissão em redes diferentes.

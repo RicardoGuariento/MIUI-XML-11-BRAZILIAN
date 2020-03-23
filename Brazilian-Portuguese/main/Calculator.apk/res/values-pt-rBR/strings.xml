@@ -584,14 +584,14 @@ Tamanho da atualização: %2$s"</string>
     <string name="unit_data_display_radix_2">Binário</string>
     <string name="unit_data_display_radix_8">Octal</string>
 	<string name="network_purpose">Bem-vindo à Calculadora! A Calculadora permite converter moedas, calcular pagamentos de hipotecas e muito mais.</string>
-	<string name="dialog_privacy_content">Além das funcionalidades básicas, a Calculadora permite converter moedas e unidades de medida, calcular pagamentos de hipotecas e muito mais. Alguns recursos podem exigir conexão à Internet para funcionar normalmente. &lt;Data&gt;Antes de usar este aplicativo, leia e concorde com o nosso &amp;lt;a href=%1$s&amp;gt;Termo de Acordo do Usuário&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+	<string name="dialog_privacy_content">Além das funcionalidades básicas, a Calculadora permite converter moedas e unidades de medida, calcular pagamentos de hipotecas e muito mais. Alguns recursos podem exigir conexão à Internet para funcionar normalmente. Antes de usar este aplicativo, leia e concorde com o nosso Termo de Acordo do Usuário e Política de Privacidade</string>
 	<string name="disallow">Não concordar</string>
 	<string name="network_privacy">Observe que este aplicativo precisa se conectar à Internet e coletar as informações pessoais necessárias para fornecer serviços para você. Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.</string>
 	<string name="permission_location">Acessar localização</string>
 	<string name="permission_location_desc">Para fornecer serviços baseados em localização</string>
 	<string name="permission_phone">Acessar o estado e ID do dispositivo</string>
 	<string name="permission_phone_desc">Para identificar dispositivos diferentes</string>
-	<string name="permission_privacy_link">&lt;Data&gt;Antes de usar este aplicativo, leia e concorde com o nosso &amp;lt;a href=%1$s&amp;gt;Termo de Acordo do Usuário&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+	<string name="permission_privacy_link">Antes de usar este aplicativo, leia e concorde com o nosso Termo de Acordo do Usuário e Política de Privacidade</string>
 	<string name="permission_purpose">Bem-vindo à Calculadora! Além das funcionalidades básicas, a Calculadora permite converter moedas e unidades de medida, calcular pagamentos de hipotecas e muito mais. Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.
 Observe que este aplicativo precisa se conectar à Internet e requer as seguintes permissões para coletar suas informações pessoais:</string>
 	<string name="permission_remove_desc">Você pode optar por desinstalar este aplicativo ou restringir permissões e revogar sua autorização nas Configurações.</string>

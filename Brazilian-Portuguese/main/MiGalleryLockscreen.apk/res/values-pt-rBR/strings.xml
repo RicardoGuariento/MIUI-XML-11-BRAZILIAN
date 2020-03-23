@@ -473,8 +473,8 @@ Envie esse código ao supervisor."</string>
   <string name="passport_trying_read_verify_code_sms">Obtendo código de verificação…</string>
   <string name="passport_unknow_error">Ocorreu um erro desconhecido</string>
   <string name="passport_unknow_network_error">Ocorreu um erro de rede</string>
-  <string name="passport_user_agreement_link">"&lt;Data&gt;Eu li e concordo com &lt;a href=%1$s&gt;Termo de Acordo do Usuário Xiaomi&lt;/a&gt; e &lt;a href=%2$s&gt;Política de Privacidade&lt;/a&gt;.&lt;/Data&gt;"</string>
-  <string name="passport_user_agreement_link_more">"&lt;Data&gt;Eu já li e concordei com os seguintes documentos: &lt;a href=%1$s&gt;Termo de Acordo do Usuário Xiaomi&lt;/a&gt; e &lt;a href=%4$s&gt;Política de Privacidade&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
+  <string name="passport_user_agreement_link">Eu li e concordo com o Termo de Acordo do Usuário Xiaomi e a Política de Privacidade</string>
+  <string name="passport_user_agreement_link_more">Eu li e concordei com os seguintes documentos: Termo de Acordo do Usuário Xiaomi e Política de Privacidade</string>
   <string name="passport_user_id_intro">Insira a senha para %1$s</string>
   <string name="passport_vcode_notification_title">Sua verificação de login está incompleta</string>
   <string name="passport_vcode_prompt_long">Insira o código de verificação</string>

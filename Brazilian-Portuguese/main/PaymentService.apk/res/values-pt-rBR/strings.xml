@@ -258,8 +258,8 @@ Envie esse código ao supervisor."</string>
 	<string name="passport_unknow_error">Ocorreu um erro desconhecido</string>
 	<string name="passport_unknow_host_network_error">Verifique suas configurações de rede e tente novamente</string>
 	<string name="passport_unknow_network_error">Ocorreu um erro de rede</string>
-	<string name="passport_user_agreement_link">"&lt;Data&gt;Eu li e concordei com o &lt;a href=%1$s&gt;Termo de Acordo do Usuário&lt;/a&gt; e &lt;a href=%2$s&gt;Política de Privacidade&lt;/a&gt; da Xiaomi.&lt;/Data&gt;"</string>
-	<string name="passport_user_agreement_link_more">"&lt;Data&gt;Eu li e concordei com os seguintes documentos:&lt;a href=%1$s&gt;Termo de Acordo de Usuário&lt;/a&gt; e &lt;a href=%4$s&gt;Política de Privacidade&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;da Xiaomi.&lt;/Data&gt;"</string>
+	<string name="passport_user_agreement_link">Eu li e concordei com os seguintes documentos: Termo de Acordo de Usuário e Política de Privacidade da Xiaomi.</string>
+	<string name="passport_user_agreement_link_more">Eu li e concordei com os seguintes documentos: Termo de Acordo de Usuário e Política de Privacidade da Xiaomi.</string>
 	<string name="passport_user_id_intro">Insira a senha para %1$s</string>
 	<string name="passport_v_code_error">O código de verificação está incorreto</string>
 	<string name="passport_wechat_not_install">Instale o WeChat primeiro</string>

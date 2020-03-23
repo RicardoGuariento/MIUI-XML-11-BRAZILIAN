@@ -263,7 +263,7 @@ O Mi Health irá notificá-lo apenas sobre itens importantes"</string>
   <string name="search_menu_title">Pesquisa</string>
   <string name="sedentary_detail_title">Ficar sentado muito tempo é prejudicial</string>
   <string name="sedentary_enhance_remind">Vibrar também</string>
-  <string name="sedentary_enhance_remind_content">Esta funcionalidade funciona com o modo Não incomodar desligado</string>
+  <string name="sedentary_enhance_remind_content">Esta funcionalidade funciona com o modo Não perturbe desligado</string>
   <string name="sedentary_harm_known">Entendido</string>
   <string name="sedentary_popular_science">"* Não se mexer por um longo tempo não é bom. A não ser que esteja dormindo, tente mover-se por 2 minutos a cada hora. Lembre-se que não é recomendado ficar quieto por mais de 6 horas por dia</string>
   <string name="sedentary_reminder_channel_name">Lembrete para se mover</string>
