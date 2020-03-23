@@ -27,7 +27,7 @@
     <string name="bluetooth_connected_no_map">Conectado (sem acesso a mensagens)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Conectado (sem telefone ou mídia)</string>
     <string name="bluetooth_profile_a2dp">Áudio da mídia</string>
-    <string name="bluetooth_profile_headset">Áudio do smartphone</string>
+    <string name="bluetooth_profile_headset">Áudio do telefone</string>
     <string name="bluetooth_profile_opp">Transferência de arquivo</string>
     <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
     <string name="bluetooth_profile_pan">Acesso à Internet</string>
@@ -39,7 +39,7 @@
     <string name="bluetooth_profile_a2dp_high_quality">Usar áudio de alta qualidade: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Usar áudio de alta qualidade</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Conectado ao áudio da mídia</string>
-    <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do smartphone</string>
+    <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do telefone</string>
     <string name="bluetooth_opp_profile_summary_connected">Conectado ao servidor de transferência de arquivo</string>
     <string name="bluetooth_map_profile_summary_connected">Conectado ao mapa</string>
     <string name="bluetooth_sap_profile_summary_connected">Conectado a SAP</string>
@@ -51,7 +51,7 @@
     <string name="bluetooth_map_profile_summary_use_for">Usar para mapa</string>
     <string name="bluetooth_sap_profile_summary_use_for">Use para acesso SIM</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Usar para áudio de mídia</string>
-    <string name="bluetooth_headset_profile_summary_use_for">Usar para áudio do smartphone</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Usar para áudio do telefone</string>
     <string name="bluetooth_opp_profile_summary_use_for">Usado para transferência de arquivo</string>
     <string name="bluetooth_hid_profile_summary_use_for">Usar para entrada</string>
     <string name="bluetooth_pairing_accept">Parear</string>
@@ -190,7 +190,7 @@ qualidade de reprodução"</string>
     <string name="verify_apps_over_usb_title">Verificar aplicativos por USB</string>
     <string name="verify_apps_over_usb_summary">Verificar comportamento nocivo em aplicativos instalados via ADB/ADT.</string>
     <string name="bluetooth_disable_absolute_volume_summary">Desativa o recurso Bluetooth de volume absoluto em caso de problemas com o volume em dispositivos remotos, como volume excessivamente alto ou falta de controle.</string>
-    <string name="bluetooth_enable_inband_ringing_summary">Permitir que os toques no smartphone sejam reproduzidos em fones de ouvido Bluetooth</string>
+    <string name="bluetooth_enable_inband_ringing_summary">Permitir que os toques no telefone sejam reproduzidos em fones de ouvido Bluetooth</string>
     <string name="enable_terminal_title">Terminal local</string>
     <string name="enable_terminal_summary">Ativar o aplicativo terminal que oferece acesso ao shell local</string>
     <string name="hdcp_checking_title">Verificação HDCP</string>
@@ -329,7 +329,7 @@ qualidade de reprodução"</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usar idiomas do sistema</string>
     <string name="failed_to_open_app_settings_toast">Falha ao abrir as configurações de %1$s</string>
     <string name="ime_security_warning">Este método de entrada pode coletar todo o texto que você digita, incluindo dados pessoais, como senhas e números de cartão de crédito. É um método do aplicativo %1$s. Usar este método de entrada?</string>
-    <string name="direct_boot_unaware_dialog_message">Observação: após uma reinicialização, não é possível iniciar este aplicativo até que você desbloqueie seu smartphone</string>
+    <string name="direct_boot_unaware_dialog_message">Observação: após uma reinicialização, não é possível iniciar este aplicativo até que você desbloqueie seu telefone</string>
     <string name="telecommAppLabel">Gerenciar chamadas</string>
     <string name="userCallActivityLabel">Telefone</string>
     <string name="notification_missedCallTitle">Chamada perdida</string>

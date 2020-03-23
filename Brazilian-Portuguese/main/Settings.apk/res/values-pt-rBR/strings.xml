@@ -41,7 +41,7 @@
     <string name="abc_slices_permission_request">%1$s quer mostrar partes do aplicativo %2$s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="about_ad_service_instructions">Sobre o serviço de anúncios e privacidade</string>
-    <string name="about_phone_device_name_warning">O nome do seu dispositivo está visível para os aplicativos no seu smartphone. Ele também pode ser visto por outras pessoas quando você se conecta a dispositivos Bluetooth ou configura um ponto de acesso Wi-Fi.</string>
+    <string name="about_phone_device_name_warning">O nome do seu dispositivo está visível para os aplicativos no seu telefone. Ele também pode ser visto por outras pessoas quando você se conecta a dispositivos Bluetooth ou configura um ponto de acesso Wi-Fi.</string>
     <string name="about_phone_enter_xiaomi_net">Saiba mais</string>
     <string name="about_settings">Sobre o telefone</string>
     <string name="about_settings_summary">Ver informações legais, status, versão do software</string>
@@ -302,13 +302,13 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, aplicativo
     <string name="amber_alerts_summary">Receber boletins sobre crianças sequestradas</string>
     <string name="amber_alerts_title">Alertas AMBER</string>
     <string name="ambient_display_category_triggers">Quando mostrar</string>
-    <string name="ambient_display_pickup_summary">Para verificar a hora, ícones de notificação e outras informações, pegue o smartphone.</string>
-    <string name="ambient_display_pickup_title">Levantar o smartphone para verificá-lo</string>
+    <string name="ambient_display_pickup_summary">Para verificar a hora, ícones de notificação e outras informações, pegue o telefone.</string>
+    <string name="ambient_display_pickup_title">Levantar o telefone para verificá-lo</string>
     <string name="ambient_display_screen_summary_always_on">Sempre ativado / Aumento do uso da bateria</string>
     <string name="ambient_display_screen_summary_notifications">Novas notificações</string>
     <string name="ambient_display_screen_title">Exibição ambiente</string>
     <string name="ambient_display_summary">Para verificar a hora, ícones de notificação e outras informações, toque duas vezes na tela.</string>
-    <string name="ambient_display_title">Tocar duas vezes na tela para verificar o smartphone</string>
+    <string name="ambient_display_title">Tocar duas vezes na tela para verificar o telefone</string>
     <string name="android_beam_disabled_summary">Para usar esta função, ative o NFC</string>
     <string name="android_beam_explained">Você pode transferir uma página web, um vídeo ou outro conteúdo de sua tela para outro dispositivo, ao unir os dispositivos (normalmente traseira com traseira).</string>
     <string name="android_beam_label">Android Beam</string>
@@ -620,7 +620,7 @@ Para restringir, ative a otimização."</string>
     <string name="battery_desc_flashlight">Bateria usada pela lanterna</string>
     <string name="battery_desc_overcounted">Consumo de energia superestimado</string>
     <string name="battery_desc_radio">Bateria usada por rádio celular</string>
-    <string name="battery_desc_standby">Bateria usada quando o smartphone está ocioso</string>
+    <string name="battery_desc_standby">Bateria usada quando o telefone está ocioso</string>
     <string name="battery_desc_unaccounted">Uso de energia de diversos</string>
     <string name="battery_desc_users">Bateria utilizada pelo usuário</string>
     <string name="battery_desc_voice">Bateria usada por chamadas de voz</string>
@@ -723,12 +723,12 @@ Para restringir, ative a otimização."</string>
     <string name="battery_sugg_radio">Alternar para o modo avião para economizar energia nas áreas sem cobertura celular</string>
     <string name="battery_sugg_wifi">Desativar Wi-Fi quando não estiver em uso ou disponível</string>
     <string name="battery_suggestion_summary" />
-    <string name="battery_suggestion_title">Melhorar a duração da bateria do smartphone</string>
+    <string name="battery_suggestion_title">Melhorar a duração da bateria do telefone</string>
     <string name="battery_summary">%1$s de uso desde a última carga completa</string>
-    <string name="battery_tip_dialog_message">"Seu smartphone foi usado além do normal. É possível que a bateria acabe antes do esperado.
+    <string name="battery_tip_dialog_message">"Seu telefone foi usado além do normal. É possível que a bateria acabe antes do esperado.
 
 Os %1$d principais aplicativos usados desde a última carga completa são:"</string>
-    <string name="battery_tip_dialog_summary_message">"Seus aplicativos estão consumindo uma quantidade normal de bateria. Se eles consumirem muita bateria, serão sugeridas ações no smartphone.
+    <string name="battery_tip_dialog_summary_message">"Seus aplicativos estão consumindo uma quantidade normal de bateria. Se eles consumirem muita bateria, serão sugeridas ações no telefone.
 
 Se a bateria estiver acabando, você poderá ativar a Economia de bateria."</string>
     <string name="battery_tip_early_heads_up_done_summary">Alguns recursos podem ser limitados</string>
@@ -749,8 +749,8 @@ Apps:"</string>
 Apps:
 %1$s."</string>
     <string name="battery_tip_smart_battery_summary">Ative o Gerenciador de bateria</string>
-    <string name="battery_tip_smart_battery_title">Melhore a duração da bateria do seu smartphone</string>
-    <string name="battery_tip_summary_summary">O smartphone tem um consumo normal de bateria em segundo plano</string>
+    <string name="battery_tip_smart_battery_title">Melhore a duração da bateria do seu telefone</string>
+    <string name="battery_tip_summary_summary">O telefone tem um consumo normal de bateria em segundo plano</string>
     <string name="battery_tip_summary_title">Os aplicativos estão sendo executados normalmente</string>
     <string name="battery_tip_unrestrict_app_dialog_cancel">Cancelar</string>
     <string name="battery_tip_unrestrict_app_dialog_message">Esse aplicativo poderá usar a bateria em segundo plano. É possível que sua bateria acabe antes do esperado.</string>
@@ -789,19 +789,19 @@ Apps:
     <string name="bluetooth_advanced_titlebar">Bluetooth avançado</string>
     <string name="bluetooth_ask_disablement">%1$s quer desativar o Bluetooth</string>
     <string name="bluetooth_ask_disablement_no_name">Um aplicativo quer desativar o Bluetooth</string>
-    <string name="bluetooth_ask_discovery">%1$s quer tornar seu smartphone visível para outros dispositivos Bluetooth por %2$d segundos.</string>
-    <string name="bluetooth_ask_discovery_no_name">Um aplicativo quer tornar seu smartphone visível para outros dispositivos Bluetooth por %1$d segundos.</string>
+    <string name="bluetooth_ask_discovery">%1$s quer tornar seu telefone visível para outros dispositivos Bluetooth por %2$d segundos.</string>
+    <string name="bluetooth_ask_discovery_no_name">Um aplicativo quer tornar seu telefone visível para outros dispositivos Bluetooth por %1$d segundos.</string>
     <string name="bluetooth_ask_enablement">%1$s quer ativar o Bluetooth</string>
-    <string name="bluetooth_ask_enablement_and_discovery">%1$s quer ativar o Bluetooth e tornar seu smartphone visível para outros dispositivos por %2$d segundos.</string>
+    <string name="bluetooth_ask_enablement_and_discovery">%1$s quer ativar o Bluetooth e tornar seu telefone visível para outros dispositivos por %2$d segundos.</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" deseja ativar o Bluetooth e tornar o seu telefone visível para outros dispositivos por %1$d segundos."</string>
-    <string name="bluetooth_ask_enablement_and_discovery_no_name">Um aplicativo quer ativar o Bluetooth e tornar seu smartphone visível para outros dispositivos por %1$d segundos.</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s quer ativar o Bluetooth e tornar seu smartphone visível para outros dispositivos. É possível alterar esta opção posteriormente nas configurações do Bluetooth.</string>
+    <string name="bluetooth_ask_enablement_and_discovery_no_name">Um aplicativo quer ativar o Bluetooth e tornar seu telefone visível para outros dispositivos por %1$d segundos.</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s quer ativar o Bluetooth e tornar seu telefone visível para outros dispositivos. É possível alterar esta opção posteriormente nas configurações do Bluetooth.</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" deseja ativar o Bluetooth e tornar o seu telefone visível para outros dispositivos. Você pode alterar isto mais tarde nas configurações do Bluetooth."</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Um aplicativo quer ativar o Bluetooth e tornar seu smartphone visível para outros dispositivos. É possível alterar esta opção posteriormente nas configurações do Bluetooth.</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Um aplicativo quer ativar o Bluetooth e tornar seu telefone visível para outros dispositivos. É possível alterar esta opção posteriormente nas configurações do Bluetooth.</string>
     <string name="bluetooth_ask_enablement_detected">" deseja ativar o Bluetooth."</string>
     <string name="bluetooth_ask_enablement_no_name">Um aplicativo quer ativar o Bluetooth</string>
-    <string name="bluetooth_ask_lasting_discovery">%1$s quer tornar seu smartphone visível para outros dispositivos Bluetooth. É possível alterar esta opção posteriormente nas configurações do Bluetooth.</string>
-    <string name="bluetooth_ask_lasting_discovery_no_name">Um aplicativo quer tornar seu smartphone visível para outros dispositivos Bluetooth. É possível alterar esta opção posteriormente nas configurações do Bluetooth.</string>
+    <string name="bluetooth_ask_lasting_discovery">%1$s quer tornar seu telefone visível para outros dispositivos Bluetooth. É possível alterar esta opção posteriormente nas configurações do Bluetooth.</string>
+    <string name="bluetooth_ask_lasting_discovery_no_name">Um aplicativo quer tornar seu telefone visível para outros dispositivos Bluetooth. É possível alterar esta opção posteriormente nas configurações do Bluetooth.</string>
     <string name="bluetooth_auto_connect">Conexão automática</string>
     <string name="bluetooth_battery_level">Bateria %1$s</string>
     <string name="bluetooth_broadcasting">Transmissão</string>
@@ -856,11 +856,11 @@ Apps:
     <string name="bluetooth_disable_profile_title">Desativar perfil?</string>
     <string name="bluetooth_disabled">Desativado</string>
     <string name="bluetooth_disconnect_a2dp_profile">%1$s será desconectado do áudio da mídia.</string>
-    <string name="bluetooth_disconnect_all_profiles">Seu smartphone se desconectará de %1$s.</string>
+    <string name="bluetooth_disconnect_all_profiles">Seu telefone se desconectará de %1$s.</string>
     <string name="bluetooth_disconnect_dialog_ok">Desconectar</string>
     <string name="bluetooth_disconnect_headset_profile">%1$s será desconectado do áudio do viva-voz.</string>
     <string name="bluetooth_disconnect_hid_profile">%1$s será desconectado do dispositivo de entrada.</string>
-    <string name="bluetooth_disconnect_pan_nap_profile">%1$s será desconectado e perderá o compart. da conexão de Internet deste smartphone.</string>
+    <string name="bluetooth_disconnect_pan_nap_profile">%1$s será desconectado e perderá o compart. da conexão de Internet deste telefone.</string>
     <string name="bluetooth_disconnect_pan_user_profile">O acesso à Internet por meio de %1$s será desconectado.</string>
     <string name="bluetooth_disconnect_title">Desconectar dispositivo?</string>
     <string name="bluetooth_disconnected">Desconectado</string>
@@ -881,7 +881,7 @@ Apps:
     <string name="bluetooth_enter_passkey_other_device">Talvez seja necessário digitar esta senha no outro dispositivo.</string>
     <string name="bluetooth_enter_pin_other_device">Talvez seja necessário digitar este PIN no outro dispositivo.</string>
     <string name="bluetooth_error_title" />
-    <string name="bluetooth_footer_mac_message">Endereço Bluetooth do smartphone: %1$s</string>
+    <string name="bluetooth_footer_mac_message">Endereço Bluetooth do telefone: %1$s</string>
     <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do telefone</string>
     <string name="bluetooth_headset_profile_summary_use_for">Usar para áudio do telefone</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Conectado ao aparelho auditivo</string>
@@ -947,7 +947,7 @@ Apps:
     <string name="bluetooth_phonebook_request">Solicitação de acesso à agenda telefônica</string>
     <string name="bluetooth_pin_values_hint">Geralmente, 0000 ou 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">São necessários 16 dígitos</string>
-    <string name="bluetooth_pref_summary">Permite que seu smartphone se comunique com dispositivos Bluetooth nas proximidades</string>
+    <string name="bluetooth_pref_summary">Permite que seu telefone se comunique com dispositivos Bluetooth nas proximidades</string>
     <string name="bluetooth_preference_connected_devices">Dispositivos conectados</string>
     <string name="bluetooth_preference_device_settings">Configurações do aparelho</string>
     <string name="bluetooth_preference_found_devices">Dispositivos disponíveis</string>
@@ -1028,7 +1028,7 @@ Taxa de amostra"</string>
     <string name="bluetooth_tethering_off_subtext">Não compartilhando a conexão de Internet deste telefone por Bluetooth</string>
     <string name="bluetooth_tethering_off_subtext_config">Compartilhando conexão com a Internet deste %1$d via Bluetooth</string>
     <string name="bluetooth_tethering_overflow_error">Não é possível ancorar a mais de %1$d dispositivos.</string>
-    <string name="bluetooth_tethering_subtext">Compartilhar a conexão com a Internet do smartphone via Bluetooth</string>
+    <string name="bluetooth_tethering_subtext">Compartilhar a conexão com a Internet do telefone via Bluetooth</string>
     <string name="bluetooth_turning_off">Desligar o Bluetooth…</string>
     <string name="bluetooth_turning_on">Ativando Bluetooth…</string>
     <string name="bluetooth_unknown" />
@@ -1053,7 +1053,7 @@ Taxa de amostra"</string>
     <string name="bluetooth_unlock_title">Desbloquear com disp. Bluetooth</string>
     <string name="bluetooth_unlock_turned_off">Desativado</string>
     <string name="bluetooth_unlock_turned_on">Ativado</string>
-    <string name="bluetooth_unpair_dialog_body">Seu smartphone não será mais pareado com o %1$s</string>
+    <string name="bluetooth_unpair_dialog_body">Seu telefone não será mais pareado com o %1$s</string>
     <string name="bluetooth_unpair_dialog_forget_confirm_button">Esquecer dispositivo</string>
     <string name="bluetooth_unpair_dialog_title">Esquecer dispositivo?</string>
     <string name="bluetooth_untether_blank">%1$s será vinculado.</string>
@@ -1340,9 +1340,9 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
     <string name="condition_cellular_title">Dados móveis desativados</string>
     <string name="condition_device_muted_action_turn_on_sound">Ativar som</string>
     <string name="condition_device_muted_summary">Chamadas e notificações serão silenciadas</string>
-    <string name="condition_device_muted_title">O smartphone foi silenciado</string>
-    <string name="condition_device_vibrate_summary">Chamadas e notificações farão o smartphone vibrar</string>
-    <string name="condition_device_vibrate_title">O smartphone está configurado para vibrar</string>
+    <string name="condition_device_muted_title">O telefone foi silenciado</string>
+    <string name="condition_device_vibrate_summary">Chamadas e notificações farão o telefone vibrar</string>
+    <string name="condition_device_vibrate_title">O telefone está configurado para vibrar</string>
     <string name="condition_expand_hide">Ocultar</string>
     <string name="condition_expand_show">Mostrar</string>
     <string name="condition_hotspot_summary">O ponto de acesso Wi-Fi %1$s está ativado. O Wi-Fi desse dispositivo está desativado.</string>
@@ -1440,7 +1440,7 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
     <string name="credentials_unlock" />
     <string name="credentials_unlock_hint">Digite a senha para o armazenamento de credenciais.</string>
     <string name="credentials_wrong_password">Senha incorreta.</string>
-    <string name="crypt_keeper_button_text">Criptografar smartphone</string>
+    <string name="crypt_keeper_button_text">Criptografar telefone</string>
     <string name="crypt_keeper_conditions">A criptografia levará 1 hora ou mais. Você precisa iniciar o procedimento com a bateria carregada e manter seu telefone conectado ao carregador durante todo o processo. Se você interrompê-lo, você perderá seus dados de forma parcial ou total.</string>
     <string name="crypt_keeper_conditions_title">Sobre a criptografia do seu dispositivo</string>
     <string name="crypt_keeper_confirm_title">Criptografar?</string>
@@ -1448,17 +1448,17 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
     <string name="crypt_keeper_content_title">Criptografar dispositivo</string>
     <string name="crypt_keeper_data_corrupt_summary">"A senha digitada está correta, mas os dados estão corrompidos. 
 
-Para retomar o uso do seu smartphone, é necessário redefinir para as configurações originais. Quando você configurar seu smartphone após a redefinição, poderá restaurar todos os dados que foram salvos em backup na sua Conta do Google."</string>
+Para retomar o uso do seu telefone, é necessário redefinir para as configurações originais. Quando você configurar seu telefone após a redefinição, poderá restaurar todos os dados que foram salvos em backup na sua Conta do Google."</string>
     <string name="crypt_keeper_data_corrupt_title">Falha na descriptografia</string>
     <string name="crypt_keeper_decrypt_methods">Após você criptografar seu telefone, assumindo que você configurou um bloqueio de tela (padrão, senha ou PIN), você precisará desbloquear a tela para descriptografar o telefone sempre que você ligá-lo. A única outra forma de descriptografar o telefone é efetuando uma restauração para configurações de fábrica, apagando todos os seus dados.</string>
     <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Se você criptografou seu telefone, será necessário inserir sua senha, PIN ou padrão sempre que você reiniciar o dispositivo para descriptografá-lo.</string>
     <string name="crypt_keeper_decrypt_methods_title">Descriptografando seu dispositivo</string>
-    <string name="crypt_keeper_desc">"Você pode criptografar suas contas, configurações, aplicativos transferidos e seus dados, mídia e outros arquivos. Após criptografar seu smartphone, supondo que um bloqueio de tela tenha sido configurado (ou seja, um padrão, PIN numérico ou senha), será necessário desbloquear a tela para descriptografar o smartphone sempre que você ligá-lo. A única outra maneira de descriptografar é por meio de uma redefinição para configuração original, apagando todos os seus dados.
+    <string name="crypt_keeper_desc">"Você pode criptografar suas contas, configurações, aplicativos transferidos e seus dados, mídia e outros arquivos. Após criptografar seu telefone, supondo que um bloqueio de tela tenha sido configurado (ou seja, um padrão, PIN numérico ou senha), será necessário desbloquear a tela para descriptografar o telefone sempre que você ligá-lo. A única outra maneira de descriptografar é por meio de uma redefinição para configuração original, apagando todos os seus dados.
 
-A criptografia leva uma hora ou mais. Você deve iniciar com a bateria carregada e manter seu smartphone conectado até que a criptografia seja concluída. Se você interromper o processo de criptografia, perderá alguns ou todos os seus dados."</string>
+A criptografia leva uma hora ou mais. Você deve iniciar com a bateria carregada e manter seu telefone conectado até que a criptografia seja concluída. Se você interromper o processo de criptografia, perderá alguns ou todos os seus dados."</string>
     <string name="crypt_keeper_dialog_need_password_message">É necessário definir um PIN ou uma senha para a tela de bloqueio antes de iniciar a criptografia.</string>
     <string name="crypt_keeper_dialog_need_password_title">Não há PIN ou senha da tela de bloqueio</string>
-    <string name="crypt_keeper_encrypt_title">Criptografar smartphone</string>
+    <string name="crypt_keeper_encrypt_title">Criptografar telefone</string>
     <string name="crypt_keeper_encrypted_summary">Criptografado</string>
     <string name="crypt_keeper_enter_password">Digite sua senha</string>
     <string name="crypt_keeper_failed_summary">"A criptografia foi interrompida e não pode ser concluída. Por esse motivo, os dados em seu telefone não podem mais ser acessados. 
@@ -1466,7 +1466,7 @@ A criptografia leva uma hora ou mais. Você deve iniciar com a bateria carregada
 Para continuar usando seu telefone, é necessário restaurar as configurações originais. Quando você configurar seu telefone após a restauração, poderá recuperar todos os dados que foram salvos em backup em sua Conta do Google."</string>
     <string name="crypt_keeper_failed_title">Falha na criptografia</string>
     <string name="crypt_keeper_final_desc">A operação de criptografia é irreversível e, se for interrompida, você perderá seus dados. A criptografia leva uma hora ou mais, e nesse período o telefone será reiniciado várias vezes.</string>
-    <string name="crypt_keeper_force_power_cycle">Para desbloquear seu smartphone, desligue-o e ligue-o novamente.</string>
+    <string name="crypt_keeper_force_power_cycle">Para desbloquear seu telefone, desligue-o e ligue-o novamente.</string>
     <string name="crypt_keeper_low_charge_text">Carregue sua bateria e tente novamente.</string>
     <string name="crypt_keeper_settings_title">Criptografia</string>
     <string name="crypt_keeper_setup_description">Aguarde enquanto seu telefone está sendo criptografado. ^1% concluído.</string>
@@ -1539,9 +1539,9 @@ Você pode encontrar controles de uso de dados mais apropriados nas configuraç�
     <string name="data_usage_app_summary_title">Uso de dados do aplicativo</string>
     <string name="data_usage_auto_sync_off_dialog">Isto preservará o uso de dados e da bateria, mas será necessário sincronizar manualmente cada conta para obter as informações mais recentes, e você não será informado de novas atualizações.</string>
     <string name="data_usage_auto_sync_off_dialog_title">Desativar sincroniz. automática?</string>
-    <string name="data_usage_auto_sync_on_dialog">"As alterações feitas em suas contas na Web serão automaticamente copiadas para o smartphone.
+    <string name="data_usage_auto_sync_on_dialog">"As alterações feitas em suas contas na Web serão automaticamente copiadas para o telefone.
 
-Algumas contas também poderão copiar automaticamente as alterações feitas no smartphone para a Web. É assim que funciona uma Conta do Google."</string>
+Algumas contas também poderão copiar automaticamente as alterações feitas no telefone para a Web. É assim que funciona uma Conta do Google."</string>
     <string name="data_usage_auto_sync_on_dialog_title">Ativar sincronização automática?</string>
     <string name="data_usage_background_label">Segundo plano:</string>
     <string name="data_usage_cellular_data">Dados móveis</string>
@@ -1565,9 +1565,9 @@ Algumas contas também poderão copiar automaticamente as alterações feitas no
     <string name="data_usage_forground_label">Primeiro plano:</string>
     <string name="data_usage_label_background">Segundo plano</string>
     <string name="data_usage_label_foreground">Primeiro plano</string>
-    <string name="data_usage_limit_dialog_mobile">"Seu smartphone desativará os dados móveis quando o limite especificado for atingido.
+    <string name="data_usage_limit_dialog_mobile">"Seu telefone desativará os dados móveis quando o limite especificado for atingido.
 
-Como o uso de dados é calculado pelo seu smartphone, e sua operadora pode entender o uso de forma diferente, defina um limite moderado."</string>
+Como o uso de dados é calculado pelo seu telefone, e sua operadora pode entender o uso de forma diferente, defina um limite moderado."</string>
     <string name="data_usage_limit_dialog_title">Limitando uso de dados</string>
     <string name="data_usage_limit_editor_title">Definir limite do uso de dados</string>
     <string name="data_usage_list_mobile">Celular</string>
@@ -1664,7 +1664,7 @@ Como o uso de dados é calculado pelo seu smartphone, e sua operadora pode enten
     <string name="debug_networking_category">Redes</string>
     <string name="debug_view_attributes">Ativar visualização de atributos</string>
     <string name="decline_remote_bugreport_action">Recusar</string>
-    <string name="decryption_settings_summary">O smartphone não está criptografado</string>
+    <string name="decryption_settings_summary">O telefone não está criptografado</string>
     <string name="defalut_launcher_title">Tela inicial padrão</string>
     <string name="default_admin_support_msg">Se você tiver perguntas, entre em contato com o administrador de TI</string>
     <string name="default_app">Padrão</string>
@@ -1779,14 +1779,14 @@ Como o uso de dados é calculado pelo seu smartphone, e sua operadora pode enten
     <string name="devices_title">Dispositivos</string>
     <string name="dial_application_title">Discar</string>
     <string name="dial_pad_tones_title">Tons do teclado</string>
-    <string name="dialog_background_check_message">"Não é possível gerenciar a bateria do smartphone normalmente, porque o aplicativo %1$s o mantém ativado.
+    <string name="dialog_background_check_message">"Não é possível gerenciar a bateria do telefone normalmente, porque o aplicativo %1$s o mantém ativado.
 
 Para tentar resolver esse problema, você pode forçar a parada do aplicativo %1$s e impedi-lo de executar no segundo plano."</string>
     <string name="dialog_background_check_ok">Desativar</string>
     <string name="dialog_background_check_title">Desativar uso em segundo plano e parar o aplicativo?</string>
     <string name="dialog_chose_item">Selecione um item para mostrar</string>
     <string name="dialog_content_login">Fazer o login em sua Conta Mi para atualizar?</string>
-    <string name="dialog_location_message">"Não é possível gerenciar a bateria do smartphone normalmente, porque o %1$s solicita sua localização constantemente quando você não está usando o aplicativo.
+    <string name="dialog_location_message">"Não é possível gerenciar a bateria do telefone normalmente, porque o %1$s solicita sua localização constantemente quando você não está usando o aplicativo.
 
 Para resolver esse problema, desative a localização para esse aplicativo."</string>
     <string name="dialog_location_ok">Desativar</string>
@@ -1798,12 +1798,12 @@ Para resolver esse problema, desative a localização para esse aplicativo."</st
     <string name="dialog_restrict_all_wlan_title">Restringir conexão Wi-Fi</string>
     <string name="dialog_restrict_negative">Restringir</string>
     <string name="dialog_restrict_positive">Cancelar</string>
-    <string name="dialog_stop_message">"Não é possível gerenciar a bateria do smartphone normalmente, porque o aplicativo %1$s o mantém ativado.
+    <string name="dialog_stop_message">"Não é possível gerenciar a bateria do telefone normalmente, porque o aplicativo %1$s o mantém ativado.
 
 Para tentar resolver esse problema, você pode forçar a parada do aplicativo.
 
 Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melhorar o desempenho da bateria."</string>
-    <string name="dialog_stop_message_wakeup_alarm">"Não é possível gerenciar a bateria do smartphone normalmente, porque o aplicativo %1$s o mantém ativado.
+    <string name="dialog_stop_message_wakeup_alarm">"Não é possível gerenciar a bateria do telefone normalmente, porque o aplicativo %1$s o mantém ativado.
 
 Para tentar resolver esse problema, você pode forçar a parada do aplicativo %1$s.
 
@@ -2122,7 +2122,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="erase_application_description">Apagar aplicativos transferidos</string>
     <string name="erase_data">Apagar</string>
     <string name="erase_esim_storage">Limpar eSIM</string>
-    <string name="erase_esim_storage_description">Limpa todos os eSIMs no smartphone. Essa opção não cancela seu plano de serviços móveis.</string>
+    <string name="erase_esim_storage_description">Limpa todos os eSIMs no telefone. Essa opção não cancela seu plano de serviços móveis.</string>
     <string name="erase_external_storage">Apagar armazenamento USB</string>
     <string name="erase_external_storage_description">Apagar todos os dados do armazenamento USB interno, como músicas e fotos</string>
     <string name="erase_internal_storage">Apagar conteúdo armazenado</string>
@@ -2216,7 +2216,7 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="fingerprint_intro_error_max">Você adicionou o número máximo de impressões digitais</string>
     <string name="fingerprint_intro_error_unknown">Não é possível adicionar mais impressões digitais</string>
     <string name="fingerprint_last_delete_confirm">Sim, remover</string>
-    <string name="fingerprint_last_delete_message">Você não poderá usar suas impressões digitais para desbloquear o smartphone, autorizar compras ou fazer login em aplicativos.</string>
+    <string name="fingerprint_last_delete_message">Você não poderá usar suas impressões digitais para desbloquear o telefone, autorizar compras ou fazer login em aplicativos.</string>
     <string name="fingerprint_last_delete_message_profile_challenge">Você não poderá usar suas impressões digitais para desbloquear seu perfil de trabalho, autorizar compras ou fazer login em aplicativos de trabalho.</string>
     <string name="fingerprint_last_delete_title">Remover todas as impressões digitais?</string>
     <string name="fingerprint_list_title">Impressão digital</string>
@@ -2231,13 +2231,13 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="fingerprint_payment">Pagamentos por impressão digital</string>
     <string name="fingerprint_removal_failed">Não foi possível remover a impressão digital, tente novamente mais tarde</string>
     <string name="fingerprint_swipe_for_notifications_suggestion_title">Ver notificações rapidamente</string>
-    <string name="fingerprint_swipe_for_notifications_summary">Para ver suas notificações, deslize o dedo indicador para baixo no sensor de impressão digital localizado na parte traseira do smartphone.</string>
+    <string name="fingerprint_swipe_for_notifications_summary">Para ver suas notificações, deslize o dedo indicador para baixo no sensor de impressão digital localizado na parte traseira do telefone.</string>
     <string name="fingerprint_swipe_for_notifications_title">Usar impressão digital para ver as notificações</string>
     <string name="fingerprint_unlock_set_unlock_password">Impressão digital + senha</string>
     <string name="fingerprint_unlock_set_unlock_pattern">Impressão digital + padrão</string>
     <string name="fingerprint_unlock_set_unlock_pin">Impressão digital + PIN</string>
     <string name="fingerprint_unlock_skip_fingerprint">Continuar sem impressão digital</string>
-    <string name="fingerprint_unlock_title">É possível desbloquear seu smartphone usando sua impressão digital. Por razões de segurança, essa opção exige um bloqueio de tela alternativo.</string>
+    <string name="fingerprint_unlock_title">É possível desbloquear seu telefone usando sua impressão digital. Por razões de segurança, essa opção exige um bloqueio de tela alternativo.</string>
     <string name="fingerprint_usage_category_title">Usar impressão digital para</string>
     <string name="finish_application">Forçar parada</string>
     <string name="finish_button">Finalizar</string>
@@ -2385,7 +2385,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de aplicativo
     <string name="gallery_privacy_password_role_instruction">Suas fotos privadas serão armazenadas aqui.</string>
     <string name="game_controller_settings_category">Controlador de jogos</string>
     <string name="game_storage_settings">Jogos</string>
-    <string name="gesture_preference_summary">Gestos rápidos para controlar seu smartphone</string>
+    <string name="gesture_preference_summary">Gestos rápidos para controlar seu telefone</string>
     <string name="gesture_preference_title">Gestos</string>
     <string name="gesture_prevent_ringing_screen_title">Impedir toque</string>
     <string name="gesture_prevent_ringing_sound_title">Atalho para impedir toque</string>
@@ -2532,7 +2532,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="input_methods_settings_title">Entrada de texto</string>
     <string name="input_pattern_hint_text">Desenhe seu padrão de desbloqueio</string>
     <string name="input_settings">Configurações de entrada</string>
-    <string name="install_all_warning">Seu smartphone e seus dados pessoais estão mais vulneráveis a ataques de aplicativos desconhecidos. Ao instalar aplicativos dessa fonte, você concorda que é responsável por qualquer dano causado ao seu smartphone ou pela perda de dados que possa resultar do uso desses aplicativos.</string>
+    <string name="install_all_warning">Seu telefone e seus dados pessoais estão mais vulneráveis a ataques de aplicativos desconhecidos. Ao instalar aplicativos dessa fonte, você concorda que é responsável por qualquer dano causado ao seu telefone ou pela perda de dados que possa resultar do uso desses aplicativos.</string>
     <string name="install_applications">Fontes desconhecidas</string>
     <string name="install_applications_title">Permitir todas as origens</string>
     <string name="install_no_market_app_summary">Verificar aplicativos de terceiros por vírus antes de instalá-los</string>
@@ -2662,7 +2662,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="keywords_profile_challenge">desafio de trabalho, trabalho, perfil</string>
     <string name="keywords_quick_ball">Acesso rápido;atalho;atalhos;botões;botão</string>
     <string name="keywords_reset_apps">redefinir, preferências, padrão</string>
-    <string name="keywords_ring_vibration">funcionalidade tátil, vibrar, smartphone, chamar, sensibilidade</string>
+    <string name="keywords_ring_vibration">funcionalidade tátil, vibrar, telefone, chamar, sensibilidade</string>
     <string name="keywords_screen_timeout">tela, tempo até o bloqueio, tempo limite, tela de bloqueio</string>
     <string name="keywords_silent">Silencioso;Mudo;Desativar toque</string>
     <string name="keywords_sim_status">rede, estado da rede móvel, estado do serviço, potência do sinal, tipo de rede móvel, roaming, iccid</string>
@@ -2838,8 +2838,8 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="lock_profile_wipe_warning_content_password">Se você inserir uma senha de trabalho incorreta nesta tentativa, seu perfil de trabalho e dados associados a ele serão excluídos deste dispositivo.</string>
     <string name="lock_profile_wipe_warning_content_pattern">Se você inserir um padrão de desbloqueio de trabalho incorreto nesta tentativa, seu perfil de trabalho e dados associados a ele serão excluídos deste dispositivo.</string>
     <string name="lock_profile_wipe_warning_content_pin">Se você inserir um PIN de trabalho incorreto nesta tentativa, seu perfil de trabalho e dados associados a ele serão excluídos deste dispositivo.</string>
-    <string name="lock_screen_intro_skip_dialog_text">Os recursos de proteção do dispositivo não serão ativados. Você não poderá impedir que outras pessoas usem este smartphone se ele for perdido ou roubado.</string>
-    <string name="lock_screen_intro_skip_dialog_text_frp">Os recursos de proteção do dispositivo não serão ativados. Você não poderá impedir que outras pessoas usem este smartphone se ele for perdido, roubado ou redefinido.</string>
+    <string name="lock_screen_intro_skip_dialog_text">Os recursos de proteção do dispositivo não serão ativados. Você não poderá impedir que outras pessoas usem este telefone se ele for perdido ou roubado.</string>
+    <string name="lock_screen_intro_skip_dialog_text_frp">Os recursos de proteção do dispositivo não serão ativados. Você não poderá impedir que outras pessoas usem este telefone se ele for perdido, roubado ou redefinido.</string>
     <string name="lock_screen_intro_skip_title">Pular bloqueio de tela?</string>
     <string name="lock_screen_notifications_interstitial_message">Quando o dispositivo estiver bloqueado, como você deseja que as notificações sejam exibidas?</string>
     <string name="lock_screen_notifications_interstitial_message_profile">Como você deseja que as notificações sejam exibidas quando o dispositivo estiver bloqueado?</string>
@@ -2906,17 +2906,17 @@ para o segundo espaço"</string>
     <string name="lockpassword_confirm_workspace_password">Verificar senha do Espaço de trabalho</string>
     <string name="lockpassword_confirm_your_lock_password_header">Confirme sua senha</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">Confirme seu padrão</string>
-    <string name="lockpassword_confirm_your_password_details_frp">Seu smartphone foi redefinido para a configuração original. Para usá-lo, digite sua senha anterior.</string>
+    <string name="lockpassword_confirm_your_password_details_frp">Seu telefone foi redefinido para a configuração original. Para usá-lo, digite sua senha anterior.</string>
     <string name="lockpassword_confirm_your_password_generic">Insira a senha do seu dispositivo para continuar.</string>
     <string name="lockpassword_confirm_your_password_generic_profile">Digite sua senha de trabalho para continuar</string>
     <string name="lockpassword_confirm_your_password_header">Confirmar senha</string>
     <string name="lockpassword_confirm_your_password_header_frp">Verificar senha</string>
-    <string name="lockpassword_confirm_your_pattern_details_frp">Seu smartphone foi redefinido para a configuração original. Para usá-lo, digite seu padrão anterior.</string>
+    <string name="lockpassword_confirm_your_pattern_details_frp">Seu telefone foi redefinido para a configuração original. Para usá-lo, digite seu padrão anterior.</string>
     <string name="lockpassword_confirm_your_pattern_generic">Use o padrão de desbloqueio do seu dispositivo para continuar.</string>
     <string name="lockpassword_confirm_your_pattern_generic_profile">Use seu padrão de trabalho para continuar</string>
     <string name="lockpassword_confirm_your_pattern_header">Confirmar padrão</string>
     <string name="lockpassword_confirm_your_pattern_header_frp">Verificar padrão</string>
-    <string name="lockpassword_confirm_your_pin_details_frp">Seu smartphone foi redefinido para a configuração original. Para usá-lo, digite seu PIN anterior.</string>
+    <string name="lockpassword_confirm_your_pin_details_frp">Seu telefone foi redefinido para a configuração original. Para usá-lo, digite seu PIN anterior.</string>
     <string name="lockpassword_confirm_your_pin_generic">Insira o PIN do seu dispositivo para continuar.</string>
     <string name="lockpassword_confirm_your_pin_generic_profile">Digite seu PIN de trabalho para continuar</string>
     <string name="lockpassword_confirm_your_pin_header">Confirmar PIN</string>
@@ -3051,9 +3051,9 @@ No momento você está conectado às seguintes contas:
     <string name="master_clear_apply_step_1"><b>Redefinir o telefone apagará todos os dados em seu telefone</b>, incluindo fotos, músicas, anotações, e outros dados pessoais. Certifique-se de que você tenha um backup de todos os seus itens importantes em um computador, por exemplo.</string>
     <string name="master_clear_apply_step_2">Certifique-se de que você tenha um backup de todos os seus itens importantes em um computador. Todos os dados neste dispositivo serão apagados durante a restauração. <b>Você não será capaz de salvar itens dos quais você não fizer o backup.</b></string>
     <string name="master_clear_apply_title">Atenção</string>
-    <string name="master_clear_button_text">Redefinir smartphone</string>
+    <string name="master_clear_button_text">Redefinir telefone</string>
     <string name="master_clear_confirm_title">Redefinir?</string>
-    <string name="master_clear_desc">Esta ação apagará todos os dados do <b>armazenamento interno</b>" de seu smartphone, incluindo:
+    <string name="master_clear_desc">Esta ação apagará todos os dados do <b>armazenamento interno</b>" de seu telefone, incluindo:
 
 "<li>Sua Conta do Google</li>"
 "<li>Configurações e dados do sistema e dos aplicativos</li>"
@@ -3432,7 +3432,7 @@ Selecione seu sistema operacional:"</string>
     <string name="networks_title">Redes móveis</string>
     <string name="never">Nunca</string>
     <string name="new_backup_pw_prompt">Digite uma nova senha para backups completos aqui</string>
-    <string name="new_device_suggestion_summary">Faça um tour pelo seu novo smartphone</string>
+    <string name="new_device_suggestion_summary">Faça um tour pelo seu novo telefone</string>
     <string name="new_device_suggestion_title">O que há de novo e empolgante?</string>
     <string name="new_password_to_new_fingerprint_dialog_msg">Adicione sua impressão digital para desbloquear seu telefone com ela.</string>
     <string name="new_password_to_new_fingerprint_dialog_negative_msg">Cancelar</string>
@@ -3443,7 +3443,7 @@ Selecione seu sistema operacional:"</string>
     <string name="nfc_category_title">NFC</string>
     <string name="nfc_disclaimer_content">O NFC troca dados entre este dispositivo e outros dispositivos ou alvos nas proximidades, tais como terminais de pagamento, leitores de acesso e tags ou anúncios interativos.</string>
     <string name="nfc_disclaimer_title">Ativar NFC</string>
-    <string name="nfc_how_it_works_content">Configure um aplicativo de pagamento. Em seguida, basta segurar a parte traseira do seu smartphone em direção a qualquer terminal com o símbolo indicando ausência de contato.</string>
+    <string name="nfc_how_it_works_content">Configure um aplicativo de pagamento. Em seguida, basta segurar a parte traseira do seu telefone em direção a qualquer terminal com o símbolo indicando ausência de contato.</string>
     <string name="nfc_how_it_works_got_it">Entendi</string>
     <string name="nfc_how_it_works_title">Como pagar no terminal</string>
     <string name="nfc_more_title">Mais…</string>
@@ -3452,7 +3452,7 @@ Selecione seu sistema operacional:"</string>
     <string name="nfc_payment_favor_default">Sempre usar o aplicativo padrão</string>
     <string name="nfc_payment_favor_open">Substituir aplicativo padrão quando outro aplicativo de pagamento estiver aberto</string>
     <string name="nfc_payment_how_it_works">Como funciona</string>
-    <string name="nfc_payment_no_apps">Pague com seu smartphone nas lojas</string>
+    <string name="nfc_payment_no_apps">Pague com seu telefone nas lojas</string>
     <string name="nfc_payment_pay_with">Em um terminal \"Toque e pague\", pagar com:</string>
     <string name="nfc_payment_set_default">Sempre usar o aplicativo %1$s com \"Toque e pague\"?</string>
     <string name="nfc_payment_set_default_instead_of">Sempre usar o %1$s em vez do %2$s ao tocar e pagar?</string>
@@ -4227,7 +4227,7 @@ Interface UT: %5$s"</string>
     <string name="reset_app_preferences_title">Redefinir aplicativos?</string>
     <string name="reset_dashboard_summary">A rede, os aplicativos ou o dispositivo podem ser redefinidos</string>
     <string name="reset_dashboard_title">Redefinir opções</string>
-    <string name="reset_esim_desc">Limpar todos os eSIMs no smartphone. Você precisará entrar em contato com a operadora para fazer o download deles novamente. Esta opção não cancela seu plano de serviços móveis.</string>
+    <string name="reset_esim_desc">Limpar todos os eSIMs no telefone. Você precisará entrar em contato com a operadora para fazer o download deles novamente. Esta opção não cancela seu plano de serviços móveis.</string>
     <string name="reset_esim_error_msg">Não é possível redefinir os eSIMs devido a um erro.</string>
     <string name="reset_esim_error_title">Não é possível redefinir os eSIMs</string>
     <string name="reset_esim_title">Também redefinir o eSIM</string>
@@ -4276,7 +4276,7 @@ Interface UT: %5$s"</string>
     <string name="restriction_location_enable_title">Localização</string>
     <string name="restriction_menu_change_pin">Alterar PIN</string>
     <string name="restriction_menu_reset">Remover restrições</string>
-    <string name="restriction_nfc_enable_summary">Permitir troca de dados quando o smartphone encostar em outro dispositivo</string>
+    <string name="restriction_nfc_enable_summary">Permitir troca de dados quando o telefone encostar em outro dispositivo</string>
     <string name="restriction_nfc_enable_summary_config">Permitir troca de dados quando este %1$s tocar em outro dispositivo NFC</string>
     <string name="restriction_nfc_enable_title">NFC</string>
     <string name="restriction_settings_title">Restrições</string>
@@ -4450,7 +4450,7 @@ Para usar a fixação de tela:
     <string name="screen_zoom_title">Tamanho da exibição</string>
     <string name="screensaver_settings_button">Configurações</string>
     <string name="screensaver_settings_current">Protetor de tela atual</string>
-    <string name="screensaver_settings_disabled_prompt">Para controlar o que acontece quando o smartphone está ancorado e/ou no modo de suspensão, ative o protetor de tela.</string>
+    <string name="screensaver_settings_disabled_prompt">Para controlar o que acontece quando o telefone está ancorado e/ou no modo de suspensão, ative o protetor de tela.</string>
     <string name="screensaver_settings_dream_start">Começar agora</string>
     <string name="screensaver_settings_summary_dock">Quando ancorado</string>
     <string name="screensaver_settings_summary_either_long">Ao carregar ou quando ancorado</string>
@@ -4724,7 +4724,7 @@ Para usar a fixação de tela:
     <string name="security_settings_fingerprint_enroll_dialog_delete">Excluir</string>
     <string name="security_settings_fingerprint_enroll_dialog_name_label">Nome</string>
     <string name="security_settings_fingerprint_enroll_dialog_ok">Ok</string>
-    <string name="security_settings_fingerprint_enroll_disclaimer">Além de desbloquear seu smartphone, também é possível usar sua impressão digital para autorizar compras e acesso a aplicativos. <annotation id="url">Saiba mais</annotation></string>
+    <string name="security_settings_fingerprint_enroll_disclaimer">Além de desbloquear seu telefone, também é possível usar sua impressão digital para autorizar compras e acesso a aplicativos. <annotation id="url">Saiba mais</annotation></string>
     <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" A opção de bloqueio de tela está desativada. Para saber mais, entre em contato com o administrador da sua organização. "<annotation id="admin_details">Mais detalhes</annotation>"
 
 Você ainda pode usar sua impressão digital para autorizar compras e acessar aplicativos. "<annotation id="url">Saiba mais</annotation></string>
@@ -4734,7 +4734,7 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">O registro da impressão digital não funcionou. Tente novamente ou use um dedo diferente.</string>
     <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Prazo de registro de impressões digitais atingido. Tente novamente.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Ilustração mostrando a localização do sensor de impressão digital no dispositivo</string>
-    <string name="security_settings_fingerprint_enroll_find_sensor_message">Ele fica na parte traseira do seu smartphone. Use o dedo indicador.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Ele fica na parte traseira do seu telefone. Use o dedo indicador.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_title">Toque no sensor</string>
     <string name="security_settings_fingerprint_enroll_finish_message">Sempre que este ícone for exibido, use sua impressão digital para se identificar ou aprovar compras</string>
     <string name="security_settings_fingerprint_enroll_finish_title">Impressão digital adicionada</string>
@@ -4742,13 +4742,13 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Pular</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue">Continuar</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Próxima</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message">"Basta tocar no sensor de impressão digital para desbloquear seu smartphone, autorizar compras ou fazer login em aplicativos. Tome cuidado com as impressões digitais que adicionar. Uma única digital adicionada pode realizar todas essas ações.
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Basta tocar no sensor de impressão digital para desbloquear seu telefone, autorizar compras ou fazer login em aplicativos. Tome cuidado com as impressões digitais que adicionar. Uma única digital adicionada pode realizar todas essas ações.
 
 Observação: sua impressão digital pode ser menos segura que um PIN ou padrão forte."</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Use sua impressão digital para desbloquear o smartphone ou aprovar compras.
+    <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Use sua impressão digital para desbloquear o telefone ou aprovar compras.
 
 Observação: usar um padrão ou um PIN forte pode ser mais seguro que sua impressão digital."</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Use sua impressão digital para desbloquear o smartphone ou aprovar compras.
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Use sua impressão digital para desbloquear o telefone ou aprovar compras.
 
 Nota: não é possível usar sua impressão digital para desbloquear este dispositivo. Para mais informações, entre em contato com o administrador da organização."</string>
     <string name="security_settings_fingerprint_enroll_introduction_title">Desbloqueio com digital</string>
@@ -4759,7 +4759,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="security_settings_fingerprint_enroll_setup_screen_lock">Configurar bloqueio de tela</string>
     <string name="security_settings_fingerprint_enroll_start_message">Encoste o dedo no sensor e levante após sentir uma vibração</string>
     <string name="security_settings_fingerprint_enroll_start_title">Toque no sensor</string>
-    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Toque no sensor na parte traseira do smartphone. Use o dedo indicador.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Toque no sensor na parte traseira do telefone. Use o dedo indicador.</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_title">Opa, este não é o sensor</string>
     <string name="security_settings_fingerprint_preference_summary_none" />
     <string name="security_settings_fingerprint_preference_title">Impressão digital</string>
@@ -4833,14 +4833,14 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="setup_choose_unlock_pattern">Padrão</string>
     <string name="setup_choose_unlock_pattern_title">Desenhe o padrão de desbloqueio</string>
     <string name="setup_choose_unlock_type_title">Definir senha</string>
-    <string name="setup_fingerprint_enroll_enrolling_skip_message">Você optou por usar a impressão digital como uma maneira de desbloquear seu smartphone. Se você pular agora, precisará fazer essa configuração mais tarde. A configuração demora apenas um minuto aproximadamente.</string>
+    <string name="setup_fingerprint_enroll_enrolling_skip_message">Você optou por usar a impressão digital como uma maneira de desbloquear seu telefone. Se você pular agora, precisará fazer essa configuração mais tarde. A configuração demora apenas um minuto aproximadamente.</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title">Pular configuração da impressão digital?</string>
     <string name="setup_fingerprint_enroll_skip_after_adding_lock_text">A configuração da impressão digital leva apenas um ou dois minutos. Se você pular essa etapa, poderá adicionar sua impressão digital mais tarde nas configurações.</string>
     <string name="setup_fingerprint_enroll_skip_title">Pular impressão digital?</string>
     <string name="setup_lock_settings_options_button_label">Opções de bloqueio de tela</string>
     <string name="setup_lock_settings_options_dialog_title">Opções de bloqueio de tela</string>
-    <string name="setup_lock_settings_picker_message">Para impedir que outras pessoas usem este smartphone sem sua autorização, ative os recursos de proteção de dispositivo. Escolha o bloqueio de tela que você quer usar.</string>
-    <string name="setup_lock_settings_picker_title">Proteger o smartphone</string>
+    <string name="setup_lock_settings_picker_message">Para impedir que outras pessoas usem este telefone sem sua autorização, ative os recursos de proteção de dispositivo. Escolha o bloqueio de tela que você quer usar.</string>
+    <string name="setup_lock_settings_picker_title">Proteger o telefone</string>
     <string name="setup_password_back">Voltar</string>
     <string name="setup_password_confirm">OK</string>
     <string name="setup_wifi_nfc_tag">Configurar etiqueta NFC Wi-Fi</string>
@@ -5312,9 +5312,9 @@ A formatação limpará todo o conteúdo já existente no ^2. Faça backup do se
     <string name="storage_wizard_init_v2_external_action">Armazenamento portátil</string>
     <string name="storage_wizard_init_v2_external_summary">Para transferir arquivos e mídia entre dispositivos</string>
     <string name="storage_wizard_init_v2_external_title">Usar como armazenamento portátil</string>
-    <string name="storage_wizard_init_v2_internal_action">Armazenamento do smartphone</string>
-    <string name="storage_wizard_init_v2_internal_summary">Apenas para aplicativos, arquivos e mídia deste smartphone</string>
-    <string name="storage_wizard_init_v2_internal_title">Usar como armaz. extra do smartphone</string>
+    <string name="storage_wizard_init_v2_internal_action">Armazenamento do telefone</string>
+    <string name="storage_wizard_init_v2_internal_summary">Apenas para aplicativos, arquivos e mídia deste telefone</string>
+    <string name="storage_wizard_init_v2_internal_title">Usar como armaz. extra do telefone</string>
     <string name="storage_wizard_init_v2_later">Configurar mais tarde</string>
     <string name="storage_wizard_init_v2_or">Ou</string>
     <string name="storage_wizard_init_v2_title">Como você usará este ^1?</string>
@@ -5334,10 +5334,10 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="storage_wizard_migrate_title">Mover dados para novo armazenamento</string>
     <string name="storage_wizard_migrate_v2_body">"É possível mover arquivos, mídia e alguns aplicativos para este ^1. 
 
-Essa transferência liberará ^2 do armazenamento do seu smartphone e deve levar cerca de ^3."</string>
+Essa transferência liberará ^2 do armazenamento do seu telefone e deve levar cerca de ^3."</string>
     <string name="storage_wizard_migrate_v2_checklist">Durante a transferência:</string>
     <string name="storage_wizard_migrate_v2_checklist_apps">alguns aplicativos não funcionarão;</string>
-    <string name="storage_wizard_migrate_v2_checklist_battery">mantenha o smartphone carregado;</string>
+    <string name="storage_wizard_migrate_v2_checklist_battery">mantenha o telefone carregado;</string>
     <string name="storage_wizard_migrate_v2_checklist_media">não remova o ^1.</string>
     <string name="storage_wizard_migrate_v2_later">Mover conteúdo mais tarde</string>
     <string name="storage_wizard_migrate_v2_now">Mover conteúdo</string>
@@ -5386,8 +5386,8 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="suggest_unrestrict_max_aspect_ratio_title">Estes aplicativos funcionam melhor em tela cheia</string>
     <string name="suggested_fingerprint_lock_settings_summary" />
     <string name="suggested_fingerprint_lock_settings_title">Adicionar impressão digital para desbloqueio</string>
-    <string name="suggested_lock_settings_summary">Definir bloqueio de tela para proteger o smartphone</string>
-    <string name="suggested_lock_settings_title">Proteger seu smartphone</string>
+    <string name="suggested_lock_settings_summary">Definir bloqueio de tela para proteger o telefone</string>
+    <string name="suggested_lock_settings_title">Proteger seu telefone</string>
     <string name="suggestion_additional_fingerprints">Adicionar outra impressão digital</string>
     <string name="suggestion_additional_fingerprints_summary">Desbloqueie com um dedo diferente</string>
     <string name="suggestion_button_text">Ok</string>
@@ -5650,7 +5650,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="unlock_disable_frp_warning_content_password">Os recursos de proteção do dispositivo não funcionarão sem sua senha.</string>
     <string name="unlock_disable_frp_warning_content_password_fingerprint">"Os recursos de proteção do dispositivo não funcionarão sem sua senha.
 
-Suas impressões digitais salvas também serão removidas deste dispositivo e não será possível desbloquear o smartphone, autorizar compras ou fazer login em aplicativos com elas."</string>
+Suas impressões digitais salvas também serão removidas deste dispositivo e não será possível desbloquear o telefone, autorizar compras ou fazer login em aplicativos com elas."</string>
     <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Os recursos de proteção de perfil não funcionarão sem sua senha.
 
 Suas impressões digitais salvas também serão removidas deste perfil e não será possível desbloquear o perfil, autorizar compras ou fazer login em aplicativos com elas."</string>
@@ -5658,7 +5658,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="unlock_disable_frp_warning_content_pattern">Os recursos de proteção do dispositivo não funcionarão sem seu padrão.</string>
     <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Os recursos de proteção do dispositivo não funcionarão sem seu padrão.
 
-Suas impressões digitais salvas também serão removidas deste dispositivo e não será possível desbloquear o smartphone, autorizar compras ou fazer login em aplicativos com elas."</string>
+Suas impressões digitais salvas também serão removidas deste dispositivo e não será possível desbloquear o telefone, autorizar compras ou fazer login em aplicativos com elas."</string>
     <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Os recursos de proteção de perfil não funcionarão sem seu padrão.
 
 Suas impressões digitais salvas também serão removidas deste perfil e não será possível desbloquear o perfil, autorizar compras ou fazer login em aplicativos com elas."</string>
@@ -5666,7 +5666,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="unlock_disable_frp_warning_content_pin">Os recursos de proteção do dispositivo não funcionarão sem seu PIN.</string>
     <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Os recursos de proteção do dispositivo não funcionarão sem seu PIN.
 
-Suas impressões digitais salvas também serão removidas deste dispositivo e não será possível desbloquear o smartphone, autorizar compras ou fazer login em aplicativos com elas."</string>
+Suas impressões digitais salvas também serão removidas deste dispositivo e não será possível desbloquear o telefone, autorizar compras ou fazer login em aplicativos com elas."</string>
     <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Os recursos de proteção de perfil não funcionarão sem seu PIN.
 
 Suas impressões digitais salvas também serão removidas deste perfil e não será possível desbloquear o perfil, autorizar compras ou fazer login em aplicativos com elas."</string>
@@ -5675,7 +5675,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="unlock_disable_frp_warning_content_unknown">Os recursos de proteção do dispositivo não funcionarão sem seu bloqueio de tela.</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Os recursos de proteção do dispositivo não funcionarão sem seu bloqueio de tela.
 
-Suas impressões digitais salvas também serão removidas deste dispositivo e não será possível desbloquear o smartphone, autorizar compras ou fazer login em aplicativos com elas."</string>
+Suas impressões digitais salvas também serão removidas deste dispositivo e não será possível desbloquear o telefone, autorizar compras ou fazer login em aplicativos com elas."</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Os recursos de proteção de perfil não funcionarão sem seu bloqueio de tela.
 
 Suas impressões digitais salvas também serão removidas deste perfil e não será possível desbloquear o perfil, autorizar compras ou fazer login em aplicativos com elas."</string>
@@ -5722,7 +5722,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="unrestricted_app_summary">Permitir acesso irrestrito a dados quando Econ. de dados estiver ativ.</string>
     <string name="unrestricted_app_title">Uso irrestrito de dados</string>
     <string name="unrestricted_data_saver">Dados irrestritos</string>
-    <string name="unsupported_setting_summary">A configuração não está disponível neste smartphone</string>
+    <string name="unsupported_setting_summary">A configuração não está disponível neste telefone</string>
     <string name="update_new_version">Atualização disponível</string>
     <string name="update_progress_for_updates">Atualizando (%s)</string>
     <string name="upload_debug_log_summary">Estatísticas de uso que nos ajudam a localizar e corrigir problemas podem conter suas informações pessoais</string>
@@ -5764,7 +5764,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="usb_control_device">Este dispositivo</string>
     <string name="usb_control_host">Dispositivo conectado</string>
     <string name="usb_control_title">USB controlado por</string>
-    <string name="usb_default_info">Quando outro dispositivo estiver conectado e seu smartphone estiver desbloqueado, essas configurações serão aplicadas. Conecte-se apenas a dispositivos confiáveis.</string>
+    <string name="usb_default_info">Quando outro dispositivo estiver conectado e seu telefone estiver desbloqueado, essas configurações serão aplicadas. Conecte-se apenas a dispositivos confiáveis.</string>
     <string name="usb_default_label">Configuração USB padrão</string>
     <string name="usb_eject">Ejetar armazenamento USB</string>
     <string name="usb_eject_summary">Ejetar armazenamento USB para removê-lo com segurança</string>
@@ -5806,7 +5806,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="usb_tethering_button_text">Ancoragem USB</string>
     <string name="usb_tethering_errored_subtext">Erro na ancoragem USB</string>
     <string name="usb_tethering_storage_active_subtext">Não é possível usar a ancoragem quando o armazenamento USB está em uso</string>
-    <string name="usb_tethering_subtext">Compartilhar conexão com a Internet do smartphone via USB</string>
+    <string name="usb_tethering_subtext">Compartilhar conexão com a Internet do telefone via USB</string>
     <string name="usb_tethering_unavailable_subtext">USB não conectado</string>
     <string name="usb_title">USB</string>
     <string name="usb_use">Usar USB para</string>
@@ -6219,7 +6219,7 @@ Toque no + para adicionar palavras."</string>
     <string name="wifi_calling_mode_dialog_title">Modo de chamada por Wi-Fi</string>
     <string name="wifi_calling_mode_title">Preferência de chamadas</string>
     <string name="wifi_calling_not_supported">Chamadas no Wi-Fi não são compatíveis com a %1$s</string>
-    <string name="wifi_calling_off_explanation">Quando a chamada por Wi-Fi está ativada, seu smartphone pode enviar chamadas por redes Wi-Fi ou pela rede da sua operadora, dependendo da sua preferência e de qual sinal está mais forte. Antes de ativar esse recurso, verifique as taxas e outros detalhes com sua operadora.</string>
+    <string name="wifi_calling_off_explanation">Quando a chamada por Wi-Fi está ativada, seu telefone pode enviar chamadas por redes Wi-Fi ou pela rede da sua operadora, dependendo da sua preferência e de qual sinal está mais forte. Antes de ativar esse recurso, verifique as taxas e outros detalhes com sua operadora.</string>
     <string name="wifi_calling_off_explanation_2" />
     <string name="wifi_calling_pref_managed_by_carrier">Configuração gerenciada pela operadora</string>
     <string name="wifi_calling_roaming_mode_dialog_title">Preferências de roaming</string>
@@ -6325,7 +6325,7 @@ Toque no + para adicionar palavras."</string>
     <string name="wifi_hidden_network">Rede oculta</string>
     <string name="wifi_hidden_network_warning">"Se seu roteador não estiver transmitindo um código de rede, mas você quiser se conectar a ele no futuro, configure a rede como oculta.
 
-Isso pode gerar um risco à segurança, porque seu smartphone transmitirá regularmente o próprio sinal para encontrar a rede.
+Isso pode gerar um risco à segurança, porque seu telefone transmitirá regularmente o próprio sinal para encontrar a rede.
 
 A configuração da rede como oculta não altera as configurações do seu roteador."</string>
     <string name="wifi_hide_password">Ocultar senha</string>
@@ -6346,7 +6346,7 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_hotspot_off_subtext">Não está compartilhando a Internet ou conteúdo com outros dispositivos</string>
     <string name="wifi_hotspot_on_local_only_subtext">O aplicativo está compartilhando conteúdo. Para compartilhar a conexão com a Internet, desative e ative o ponto de acesso</string>
     <string name="wifi_hotspot_password_title">Senha do ponto de acesso</string>
-    <string name="wifi_hotspot_tethering_on_subtext">Compartilhando a conexão com a Internet deste smartphone via ponto de acesso</string>
+    <string name="wifi_hotspot_tethering_on_subtext">Compartilhando a conexão com a Internet deste telefone via ponto de acesso</string>
     <string name="wifi_hotspot_title">Fazer login para conectar?</string>
     <string name="wifi_in_airplane_mode">No modo avião</string>
     <string name="wifi_info_reconnect">Não foi possível conectar-se, tente novamente.</string>
@@ -6727,7 +6727,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="zen_mode_automation_settings_page_title">Regras automáticas</string>
     <string name="zen_mode_automation_settings_title">Ativar automaticamente</string>
     <string name="zen_mode_automation_suggestion_summary">Definir regras do modo \"Não perturbe\"</string>
-    <string name="zen_mode_automation_suggestion_title">Silenciar smartphone em horários específicos</string>
+    <string name="zen_mode_automation_suggestion_title">Silenciar telefone em horários específicos</string>
     <string name="zen_mode_behavior_alarms_only">Sem som, exceto alarmes e mídia</string>
     <string name="zen_mode_behavior_allow_title">Permitir sons e vibrações de</string>
     <string name="zen_mode_behavior_no_sound">Sem som</string>
@@ -6751,7 +6751,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="zen_mode_block_effect_summary_sound">Som e vibração</string>
     <string name="zen_mode_block_effects_screen_off">Quado a tela estiver desligada</string>
     <string name="zen_mode_block_effects_screen_on">Quando a tela estiver ligada</string>
-    <string name="zen_mode_blocked_effects_footer">As notificações necessárias para atividades básicas do smartphone e o status nunca serão ocultados</string>
+    <string name="zen_mode_blocked_effects_footer">As notificações necessárias para atividades básicas do telefone e o status nunca serão ocultados</string>
     <string name="zen_mode_button_turn_off">Desativar agora</string>
     <string name="zen_mode_button_turn_on">Ativar agora</string>
     <string name="zen_mode_calls">Chamadas</string>
@@ -6812,12 +6812,12 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="zen_mode_restrict_notifications_disable_custom">Remover configuração personalizada</string>
     <string name="zen_mode_restrict_notifications_enable_custom">Ativar configuração personalizada</string>
     <string name="zen_mode_restrict_notifications_hide">Sem aviso visual ou sonoro de notificações</string>
-    <string name="zen_mode_restrict_notifications_hide_footer">"Não serão exibidas notificações novas ou existentes no seu smartphone, e ele não emitirá nenhum som ou vibração. As notificações não serão exibidas quando você deslizar a tela de cima para baixo.
+    <string name="zen_mode_restrict_notifications_hide_footer">"Não serão exibidas notificações novas ou existentes no seu telefone, e ele não emitirá nenhum som ou vibração. As notificações não serão exibidas quando você deslizar a tela de cima para baixo.
 
-Observações importantes: as notificações críticas para atividades e status do smartphone ainda serão exibidas."</string>
+Observações importantes: as notificações críticas para atividades e status do telefone ainda serão exibidas."</string>
     <string name="zen_mode_restrict_notifications_hide_summary">Você não verá nem ouvirá notificações</string>
     <string name="zen_mode_restrict_notifications_mute">Sem som de notificações</string>
-    <string name="zen_mode_restrict_notifications_mute_footer">Quando houver notificações, o smartphone não emitirá nenhum som ou vibração.</string>
+    <string name="zen_mode_restrict_notifications_mute_footer">Quando houver notificações, o telefone não emitirá nenhum som ou vibração.</string>
     <string name="zen_mode_restrict_notifications_mute_summary">Você verá notificações na sua tela</string>
     <string name="zen_mode_restrict_notifications_summary_custom">Parcialmente ocultas</string>
     <string name="zen_mode_restrict_notifications_summary_hidden">Sem aviso visual ou sonoro de notificações</string>

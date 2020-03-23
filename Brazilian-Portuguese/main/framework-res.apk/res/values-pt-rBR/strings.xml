@@ -115,14 +115,14 @@
     <string name="allow">Permitir</string>
     <string name="alwaysUse">Usar como padrão para esta ação.</string>
     <string name="android_preparing_apk">Preparando %1$s.</string>
-    <string name="android_start_title">O smartphone está iniciando…</string>
+    <string name="android_start_title">O telefone está iniciando…</string>
     <string name="android_system_label">Sistema Android</string>
     <string name="android_upgrading_apk">Otimizando aplicativo %1$d de %2$d.</string>
     <string name="android_upgrading_complete">Concluindo a inicialização.</string>
     <string name="android_upgrading_fstrim">Otimizando o armazenamento.</string>
     <string name="android_upgrading_notification_title">Concluindo atualização do sistema…</string>
     <string name="android_upgrading_starting_apps">Iniciando aplicativos.</string>
-    <string name="android_upgrading_title">O smartphone está sendo atualizado…</string>
+    <string name="android_upgrading_title">O telefone está sendo atualizado…</string>
     <string name="anr_activity_application">%2$s não está respondendo</string>
     <string name="anr_activity_process">%1$s não está respondendo</string>
     <string name="anr_application_process">%1$s não está respondendo</string>
@@ -821,7 +821,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="mmcc_imsi_unknown_in_hlr_msim_template">SIM %d não aprovisionado</string>
     <string name="mmiComplete">MMI concluído.</string>
     <string name="mmiError">Problema de conexão ou código MMI inválido.</string>
-    <string name="mmiErrorWhileRoaming">Não é possível alterar as configurações de encaminhamento de chamada do seu smartphone em roaming.</string>
+    <string name="mmiErrorWhileRoaming">Não é possível alterar as configurações de encaminhamento de chamada do seu telefone em roaming.</string>
     <string name="mmiFdnError">A operação é limitada somente a números de chamadas fixas.</string>
     <string name="more_item_label">Mais</string>
     <string name="muted_by">%1$s está silenciando alguns sons</string>
@@ -912,9 +912,9 @@ Tente novamente em %2$d segundos."</string>
     <string name="peerTtyModeVco">TTD modo VCO solicitado</string>
     <string name="perm_costs_money">isso pode lhe custar dinheiro</string>
     <string name="permdesc_acceptHandovers">Permite que o aplicativo continue uma chamada que foi iniciada em outro aplicativo.</string>
-    <string name="permdesc_accessCoarseLocation">Este aplicativo pode ver seu local com base nas fontes de rede, como torres de celular e redes Wi-Fi. Esses serviços de localização precisam estar ativados e disponíveis no seu smartphone para que o aplicativo possa usá-los.</string>
+    <string name="permdesc_accessCoarseLocation">Este aplicativo pode ver seu local com base nas fontes de rede, como torres de celular e redes Wi-Fi. Esses serviços de localização precisam estar ativados e disponíveis no seu telefone para que o aplicativo possa usá-los.</string>
     <string name="permdesc_accessDrmCertificates">Permite que o aplicativo provisione e use certificados de DRM. Não deve ser necessário para aplicativos comuns.</string>
-    <string name="permdesc_accessFineLocation">Este aplicativo pode ver seu local com base no GPS ou nas fontes de localização da rede, como torres de celular e redes Wi-Fi. Esses serviços de localização precisam estar ativados e disponíveis no seu smartphone para que o aplicativo possa usá-los. Isso pode aumentar o consumo de bateria.</string>
+    <string name="permdesc_accessFineLocation">Este aplicativo pode ver seu local com base no GPS ou nas fontes de localização da rede, como torres de celular e redes Wi-Fi. Esses serviços de localização precisam estar ativados e disponíveis no seu telefone para que o aplicativo possa usá-los. Isso pode aumentar o consumo de bateria.</string>
     <string name="permdesc_accessImsCallService">Permite que o aplicativo use o serviço de mensagens instantâneas para fazer chamadas sem sua intervenção.</string>
     <string name="permdesc_accessLocationExtraCommands">Permite que o aplicativo acesse comandos do provedor não relacionados à localização. Isso pode permitir que o aplicativo interfira no funcionamento do GPS ou de outras fontes de localização.</string>
     <string name="permdesc_accessNetworkConditions">Permite que o aplicativo detecte observações nas condições da rede. Não deve ser necessário para aplicativos comuns.</string>
@@ -966,7 +966,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="permdesc_nfc">Permite que o aplicativo se comunique com leitores, cartões e etiqueta NFC (comunicação a curta distância).</string>
     <string name="permdesc_persistentActivity">Permite que o aplicativo torne partes de si mesmo persistentes na memória. Pode limitar a memória disponível para outros aplicativos, deixando o telefone mais lento.</string>
     <string name="permdesc_processOutgoingCalls">Permite que o aplicativo veja o número discado ao realizar uma chamada, com a opção de redirecionar a chamada para outro número ou abortá-la.</string>
-    <string name="permdesc_readCalendar">Este aplicativo pode ler todos os eventos da agenda armazenados no seu smartphone e compartilhar ou salvar os dados da sua agenda.</string>
+    <string name="permdesc_readCalendar">Este aplicativo pode ler todos os eventos da agenda armazenados no seu telefone e compartilhar ou salvar os dados da sua agenda.</string>
     <string name="permdesc_readCallLog">Este aplicativo pode ler seu histórico de chamadas.</string>
     <string name="permdesc_readCellBroadcasts">Permite que o aplicativo leia mensagens de difusão celular recebidas por seu dispositivo. Alertas de difusão celular são recebidos em alguns locais para avisar você de situações de emergência. aplicativos maliciosos podem interferir no desempenho ou funcionamento de seu dispositivo quando uma difusão celular de emergência é recebida.</string>
     <string name="permdesc_readContacts">Permite que o aplicativo leia dados dos contatos armazenados no telefone, incluindo a frequência com que você chamou, enviou e-mails ou se comunicou de qualquer outra forma com indivíduos específicos. Esta permissão autoriza o aplicativo a salvar seus dados de contato, e aplicativos maliciosos podem compartilhar esses dados de contato sem seu conhecimento.</string>
@@ -975,7 +975,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="permdesc_readNetworkUsageHistory">Permite que o aplicativo leia o histórico de uso da rede para redes e aplicativos específicos.</string>
     <string name="permdesc_readPhoneNumbers">Permite que o aplicativo acesse os número de telefone do dispositivo.</string>
     <string name="permdesc_readPhoneState">Permite que o aplicativo acesse os recursos de telefonia do dispositivo. Esta permissão autoriza o aplicativo a determinar o número de telefone e IDs de dispositivo, quando uma chamada está ativa, e o número remoto conectado a uma chamada.</string>
-    <string name="permdesc_readSms">Este aplicativo pode ler todas as mensagens SMS (de texto) armazenadas no seu smartphone.</string>
+    <string name="permdesc_readSms">Este aplicativo pode ler todas as mensagens SMS (de texto) armazenadas no seu telefone.</string>
     <string name="permdesc_readSyncSettings">Permite que o aplicativo leia as configurações de sincronização de uma conta. Por exemplo, pode determinar se o aplicativo People está sincronizado com uma conta.</string>
     <string name="permdesc_readSyncStats">Permite que um aplicativo acesse as estatísticas de sincronização de uma conta, incluindo a história dos eventos de sincronização e a quantidade de dados sincronizados.</string>
     <string name="permdesc_receiveBootCompleted">Permite que o aplicativo inicie-se logo que o sistema concluir a inicialização. Isso pode tornar a inicialização do telefone mais lenta e permitir que o aplicativo deixe o telefone mais lento por estar sempre em execução.</string>
@@ -1013,7 +1013,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="permdesc_use_sip">Permite que o aplicativo faça e receba chamadas SIP.</string>
     <string name="permdesc_vibrate">Permite que o aplicativo controle a vibração.</string>
     <string name="permdesc_wakeLock">Permite que o aplicativo impeça o telefone de entrar no modo de inatividade.</string>
-    <string name="permdesc_writeCalendar">Este aplicativo pode adicionar, remover ou alterar eventos da agenda no seu smartphone. Ele também pode enviar mensagens que aparentem ser de autoria do proprietário da agenda ou alterar eventos sem notificar o proprietário.</string>
+    <string name="permdesc_writeCalendar">Este aplicativo pode adicionar, remover ou alterar eventos da agenda no seu telefone. Ele também pode enviar mensagens que aparentem ser de autoria do proprietário da agenda ou alterar eventos sem notificar o proprietário.</string>
     <string name="permdesc_writeCallLog">Permite que o aplicativo modifique o registro de chamadas de seu telefone, incluindo dados sobre chamadas recebidas e efetuadas. aplicativos maliciosos podem usar esta permissão para apagar ou modificar seu registro de chamadas.</string>
     <string name="permdesc_writeContacts">Permite que o aplicativo modifique os dados dos contatos armazenados no telefone, incluindo a frequência com que você fez chamadas, enviou e-mails ou se comunicou de outras formas com contatos específicos. Esta permissão autoriza o aplicativo a excluir dados de contatos.</string>
     <string name="permdesc_writeGeolocationPermissions">Permite que o aplicativo modifique as permissões de geolocalização do navegador. aplicativos maliciosos podem usar isso para permitir o envio de informações locais para sites arbitrários.</string>
@@ -1196,9 +1196,9 @@ para a conta %s."</string>
     <string name="policydesc_resetPassword">Altera o bloqueio de tela.</string>
     <string name="policydesc_setGlobalProxy">Configura o proxy global do dispositivo para ser usado enquanto a política está ativada. Somente o proprietário do dispositivo pode definir o proxy global.</string>
     <string name="policydesc_watchLogin">Monitorar quantas vezes a senha foi digitada incorretamente ao desbloquear a tela e bloquear o telefone ou apagar todos os dados do telefone se a senha for digitada incorretamente muitas vezes.</string>
-    <string name="policydesc_watchLogin_secondaryUser">Monitora o número de senhas incorretas digitadas ao desbloquear a tela e bloqueia o smartphone ou limpa todos os dados do usuário se muitas senhas incorretas forem digitadas.</string>
+    <string name="policydesc_watchLogin_secondaryUser">Monitora o número de senhas incorretas digitadas ao desbloquear a tela e bloqueia o telefone ou limpa todos os dados do usuário se muitas senhas incorretas forem digitadas.</string>
     <string name="policydesc_wipeData">Apagar os dados do telefone sem aviso redefinindo a configuração original.</string>
-    <string name="policydesc_wipeData_secondaryUser">Limpa os dados do usuário neste smartphone sem aviso prévio.</string>
+    <string name="policydesc_wipeData_secondaryUser">Limpa os dados do usuário neste telefone sem aviso prévio.</string>
     <string name="policylab_disableCamera">Desativar câmeras</string>
     <string name="policylab_disableKeyguardFeatures">Desativar recursos bloq. de tela</string>
     <string name="policylab_encryptedStorage">Definir criptografia de armazenamento</string>
@@ -1473,7 +1473,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="usb_ptp_notification_title">PTP via USB ativado</string>
     <string name="usb_supplying_notification_title">Carregando dispositivo conectado via USB</string>
     <string name="usb_tether_notification_title">Ancoragem USB ativada</string>
-    <string name="usb_unsupported_audio_accessory_message">O dispositivo anexo não é compatível com esse smartphone. Toque para saber mais.</string>
+    <string name="usb_unsupported_audio_accessory_message">O dispositivo anexo não é compatível com esse telefone. Toque para saber mais.</string>
     <string name="usb_unsupported_audio_accessory_title">Acessório de áudio analógico detectado</string>
     <string name="use_a_different_app">Usar outro aplicativo</string>
     <string name="user_creation_account_exists">Permitir que %1$s crie um novo usuário com %2$s?</string>

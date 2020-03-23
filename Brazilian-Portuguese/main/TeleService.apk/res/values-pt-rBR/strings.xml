@@ -144,8 +144,8 @@
     <string name="bluetooth_disable_absolute_volume_summary">Desativa o recurso Bluetooth de volume absoluto em caso de problemas com o volume em dispositivos remotos, como volume excessivamente alto ou falta de controle.</string>
     <string name="bluetooth_disconnected">Desconectado</string>
     <string name="bluetooth_disconnecting">Desconectando…</string>
-    <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do smartphone</string>
-    <string name="bluetooth_headset_profile_summary_use_for">Usar para áudio do smartphone</string>
+    <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do telefone</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Usar para áudio do telefone</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Conectado a um aparelho auditivo</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Usar para aparelho auditivo</string>
     <string name="bluetooth_hearingaid_left_battery_level">Esquerdo: %1$s de bateria</string>
@@ -466,7 +466,7 @@ Seleção"</string>
     <string name="dialpad_three">3</string>
     <string name="dialpad_two">2</string>
     <string name="dialpad_zero">0</string>
-    <string name="direct_boot_unaware_dialog_message">Observação: após uma reinicialização, não é possível iniciar este aplicativo até que você desbloqueie seu smartphone</string>
+    <string name="direct_boot_unaware_dialog_message">Observação: após uma reinicialização, não é possível iniciar este aplicativo até que você desbloqueie seu telefone</string>
     <string name="disable">Desativar</string>
     <string name="disable_all_cf">Desativar todos os encaminhamentos</string>
     <string name="disable_cfb_forbidden">Sua operadora não suporta desativar o encaminhamento de chamadas quando o seu telefone está ocupado.</string>
@@ -1024,8 +1024,8 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
     <string name="power_remaining_duration_only">Tempo restante aproximado: %1$s</string>
     <string name="power_remaining_duration_only_enhanced">Tempo restante aproximado, com base no seu uso: %1$s</string>
     <string name="power_remaining_duration_only_short">Tempo restante: %1$s</string>
-    <string name="power_remaining_duration_only_shutdown_imminent">O smartphone pode ser desligado em breve</string>
-    <string name="power_remaining_duration_shutdown_imminent">O smartphone pode ser desligado em breve (%1$s)</string>
+    <string name="power_remaining_duration_only_shutdown_imminent">O telefone pode ser desligado em breve</string>
+    <string name="power_remaining_duration_shutdown_imminent">O telefone pode ser desligado em breve (%1$s)</string>
     <string name="power_remaining_less_than_duration">Menos de %1$s restante(s) (%2$s)</string>
     <string name="power_remaining_less_than_duration_only">Menos de %1$s restante(s)</string>
     <string name="power_remaining_more_than_subtext">Mais de %1$s restante(s) (%2$s)</string>
