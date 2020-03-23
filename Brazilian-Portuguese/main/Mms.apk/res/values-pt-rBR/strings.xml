@@ -840,7 +840,7 @@ Tentativas efetuadas: %s."</string>
 	<string name="no_longer_recommend">"Não mostrar novamente"</string>
 	<string name="notification_delete">Excluir</string>
 	<string name="notification_seen">Marcar como lida</string>
-	<string name="feature_mx_summary">&lt;b&gt;O Mi Message permite enviar mensagens para outros usuários gratuitamente através da Internet&lt;/b&gt;. É necessária uma mensagem SMS para ativar este serviço. Leia e concorde com os nossos &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Termos de Acordo do Usuário&lt;/a&gt;&lt;/font&gt; e &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt; antes de utilizar esta funcionalidade</string></string>
+	<string name="feature_mx_summary">&lt;b&gt;O Mi Message permite enviar mensagens para outros usuários gratuitamente através da Internet&lt;/b&gt;. É necessária uma mensagem SMS para ativar este serviço. Leia e concorde com os nossos &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Termos de Acordo do Usuário&lt;/a&gt;&lt;/font&gt; e &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt; antes de utilizar este recurso</string>
 	<string name="feature_smart_sms_summary">&lt;b&gt;O Smart Messaging fornece reconhecimento de ID do remetente e menus inteligentes&lt;/b&gt;". O Smart Messaging é fornecido em parte pela Yulore. Leia e concorde com a "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt; antes de usar este recurso</string>
 	<string name="ignore">Agora não</string>
 	<string name="privacy_term">Política de Privacidade</string>
