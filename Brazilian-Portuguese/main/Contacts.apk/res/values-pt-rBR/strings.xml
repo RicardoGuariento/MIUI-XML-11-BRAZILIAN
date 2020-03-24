@@ -373,17 +373,17 @@ Cartões de contatos estão desativados"</string>
     <string name="device_paired_dialog_title">Obtendo contatos…</string>
     <string name="device_pairing_dialog_message">Emparelhando…</string>
     <string name="device_pairing_dialog_title">Emparelhar dispositivos</string>
-    <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Ative o Bluetooth no outro dispositivo.
+    <string name="device_transfer_by_bluetooth_message">"%1$d. Ative o Bluetooth no outro dispositivo.
 
 - O Bluetooth pode ser encontrado nas Configurações de rede em dispositivos Android.
 - Em dispositivos com iOS, o Bluetooth está nas Configurações.
 
-%d. O modo Detectável também deve estar ativado nos dispositivos Android.
+%2$d. O modo Detectável também deve estar ativado nos dispositivos Android.
 
-%d. Toque em \"Avançar\", e dê as permissões necessárias aos Contatos."</string>
-    <string name="device_transfer_by_sim_message" formatted="false">"%d. Salve os contatos do outro dispositivo no cartão SIM; 
+%3$d. Toque em \"Avançar\", e dê as permissões necessárias aos Contatos."</string>
+    <string name="device_transfer_by_sim_message" formatted="false">"%1$d. Salve os contatos do outro dispositivo no cartão SIM; 
 
-%d. Abra as configurações no aplicativo de Contatos, e então vá para \"Importar/Exportar contatos\" -- \"Importar do cartão SIM\", segure qualquer contato do cartão SIM para selecioná-lo, selecione todos os contatos requeridos e toque em \"Importar\".\""</string>
+%2$d. Abra as configurações no aplicativo de Contatos, e então vá para \"Importar/Exportar contatos\" -- \"Importar do cartão SIM\", segure qualquer contato do cartão SIM para selecioná-lo, selecione todos os contatos requeridos e toque em \"Importar\".\""</string>
     <string name="device_version_header_bluetooth">Importar via Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Importar do cartão SIM</string>
     <string name="dial">Discar</string>
@@ -470,7 +470,7 @@ Motivo: \"%s\""</string>
     <string name="exporting_vcard_finished_title">Exportação de %s concluída.</string>
     <string name="external_profile_title">Meu perfil %1$s</string>
     <string name="fail_reason_could_not_initialize_exporter">Não foi possível iniciar a exportação: \"%s\".</string>
-    <string name="fail_reason_could_not_open_file" formatted="false">Não foi possível abrir \"%s: %s.</string>
+    <string name="fail_reason_could_not_open_file">Não foi possível abrir \"%1$s\": %2$s."</string>
     <string name="fail_reason_error_occurred_during_export">Ocorreu um erro durante a exportação: \"%s\".</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Não foi possível obter as informações meta dos arquivos vCard.</string>
     <string name="fail_reason_failed_to_read_files">Um ou mais arquivos não puderam ser importados (%s).</string>
@@ -1048,7 +1048,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="simContacts_title">Contatos do cartão SIM</string>
     <string name="sim_account_name">Cartão SIM</string>
     <string name="sim_capacity">Ver espaço livre do cartão SIM</string>
-    <string name="sim_capacity_content" formatted="false">Total de %d | %d em uso</string>
+    <string name="sim_capacity_content">%1$d total | %2$d usado</string>
     <string name="sim_card_no_free_space_message">Espaço insuficiente</string>
     <string name="sim_card_no_free_space_title">Cartão SIM cheio</string>
     <string name="sim_contact_existing">O contato já existe</string>
@@ -1074,8 +1074,8 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="smart_group_company_label">Empresas</string>
     <string name="smart_group_company_unavailable">Nenhuma informação de empresa</string>
     <string name="smart_group_frequency_1">No último mês</string>
-    <string name="smart_group_frequency_2" formatted="false">%d a %d meses</string>
-	<string name="smart_group_frequency_3" formatted="false">%d a %d meses</string>
+    <string name="smart_group_frequency_2">%1$d para %2$d meses</string>
+	<string name="smart_group_frequency_3">%1$d para %2$d meses</string>
     <string name="smart_group_frequency_4">Há mais de %d meses</string>
     <string name="smart_group_frequency_label">Recentes</string>
     <string name="smart_group_label">Grupos inteligentes</string>
@@ -1257,4 +1257,14 @@ Selecione uma das seguintes opções:"</string>
 	<string name="send_contact_shortcut_todesktop_duplicate">Este atalho já existe</string>
 	<string name="send_contact_shortcut_todesktop_failed">Não foi possível criar o atalho na tela inicial</string>
 	<string name="send_contact_shortcut_todesktop_overflow">Não é possível criar mais atalhos na tela inicial</string>
-</resources>
+	<string name="app_name">Contatos</string>
+	<string name="callDetailsDurationFormat">%1$s min %2$s seg</string>
+	<string name="exporting_contact_list_progress">%1$s de %2$s contatos</string>
+	<string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Puxe para atualizar</string>
+	<string name="miuix_sb_tracking_progress_labe_refreshed">Atualização concluída</string>
+	<string name="miuix_sb_tracking_progress_labe_refreshing">Atualizando</string>
+	<string name="miuix_sb_tracking_progress_labe_release_to_refresh">Solte para atualizar</string>
+	<string name="miuix_sb_tracking_progress_labe_up_nodata">Sem dados</string>
+	<string name="miuix_sb_tracking_progress_labe_up_none">Não faça isso</string>
+	<string name="miuix_sb_tracking_progress_labe_up_refresh">Atualizando</string>
+	<string name="miuix_sb_tracking_progress_labe_up_refresh_fail">Falha</string>
