@@ -279,7 +279,7 @@
   <string name="subscribe_item_unchecked">Não subscrito</string>
   <string name="summary">Concordar com a nossa Política de Privacidade para ver conteúdo online</string>
   <string name="summary2">"Ao utilizar esta funcionalidade, você concorda com o nosso Termo de Acordo do Usuário e Política de Privacidade. Este aplicativo necessita de conexão à Internet para funcionar normalmente"</string>
-  <string name="summary_international">Ao utilizar esta funcionalidade, você concorda com os nossos Termo de Acordo do Usuário e Política de Privacidade. Este aplicativo necessita de conexão à Internet para funcionar normalmente</string>
+  <string name="summary_international">Ao utilizar esta funcionalidade, você concorda com o nosso Termo de Acordo do Usuário e Política de Privacidade. Este aplicativo necessita de conexão à Internet para funcionar normalmente</string>
   <string name="tab_user_title_bar_text">Configurações</string>
   <string name="theme_apply_failured">Não é possível aplicar. Tente novamente mais tarde</string>
   <string name="theme_apply_success">Aplicado com sucesso</string>
@@ -473,8 +473,8 @@ Envie esse código ao supervisor."</string>
   <string name="passport_trying_read_verify_code_sms">Obtendo código de verificação…</string>
   <string name="passport_unknow_error">Ocorreu um erro desconhecido</string>
   <string name="passport_unknow_network_error">Ocorreu um erro de rede</string>
-  <string name="passport_user_agreement_link">Eu li e concordo com o Termo de Acordo do Usuário Xiaomi e a Política de Privacidade</string>
-  <string name="passport_user_agreement_link_more">Eu li e concordei com os seguintes documentos: Termo de Acordo do Usuário Xiaomi e Política de Privacidade</string>
+  <string name="passport_user_agreement_link">Eu li e concordo com o Termo de Acordo do Usuário e Política de Privacidade</string>
+  <string name="passport_user_agreement_link_more">Eu li e concordei com os seguintes documentos: Termo de Acordo do Usuário e Política de Privacidade</string>
   <string name="passport_user_id_intro">Insira a senha para %1$s</string>
   <string name="passport_vcode_notification_title">Sua verificação de login está incompleta</string>
   <string name="passport_vcode_prompt_long">Insira o código de verificação</string>

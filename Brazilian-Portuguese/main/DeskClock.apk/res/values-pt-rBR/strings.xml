@@ -118,7 +118,7 @@
     <string name="life_post_weather_invalid">Toque para obter informações sobre o clima</string>
     <string name="life_post_weather_no_network">Conecte na internet para obter informações sobre o clima</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
-	<string name="listen_news_privacy">Para fornecer serviços personalizados e incluir notícias da manhã em seus alarmes, o Relógio precisa se conectar à Internet. Antes de usar o Relógio, você também deve ler e concordar com os nossos Termo de Acordo do Usuário e Política de Privacidade. Deseja continuar?</string>
+	<string name="listen_news_privacy">Para fornecer serviços personalizados e incluir notícias da manhã em seus alarmes, o Relógio precisa se conectar à Internet. Antes de usar o Relógio, você também deve ler e concordar com o nosso Termo de Acordo do Usuário e Política de Privacidade. Deseja continuar?</string>
     <string name="loading_ringtone">Carregando toque…</string>
     <string name="menu_add_worldclock">Novo relógio</string>
     <string name="menu_desk_clock">Relógio</string>
@@ -147,7 +147,7 @@
     <string name="more_setting">Mais configurações</string>
     <string name="more_settings">Configurações</string>
     <string name="never">Uma vez</string>
-	<string name="network_privacy_global">Para fornecer serviços personalizados, o Relógio precisa se conectar à Internet. Antes de usar o Relógio, você também deve ler e concordar com os nossos Termo de Acordo do Usuário e Política de Privacidade. Deseja continuar?</string>
+	<string name="network_privacy_global">Para fornecer serviços personalizados, o Relógio precisa se conectar à Internet. Antes de usar o Relógio, você também deve ler e concordar com o nosso Termo de Acordo do Usuário e Política de Privacidade. Deseja continuar?</string>
     <string name="oneshot_alarm">Excluir após alarme disparar</string>
     <string name="open_keep_screen">A tela será mantida ligada</string>
     <string name="other_category_title">Outros</string>

@@ -270,7 +270,7 @@ Acelere downloads em todos os seus dispositivos."</string>
     <string name="sniff_terms_msg_bold">Termos de Uso</string>
     <string name="sniff_terms_msg_a">Esta função de pesquisa é fornecida por outro desenvolvedor. Você precisa aceitar os seus Termo de Acordo do Usuário antes de usaá-lo.</string>
     <string name="sniff_terms_msg_b">Esta função de pesquisa é fornecida por outro desenvolvedor. Você precisa aceitar os seus Termo de Acordo do Usuário antes de usaá-lo. Se você concorda com os termos, marque a caixa abaixo.</string>
-    <string name="sniff_terms_check_text">Concordar com os Termo de Acordo do Usuário</string>
+    <string name="sniff_terms_check_text">Concordar com o Termo de Acordo do Usuário</string>
     <string name="sniff_terms_msg_bold_new">Termo de Acordo do Usuário</string>
     <string name="sniff_terms_agree_new">Concordar</string>
     <string name="sniff_result_website_intro">Total de &lt;font color=\"#6699ff\">%1$d&lt;/font> itens | Fonte: %2$s</string>

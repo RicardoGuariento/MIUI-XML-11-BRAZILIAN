@@ -206,8 +206,8 @@
    <string name="ovp_detail_back_to_watch_more">Descubra mais itens na sua página inicial</string>
    <string name="ovp_navigation_content">Cooperação de conteúdo</string>
    <string name="ovp_navigation_notice">Notificações</string>
-   <string name="passport_user_agreement_link">E li e concordei com o Termo de Acordo de Usuário e a Política de Privacidade</string>
-  <string name="passport_user_agreement_link_more">Eu li e concordei com os seguintes documentos: Termo de Acordo do Usuário e a Política de Privacidade</string>
+   <string name="passport_user_agreement_link">E li e concordei com o Termo de Acordo de Usuário e Política de Privacidade</string>
+  <string name="passport_user_agreement_link_more">Eu li e concordei com os seguintes documentos: Termo de Acordo do Usuário e Política de Privacidade</string>
   <string name="plus_continue_watching">Continuar assistindo</string>
     <string name="plus_menu_delete">Excluir</string>
   <string name="plus_menu_delete_popup_text">Excluir agora?</string>
