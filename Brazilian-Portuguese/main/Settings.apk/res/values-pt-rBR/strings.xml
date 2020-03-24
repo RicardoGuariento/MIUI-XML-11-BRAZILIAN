@@ -4652,7 +4652,7 @@ Para usar a fixação de tela:
     <string name="search_tts_settings_title">Saída de texto por voz;TTS</string>
     <string name="search_turn_on_security_lock">Escolher bloqueio de tela;Bloqueio de tela;Adicionar bloqueio de tela;bloqueio de tela</string>
     <string name="search_usb_tethering_button_text">Vínculo USB;Tethering;USB</string>
-    <string name="search_user_agreement">Termos de Serviço</string>
+    <string name="search_user_agreement">Termo de Acordo do Usuário</string>
     <string name="search_user_dict_settings_title">Dicionário pessoal;Dicionário</string>
     <string name="search_vibrate_in_silent_title">Vibrar no modo silencioso;vibrar;vibração</string>
     <string name="search_vibrate_on_touch_title">Ativar resposta táctil;vibrar no toque;vibrar;vibração</string>

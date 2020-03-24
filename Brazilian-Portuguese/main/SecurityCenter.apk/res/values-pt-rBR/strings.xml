@@ -661,7 +661,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="tc_sms_report_get_default">Você não será cobrado por mensagens SMS usadas para obter suas estatísticas de uso de dados de sua operadora.</string>
     <string name="tc_sms_report_toast_text">Obtendo informações…</string>
     <string name="tc_sms_report_type">Tipo de relatório</string>
-    <string name="privacy_declare_dialog_title">Termos de Serviço</string>
+    <string name="privacy_declare_dialog_title">Termo de Acordo do Usuário</string>
     <string name="sc_allow_network_dialog_tiltle">Não é possível usar este recurso</string>
     <string name="sc_allow_network_dialog_message">Você restringiu o acesso à rede e à localização para o aplicativo Segurança. Conceda as permissões necessárias ao aplicativo Segurança para usar este recurso.</string>
     <string name="privacy_prompt_upload">Enviar</string>

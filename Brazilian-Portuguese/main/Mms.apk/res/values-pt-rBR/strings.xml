@@ -840,7 +840,7 @@ Tentativas efetuadas: %s."</string>
 	<string name="no_longer_recommend">"Não mostrar novamente"</string>
 	<string name="notification_delete">Excluir</string>
 	<string name="notification_seen">Marcar como lida</string>
-	<string name="feature_mx_summary">O Mi Message permite enviar mensagens para outros usuários gratuitamente através da Internet. É necessária uma mensagem SMS para ativar este serviço. Leia e concorde com os nossos Termos de Acordo do Usuário e Política de Privacidade antes de utilizar este recurso.</string>
+	<string name="feature_mx_summary">O Mi Message permite enviar mensagens para outros usuários gratuitamente através da Internet. É necessária uma mensagem SMS para ativar este serviço. Leia e concorde com o nosso Termo de Acordo do Usuário e Política de Privacidade antes de utilizar este recurso.</string>
 	<string name="feature_smart_sms_summary">O Smart Messaging fornece reconhecimento de ID do remetente e menus inteligentes. O Smart Messaging é fornecido em parte pela Yulore. Leia e concorde com a Política de Privacidade antes de usar este recurso.</string>
 	<string name="ignore">Agora não</string>
 	<string name="privacy_term">Política de Privacidade</string>

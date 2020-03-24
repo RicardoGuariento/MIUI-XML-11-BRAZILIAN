@@ -317,9 +317,9 @@
     <string name="impunity_declaration_ignore">Não mostrar novamente</string>
     <string name="impunity_declaration_negative_text">Sair</string>
     <string name="impunity_declaration_positive_text">Concordar</string>
-    <string name="impunity_declaration_settings">Mostrar Termos de Serviço</string>
-    <string name="impunity_declaration_summary">Mostrar Termos de Serviço sempre que o aplicativo de Música for aberto</string>
-    <string name="impunity_declaration_title">Termos de Serviço</string>
+    <string name="impunity_declaration_settings">Mostrar Termo de Acordo do Usuário</string>
+    <string name="impunity_declaration_summary">Mostrar Termo de Acordo do Usuário sempre que o aplicativo de Música for aberto</string>
+    <string name="impunity_declaration_title">Termo de Acordo do Usuário</string>
     <string name="in_searching_please_wait">Procurando…</string>
     <string name="individuation_card_login_button">Fazer login</string>
     <string name="individuation_card_login_message">Faça o login para encontrar mais músicas que você vai adorar</string>
@@ -637,7 +637,7 @@
     <string name="talkback_pre">Música anterior</string>
     <string name="talkback_search">Pesquisar</string>
     <string name="talkback_show_navigation_draw">Mostrar gaveta</string>
-    <string name="terms_of_service">Termos de Serviço</string>
+    <string name="terms_of_service">Termo de Acordo do Usuário</string>
     <string name="ticket_summary">Compre ingressos para shows, concertos, peças e outros eventos</string>
     <string name="ticket_title">Mostrar ingressos</string>
     <string name="time_to_upgrade">Uma atualização está disponível</string>

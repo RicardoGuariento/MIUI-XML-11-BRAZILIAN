@@ -48,9 +48,9 @@ Ver a Política de Privacidade do teclado selecionado."</string>
     <string name="ime_privacy_policy">Política de Privacidade para o teclado selecionado</string>
     <string name="ime_privacy_policy_no_network">Nenhuma conexão de rede. Veja a Política de Privacidade para este teclado em %s.</string>
     <string name="terms_of_use">Termos e Condições</string>
-    <string name="terms_of_use_label">"Sua privacidade é muito importante para nós. Leia nossos Termos de Serviço e a Política de Privacidade para entender quais informações coletamos, como as usamos, e quais escolhas estão disponíveis para você.
+    <string name="terms_of_use_label">"Sua privacidade é muito importante para nós. Leia nossos Termo de Acordo do Usuário e a Política de Privacidade para entender quais informações coletamos, como as usamos, e quais escolhas estão disponíveis para você.
 
-Você precisa aceitar nossos Termos de Serviço e a Política de Privacidade antes de usar o MIUI. %s e componentes da Conta Mi usarão a internet e obterão a sua localização."</string>
+Você precisa aceitar nossos Termo de Acordo do Usuário e a Política de Privacidade antes de usar o MIUI. %s e componentes da Conta Mi usarão a internet e obterão a sua localização."</string>
     <string name="terms_of_use_lable_apps">Os Serviços Mi, Serviços de Ativação do SIM Mi, Xiaomi Cloud, Encontrar dispositivo, tela inicial, Centro de Jogos, MAB, Daemon MIUI e Componente de Sistema MSA, Serviços de tradução, aplicativos rápidos, cofre de aplicativos, Estatísticas, Mi Link</string>
     <string name="terms_of_use_lable_gms">, Google Play Services</string>
     <string name="terms_of_use_label_systemhelper">, Serviço auto-registrado</string>
@@ -61,7 +61,7 @@ Você deve concordar com a Política de Privacidade do Facemoji antes de usar es
     <string name="terms_of_use_lable_default_input_method_kika">"
 
 Você deve concordar com a Política de Privacidade do Kika antes de usar este recurso."</string>
-    <string name="user_agreement">Termos de Serviço</string>
+    <string name="user_agreement">Termo de Acordo do Usuário</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="terms_privacy_policy_input_method_kika">Política de Privacidade do Kika</string>
     <string name="terms_privacy_policy_input_method_facemoji">Política de Privacidade do Facemoji</string>
@@ -69,11 +69,11 @@ Você deve concordar com a Política de Privacidade do Kika antes de usar este r
     <string name="agree">Aceitar</string>
     <string name="disagree">Cancelar</string>
     <string name="setting_locale">Definindo região…</string>
-    <string name="agree_terms">Eu li e concordo com os Termos de Serviço e a Política de Privacidade.</string>
+    <string name="agree_terms">Eu li e concordo com os Termo de Acordo do Usuário e a Política de Privacidade.</string>
     <string name="poco_agree_terms_other">(Incluindo a Política de Privacidade e o Contrato do Usuário do POCO Launcher)</string>
     <string name="agree_terms_input_method_facemoji">Eu li e concordo com a Política de Privacidade do Facemoji.</string>
     <string name="agree_terms_input_method_kika">Eu li e concordo com a Política de Privacidade do Kika.</string>
-    <string name="miui_terms_no_network">Você não tem uma conexão com a internet. Veja os Termos de Serviço em %s.</string>
+    <string name="miui_terms_no_network">Você não tem uma conexão com a internet. Veja os Termo de Acordo do Usuário em %s.</string>
     <string name="miui_privacy_policy_no_network">Você não tem uma conexão com a internet. Veja a Política de Privacidade em %s.</string>
     <string name="locale_picker_title">Escolha sua região</string>
     <string name="install_preinstall_app">Carregando aplicativos…</string>

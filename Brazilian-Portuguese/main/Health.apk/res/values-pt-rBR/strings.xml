@@ -393,7 +393,7 @@ Atualizar agora?"</string>
   <string name="update_notify_dialog_title">Atualização disponível</string>
   <string name="update_notify_no_update_log">Sem dados</string>
   <string name="user_age_unit">Anos</string>
-  <string name="user_agreement">Termos de Acordo do Usuário</string>
+  <string name="user_agreement">Termo de Acordo do Usuário</string>
   <string name="user_birthday_display_format">dd/MM/yyyy</string>
   <string name="weight_trend_offset_date">"De %1$s até %2$s: "</string>
   <string name="weight_unit_kg">kg</string>

@@ -548,10 +548,10 @@
     <string name="theme_user_agreement_content4">Política de Privacidade</string>
     <string name="theme_user_agreement_content5">". Este aplicativo precisa se conectar à Internet para funcionar normalmente. "</string>
     <string name="theme_user_agreement_exit">Recusar</string>
-    <string name="theme_user_agreement_remind_again">Mostrar Termos de Uso</string>
+    <string name="theme_user_agreement_remind_again">Mostrar Termo de Acordo do Usuário</string>
     <string name="theme_user_agreement_remind_never">Não mostrar novamente</string>
-    <string name="theme_user_agreement_remind_summary">Mostrar pop-up de Termos de Uso sempre que o aplicativo de Temas for aberto. Esta configuração tem efeito na reinicialização do dispositivo.</string>
-    <string name="theme_user_agreement_title">Termos de Uso</string>
+    <string name="theme_user_agreement_remind_summary">Mostrar pop-up de Termo de Acordo do Usuário sempre que o aplicativo de Temas for aberto. Esta configuração tem efeito na reinicialização do dispositivo.</string>
+    <string name="theme_user_agreement_title">Termo de Acordo do Usuário</string>
     <string name="theme_yes">Sim</string>
     <string name="third_party_pickers_activity_title">Adicionar %1$s</string>
     <string name="tips_theme_gate_transfer_fail">Não foi possível abrir esta página. Aguarde alguns minutos e tente novamente.</string>

@@ -1238,10 +1238,10 @@ para personalizar a Galeria"</string>
     <string name="unpublishing">Cancelando…</string>
     <string name="unsupport_video">%s não funciona com vídeos</string>
     <string name="user_agree">Concordar</string>
-    <string name="user_agreement2">Termos de Serviço</string>
+    <string name="user_agreement2">Termo de Acordo do Usuário</string>
     <string name="user_agreement4">Política de Privacidade</string>
     <string name="user_alias_self">Eu</string>
-    <string name="user_notice_identify_summary_format">&lt;Data&gt;"Ao usar este serviço, você concorda com os &amp;lt;a href=\"%1$s\"&amp;gt;\"Termos de Serviço\"&amp;lt;/a&amp;gt; da Xiaomi e &amp;lt;a href=\"%2$s\"&amp;gt;\"Política de Privacidade\"&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+    <string name="user_notice_identify_summary_format">&lt;Data&gt;"Ao usar este serviço, você concorda com os &amp;lt;a href=\"%1$s\"&amp;gt;\"Termo de Acordo do Usuário\"&amp;lt;/a&amp;gt; da Xiaomi e &amp;lt;a href=\"%2$s\"&amp;gt;\"Política de Privacidade\"&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
     <string name="user_notice_title">Termos e Condições</string>
     <string name="video_edit_file_not_exits_tip">Faça o download do vídeo primeiro</string>
     <string name="video_editor_abandon_changes_tip_message">Descartar todas as alterações?</string>

@@ -361,7 +361,7 @@ e então criar uma foto com o mínimo de ruído possível."</string>
     <string name="popup_tip_3d_beauty_intro_text">Beautiful 3D</string>
     <string name="sticker_tab1">Fofo</string>
     <string name="sticker_tab2">Engraçado</string>
-    <string name="user_agreement2">Termos de Serviço</string>
+    <string name="user_agreement2">Termo de Acordo do Usuário</string>
     <string name="user_agreement4">Política de Privacidade</string>
     <string name="user_agree">Aceitar</string>
     <string name="do_not_remind_me">Não mostrar novamente</string>
@@ -729,11 +729,11 @@ documentos digitalizados automaticamente</string>
   <string name="video_beauty_tip_beautification">Embelezar</string>
   <string name="network_access_user_notice_title">Conexão com a Internet</string>
   <string name="network_access_user_notice_message_live_video">"A Câmera precisa conectar-se à Internet para fornecer efeitos, música e outras funcionalidades para os vídeos curtos.
-Ao tocar em \"Concordar\", está concordando com os nossos Termos de Acordo do Usuário e Política de Privacidade e permite que a Câmera conectar-se à Internet</string>
+Ao tocar em \"Concordar\", está concordando com o nossos Termo de Acordo do Usuário e Política de Privacidade e permite que a Câmera conectar-se à Internet</string>
   <string name="network_access_user_notice_message_sticker">"A Câmera precisa conectar-se à Internet para fornecer stickers.
-Ao tocar em \"Concordar\", está a concordar com os nossos Termos de Acordo do Usuário e Política de Privacidade e permite que a Câmera conectar-se à Internet</string>
+Ao tocar em \"Concordar\", está a concordar com o nossos Termo de Acordo do Usuário e Política de Privacidade e permite que a Câmera conectar-se à Internet</string>
   <string name="network_access_user_notice_message_voice_caption">"A Câmera precisa conectar-se à Internet para fornecer a funcionalidade de texto para voz.
-Ao tocar em \"Concordar\", está a concordar com os nossos Termos de Acordo do Usuário e Política de Privacidade e permite que a Câmera conectar-se à Internet</string>
+Ao tocar em \"Concordar\", está a concordar com o nosso Termos de Acordo do Usuário e Política de Privacidade e permite que a Câmera conectar-se à Internet</string>
   <string name="lying_direct_hint">Orientação atual</string>
   <string name="macro_mode">Macro</string>
   <string name="macro_mode_use_hint_text_body">"Use o modo Macro para fazer com que objetos pequenos

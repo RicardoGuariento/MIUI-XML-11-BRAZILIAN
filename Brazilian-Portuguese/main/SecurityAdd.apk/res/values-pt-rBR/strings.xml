@@ -4,7 +4,7 @@
     <string name="app_name">Plug-in do Serviço de Segurança</string>
     <string name="ok_button">OK</string>
     <string name="cancel_button">Cancelar</string>
-    <string name="privacy_declare_dialog_title">Termos de Serviço</string>
+    <string name="privacy_declare_dialog_title">Termo de Acordo do Usuário</string>
     <string name="privacy_prompt_traffic_purchase_message">Seu número de telefone e detalhes da operadora serão criptografados e enviados para os servidores da Mi para obtermos mais informações de opções de compra de dados.</string>
     <string name="miuishare_title_more">Mais</string>
     <string name="miuishare_title_share">Compartilhar</string>

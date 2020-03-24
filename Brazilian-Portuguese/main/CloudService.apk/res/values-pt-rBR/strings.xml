@@ -65,9 +65,9 @@ Esta função criptografa e envia a ID do seu dispositivo para os servidores da 
 Esta função criptografa e envia a ID do seu dispositivo para os servidores da Xiaomi."</string>
     <string name="user_agreement_p5">"
 "</string>
-    <string name="user_agreement_link">Termos de Serviço da Xiaomi Cloud</string>
+    <string name="user_agreement_link">Termo de Acordo do Usuário da Xiaomi Cloud</string>
     <string name="user_agreement_content">Ao usar este serviço, você estará concordando com os %s.</string>
-    <string name="user_agreement_title">Termos de Serviço da Xiaomi Cloud</string>
+    <string name="user_agreement_title">Termo de Acordo do Usuário da Xiaomi Cloud</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="loading">Aguarde…</string>
     <string name="license_host_unreachable">Não é possível conectar-se à rede. Para ver esta informação agora, acesse %s.</string>
