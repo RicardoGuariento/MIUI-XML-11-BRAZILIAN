@@ -194,7 +194,7 @@
   <string name="comment_model_send_forbid_desc">Você publicou vários comentários contendo itens que violam nossos padrões da comunidade. Sua conta está suspensa permanentemente agora. Você pode recorrer de nossa decisão usando feedback no aplicativo.</string>
   <string name="comment_model_send_forbid_tips">Consta suspensa</string>
   <string name="comment_model_send_success">Enviado com sucesso</string>
-  <string name="dialog_privacy_info_new2">"Para poder usar seus serviços, você deve concordar que %1$s coletará, processará e usará suas informações pessoais. Considera-se que você leu e concordou com a nossa &lt;a href=\"%2$s\"&gt;Política de Privacidade&lt;/a&gt; quando tocar em \"Concordar\" abaixo."</string>
+  <string name="dialog_privacy_info_new2">"Para poder usar seus serviços, você deve concordar que %1$s coletará, processará e usará suas informações pessoais. Considera-se que você leu e concordou com a nossa Política de Privacidade quando tocar em \"Concordar\" abaixo."</string>
   <string name="fcm_fallback_notification_channel_label">Diversos</string>
   <string name="lv_subtitle_onlinesub_right_declare_content">Obtenha legendas &lt;br/&gt;&lt;br/&gt;de &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Todas as legendas on-line são fornecidas por &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.</string>
   <string name="notice_comment_action">%s comentários na sua postagem</string>
@@ -206,8 +206,8 @@
    <string name="ovp_detail_back_to_watch_more">Descubra mais itens na sua página inicial</string>
    <string name="ovp_navigation_content">Cooperação de conteúdo</string>
    <string name="ovp_navigation_notice">Notificações</string>
-   <string name="passport_user_agreement_link">"&lt;Data&gt;E li e concordei com o &lt;a href=\"%1$s\"&gt;Acordo de Usuário da Xiaomi&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Política de Privacidade&lt;/a&gt;.&lt;/Data&gt;"</string>
-  <string name="passport_user_agreement_link_more">"&lt;Data&gt;Eu li e concordei com os seguintes documentos: &lt;a href=\"%1$s\"&gt;Acordo de Usuário da Xiaomi&lt;/a&gt; e &lt;a href=\"%4$s\"&gt;Política de Privacidade&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;"</string>
+   <string name="passport_user_agreement_link">E li e concordei com o Termo de Acordo de Usuário e a Política de Privacidade</string>
+  <string name="passport_user_agreement_link_more">Eu li e concordei com os seguintes documentos: Termo de Acordo do Usuário e a Política de Privacidade</string>
   <string name="plus_continue_watching">Continuar assistindo</string>
     <string name="plus_menu_delete">Excluir</string>
   <string name="plus_menu_delete_popup_text">Excluir agora?</string>

@@ -34,7 +34,7 @@
     <string name="account_prifix">Conta:</string>
     <string name="action">Fazer login</string>
     <string name="action_menu_account_not_login">Conta não conectada</string>
-    <string name="action_menu_account_not_login_hint">Faça o login para sincronizar com a Mi Cloud</string>
+    <string name="action_menu_account_not_login_hint">Faça o login para sincronizar com a Xiaomi Cloud</string>
     <string name="action_menu_bookshelf">Estante</string>
     <string name="action_menu_current_version">Versão atual</string>
     <string name="action_menu_text_add_bookmark">Adicionar favorito</string>

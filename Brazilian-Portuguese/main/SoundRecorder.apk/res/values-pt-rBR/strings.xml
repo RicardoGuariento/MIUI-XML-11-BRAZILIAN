@@ -2,7 +2,7 @@
 <resources>
     <string name="alert_message_clear_records">Excluir gravações selecionadas?</string>
     <string name="alert_message_delete_local_record">Excluir esta gravação?</string>
-    <string name="alert_message_delete_record">Excluir a gravação do dispositivo também a excluirá da Mi Cloud. Excluir agora?</string>
+    <string name="alert_message_delete_record">Excluir a gravação do dispositivo também a excluirá da Xiaomi Cloud. Excluir agora?</string>
     <string name="alert_message_delete_record_title">Excluir gravação?</string>
     <string name="app_name">Gravador</string>
     <string name="back">Voltar</string>
@@ -11,12 +11,12 @@
     <string name="call_record">Chamadas gravadas</string>
     <string name="clear_records">Excluir gravações sincronizadas</string>
     <string name="cloud_record_open">Sincronizar gravações</string>
-    <string name="cloud_record_tip">Sincronizar gravações com a Mi Cloud.</string>
-    <string name="cloud_service_state_open_reminder">Ative a sincronização com a Mi Cloud para sincronizar as gravações.</string>
+    <string name="cloud_record_tip">Sincronizar gravações com a Xiaomi Cloud.</string>
+    <string name="cloud_service_state_open_reminder">Ative a sincronização com a Xiaomi Cloud para sincronizar as gravações.</string>
     <string name="cloud_status_full_dialog_cancel">Agora não</string>
-    <string name="cloud_status_full_dialog_msg">Seu armazenamento na Mi Cloud está cheio, não é possível sincronizar gravações. Atualize sua conta para obter mais armazenamento.</string>
+    <string name="cloud_status_full_dialog_msg">Seu armazenamento na Xiaomi Cloud está cheio, não é possível sincronizar gravações. Atualize sua conta para obter mais armazenamento.</string>
     <string name="cloud_status_full_dialog_ok">Atualizar</string>
-    <string name="cloud_status_full_dialog_title">Armazenamento da Mi Cloud cheio</string>
+    <string name="cloud_status_full_dialog_title">Armazenamento da Xiaomi Cloud cheio</string>
     <string name="data_connection_body">Usar sua conexão de dados móveis para o download deste arquivo aumentará seu uso de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrar o excedente.</string>
     <string name="data_connection_button_text">OK</string>
     <string name="data_connection_title">Alerta do uso de dados</string>
@@ -25,7 +25,7 @@
     <string name="deleting_message">Excluindo…</string>
     <string name="details">Detalhes</string>
     <string name="dialog_content_storage_full">A gravação foi interrompida porque não há espaço de armazenamento suficiente no seu dispositivo.</string>
-    <string name="dialog_privacy_revoke_tips">Depois que você revogar a autorização, o aplicativo parará de coletar dados, e todos os dados relacionados serão excluídos dos servidores. Isto poderá fazer com que o aplicativo fique virtualmente não usável. Revogar a autorização assim mesmo? Para garantir a segurança da sua conta, faça o login em i.mi.com antes de revogar a autorização dos serviços Mi Cloud.</string>
+    <string name="dialog_privacy_revoke_tips">Depois que você revogar a autorização, o aplicativo parará de coletar dados, e todos os dados relacionados serão excluídos dos servidores. Isto poderá fazer com que o aplicativo fique virtualmente não usável. Revogar a autorização assim mesmo? Para garantir a segurança da sua conta, faça o login em i.mi.com antes de revogar a autorização dos serviços Xiaomi Cloud.</string>
     <string name="dialog_title_storage_full">Não há espaço suficiente</string>
     <string name="download">Download</string>
     <string name="duration_format_hour">%sh</string>
@@ -170,7 +170,7 @@
     <string name="recognize_extra_price_desp">(Oferta exclusiva para usuários Mi)</string>
     <string name="record">Gravar</string>
     <string name="record_back_pressed_hint">Para interromper a gravação, pressione Voltar novamente</string>
-    <string name="record_download">Download da Mi Cloud</string>
+    <string name="record_download">Download da Xiaomi Cloud</string>
     <string name="record_download_complete">Download concluído</string>
     <string name="record_download_msg">A gravação só poderá ser reproduzida após a conclusão do download.</string>
     <string name="record_download_msg_reload">Esta gravação não existe.</string>

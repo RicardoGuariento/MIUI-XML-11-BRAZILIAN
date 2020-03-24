@@ -31,7 +31,7 @@
   <string name="cancel_international">Cancelar</string>
   <string name="cancel_lockscreen">Cancelar</string>
   <string name="cancel_network">Sair</string>
-  <string name="carousel_declaration_cta">"Os papéis de parede aleatórios precisam de conexão com a Internet para funcionar adequadamente. Para ter acesso ao conteúdo online, você precisa concordar com a nossa &lt;a href='%s'&gt;Política de Privacidade&lt;/a&gt;. Concorda?"</string>
+  <string name="carousel_declaration_cta">"Os papéis de parede aleatórios precisam de conexão com a Internet para funcionar adequadamente. Para ter acesso ao conteúdo online, você precisa concordar com a nossa Política de Privacidade. Concorda?"</string>
   <string name="carousel_declaration_des">Veja lugares lindos e obtenha surpresas excitantes com os papéis de parede aleatórios</string>
   <string name="carousel_declaration_des2">Adicione as suas imagens aos papéis de parede aleatórios</string>
   <string name="carousel_declaration_des_new">Receba recomendações personalizadas e escolha imagens novas todos os dias</string>
@@ -277,9 +277,9 @@
   <string name="sst_wifi_only_title">Atualizar papéis de parede utilizando dados móveis</string>
   <string name="subscribe_item_checked">Subscrito</string>
   <string name="subscribe_item_unchecked">Não subscrito</string>
-  <string name="summary">"Concordar com a nossa <a href ='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a> para ver conteúdo online"</string>
-  <string name="summary2">"Ao utilizar esta funcionalidade, você concorda com os nossos <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Termos de Utilização</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Este aplicativo necessita de conexão à Internet para funcionar normalmente"</string>
-  <string name="summary_international">"Ao utilizar esta funcionalidade, você concorda com os nossos <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Termos de Utilização</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Este aplicativo necessita de conexão à Internet para funcionar normalmente"</string>
+  <string name="summary">Concordar com a nossa Política de Privacidade para ver conteúdo online</string>
+  <string name="summary2">"Ao utilizar esta funcionalidade, você concorda com o nosso Termo de Acordo do Usuário e Política de Privacidade. Este aplicativo necessita de conexão à Internet para funcionar normalmente"</string>
+  <string name="summary_international">Ao utilizar esta funcionalidade, você concorda com os nossos Termo de Acordo do Usuário e Política de Privacidade. Este aplicativo necessita de conexão à Internet para funcionar normalmente</string>
   <string name="tab_user_title_bar_text">Configurações</string>
   <string name="theme_apply_failured">Não é possível aplicar. Tente novamente mais tarde</string>
   <string name="theme_apply_success">Aplicado com sucesso</string>

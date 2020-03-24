@@ -9,7 +9,7 @@
     <string name="passport_login">Fazer login</string>
     <string name="passport_relogin">Fazer login novamente</string>
     <string name="passport_skip_login">Pular</string>
-    <string name="passport_skip_setup_account_title">Não usar a Mi Cloud?</string>
+    <string name="passport_skip_setup_account_title">Não usar a Xiaomi Cloud?</string>
     <string name="passport_skip_setup_account_msg">Você pode configurar uma Conta Mi mais tarde nas Configurações.</string>
     <string name="passport_confirm_login">Continuar</string>
     <string name="passport_find_password_on_web_msg">Visite account.mi.com para redefinir sua senha.</string>
@@ -218,7 +218,7 @@
     <string name="passport_license_info_collapse">Recolher</string>
     <string name="search_app_name">Conta Mi</string>
     <string name="search_mi_account">Conta Mi</string>
-    <string name="search_mi_account_key_words">Mi Cloud,Configurações da conta,Mi Pay,Sair</string>
+    <string name="search_mi_account_key_words">Xiaomi Cloud,Configurações da conta,Mi Pay,Sair</string>
     <string name="search_mi_account_desc">Conta Mi</string>
     <string name="search_mi_account_path">Configurações/Conta Mi</string>
     <string name="search_user_detail">Informações pessoais</string>
@@ -352,7 +352,7 @@ Você pode entrar na sua Conta Mi agora usando %s.</string>
     <string name="account_mibi_charge">Recarregar</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_xiaomi_service">Serviços</string>
-    <string name="cloud_service">Mi Cloud</string>
+    <string name="cloud_service">Xiaomi Cloud</string>
     <string name="vip_account_settings">Configurações de VIP</string>
     <string name="xiao_mi_vip">Mi VIP</string>
     <string name="mi_vip_info">Ver privilégios</string>
@@ -386,9 +386,9 @@ Você pode entrar na sua Conta Mi agora usando %s.</string>
     <string name="delete_device_failed">Não é possível remover o dispositivo</string>
     <string name="empty_device_list_notice">Nenhum dispositivo</string>
     <string name="device_name">Nome do dispositivo</string>
-    <string name="multi_user_not_show_sync_activity_title">Não ativar a sincronização com a Mi Cloud</string>
+    <string name="multi_user_not_show_sync_activity_title">Não ativar a sincronização com a Xiaomi Cloud</string>
     <string name="multi_user_not_show_sync_activity_message_1">Parece que você está usando sua Conta Mi do primeiro espaço.</string>
-    <string name="multi_user_not_show_sync_activity_message_2">Neste caso, todos os seus dados serão sincronizados em seu segundo espaço. Para evitar isso, não ative a sincronização com a Mi Cloud.</string>
+    <string name="multi_user_not_show_sync_activity_message_2">Neste caso, todos os seus dados serão sincronizados em seu segundo espaço. Para evitar isso, não ative a sincronização com a Xiaomi Cloud.</string>
     <string name="find_device_access_denied">Não é possível obter o status, acesso negado</string>
     <string name="find_device_account_error">Não é possível obter o status devido a um erro na conta</string>
     <string name="find_device_null_credential_error">Não é possível obter informações do dispositivo, entre em contato com o atendimento ao cliente Xiaomi</string>

@@ -221,7 +221,7 @@
     <string name="dialog_content_select_all_confirm">Manter uma cópia desta foto?</string>
     <string name="button_text_not_prompt_again">Não mostrar novamente</string>
     <string name="button_text_let_me_select">OK</string>
-    <string name="dialog_content_checkbox_delete_cloud_image">Excluir também as fotos da Mi Cloud</string>
+    <string name="dialog_content_checkbox_delete_cloud_image">Excluir também as fotos da Xiaomi Cloud</string>
     <string name="button_text_select_all">Selecionar</string>
     <string name="button_text_unselect_all">Desmarcar</string>
     <string name="button_text_keep_one">Reservar uma</string>

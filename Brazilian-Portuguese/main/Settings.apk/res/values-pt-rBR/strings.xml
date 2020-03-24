@@ -1294,10 +1294,10 @@ Você pode desativar este recurso em Configurações &gt; Bluetooth &gt; Disposi
     <string name="close_miui_optimization_title">Desativar otimização MIUI</string>
     <string name="close_optimization_message">Layout de texto, contas e outras partes do MIUI podem ser afetadas depois que você desligar este recurso.</string>
     <string name="close_optimization_option">Desativar</string>
-    <string name="cloud_backup_section_title">Backup na Mi Cloud</string>
+    <string name="cloud_backup_section_title">Backup na Xiaomi Cloud</string>
     <string name="cloud_backup_settings_section_title">Configurações do backup</string>
     <string name="cloud_restore_section_summary">Restaurar configurações do sistema, layout da tela inicial e aplicativos</string>
-    <string name="cloud_restore_section_title">Restaurar da Mi Cloud</string>
+    <string name="cloud_restore_section_title">Restaurar da Xiaomi Cloud</string>
     <string name="cmcc_hardware_version">Versão do hardware</string>
     <string name="color_black">Preto</string>
     <string name="color_blue">Azul</string>
@@ -2671,7 +2671,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="keywords_spell_checker">ortografia, dicionário, correção ortográfica, correção automática</string>
     <string name="keywords_storage">espaço, disco, disco rígido, uso do dispositivo</string>
     <string name="keywords_storage_settings">memória, dados, excluir, limpar, liberar, espaço</string>
-    <string name="keywords_sync">Sincronização;Sincronizar;Mi Cloud</string>
+    <string name="keywords_sync">Sincronização;Sincronizar;Xiaomi Cloud</string>
     <string name="keywords_system_alert_window">alerta do sistema janela caixa de diálogo sobreposição aplicativos</string>
     <string name="keywords_system_update_settings">upgrade, android</string>
     <string name="keywords_text_to_speech_output">classificação, idioma, padrão, falar, fala, tts, acessibilidade, leitor de tela, deficiência visual</string>
@@ -2995,7 +2995,7 @@ para o segundo espaço"</string>
     <string name="lockscreen_magazine_title">Papéis de parede aleatórios</string>
     <string name="lockscreen_remote_input">Se o dispositivo estiver bloqueado, impedir a digitação de respostas ou outros textos nas notificações</string>
     <string name="lockscreen_settings_title">Preferências da tela de bloqueio</string>
-    <string name="login_account_dialog_message">Faça o login com sua Conta Mi e ative a sincronização com a Mi Cloud.</string>
+    <string name="login_account_dialog_message">Faça o login com sua Conta Mi e ative a sincronização com a Xiaomi Cloud.</string>
     <string name="login_account_dialog_title">Fazer login com a Conta Mi</string>
     <string name="login_action">Fazer login</string>
     <string name="long_press_back_key">Segurar botão Voltar</string>
@@ -3972,7 +3972,7 @@ OTG será desativado após 10 minutos de inatividade."</string>
     <string name="priority_storage_title">Configurações de armazenamento</string>
 	<string name="priority_summary">Mostre as notificações no topo da lista</string>
     <string name="priority_title">Prioridade</string>
-    <string name="privacy_authorize_cloud_msg">Para garantir a segurança da sua conta, faça o login em i.mi.com se você desejar revogar a autorização para os serviços Mi Cloud (incluindo sincronização e backups).</string>
+    <string name="privacy_authorize_cloud_msg">Para garantir a segurança da sua conta, faça o login em i.mi.com se você desejar revogar a autorização para os serviços Xiaomi Cloud (incluindo sincronização e backups).</string>
     <string name="privacy_authorize_dialog_agree">Aceitar</string>
     <string name="privacy_authorize_dialog_exit">Sair</string>
     <string name="privacy_authorize_dialog_message"><Data>Para usar os recursos básicos deste serviço, você precisa concordar que a Xiaomi coletará, processará e usará os seus dados pessoais. Consulte a nossa Política de Privacidade para entender como coletamos e processamos os dados pessoais. Selecionando \"Aceitar\" significa que você concorda com nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Acordo do Usuário&lt;/a>.</Data></string>
@@ -4527,7 +4527,7 @@ Para usar a fixação de tela:
     <string name="search_children_mode_title">Modo Criança;Bloquear SMS;Controle parental;Parental;Restringir SMS</string>
     <string name="search_choose_timezone">Escolher fuso horário;Fuso horário;Fusos horários</string>
     <string name="search_cloud_backup_settings_section_title">Configurações de Backup;Backup;Backup;Backups</string>
-    <string name="search_cloud_restore_section_title">Restaurar da Mi Cloud;Mi Cloud;Backups na Mi Cloud</string>
+    <string name="search_cloud_restore_section_title">Restaurar da Xiaomi Cloud;Xiaomi Cloud;Backups na Xiaomi Cloud</string>
     <string name="search_copyright_title">Direitos autorais</string>
     <string name="search_credentials_install">Instalar do armazenamento;Instalação direta;Instalar APK</string>
     <string name="search_date_and_time_settings_title">Data e hora;Data e hora;Data;Hora</string>
@@ -4573,7 +4573,7 @@ Para usar a fixação de tela:
     <string name="search_master_clear_title">Redefinir configurações de fábrica</string>
     <string name="search_menu">Procurar nas configurações</string>
     <string name="search_menu_title">Pesquisar</string>
-    <string name="search_micloud">Sincronização;Mi Cloud;Sincronização com Mi Cloud;Sincronizar com a Mi Cloud</string>
+    <string name="search_micloud">Sincronização;Xiaomi Cloud;Sincronização com Xiaomi Cloud;Sincronizar com a Xiaomi Cloud</string>
     <string name="search_music_audio_effect_optimize">Configurações de áudio;Configurações de som</string>
     <string name="search_music_equalizer">Equalizador</string>
     <string name="search_music_headset_calibrate">Atribuir botões;botões</string>
@@ -4816,7 +4816,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="settings_license_activity_unavailable">Há um problema ao carregar as licenças.</string>
     <string name="settings_manual_activity_title">Manual</string>
     <string name="settings_manual_activity_unavailable">Ocorreu um problema ao carregar o manual.</string>
-    <string name="settings_notify_need_backup">Faça o backup de suas configurações na Mi Cloud para acessá-las quando trocar de telefone.</string>
+    <string name="settings_notify_need_backup">Faça o backup de suas configurações na Xiaomi Cloud para acessá-las quando trocar de telefone.</string>
     <string name="settings_notify_phone_recycled">Seu número de telefone foi reciclado. Toque para adicionar um número diferente.</string>
     <string name="settings_safetylegal_activity_loading">Carregando…</string>
     <string name="settings_safetylegal_activity_title">Informações de segurança</string>
@@ -6685,8 +6685,8 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="write_tag">Gravar</string>
     <string name="wrong_pin_code_pukked">Código PIN do SIM incorreto. Entre em contato com a operadora para desbloquear o dispositivo.</string>
     <string name="xiaomi_account">Conta Mi</string>
-    <string name="xiaomi_cloud_service">Mi Cloud</string>
-    <string name="xiaomi_cloud_service_description">A Mi Cloud sincroniza contatos, fotos e outros itens entre seus dispositivos. O \"Encontrar dispositivo\" também precisa da Mi Cloud para funcionar normalmente.</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
+    <string name="xiaomi_cloud_service_description">A Xiaomi Cloud sincroniza contatos, fotos e outros itens entre seus dispositivos. O \"Encontrar dispositivo\" também precisa da Xiaomi Cloud para funcionar normalmente.</string>
     <string name="xiaomi_cloud_service_disabled">Desativado</string>
     <string name="xiaomi_cloud_service_unknown">Desconhecido</string>
     <string name="xiaomi_money_service">Mi Credits</string>
@@ -7137,7 +7137,7 @@ Ative esse recurso e toque no botão Acessibilidade na parte inferior da tela pa
 
 Este recurso será desativado se não começar o carregamento em 90 segundos."</string>
 	<string name="xiaomi_cloud_service_description_contact">contatos e</string>
-	<string name="xiaomi_cloud_service_description_format">A Mi Cloud sincroniza suas %s fotos, faz backup dos aplicativos e configurações e ajuda a encontrar o seu dispositivo.</string>
+	<string name="xiaomi_cloud_service_description_format">A Xiaomi Cloud sincroniza suas %s fotos, faz backup dos aplicativos e configurações e ajuda a encontrar o seu dispositivo.</string>
 	<string name="privacy_password_settings_summary">A senha de proteção de privacidade é usada para os aplicativos que podem conter informações confidenciais</string>
 	<string name="gxzw_quick_open_enable_summary">Use atalhos de gesto para abrir aplicativos ou recursos do aplicativo quando o dispositivo estiver desbloqueado</string>
     <string name="gxzw_quick_open_enable_title">Atalhos de impressão digital</string>
@@ -7241,7 +7241,7 @@ Este recurso será desativado se não começar o carregamento em 90 segundos."</
 Os backups locais podem incluir dados dos aplicativos e normalmente contêm mais itens. Os arquivos de backup são armazenados no MIUI-backup-AllBackup e precisam ser copiados para um computador após a conclusão do processo de backup.
 
 Backups na nuvem:
-Os backups são armazenados na Mi Cloud e podem ser acessados pela Internet. Esse método é mais rápido e fácil do que os backups locais, mas você não pode fazer backup dos dados dos aplicativos na Mi Cloud.
+Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela Internet. Esse método é mais rápido e fácil do que os backups locais, mas você não pode fazer backup dos dados dos aplicativos na Xiaomi Cloud.
 "</string>
 <string name="backup_difference_title">4. Como os backups locais são diferentes dos backups na nuvem?</string>
 <string name="backup_restore_data_content">Seus backups podem conter contatos, mensagens (SMS e MMS), histórico de chamadas, eventos da agenda, fotos, arquivos de áudio, vídeos, documentos, aplicativos, dados do aplicativo e layout da tela inicial.</string>
@@ -7251,7 +7251,7 @@ Os backups são armazenados na Mi Cloud e podem ser acessados pela Internet. Ess
 <string name="clear_all_data">Apagar todos os dados</string>
 <string name="clear_phone_data_category">Apagar os seguintes itens</string>
 <string name="cloud_restore_section_summary_new">Faça um backup do layout da tela inicial, aplicativos, configurações do sistema e muito mais</string>
-<string name="cloud_restore_section_title_new">Na Mi Cloud</string>
+<string name="cloud_restore_section_title_new">Na Xiaomi Cloud</string>
 <string name="codec_low_latency_summary">Minimize a latência durante a sincronização de áudio e vídeo do jogo</string>
 <string name="contact_data">Contatos</string>
 <string name="datasize_decrease_content">"Contatos, mensagens e dados do sistema são compactados durante o backup, o que resulta em um tamanho de arquivo menor.</string>
@@ -7264,7 +7264,7 @@ Nota:
 Você pode usar o Mi PC Suite para fazer backup e depois restaurá-los.
 
 Backups na nuvem:
-Você pode fazer backup das configurações do sistema, layout da tela inicial, aplicativos e outros itens na Mi Cloud pela Internet.
+Você pode fazer backup das configurações do sistema, layout da tela inicial, aplicativos e outros itens na Xiaomi Cloud pela Internet.
 
 Backups USB:
 Esse método permite salvar configurações do sistema, contas, dados do aplicativo e outros itens em um dispositivo de armazenamento USB externo.</string>
@@ -7282,7 +7282,7 @@ Backups locais:
 Copie o arquivo de backup do seu computador para o seu dispositivo (MIUI-backup-AllBackup). Vá para Configurações > Fazer backup, restaurar ou redefinir > Neste dispositivo e selecione o arquivo de backup.
 
 Backups na nuvem:
-Entre na sua Conta Mi, vá para Configurações > Fazer backup, restaurar ou redefinir > Na Mi Cloud e selecione o arquivo de backup.
+Entre na sua Conta Mi, vá para Configurações > Fazer backup, restaurar ou redefinir > Na Xiaomi Cloud e selecione o arquivo de backup.
 
 Backups USB:
 Copie o arquivo de backup para o seu dispositivo (MIUI-backup-AllBackup). Vá para Configurações > Fazer backup, restaurar ou redefinir > Neste dispositivo e selecione o arquivo de backup.</string>

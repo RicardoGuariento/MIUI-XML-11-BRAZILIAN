@@ -86,9 +86,9 @@
     <string name="class_0_message_activity">Mensagem classe 0</string>
     <string name="click_to_update">Toque para procurar por atualizações</string>
     <string name="close">Fechar</string>
-    <string name="cloud_state_disabled">Ative a sincronização com a Mi Cloud para sincronizar mensagens</string>
-    <string name="cloud_state_sync_finished">Sincronizado com a Mi Cloud</string>
-    <string name="cloud_state_syncing">Sincronizando com a Mi Cloud…</string>
+    <string name="cloud_state_disabled">Ative a sincronização com a Xiaomi Cloud para sincronizar mensagens</string>
+    <string name="cloud_state_sync_finished">Sincronizado com a Xiaomi Cloud</string>
+    <string name="cloud_state_syncing">Sincronizando com a Xiaomi Cloud…</string>
     <string name="cm_privacy_dialog_allow">Aceitar</string>
     <string name="cm_privacy_dialog_cancel">Cancelar</string>
     <string name="cm_privacy_dialog_spannable_tips">Política de Privacidade</string>
@@ -231,10 +231,10 @@
     <string name="forward_prefix">"Enc.: "</string>
     <string name="found_old_messages">Fazer o upload das mensagens de %1$s para %2$s?</string>
     <string name="found_old_messages_title">Fazer o upload das mensagens de seus outros cartões SIM?</string>
-    <string name="found_wild_messages_guide_cloud_desc">Para sincronizar mensagens da Mi Cloud, faça o login em sua Conta Mi e ative a sincronização de SMS.</string>
-    <string name="found_wild_messages_guide_settings_desc">Sincronizar mensagens da Mi Cloud nas Configurações de Mensagens.</string>
+    <string name="found_wild_messages_guide_cloud_desc">Para sincronizar mensagens da Xiaomi Cloud, faça o login em sua Conta Mi e ative a sincronização de SMS.</string>
+    <string name="found_wild_messages_guide_settings_desc">Sincronizar mensagens da Xiaomi Cloud nas Configurações de Mensagens.</string>
     <string name="found_wild_messages_guide_sync_not_started">Sincronização não iniciada</string>
-    <string name="found_wild_messages_title">Sincronizar mensagens da Mi Cloud</string>
+    <string name="found_wild_messages_title">Sincronizar mensagens da Xiaomi Cloud</string>
     <string name="from_label">"De: "</string>
     <string name="from_pkg_name">Do aplicativo:</string>
     <string name="group_already_kicked_hint">Não é possível enviar mensagens. Você não é um membro desse chat em grupo.</string>
@@ -840,8 +840,8 @@ Tentativas efetuadas: %s."</string>
 	<string name="no_longer_recommend">"Não mostrar novamente"</string>
 	<string name="notification_delete">Excluir</string>
 	<string name="notification_seen">Marcar como lida</string>
-	<string name="feature_mx_summary">&lt;b&gt;O Mi Message permite enviar mensagens para outros usuários gratuitamente através da Internet&lt;/b&gt;. É necessária uma mensagem SMS para ativar este serviço. Leia e concorde com os nossos &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Termos de Acordo do Usuário&lt;/a&gt;&lt;/font&gt; e &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt; antes de utilizar este recurso</string>
-	<string name="feature_smart_sms_summary">&lt;b&gt;O Smart Messaging fornece reconhecimento de ID do remetente e menus inteligentes&lt;/b&gt;". O Smart Messaging é fornecido em parte pela Yulore. Leia e concorde com a "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt; antes de usar este recurso</string>
+	<string name="feature_mx_summary">O Mi Message permite enviar mensagens para outros usuários gratuitamente através da Internet. É necessária uma mensagem SMS para ativar este serviço. Leia e concorde com os nossos Termos de Acordo do Usuário e Política de Privacidade antes de utilizar este recurso.</string>
+	<string name="feature_smart_sms_summary">O Smart Messaging fornece reconhecimento de ID do remetente e menus inteligentes. O Smart Messaging é fornecido em parte pela Yulore. Leia e concorde com a Política de Privacidade antes de usar este recurso.</string>
 	<string name="ignore">Agora não</string>
 	<string name="privacy_term">Política de Privacidade</string>
 	<string name="recommend_both_dialog_title">Bem-vindo ao Messaging!</string>

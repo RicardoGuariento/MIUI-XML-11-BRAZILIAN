@@ -76,7 +76,7 @@
     </string-array>
 	    <string-array name="backup_automatically_key_words">
         <item>Fazer backup das fotos</item>
-        <item>Sincronizar fotos com Mi Cloud</item>
+        <item>Sincronizar fotos com Xiaomi Cloud</item>
     </string-array>
 	<string-array name="last_week_baby_title">
         <item>Hora de brincar</item>

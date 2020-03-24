@@ -179,11 +179,11 @@
     <string name="cloud_antispam_mark">Reportar</string>
     <string name="cloud_antispam_marked">Reportado</string>
     <string name="cloud_antispam_title">ID da chamada</string>
-    <string name="cloud_recommend_msg">Toque para sincronizar os contatos com a Mi Cloud.</string>
-    <string name="cloud_state_disabled">Sincronizar contatos com a Mi Cloud</string>
+    <string name="cloud_recommend_msg">Toque para sincronizar os contatos com a Xiaomi Cloud.</string>
+    <string name="cloud_state_disabled">Sincronizar contatos com a Xiaomi Cloud</string>
     <string name="cloud_state_loading">Aguarde…</string>
-    <string name="cloud_state_sync_finished">Sincronizado com a Mi Cloud</string>
-    <string name="cloud_state_syncing">Sincronizado com a Mi Cloud</string>
+    <string name="cloud_state_sync_finished">Sincronizado com a Xiaomi Cloud</string>
+    <string name="cloud_state_syncing">Sincronizado com a Xiaomi Cloud</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
