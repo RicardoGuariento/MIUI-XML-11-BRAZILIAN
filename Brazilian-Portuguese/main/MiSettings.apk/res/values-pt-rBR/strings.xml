@@ -239,10 +239,4 @@ Este aplicativo também precisa se conectar à Internet e precisa das seguintes 
   <string name="miuix_sb_tracking_progress_labe_up_none">Não faça isso</string>
   <string name="miuix_sb_tracking_progress_labe_up_refresh">Atualizando</string>
   <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">Falha</string>
-  <string name="productivity_add_event">Criar evento</string>
-  <string name="productivity_cannot_move_event">Não é possível adiar este evento</string>
-  <string name="productivity_move_event_failed">Não é possível adiar este evento para dd, MMMM, yyyy"</string>
-  <string name="productivity_move_event_hint">Pressione e segure em um evento para adia-lo para outra data</string>
-  <string name="productivity_move_event_success">O evento foi adiado para dd, MMMM, yyyy</string>
-  <string name="productivity_no_event">Nenhum evento planejado para hoje</string>
 </resources>

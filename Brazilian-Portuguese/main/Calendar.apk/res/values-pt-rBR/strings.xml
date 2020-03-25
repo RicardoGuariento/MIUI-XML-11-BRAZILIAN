@@ -515,4 +515,11 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
 	<string name="setting_title_import_todo">Importar tarefas</string>
 	<string name="todo_audio_event">"[Tarefa por voz] "</string>
 	<string name="todo_event">Próximas tarefas</string>
+	<string name="productivity_add_event">Criar evento</string>
+	<string name="productivity_cannot_move_event">Não é possível adiar este evento</string>
+	<string name="productivity_move_event_failed">Não é possível adiar este evento para dd, MMMM, yyyy"</string>
+	<string name="productivity_move_event_hint">Pressione e segure em um evento para adia-lo para outra data</string>
+	<string name="productivity_move_event_success">O evento foi adiado para dd, MMMM, yyyy</string>
+	<string name="productivity_no_event">Nenhum evento planejado para hoje</string>
+	<string name="app_name">Agenda</string>
 </resources>
