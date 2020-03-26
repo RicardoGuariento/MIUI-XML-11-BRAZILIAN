@@ -126,10 +126,6 @@
         <item>Mostrar áreas de overdraw</item>
         <item>Mostrar áreas para daltonismo</item>
     </string-array>
-    <string-array name="dtmf_tone_entries">
-        <item>Normal</item>
-        <item>Longo</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nenhum</item>
         <item>Logcat</item>

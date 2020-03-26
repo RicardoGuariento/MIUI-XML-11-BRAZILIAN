@@ -61,7 +61,6 @@
     <string name="callAgain">Chamar novamente</string>
     <string name="callBack">Retornar chamada</string>
     <string name="callDetailTitle">Detalhes da chamada</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s min %s seg.</string>
     <string name="callShortcutActivityTitle">Escolha um número para chamar</string>
     <string name="call_assistant">Ligar para %s</string>
     <string name="call_callback">Retorno de chamada</string>
@@ -464,7 +463,6 @@ Para evitar consultas frequentes, nós atualizamos o saldo apenas uma vez por di
 Motivo: \"%s\""</string>
     <string name="exporting_contact_failed_title">Não foi possível exportar</string>
     <string name="exporting_contact_list_message">Exportando para %s</string>
-    <string name="exporting_contact_list_progress" formatted="false">%s de %s contatos</string>
     <string name="exporting_contact_list_title">Exportando dados do contato</string>
     <string name="exporting_vcard_canceled_title">Exportação de %s cancelada.</string>
     <string name="exporting_vcard_finished_title">Exportação de %s concluída.</string>
