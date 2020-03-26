@@ -3054,4 +3054,15 @@ Os vídeos serão salvos no Otimizador de Jogos > Momentos importantes."</string
 	<string name="warningcenter_mijia_title">Alertas de dispositivos domésticos inteligentes</string>
 	<string name="warningcenter_smarthome">Mi Home</string>
 	<string name="warningcenter_title">Centro de Alertas MIUI</string>
+	<string name="app_behavior_desc_virtual_once">Retornou uma mensagem em branco em %1$s</string>
+	<string name="app_behavior_perm_change_tip_virtual">"\"%1s\" foi alterado para \"Retornar mensagens em branco\"</string>
+	<string name="permission_action_desc">Conceda permissões, mas retorne mensagens em branco ao aplicativo para proteger a privacidade</string>
+	<string name="permission_action_tag">Proteção de privacidade</string>
+	<string name="permission_action_virtual">Retornar mensagens em branco</string>
+	<string name="permission_upgrade_more">MMais recursos da proteção de privacidade</string>
+	<string name="permission_upgrade_privacy_title">As permissões para gravar áudio e acessar contatos agora possuem uma opção que permite que você conceda essas permissões enquanto estiver usando o aplicativo correspondente. Para proteger a privacidade das duas informações pessoais, os aplicativos não irão executar essas ações em segundo plano.</string>
+	<string name="permission_upgrade_runtime">As permissões para acessar sua localização ou tirar fotos agora têm uma opção que permite conceder essas permissões apenas uma vez. Para proteger a privacidade de suas informações pessoais, essas ações não serão executadas depois que você sair do aplicativo. As permissões serão solicitadas novamente quando usar os recursos relacionados na próxima vez.</string>
+	<string name="permission_upgrade_title">Permissões atualizadas</string>
+	<string name="permission_upgrade_virtual">"Se você não quiser permitir que aplicativos acessem seus contatos ou histórico de chamadas, você pode selecionar \"Retornar mensagens em branco\" quando você conceder as permissões correspondentes."</string>
+	<string name="permission_with_SMS_and_MMS">Permissões relacionadas a SMS e MMS</string>
 </resources>

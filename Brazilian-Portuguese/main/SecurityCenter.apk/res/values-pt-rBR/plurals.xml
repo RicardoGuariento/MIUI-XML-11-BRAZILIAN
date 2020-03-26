@@ -464,4 +464,8 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%2$d aplicativos incluindo %1$1s estão tirando fotos</item>
         <item quantity="one">%2$d aplicativo incluindo %1$1s está tirando foto</item>
     </plurals>
+	    <plurals name="app_behavior_desc_virtual">
+        <item quantity="other">Retornou %3$d mensagens em branco entre %1$s e %2$s</item>
+        <item quantity="one">Retornou %3$d mensagem em branco entre %1$s e %2$s</item>
+    </plurals>
 </resources>
