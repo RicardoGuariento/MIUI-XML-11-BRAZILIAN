@@ -239,4 +239,5 @@ Este aplicativo também precisa se conectar à Internet e precisa das seguintes 
   <string name="miuix_sb_tracking_progress_labe_up_none">Não faça isso</string>
   <string name="miuix_sb_tracking_progress_labe_up_refresh">Atualizando</string>
   <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">Falha</string>
+  <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">Antes de usar este aplicativo, leia e concorde com o nosso Termo de Acordo do Usuário e Política de Privacidade</string>
 </resources>
