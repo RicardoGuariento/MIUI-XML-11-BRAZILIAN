@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="add_secret_ensure_message">
-        <item quantity="other">Ocultar estes arquivos?</item>
-        <item quantity="one">Ocultar este arquivo?</item>
+        <item quantity="other">Adicionar esses itens ao álbum particular?</item>
+        <item quantity="one">Adicionar este item ao álbum particular?</item>
     </plurals>
 	    <plurals name="photo_count_format">
         <item quantity="other">Total %1$d itens</item>
@@ -21,8 +21,8 @@
         <item quantity="one">%2$d item não pode ser adicionado ao álbum. %1$s.</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">%2$d itens não podem ser adicionados ao álbum oculto. %1$s.</item>
-        <item quantity="one">%2$d item não pode ser adicionado ao álbum oculto. %1$s.</item>
+        <item quantity="other">%2$d itens não podem ser adicionados ao álbum particular. %1$s.</item>
+        <item quantity="one">%2$d item não pode ser adicionado ao álbum particular. %1$s.</item>
     </plurals>
     <plurals name="age_day">
         <item quantity="other">%d dias</item>
@@ -233,8 +233,8 @@
         <item quantity="one">Total de %d foto</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
-        <item quantity="other">%2$d itens não podem ser removidos do álbum oculto. %1$s.</item>
-        <item quantity="one">%2$d item não pode ser removido do álbum oculto. %1$s.</item>
+        <item quantity="other">%2$d itens não podem ser removidos do álbum particular. %1$s.</item>
+        <item quantity="one">%2$d item não pode ser removido do álbum particular. %1$s.</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">%1$d fotos adicionadas a \"%2$s\" e adicionadas ao banco de dados.</item>
@@ -323,5 +323,9 @@
 	<plurals name="picker_origin_need_to_download">
         <item quantity="other">"%1$d arquivos (%2$dMB) ainda não foram baixados. Baixar usando os dados móveis?"</item>
         <item quantity="one">"%1$d arquivo (%2$dMB) ainda não foi baixado. Baixar usando os dados móveis?"</item>
+    </plurals>
+	<plurals name="picker_file_will_download">
+        <item quantity="other">Baixando %d itens restantes</item>
+        <item quantity="one">Baixando %d item restante</item>
     </plurals>
 </resources>

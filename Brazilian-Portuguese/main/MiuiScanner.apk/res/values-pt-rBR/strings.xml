@@ -217,4 +217,18 @@ você deseja digitalizar para a Mi IA"</string>
 	<string name="classes_isNull">Você ainda não adicionou nenhuma aula</string>
 	<string name="classes_titlt">Horário de aula</string>
 	<string name="classes_topTitle">Digitalize seu horário de aula</string>
+	<string name="choosed_title">Selecionado</string>
+	<string name="create">Gerar código QR</string>
+	<string name="createFail">Não foi possível gerar código QR. Sua mensagem é muito grande.</string>
+	<string name="createQRCode_hint">Insira o texto</string>
+	<string name="createQRCode_save">Salvar</string>
+	<string name="create_again">Atualizar</string>
+	<string name="delete">Excluir</string>
+	<string name="history">História</string>
+	<string name="importFailed">Não foi possível importar</string>
+	<string name="saveDone">Salco vom sucesso</string>
+	<string name="scanHistory">Histórico de digitalização</string>
+	<string name="scanHistory_close">Desativar</string>
+	<string name="scanHistory_isOpen">Começar a acompanhar o histórico de itens digitalizados agora?</string>
+	<string name="scanHistory_open">Ativar</string>
 </resources>

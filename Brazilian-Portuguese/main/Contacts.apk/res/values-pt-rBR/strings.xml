@@ -1266,4 +1266,5 @@ Selecione uma das seguintes opções:"</string>
 	<string name="miuix_sb_tracking_progress_labe_up_none">Não faça isso</string>
 	<string name="miuix_sb_tracking_progress_labe_up_refresh">Atualizando</string>
 	<string name="miuix_sb_tracking_progress_labe_up_refresh_fail">Falha</string>
+	<string name="ai_calllog_call_record_menu">Gravação de chamada IA</string>
 </resources>

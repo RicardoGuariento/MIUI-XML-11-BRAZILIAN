@@ -29,7 +29,7 @@
   <string name="abc_toolbar_collapse_description">Colapso</string>
   <string name="accessibility_battery_level">Bateria %d por cento.</string>
   <string name="accessibility_battery_level_charging">Bateria carregando, %d por cento.</string>
-  <string name="always_style">Constantemente</string>
+  <string name="always_style">Sempre</string>
   <string name="animation_clock_panel">Discagem por onda</string>
   <string name="aod_close_color_inversion">"Este recurso não pode ser combinada com a inversão de cores. Desative a inversão de cores."</string>
   <string name="aod_dual_togother">HH:mm</string>
@@ -113,4 +113,13 @@
   <string name="mtrl_picker_toggle_to_year_selection">Toque para mudar e selecionar o ano</string>
   <string name="my_style_title">Meu tema</string>
   <string name="theme_cate_title">Tema</string>
+  <string name="btn_know">Entendido</string>
+  <string name="modify_scheduled_time">Alterar data</string>
+  <string name="more_online_theme">Itens online</string>
+  <string name="open_aod_mode">Ativar</string>
+  <string name="scheduled_mode_dialog_msg">Os itens serão mostrados na exibição ambiente dentro desse período: %s.</string>
+  <string name="scheduled_mode_msg">Período ativo: %s</string>
+  <string name="show_lunar">Mostrar calendário chinês tradicional</string>
+  <string name="show_lunar_desc">O relógio duplo não suporta o calendário chinês tradicional</string>
+  <string name="tip_to_open_aod_mode">A exibição ambiente está desativada. Ativar agora?</string>
 </resources>
