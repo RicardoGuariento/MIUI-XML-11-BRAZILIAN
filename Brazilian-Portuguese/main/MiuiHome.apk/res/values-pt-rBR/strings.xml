@@ -435,5 +435,19 @@
 	<string name="recents_title_security_scan">Verificação de segurança</string>
 	<string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponíveis</string>
 	<string name="hide_apps_title">Ocultar ícones dos aplicativos</string>
+	<string name="launcher_search_bar_title">Barra de pesquisa da tela inicial</string>
+	<string name="launcher_search_bar_value_disable">Desativada</string>
+	<string name="launcher_search_bar_value_enable">Ativada</string>
+	<string name="permdesc_uninstall_widget">Permite que um aplicativo remova widgets sem intervenção do usuário.</string>
+	<string name="permlab_uninstall_widget">Desinstalar widgets</string>
+	<string name="please_slide_agian">Deslize novamente</string>
+	<string name="recents_exit_multi_window_mode">Sair</string>
+	<string name="recents_forbid_dock_when_screening_toast_text">Não é possível usar a tela divida enquanto estiver transmitindo</string>
+	<string name="recents_task_screening">Transmitindo</string>
+	<string name="resource_canary_leak_tip">tem vazamento!</string>
+	<string name="resource_canary_wait_for_heapdump_message">Dump da captura instantânea de heap...</string>
+	<string name="search_menu_title">Pesquisar</string>
+	<string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponíveis</string>
+	<string name="task_access_locked_app_msg">Bloqueio de aplicativo ativado</string>
 	<string name="home_switch_personal_assistant">Assistente da tela inicial</string>
 </resources>
