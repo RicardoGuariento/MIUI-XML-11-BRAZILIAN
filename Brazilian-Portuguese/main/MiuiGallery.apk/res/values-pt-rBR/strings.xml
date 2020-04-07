@@ -1732,7 +1732,7 @@ para personalizar a Galeria"</string>
 	<string name="filter_sky_bikong">Azul</string>
 	<string name="filter_sky_download_failed_msg">Não foi possível fazer o download. Verifique suas configurações de rede e tente novamente.</string>
 	<string name="filter_sky_download_with_metered_network_msg">O uso de dados móveis para baixar arquivos originais pode gerar taxas adicionais da operadora. Baixar mesmo assim?</string>
-	<string name="filter_sky_download_with_metered_network_title"Usando dados móveis</string>
+	<string name="filter_sky_download_with_metered_network_title">Usando dados móveis</string>
 	<string name="filter_sky_dynamic_duoyun">Nublado</string>
 	<string name="filter_sky_dynamic_jiyun">Cumulus</string>
 	<string name="filter_sky_dynamic_muguang">Crepúsculo</string>
