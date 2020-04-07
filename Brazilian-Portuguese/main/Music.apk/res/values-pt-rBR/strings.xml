@@ -714,7 +714,6 @@ Toque em %s para inicias este download da próxima vez que você estiver conecta
 	<string name="play_setting">Reprodução</string>
 	<string name="sound_fade_in_and_out_when_change_song_automatically">Experimente usar o transição entre a reprodução das músicas</string>
 	<string name="actionbar_button_up_description">Voltar</string>
-	<string name="app_name">Músicas</string>
 	<string name="clearable_edittext_clear_description">Limpar</string>
 	<string name="copy">Copiar</string>
 	<string name="fmt_date">D</string>
