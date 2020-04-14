@@ -283,4 +283,6 @@
   <string name="screenshot_8k_saving">Salvando captura de tela em 8K…</string>
   <string name="screenshot_8k_share">Enviar arquivo para</string>
   <string name="toast_no_data">"Este item não está disponível no momento. Volte mais tarde.</string>
+  <string name="ovp_setting_clear_cache_success">Cache limpo com sucesso</string>
+  <string name="ovp_setting_clear_cache_text">Limpar cache dos arquivos</string>
 </resources>
