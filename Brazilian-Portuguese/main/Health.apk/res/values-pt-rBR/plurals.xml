@@ -124,4 +124,104 @@
         <item quantity="other">%1$d anos</item>
         <item quantity="one">%1$d ano</item>
     </plurals>
+	<plurals name="a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Meia hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Agora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
+    </plurals>
+    <plurals name="count_duration_standard">
+        <item quantity="other">%1$d-%2$d vezes</item>
+        <item quantity="one">%1$d-%2$d vez</item>
+    </plurals>
+	<plurals name="distance_unit_kilometre">
+        <item quantity="other">%1$.1f km</item>
+        <item quantity="one">%1$.1f km</item>
+    </plurals>
+    <plurals name="dream_talk_segment">
+        <item quantity="other">%1$d registros</item>
+        <item quantity="one">%1$d registro</item>
+    </plurals>
+	<plurals name="half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+    </plurals>
+	<plurals name="in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Em meia hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
+    </plurals>
+	<plurals name="less_than_one_minute_ago">
+        <item quantity="other">Agora</item>
+    </plurals>
+	<plurals name="minutes_ago">
+        <item quantity="other">%1$d minutos atrás</item>
+        <item quantity="one">%1$d minuto atrás</item>
+    </plurals>
+	<plurals name="num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
+    </plurals>
+	<plurals name="time_duration_compare_standard">
+        <item quantity="other">≤%1$d minutos</item>
+        <item quantity="one">≤%1$d minuto</item>
+    </plurals>
+    <plurals name="time_duration_hour_float">
+        <item quantity="other">%1$.2f horas</item>
+        <item quantity="one">%1$.2f hora</item>
+    </plurals>
+    <plurals name="time_duration_hour_int">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="time_duration_hour_standard">
+        <item quantity="other">%1$.1f-%2$.1f horas</item>
+        <item quantity="one">%1$.1f-%2$.1f hora</item>
+    </plurals>
+    <plurals name="time_duration_minute">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">%1$d minuto</item>
+    </plurals>
+    <plurals name="time_duration_minute_standard">
+        <item quantity="other">%1$d-%2$d minutos</item>
+        <item quantity="one">%1$d-%2$d minuto</item>
+    </plurals>
+    <plurals name="time_duration_time">
+        <item quantity="other">%1$d vezes</item>
+        <item quantity="one">%1$d vez</item>
+    </plurals>
+	<plurals name="unit_times">
+        <item quantity="other">" vezes"</item>
+        <item quantity="one">" vez"</item>
+    </plurals>
 </resources>
