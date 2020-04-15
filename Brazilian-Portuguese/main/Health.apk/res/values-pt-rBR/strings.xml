@@ -358,7 +358,7 @@ baseados nas suas informações pessoais"</string>
   <string name="title_menstruation_predict_start">O período vai começar em %1$s</string>
   <string name="title_month_exercise_sum">Estatísticas mensais</string>
   <string name="title_network_license">Acesso à rede</string>
-  <string name="title_no_record_menstruation">Ainda não regitrou os seus períodos</string>
+  <string name="title_no_record_menstruation">Ainda não registrou os seus períodos</string>
   <string name="title_run_in_background">Executar em segundo plano</string>
   <string name="title_select_birthday">Selecionar data de nascimento</string>
   <string name="title_select_gender">Selecionar gênero</string>
@@ -599,7 +599,7 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
   <string name="inactivated">Não ativado</string>
   <string name="indoor_rinding">Bicicleta interna</string>
   <string name="indoor_running">Esteira</string>
-  <string name="instructions_provider">Instruções fornecidas por terceiros da Health</string>
+  <string name="instructions_provider">Instruções fornecidas por terceiros do Health</string>
   <string name="insufficient">Insuficiente</string>
   <string name="label_average_sleep_time">Média de sono</string>
   <string name="label_early_sleep_time">Mais cedo que o planejado</string>
@@ -744,4 +744,22 @@ Se esse problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="sleep_detection_question_three_title">Como posso tornar minhas estatísticas mais precisas?</string>
   <string name="sleep_detection_question_two_answer">Seus ciclos de sono são analisados no dispositivo localmente. O monitoramento do sono funcionará mesmo quando você não estiver conectado à rede ou sua conexão atual for interrompida.</string>
   <string name="sleep_detection_question_two_title">Devo me conectar à Internet para analisar os ciclos de sono?</string>
+  <string name="sleep_duration">Duração do sono</string>
+  <string name="sleep_duration_description">A duração do sono é o tempo entre você ir para a cama e se levantar. Os períodos em que você acorda e volta a dormir novamente durante a noite são subtraídos.</string>
+  <string name="sleep_duration_enough_description">Você dormiu o suficiente</string>
+  <string name="sleep_duration_everyday">Duração diária do sono</string>
+  <string name="sleep_duration_fewer_description">Você dormiu por menos de 7 horas. Dormir mais seria melhor para você.</string>
+  <string name="sleep_duration_insufficient_description">Dormir menos de 6 horas de sono não é suficiente para você.</string>
+  <string name="sleep_duration_more_description">Você dormiu mais do que o necessário.</string>
+  <string name="sleep_goal">Metas</string>
+  <string name="sleep_health_model_hint">Recomendações de avaliação do sono fornecidas por terceiros do Health</string>
+  <string name="sleep_incomplete_deep_light_data_tip">Por que as informações de sono leve e profundo estão incompletas?</string>
+  <string name="sleep_keep_hard">Problemas para manter o sono</string>
+  <string name="sleep_light">Sono leve</string>
+  <string name="sleep_no_deep_light_data_tip">Por que o sono leve e profundo não são registrados?</string>
+  <string name="sleep_schedule">Horário e dormir</string>
+  <string name="sleep_snore_detection">Detectar conversa e ronco</string>
+  <string name="sleep_sober">Acordado</string>
+  <string name="sleep_sober_times_title">Acorde</string>
+  <string name="sleep_turn_over_times_title">Turnos</string>
 </resources>
