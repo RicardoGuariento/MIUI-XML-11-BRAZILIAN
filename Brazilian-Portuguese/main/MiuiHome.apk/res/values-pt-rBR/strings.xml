@@ -445,4 +445,11 @@
 	<string name="search_menu_title">Pesquisar</string>
 	<string name="task_access_locked_app_msg">Bloqueio de aplicativo ativado</string>
 	<string name="home_switch_personal_assistant">Assistente da tela inicial</string>
+	<string name="accessibility_recent_task_enter">Recentes aberto</string>
+	<string name="accessibility_recent_task_exit">Recentes fechado</string>
+	<string name="accessibility_recent_task_locked_state">Bloqueado</string>
+	<string name="accessibility_recent_task_memory_info">RAM Total: %2$s | RAM Disponível: %1$s. Toque duas vezes para limpar.</string>
+	<string name="accessibility_recent_task_unlocked_state">Desbloqueado</string>
+	<string name="recents_incompatible_app_message">Este aplicativo não suporta tela dividida</string>
+	<string name="slide_to_open_newhome">Deslize para cima para abrir o Centro de conteúdo</string>
 </resources>
