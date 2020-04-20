@@ -974,7 +974,6 @@ Se esse problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="stand_notice_title6">Houve alguma atividade em pé na última hora?</string>
   <string name="stand_setting">Configurações</string>
   <string name="tb_click_finish_stand">Ficar em pé não foi finalizado em quase 1 hora, toque para finalizar</string>
-  <string name="tb_current_select">%1$s selecionado atualmente</string>
   <string name="tb_stand_card_finish_stand">Hoje, %1$s foi acumulado em relação ao tempo de ficar em pé, a meta é ficar em pé por 12 horas, o tempo atual é %2$s-%3$s. Você conseguiu!</string>
   <string name="tb_stand_card_not_finish_stand">Hoje, %1$s terminou o tempo de ficar em pé, a meta é ficar em pé por 12 horas, o tempo atual é %2$s-%3$s. O tempo de ficar em pé ainda não foi concluído.</string>
   <string name="tb_stand_day_column_click">%1$s-%2$s completou o tempo de ficar em pé de %3$s</string>
