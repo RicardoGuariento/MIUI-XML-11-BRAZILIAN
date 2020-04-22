@@ -516,4 +516,8 @@ Envie esse código ao supervisor."</string>
   <string name="user_avatar_uploading">Só um momento…</string>
   <string name="user_id_hint">E-mail/Telefone/ID da Conta Mi</string>
   <string name="v_code_title">Insira o código de verificação</string>
+  <string name="permission_storage_read_tip">Acesse fotos armazenadas em seu dispositivo</string>
+  <string name="permission_storage_tip">Salve itens baixados no seu dispositivo</string>
+  <string name="subscribe_dlg_btn_txt">Cadastre-se</string>
+  <string name="subscribe_dlg_desc">Cadastre-se para ver as apresentações</string>
 </resources>
