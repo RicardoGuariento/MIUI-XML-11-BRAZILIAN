@@ -224,4 +224,8 @@
         <item quantity="other">" vezes"</item>
         <item quantity="one">" vez"</item>
     </plurals>
+	    <plurals name="dream_talk_segment_unit">
+        <item quantity="other">registros</item>
+        <item quantity="one">registro</item>
+    </plurals>
 </resources>

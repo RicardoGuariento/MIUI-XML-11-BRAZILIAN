@@ -504,7 +504,7 @@ Você pode selecionar uma fonte de dados diferente em Mais > Fonte de dados."</s
   <string name="exercise_detail_no_steps_hint">A fonte de dados selecionada (%1$s) não fornece informações de contagem de passos.
 Você pode selecionar uma fonte de dados diferente em Mais > Fonte de dados."</string>
   <string name="exercise_duration">Tempo de exercício</string>
-  <string name="exercise_duration_consume">Tempo: %1$s, %2$s</string>
+  <string name="exercise_duration_consume">Tempo: %1$s | Queimado: %2$s</string>
   <string name="exercise_goal">Meta de exercício</string>
   <string name="exercise_information_label">Forneça suas informações para tornar as estatísticas mais precisas</string>
   <string name="exercise_intensity">Intensidade</string>
@@ -719,7 +719,7 @@ Se esse problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="snore_detection_guide_one_description">O som será gravado enquanto você dorme. O aprendizado de máquina permite que o Xiaomi Health detecte ruídos, conversas e ruídos altos e salve as gravações no seu dispositivo.</string>
   <string name="snore_detection_guide_one_title">Grave o áudio usando o microfone</string>
   <string name="snore_detection_guide_schedule_suggest">O microfone será ativado e desativado de acordo com a programação do seu horário de dormir. Defina seu horário de dormir para fazê-lo funcionar</string>
-  <string name="snore_detection_guide_schedule_suggest_details">O microfone será ativado e desativado de acordo com a programação do seu horário de dormir. >É recomendável que você vá trabalhar e não mexa nas configurações do relógio.</string>
+  <string name="snore_detection_guide_schedule_suggest_details">O microfone será ativado durante enquanto estiver dormindo para analisar seu ciclo de sono. Para mais precisão nas estatísticas, defina sua hora de dormir no Relógio.</string>
   <string name="snore_detection_guide_three_description">Verifique se o seu dispositivo está com carga suficiente antes de ir para a cama. Bateria fraca pode interromper a gravação do som.</string>
   <string name="snore_detection_guide_three_title">Mantenha deu dispositivo carregado</string>
   <string name="snore_detection_guide_two_description">O microfone será ativado e desativado de acordo com a programação do seu horário de dormir.</string>
@@ -779,7 +779,7 @@ Se esse problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="tb_exercise_exercise_duration">Tempo de exercício em minutos: %1$d. %2$s. Toque para ver detalhes.</string>
   <string name="tb_exercise_exercise_no_data">Sem informações de tempo de exercício</string>
   <string name="tb_exercise_goal_info">Meta de exercício diário: %1$s. %2$s</string>
-  <string name="tb_exercise_home_banner">Verificação diária de saúde</string>
+  <string name="tb_exercise_home_banner">Verificação diária</string>
   <string name="tb_exercise_label_close">Fechar</string>
   <string name="tb_exercise_list_add">Adicionar estatísticas de exercício</string>
   <string name="tb_exercise_list_consume">Calorias queimadas: %1$d. Finalização: %2$s. Toque para ver os detalhes.</string>
@@ -949,8 +949,8 @@ Se esse problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="date">Data</string>
   <string name="delete_record">Excluir registro</string>
   <string name="dialog_user_agreement_purpose2">Bem-vindo ao Xiaomi Health, você pode usar este aplicativo para monitorar seus exercícios, sono, ciclo menstrual, peso, serviços do Xiaomi Health Cloud e outras funções.</string>
-  <string name="exercise_motor_perception">Percepção de movimento com IA</string>
-  <string name="exercise_motor_perception_description">Usa o algoritmo de IA offline combinado com os sensores do telefone e tecnologia de computação de baixo consumo para gravar automaticamente seus movimentos</string>
+  <string name="exercise_motor_perception">Monitre exercícios automaticamente</string>
+  <string name="exercise_motor_perception_description">Carregue seu dispositivo com você durante o dia para monitor seus exercícios automaticamente</string>
   <string name="finish_stand">Finalizar</string>
   <string name="manual_record">Registro manual</string>
   <string name="not_achieve_stand_goals">A meta de ficar em pé não foi atingida</string>
@@ -974,7 +974,7 @@ Se esse problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="stand_notice_title6">Houve alguma atividade em pé na última hora?</string>
   <string name="stand_setting">Configurações</string>
   <string name="tb_click_finish_stand">Ficar em pé não foi finalizado em quase 1 hora, toque para finalizar</string>
-  <string name="tb_stand_card_finish_stand">Hoje, %1$s foi acumulado em relação ao tempo de ficar em pé, a meta é ficar em pé por 12 horas, o tempo atual é %2$s-%3$s. Você conseguiu!</string>
+  <string name="tb_stand_card_finish_stand">Hoje, %1$s foi acumulado ao tempo de ficar em pé, a meta é ficar em pé por 12 horas, o tempo atual é %2$s-%3$s. Você conseguiu!</string>
   <string name="tb_stand_card_not_finish_stand">Hoje, %1$s terminou o tempo de ficar em pé, a meta é ficar em pé por 12 horas, o tempo atual é %2$s-%3$s. O tempo de ficar em pé ainda não foi concluído.</string>
   <string name="tb_stand_day_column_click">%1$s-%2$s completou o tempo de ficar em pé de %3$s</string>
   <string name="tb_stand_day_ring">Hoje, %1$s foi acumulado para completar o tempo de ficar em pé, a meta é ficar em pé por 12 horas</string>
@@ -982,4 +982,28 @@ Se esse problema ocorrer com frequência, verifique se seu dispositivo tem agend
   <string name="tb_stand_wm_column_click">%1$s，ficou em pé %2$d，%3$s</string>
   <string name="time">Tempo</string>
   <string name="write_strorage_perm_description">Registre os problemas que você encontrou durante o uso</string>
+  <string name="audio_permission_dialog_desc">A permissão de gravação de áudio foi fechada, abra ela novamente.</string>
+  <string name="audio_permission_dialog_title">Conceda permissão de gravação de áudio</string>
+  <string name="collapse">Ocultar</string>
+  <string name="dialog_request_network">Por favor, concorde com a Rede de Aplicação.</string>
+  <string name="enable_go_now">Ativado</string>
+  <string name="enable_not_now">Desativado</string>
+  <string name="enable_right_now">Ativado</string>
+  <string name="exercise_record_no_data">Ainda não há itens aqui</string>
+  <string name="expand_all">Mostrar todos</string>
+  <string name="no_snore_1">Você não roncou ou falou durante o sono</string>
+  <string name="not_standing">Não está em pé</string>
+  <string name="sleep_detection_guide_schedule_hint_two_details">Defina a sua hora de ir dormir no Relógio.</string>
+  <string name="sleep_snore_audio_auto">Monitore seu áudio</string>
+  <string name="sleep_snore_audio_auto_desc">Grava você falando enquanto dorme e armazene o arquivo no seu telefone para proteger sua privacidade com segurança.</string>
+  <string name="sleep_snore_audio_close_desc">Você pode desativar essa função nas configurações de sono.</string>
+  <string name="sleep_snore_audio_enable">A detecção está ativada</string>
+  <string name="sleep_snore_audio_enable_desc">Hoje à noite, seu sono será monitorado automaticamente.</string>
+  <string name="sleep_snore_audio_hight_power_desc">Garanta que seu dispositivo esteja com bateria suficiente antes de ir para a cama.</string>
+  <string name="sleep_snore_detection_desc">Monitore seu sono</string>
+  <string name="snore_duration_label">Tempo de ronco</string>
+  <string name="snore_label">Ronco</string>
+  <string name="standing_already">Já está em pé</string>
+  <string name="tb_play_next">Próximo áudio</string>
+  <string name="tb_play_previous">Áudio anterior</string>
   </resources>
