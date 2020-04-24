@@ -930,14 +930,6 @@ Dê uma olhada nos recomendados!"</string>
 	<string name="rcs_search_result_server_data_empty">Não foi possível encontrar mini aplicativos online</string>
 	<string name="rcs_send_hello">Olá!</string>
 	<string name="share">Compartilhar</string>
-	<string name="dialog_title_correct_as_ad">Definir como mensagem de negócios</string>
-	<string name="dialog_title_correct_as_normal">Definir como mensagem normal</string>
-	<string name="home_tab_ad">Negócios</string>
-	<string name="home_tab_common">Normal</string>
-	<string name="menu_correct_as_ad">Definir como negócios</string>
-	<string name="menu_correct_as_normal">Definir como normal</string>
-	<string name="pref_title_collapse_ad_notification">Recolher notificação de mensagem do AD</string>
-	<string name="search_menu_title">Pesquisar</string>
 	<string name="sms_card_partner_label">Parceiro de cartão SMS: "</string>
 	<string name="copy">Copiar</string>
 	<string name="dialog_choice_all_correct_as_normal">Todas as mensagens de %s</string>

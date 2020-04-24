@@ -675,7 +675,6 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
   <string name="sleep_detection_guide_one_title">Monitore seu sono</string>
   <string name="sleep_detection_guide_schedule_hint_one">Sem horário de dormir definido, suas estatísticas não serão precisas.</string>
   <string name="sleep_detection_guide_schedule_hint_two">Defina seu horário de dormir.</string>
-  <string name="sleep_detection_guide_schedule_hint_two_details">É recomendável que você vá trabalhar e não mexa nas configurações do relógio.</string>
   <string name="sleep_detection_guide_three_description">"Quando seu horário de dormir estiver definido, seu sono será monitorado automaticamente. "</string>
   <string name="sleep_detection_guide_three_title">Gere estatísticas automaticamente</string>
   <string name="sleep_detection_guide_two_description">"Para obter estatísticas precisas, coloque o dispositivo ao lado ou embaixo do travesseiro e verifique se ele não fica a mais de 50cm de distância do corpo."</string>
