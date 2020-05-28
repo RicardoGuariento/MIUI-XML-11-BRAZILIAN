@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="fw_blocked">Lista de bloqueio</string>
+    <string name="fw_oversea">Bloquear chamadas internacionais</string>
+    <string name="fw_blocked_count">"Bloqueado "</string>
+    <string name="fw_blocked_join">" e "</string>
+    <string name="fw_oversea_content">Bloquear chamadas recebidas de números internacionais desconhecidos</string>
+    <string name="tab_title">Lista de bloqueio</string>
+    <string name="tab_blacklist">Lista de bloqueio</string>
+    <string name="tab_sms">SMS</string>
     <string name="tab_call">Chamadas</string>
     <string name="bl_no_block_call">Nenhuma chamada bloqueada.</string>
     <string name="bl_no_block_sms">Nenhuma mensagem bloqueada.</string>

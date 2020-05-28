@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ad_downloading">Baixando…</string>
+    <string name="app_name">Plug-in do Serviço de Segurança</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="privacy_declare_dialog_title">Termo de Acordo do Usuário</string>
+    <string name="privacy_prompt_traffic_purchase_message">Seu número de telefone e detalhes da operadora serão criptografados e enviados para os servidores da Mi para obtermos mais informações de opções de compra de dados.</string>
+    <string name="miuishare_title_more">Mais</string>
+    <string name="miuishare_title_share">Compartilhar</string>
+    <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="network_not_available">Não é possível conectar-se à rede</string>
     <string name="no_network_btn">Repetir</string>

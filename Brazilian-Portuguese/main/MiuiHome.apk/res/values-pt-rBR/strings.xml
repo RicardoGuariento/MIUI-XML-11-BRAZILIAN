@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="action_add_to_workspace">Adicionar ao espaço de trabalho</string>
+    <string name="activity_not_found">O aplicativo não está instalado no seu dispositivo</string>
+    <string name="add_screen">Adicionar tela</string>
+	<string name="all_apps_setting_title">Tela inicial</string>
+    <string name="announce_for_app_move_in_folder">Movido para a posição %1$d na pasta</string>
+    <string name="announce_for_checked">%1$s, selecionado</string>
     <string name="announce_for_choose_default_screen">Tela %1$d definida como padrão</string>
     <string name="announce_for_close_default_preview">Configuração de tela inicial padrão fechada</string>
     <string name="announce_for_close_folder">Pasta fechada</string>
