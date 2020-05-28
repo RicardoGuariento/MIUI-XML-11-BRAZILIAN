@@ -5,9 +5,6 @@
     <string name="enable_gpu_debug_layers">Ativar cam. depur. da GPU</string>
     <string name="fsg_demo_back">Voltar</string>
     <string name="fsg_demo_go_on">Aprender</string>
-    <string name="high_temp_dialog_message">"Seu telefone tentará ser resfriado automaticamente. Você ainda pode usar o telefone, mas ele poderá funcionar mais lentamente.
-
-Assim que ele tiver resfriado, ele voltará ao normal."</string>
     <string name="high_temp_notif_message">Alguns recursos serão limitados até que ele resfrie</string>
     <string name="high_temp_title">O telefone está esquentando</string>
     <string name="home">Configurações da tela inicial</string>

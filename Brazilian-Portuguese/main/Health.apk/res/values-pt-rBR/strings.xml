@@ -2,19 +2,6 @@
 <resources>
   <string name="rb_gender_male">Gênero: Masculino</string>
   <string name="tb_exercise_detail_step_w_m_no_data">Sem dados de contagem de passos. Dias em que você atingiu a meta: %1$d.</string>
-  <string name="tb_exercise_goal_info">Meta de exercício diário: %1$s. %2$s</string>
-  <string name="tb_exercise_home_banner">Verificação diária</string>
-  <string name="tb_exercise_label_close">Fechar</string>
-  <string name="tb_exercise_list_add">Adicionar estatísticas de exercício</string>
-  <string name="tb_exercise_list_consume">Calorias queimadas: %1$d. Finalização: %2$s. Toque para ver os detalhes.</string>
-  <string name="tb_exercise_list_sport">%1$s. Distância em quilômetros: %2$s. Finalização: %3$s. Fonte de dados: %4$s. Toque para ver os detalhes.</string>
-  <string name="tb_exercise_list_sport_one">%1$s. Tempo: %2$s. Finalização: %3$s. Fonte de dados: %4$s. Toque para ver os detalhes.</string>
-  <string name="tb_exercise_list_walk">Número de passos: %1$s. Finalização: %2$s. Toque para ver os detalhes.</string>
-  <string name="tb_exercise_sport_no_distance">%1$s. Tempo %2$s. Calorias queimadas: %3$s.</string>
-  <string name="tb_exercise_sport_normal">%1$s. Distância %2$s. Tempo : %3$s. Calorias queimadas: %4$s.</string>
-  <string name="tb_exercise_sport_sum">Relatório de exercício. %1$s. Toque para ver os detalhes.</string>
-  <string name="tb_exercise_steps_no_data">Sem dados de contagem de passos. Metal atual: %1$d. Toque para ver os detalhes.</string>
-  <string name="tb_exercise_steps_no_goal">Número de passos: %1$d. Toque para ver os detalhes.</string>
   <string name="tb_exercise_steps_normal">Número de passos: %1$d. Metal atual: %2$d. Progresso: %3$d porcento.Toque para ver os detalhes.</string>
   <string name="tb_exit_detection">Sair</string>
   <string name="tb_gender_select_checked">Gênero selecionado: %1$s.</string>
