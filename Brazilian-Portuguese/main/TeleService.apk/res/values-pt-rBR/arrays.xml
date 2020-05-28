@@ -1,55 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="animator_duration_scale_entries">
-        <item>Animação desativada</item>
-        <item>Escala de animação 0,5x</item>
-        <item>Escala de animação 1x</item>
-        <item>Escala de animação 1,5x</item>
-        <item>Escala de animação 2x</item>
-        <item>Escala de animação 5x</item>
-        <item>Escala de animação 10x</item>
-    </string-array>
-    <string-array name="app_process_limit_entries">
-        <item>Limite padrão</item>
-        <item>Sem processos em segundo plano</item>
-        <item>No máximo um processo</item>
-        <item>No máximo dois processos</item>
-        <item>No máximo, três processos</item>
-        <item>No máximo quatro processos</item>
-    </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Usar seleção do sistema (padrão)</item>
-        <item>16 bits/amostra</item>
-        <item>24 bits/amostra</item>
-        <item>32 bits/amostra</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Usar seleção do sistema (padrão)</item>
-        <item>16 bits/amostra</item>
-        <item>24 bits/amostra</item>
-        <item>32 bits/amostra</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Usar seleção do sistema (padrão)</item>
-        <item>Mono</item>
-        <item>Estéreo</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Usar seleção do sistema (padrão)</item>
-        <item>Mono</item>
-        <item>Estéreo</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Otimizado para qualidade de áudio</item>
-        <item>Qualidade de áudio e de conexão balanceada</item>
-        <item>Otimizado para qualidade de conexão</item>
-        <item>Melhor resultado (Taxa de bits adaptável)</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Otimizado para qualidade de áudio (990 kbps/909 kbps)</item>
         <item>Qualidade de áudio e de conexão balanceada (660 kbps/606 kbps)</item>

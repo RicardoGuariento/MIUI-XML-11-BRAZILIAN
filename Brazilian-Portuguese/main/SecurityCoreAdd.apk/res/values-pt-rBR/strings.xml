@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Componente de Segurança</string>
-    <string name="switch_data_settings">Mover dados</string>
-    <string name="switch_in_contacts">Importar contatos</string>
-    <string name="switch_in_privacy_contacts">Importar contatos privados</string>
-    <string name="switch_apps_settings">Configurações de aplicativos</string>
-    <string name="switch_in_photos">Importar fotos</string>
-    <string name="switch_in_files">Importar arquivos</string>
-    <string name="not_support_multiple_users">Múltiplos espaços não são suportados</string>
-    <string name="title_choose_app_status">Selecionar tipo de aplicativo</string>
-    <string name="normal_app">Primeiro espaço</string>
-    <string name="hidden_app">Segundo espaço</string>
     <string name="public_app">Ambos os Espaços</string>
     <string name="current_space">Espaço atual</string>
     <string name="switch_in_hidden_space">Importar para o Espaço atual</string>

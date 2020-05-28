@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ErrorTooManyRequests">Processando muitos pedidos. Tente mais tarde</string>
-  <string name="a2dp_sink_mbs_label">Áudio Bluetooth</string>
-  <string name="ack_record">Registo de confirmação</string>
-  <string name="airplane_error_msg">Não é possível utilizar o Bluetooth em Modo Avião</string>
-  <string name="airplane_error_title">Modo Avião</string>
-  <string name="app_name">Bluetooth</string>
-  <string name="auth_notif_message">Insira a chave de sessão para %1$s</string>
-  <string name="auth_notif_ticker">Pedido de autenticação Obex</string>
-  <string name="auth_notif_title">Chave de Sessão</string>
-  <string name="avrcp_cover_art_default_image_type">image</string>
-  <string name="avrcp_cover_art_default_mimetype">JPEG</string>
-  <string name="avrcp_notification_name">BT ADVANCE FEATURE AVRCP</string>
   <string name="bluetooth_a2dp_sink_queue_name">Tocando agora</string>
   <string name="bluetooth_advanced_feat_description">Recurso avançado de navegação Bluetooth</string>
   <string name="bluetooth_connected">Áudio Bluetooth conectado</string>

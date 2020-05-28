@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_cancel">Cancel</string>
-  <string name="action_submit">Send</string>
-  <string name="announcement">Attention</string>
-  <string name="app_empty">"Couldn't find apps."</string>
-  <string name="app_label">Feedback</string>
-  <string name="app_name">Feedback</string>
-  <string name="app_search">Search apps</string>
-  <string name="btn_send">Send</string>
-  <string name="bugreport_dialog_not_show_again">"Don't show again"</string>
   <string name="bugreport_dialog_submit_content">&lt;Data&gt;"You're saving software logs on this device now. Logs may contain personal info and your location data. Don't share logs with anyone else if you don't want this info to be exposed. Selecting \"Agree\" means that you've read and agreed to our &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="bugreport_dump_complete_notification_summary">Tap to view.</string>
   <string name="bugreport_dump_complete_notification_title">Created bug report</string>

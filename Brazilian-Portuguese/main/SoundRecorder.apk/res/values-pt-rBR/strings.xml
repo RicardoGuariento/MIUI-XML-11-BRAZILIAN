@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="alert_message_clear_records">Excluir gravações selecionadas?</string>
-    <string name="alert_message_delete_local_record">Excluir esta gravação?</string>
-    <string name="alert_message_delete_record">Excluir a gravação do dispositivo também a excluirá da Xiaomi Cloud. Excluir agora?</string>
-    <string name="alert_message_delete_record_title">Excluir gravação?</string>
-    <string name="app_name">Gravador</string>
-    <string name="back">Voltar</string>
-    <string name="button_queue_for_wifi">Aguardar</string>
-    <string name="button_start_now">Download</string>
-    <string name="call_record">Chamadas gravadas</string>
-    <string name="clear_records">Excluir gravações sincronizadas</string>
     <string name="cloud_record_open">Sincronizar gravações</string>
     <string name="cloud_record_tip">Sincronizar gravações com a Xiaomi Cloud.</string>
     <string name="cloud_service_state_open_reminder">Ative a sincronização com a Xiaomi Cloud para sincronizar as gravações.</string>

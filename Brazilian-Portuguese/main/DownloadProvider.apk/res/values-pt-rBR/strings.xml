@@ -1,13 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_label">Downloads</string>
-  <string name="auto_restart_under_wifi">Este arquivo será baixado automaticamente por Wi-Fi</string>
-  <string name="button_cancel_download">Cancelar</string>
-  <string name="button_download_now">Baixar agora</string>
-  <string name="button_queue_for_wifi">Em espera</string>
-  <string name="button_start_now">Iniciar agora</string>
-  <string name="button_wait_for_wifi">Aguardar</string>
-  <string name="channel_active">Downloads ativos</string>
   <string name="channel_complete">Download concluído</string>
   <string name="channel_insufficient_space">Espaço insuficiente</string>
   <string name="channel_waiting">Download em espera</string>

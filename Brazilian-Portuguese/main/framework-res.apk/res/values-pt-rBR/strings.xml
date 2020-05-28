@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="cancel">Cancelar</string>
-    <string name="copy">Copiar</string>
-    <string name="copyUrl">Copiar URL</string>
-    <string name="cut">Recortar</string>
     <string name="defaultVoiceMailAlphaTag">Correio de voz</string>
     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-    <string name="emptyPhoneNumber">(Nenhum número de telefone)</string>
-    <string name="httpErrorBadUrl">Não foi possível abrir a página porque o URL é inválido.</string>
     <string name="httpErrorUnsupportedScheme">O protocolo não é compatível.</string>
     <string name="no">Cancelar</string>
     <string name="ok">OK</string>

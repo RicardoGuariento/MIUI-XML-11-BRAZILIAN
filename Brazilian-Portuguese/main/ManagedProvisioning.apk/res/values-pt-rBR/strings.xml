@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="suw_next_button_label">Próxima</string>
-    <string name="suw_back_button_label">Voltar</string>
-    <string name="suw_more_button_label">Mais</string>
-    <string name="app_label">Configuração do perfil de trabalho</string>
-    <string name="provisioning_error_title">Epa!</string>
-    <string name="setup_work_profile">Configurar perfil de trabalho</string>
-    <string name="company_controls_workspace">Sua organização controla este perfil e o mantém protegido. Você controla todo o resto em seu dispositivo.</string>
-    <string name="company_controls_device">Sua organização controla este dispositivo e o mantém em segurança.</string>
     <string name="the_following_is_your_mdm">O seguinte aplicativo precisará acessar este perfil:</string>
     <string name="the_following_is_your_mdm_for_device">O seguinte aplicativo gerenciará seu dispositivo:</string>
     <string name="next">Próximo</string>

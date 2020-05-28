@@ -1,15 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_loaction">Procurar na tela inicial</string>
-  <string name="app_name">Pesquisar</string>
-  <string name="appindex_description">Funções dos aplicativos instalados</string>
-  <string name="appindex_search_label">Funções dos aplicativos</string>
-  <string name="application_desc">Aplicativo</string>
-  <string name="applications_search_label">Aplicativos</string>
-  <string name="apps_search_activity"/>
-  <string name="barcode_install_back">Voltar</string>
-  <string name="barcode_install_cancel">Cancelar</string>
-  <string name="barcode_install_confirm">Instalar</string>
   <string name="barcode_system_unmatch">Atualize a MIUI antes de instalar o Digitalizador</string>
   <string name="barcode_to_install">Instalar o Digitalizador para continuar</string>
   <string name="barcode_uninstalled">O Digitalizador foi desinstalado</string>

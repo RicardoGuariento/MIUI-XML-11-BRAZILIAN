@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Fones de ouvido e efeitos de áudio</string>
-  <string name="eq_auto">Personalizado</string>
-  <string name="eq_blues">Blues</string>
-  <string name="eq_cancel">Cancelar</string>
-  <string name="eq_classical">Clássico</string>
-  <string name="eq_country">Country</string>
-  <string name="eq_dance">Dance</string>
-  <string name="eq_delete">Remover</string>
-  <string name="eq_delete_success">Concluído</string>
   <string name="eq_electronic">Eletrônico</string>
   <string name="eq_flat">Padrão</string>
   <string name="eq_hiphop">Hip Hop</string>

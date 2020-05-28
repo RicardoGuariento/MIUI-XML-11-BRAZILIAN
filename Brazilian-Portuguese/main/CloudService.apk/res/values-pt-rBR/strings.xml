@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="cloud_storage_manage_title">Gerenciar Armazenamento</string>
-    <string name="search_finddevice_pref">Encontrar dispositivo</string>
-    <string name="search_finddevice_pref_key_words">encontrar dispositivo, find device</string>
-    <string name="search_finddevice_pref_desc">Ativar/Desativar Encontrar dispositivo</string>
-    <string name="search_finddevice_pref_path">Conta Mi/Xiaomi Cloud/Encontrar dispositivo</string>
-    <string name="search_cloudbackup_pref">Backup na Xiaomi Cloud</string>
-    <string name="search_cloudbackup_pref_key_words">cloudbackup, backup na nuvem</string>
-    <string name="search_cloudbackup_pref_desc">Ativar/Desativar Backup na Xiaomi Cloud</string>
-    <string name="search_cloudbackup_pref_path">Conta Mi/Xiaomi Cloud/Fazer backup</string>
-    <string name="app_name">Xiaomi Cloud</string>
-	<string name="micloud_main_head_menu_cloud_backup_summary">Layout da tela inicial, aplicativos e configurações do sistema</string>
     <string name="sync_item_sms_title">Sincronizar mensagens</string>
     <string name="sync_item_sms_summary">Sincronizar os SMS enviados e recebidos neste dispositivo</string>
     <string name="sub_sync_item_sms_title_wifi_only">Sincronizar MMS apenas por Wi-Fi</string>

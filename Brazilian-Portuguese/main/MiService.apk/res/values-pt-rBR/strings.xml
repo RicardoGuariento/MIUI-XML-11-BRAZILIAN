@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">Voltar ao início</string>
-  <string name="abc_action_bar_up_description">Voltar</string>
-  <string name="abc_action_menu_overflow_description">Mais opções</string>
-  <string name="abc_action_mode_done">Concluído</string>
-  <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-  <string name="abc_activitychooserview_choose_application">Escolha um aplicativo</string>
-  <string name="abc_capital_off">OFF</string>
   <string name="abc_capital_on">ON</string>
   <string name="abc_font_family_body_1_material">sans-serif</string>
   <string name="abc_font_family_body_2_material">sans-serif-medium</string>
