@@ -2,6 +2,10 @@
 <resources>
   <string name="rb_gender_male">Gênero: Masculino</string>
   <string name="tb_exercise_detail_step_w_m_no_data">Sem dados de contagem de passos. Dias em que você atingiu a meta: %1$d.</string>
+  <string name="tb_exercise_detail_step_w_m_no_goal">Média diária de contagem de passos: %1$d.</string>
+  <string name="tb_exercise_detail_step_w_m_normal">Média diária de contagem de passos: %1$d. Dias em que você atingiu a meta: %2$d.</string>
+  <string name="tb_exercise_exercise_duration">Tempo de exercício em minutos: %1$d. %2$s. Toque para ver detalhes.</string>
+  <string name="tb_exercise_exercise_no_data">Sem informações de tempo de exercício</string>
   <string name="tb_exercise_goal_info">Meta de exercício diário: %1$s. %2$s</string>
   <string name="tb_exercise_home_banner">Verificação diária</string>
   <string name="tb_exercise_label_close">Fechar</string>

@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="search_empty">Nenhum resultado</string>
+    <string name="title_allow_network_access">Atualizar informações automaticamente</string>
     <string name="title_collapse_sp_messages">Agrupar informativos</string>
+    <string name="title_hide_verification_code">Ocultar códigos de verificação na Tela de bloqueio</string>
+    <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
+    <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
+    <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
+    <string name="title_show_photo_word">Atribuir fotos a contatos</string>
+    <string name="title_show_sms_template">Mensagens inteligentes</string>
+    <string name="title_show_sms_template_in">Checar SMS por códigos de verificação</string>
+    <string name="title_timed_message_dialog">Programar mensagem</string>
+    <string name="title_use_gsm_alphabet">Usar alfabeto GSM</string>
+    <string name="to_address_label">"Para: "</string>
+    <string name="to_label">"Para "</string>
+    <string name="to_send_wrapper">A mensagem será enviada às %s</string>
     <string name="toast_pending_hangup_msg">A mensagem será enviada quando a chamada for encerrada</string>
     <string name="today">Hoje</string>
     <string name="too_many_attachments">Não é possível exceder %1$s anexos. Apenas os primeiros %2$s serão adicionados.</string>
