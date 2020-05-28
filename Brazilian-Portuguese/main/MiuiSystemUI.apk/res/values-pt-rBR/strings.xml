@@ -5,6 +5,17 @@
     <string name="enable_gpu_debug_layers">Ativar cam. depur. da GPU</string>
     <string name="fsg_demo_back">Voltar</string>
     <string name="fsg_demo_go_on">Aprender</string>
+    <string name="high_temp_dialog_message">"Seu telefone tentará ser resfriado automaticamente. Você ainda pode usar o telefone, mas ele poderá funcionar mais lentamente.
+
+Assim que ele tiver resfriado, ele voltará ao normal."</string>
+    <string name="high_temp_notif_message">Alguns recursos serão limitados até que ele resfrie</string>
+    <string name="high_temp_title">O telefone está esquentando</string>
+    <string name="home">Configurações da tela inicial</string>
+    <string name="how_to_back_home">Ir à tela inicial</string>
+    <string name="how_to_switch_recents">Abrir aplicativos recentes</string>
+    <string name="how_to_use_drawer">Como abrir o menu deslizante</string>
+    <string name="how_to_use_drawer_summary">Deslize para a direita na parte superior da tela</string>
+    <string name="how_to_use_fsg">Você pode executar as seguintes ações usando gestos:</string>
     <string name="ime_security_warning">%1$s pode gravar tudo o que você digitar, inclusive senhas, números de cartões de crédito e outros dados pessoais.</string>
     <string name="immediately_destroy_activities">Não manter atividades</string>
     <string name="immediately_destroy_activities_summary">Encerrar atividades assim que o usuário sair dela</string>

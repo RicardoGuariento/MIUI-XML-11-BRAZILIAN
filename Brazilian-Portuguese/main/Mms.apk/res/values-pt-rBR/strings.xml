@@ -2,6 +2,11 @@
 <resources>
     <string name="search_empty">Nenhum resultado</string>
     <string name="title_collapse_sp_messages">Agrupar informativos</string>
+    <string name="undelivered_msg_dialog_body">"Não foi possível enviar esta mensagem.
+Tentativas efetuadas: %s."</string>
+    <string name="undelivered_msg_dialog_title">Mensagem não entregue</string>
+    <string name="undelivered_sms_dialog_body">Não foi possível enviar esta mensagem.</string>
+    <string name="unknown_num">Número desconhecido</string>
     <string name="unknown_sender">Remetente desconhecido</string>
     <string name="unstick">Desafixar</string>
     <string name="unstick_conversation">Desafixar conversa atual</string>

@@ -5,6 +5,11 @@
     <string name="auto_brightness_high_title">Alto</string>
     <string name="background_data">Dados de segundo plano</string>
     <string name="backup_configure_account_default_summary">Nenhuma conta está armazenando o backup dos dados</string>
+    <string name="backup_data_summary">Fazer backup de dados de aplicativos, senhas de redes Wi-Fi e outras configurações nos servidores do Google</string>
+    <string name="backup_data_title">Fazer backup</string>
+    <string name="backup_disabled">Backup desativado</string>
+    <string name="backup_erase_dialog_message">Interromper o backup de suas senhas de redes Wi-Fi, favoritos, outras configurações e dados de aplicativos e apagar todas as cópias nos servidores do Google?</string>
+    <string name="backup_erase_dialog_title" />
     <string name="backup_inactive_title">O serviço de backup não está ativo</string>
     <string name="backup_pw_cancel_button_text">Cancelar</string>
     <string name="backup_pw_set_button_text">Definir a senha de backup</string>
