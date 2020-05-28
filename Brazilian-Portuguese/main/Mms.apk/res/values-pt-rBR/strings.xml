@@ -2,22 +2,6 @@
 <resources>
     <string name="search_empty">Nenhum resultado</string>
     <string name="title_collapse_sp_messages">Agrupar informativos</string>
-    <string name="url_result_safe">Esta URL é segura</string>
-    <string name="url_scan_again">Verificar novamente</string>
-    <string name="url_scanning">Verificando URL…</string>
-    <string name="user_agreement">Contrato do Usuário</string>
-    <string name="verification_code_list_title">Códigos de verificação</string>
-    <string name="view">Ver</string>
-    <string name="view_bookmark">Ver mensagem original</string>
-    <string name="view_message_details">Ver detalhes</string>
-    <string name="wap_push_title">"[WAP Push] "</string>
-    <string name="warning_show">Enviar em %ds</string>
-    <string name="wild_msg_processing">Trabalhando…</string>
-    <string name="wild_msg_title">Escolha os números a sincronizar</string>
-    <string name="yes">OK</string>
-    <string name="yesterday">Ontem</string>
-	<string name="dialog_sim_locked_message">"Seu cartão SIM não está totoalmente operacional com esse telefone porque ele não se enquadra nos termos e condições de seu cadastro. Se você tiver qualquer dúvida ou precisar de mais informações sobre isso, entre em contato com os centros de serviços Xiaomi ou com a loja que lhe vendeu o produto."</string>
-	<string name="recipients_contain_sub_sim_number">"Parece que há um número SIM secundário entre os destinatários. Enviar essa mensagem usando o SIM secundário."</string>
     <string name="sub_sim_not_support_mms">"Não é possível enviar MMS usando o SIM secundário"</string>
 	<string name="alarm_clock_ringtones_successful">Alarme definido com sucesso</string>
 	<string name="character_counter_content_description">Limite de caracteres excedido em %1$d de %2$d</string>
