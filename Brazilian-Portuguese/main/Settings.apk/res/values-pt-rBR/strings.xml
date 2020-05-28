@@ -4,8 +4,6 @@
     <string name="app_launch_other_defaults_title">Outros padrões</string>
     <string name="auto_brightness_high_title">Alto</string>
     <string name="background_data">Dados de segundo plano</string>
-    <string name="background_data_dialog_message">A desativação dos dados de segundo plano estende a vida útil da bateria e diminui o uso dos dados. Alguns aplicativos ainda podem usar a conexão de dados de segundo plano.</string>
-    <string name="background_data_dialog_title">Des. dados 2º plan.?</string>
     <string name="background_data_summary">Aplicat. sincronizam, enviam e recebem dados a qualquer hora</string>
     <string name="background_process_stop_description">Este é um processo de aplicativo antigo que ainda está em execução caso seja necessário novamente. Geralmente, não há motivo para interrompê-lo.</string>
     <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em segundo plano para este aplicativo pode fazer com este aplicativo não funcione normalmente, receba mensagens, faça download de conteúdos, etc. Restringir mesmo assim?</string>
