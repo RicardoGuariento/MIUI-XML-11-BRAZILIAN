@@ -5,6 +5,9 @@
     <string name="enable_gpu_debug_layers">Ativar cam. depur. da GPU</string>
     <string name="fsg_demo_back">Voltar</string>
     <string name="fsg_demo_go_on">Aprender</string>
+    <string name="input_password_after_boot_msg_must_enter_owner_space">Você precisa acessar o primeiro espaço depois do dispositivo ser reiniciado</string>
+    <string name="input_password_hint_text">Inserir senha</string>
+    <string name="input_pattern_hint_text">Desenhe seu padrão de desbloqueio</string>
     <string name="input_pin_code">Inserir PIN</string>
     <string name="input_puk_code">Inserir PUK</string>
     <string name="install_other_apps">Instalar aplicativos desconhecidos</string>

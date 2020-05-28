@@ -2,6 +2,9 @@
 <resources>
   <string name="rb_gender_male">Gênero: Masculino</string>
   <string name="tb_exercise_detail_step_w_m_no_data">Sem dados de contagem de passos. Dias em que você atingiu a meta: %1$d.</string>
+  <string name="tb_mens_month_history">Duração média do período em dias: %1$d. Duração média do ciclo em dias: %2$d.</string>
+  <string name="tb_mens_month_marked">%1$s. O ciclo menstrual está marcado.</string>
+  <string name="tb_mens_month_no_marks">%1$s. O status não está marcado</string>
   <string name="tb_mens_month_panel_title">%1$s. Toque para alterar a data.</string>
   <string name="tb_mens_month_period_date_selected">%1$s. Dia %2$d do ciclo menstrual. Selecionado.</string>
   <string name="tb_mens_month_period_date_unselected">%1$s. Dia %2$d do ciclo menstrual. Toque para selecionar a data.</string>
