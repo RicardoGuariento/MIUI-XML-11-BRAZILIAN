@@ -2,6 +2,15 @@
 <resources>
     <string name="search_empty">Nenhum resultado</string>
     <string name="title_collapse_sp_messages">Agrupar informativos</string>
+    <string name="unknown_sender">Remetente desconhecido</string>
+    <string name="unstick">Desafixar</string>
+    <string name="unstick_conversation">Desafixar conversa atual</string>
+    <string name="unsticked_conversation">A conversa já foi desafixada</string>
+    <string name="unsubscribe">Desinscrever-se</string>
+    <string name="unsupported_media_format">Formato de %1$s não suportado.</string>
+    <string name="updating">Atualizando…</string>
+    <string name="url_fraud_dangerous_alert">"O website que você está tentando acessar pode ser perigoso. Ele pode possivelmente danificar seu dispositivo ou seus dados. Acessar mesmo assim?
+%s"</string>
     <string name="url_fraud_risky_alert">"O website %s que você está tentando acessar pode ser perigoso. Acessá-lo mesmo assim?
 "</string>
     <string name="url_fraud_title">O website pode ser falso</string>
