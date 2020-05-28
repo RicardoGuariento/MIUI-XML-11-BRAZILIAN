@@ -5,8 +5,6 @@
     <string name="auto_brightness_high_title">Alto</string>
     <string name="background_data">Dados de segundo plano</string>
     <string name="backup_configure_account_default_summary">Nenhuma conta está armazenando o backup dos dados</string>
-    <string name="band_mode_set">Definir</string>
-    <string name="band_mode_succeeded">Feito</string>
     <string name="band_mode_title">Definir modo de frequência de rádio</string>
     <string name="baseband_version">Versão da banda de base</string>
     <string name="batch_delete_saved_network">Excluir redes selecionadas: %s?</string>

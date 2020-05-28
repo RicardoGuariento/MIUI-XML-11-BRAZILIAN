@@ -13,10 +13,6 @@
     <string name="msim_default_setting">Configurações padrão</string>
     <string name="msim_disable_sim_card_summary_default_card">Este cartão está definido como padrão. Se parar de usá-lo, não será possível fazer chamadas ou usar os dados móveis. Você pode parar este cartão SIM depois de definir outro como seu cartão SIM padrão.</string>
     <string name="msim_disable_sim_card_summary_non_default_card">Você não será capaz de fazer chamadas ou usar sua conexão de dados móveis. Parar de usar o cartão SIM %s?</string>
-    <string name="network_query_error">Erro ao pesquisar por redes.</string>
-    <string name="network_select_title">Rede</string>
-    <string name="network_settings_auto_select_title">Selecionar rede manualmente?</string>
-    <string name="network_settings_automatically_option">Escolher rede preferencial automaticamente (%s)</string>
     <string name="network_settings_confirm_message">Seu dispositivo será desconectado da rede atual durante a pesquisa de redes disponíveis.</string>
     <string name="network_settings_data_connected_change">Os dados móveis serão desativados automaticamente enquanto seu dispositivo está pesquisando redes móveis disponíveis.</string>
     <string name="network_settings_duringcall">Operação não permitida durante uma chamada</string>
