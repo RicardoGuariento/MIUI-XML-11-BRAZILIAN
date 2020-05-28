@@ -2,18 +2,6 @@
 <resources>
   <string name="rb_gender_male">Gênero: Masculino</string>
   <string name="tb_exercise_detail_step_w_m_no_data">Sem dados de contagem de passos. Dias em que você atingiu a meta: %1$d.</string>
-  <string name="tb_exercise_steps_normal">Número de passos: %1$d. Metal atual: %2$d. Progresso: %3$d porcento.Toque para ver os detalhes.</string>
-  <string name="tb_exit_detection">Sair</string>
-  <string name="tb_gender_select_checked">Gênero selecionado: %1$s.</string>
-  <string name="tb_gender_select_unchecked">Gênero %1$s, toque para selecionar</string>
-  <string name="tb_go_back_today">Voltar para hoje</string>
-  <string name="tb_go_forward_30_day">Passar trinta 0 dias</string>
-  <string name="tb_go_forward_a_day">Próximo dia</string>
-  <string name="tb_go_next_30_day">Voltar 30 dias</string>
-  <string name="tb_go_next_7_day">Voltar 7 dias</string>
-  <string name="tb_go_next_a_day">Dia anterior</string>
-  <string name="tb_go_on_detection">Resume</string>
-  <string name="tb_has_snore_dream_talk">Ronco e fala detectados</string>
   <string name="tb_home_exercise_card_finish">Exercício. %1$s. Completado: %2$s. Meta: %3$s. Completado: %4$s.</string>
   <string name="tb_home_exercise_card_not_set_goal">Exercício. %1$s. Completado: %2$s. Meta aberta.</string>
   <string name="tb_home_exercise_card_not_supported_step">Exercício. Este dispositivo não faz contagem de passos.</string>
