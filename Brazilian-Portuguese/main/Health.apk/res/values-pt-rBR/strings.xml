@@ -2,23 +2,6 @@
 <resources>
   <string name="rb_gender_male">Gênero: Masculino</string>
   <string name="tb_exercise_detail_step_w_m_no_data">Sem dados de contagem de passos. Dias em que você atingiu a meta: %1$d.</string>
-  <string name="tb_home_exercise_card_finish">Exercício. %1$s. Completado: %2$s. Meta: %3$s. Completado: %4$s.</string>
-  <string name="tb_home_exercise_card_not_set_goal">Exercício. %1$s. Completado: %2$s. Meta aberta.</string>
-  <string name="tb_home_exercise_card_not_supported_step">Exercício. Este dispositivo não faz contagem de passos.</string>
-  <string name="tb_home_exercise_card_speed_of_progress">Exercício. %1$s. Completado: %2$s. Meta: %3$s. Progresso: %4$s.</string>
-  <string name="tb_home_sleep_card">Sono. %1$s hoje. Foi para a cama às %2$s. Acordou às %3$s. %4$s.</string>
-  <string name="tb_home_sleep_card_no_data">Sono. Sem dados para hoje.</string>
-  <string name="tb_home_sleep_card_not_open_trace">Sono. A análise do ciclo de sono está desativada.</string>
-  <string name="tb_home_tip_open_data_sync">Sincronize os itens do Xiaomi Health com a Xiaomi Cloud para acessá-los em outros dispositivos. Toque duas vezes para começar.</string>
-  <string name="tb_home_weight_card">Peso. %1$.1f quilos. Tempo de pesagem: %2$s. Status: %3$s.</string>
-  <string name="tb_home_weight_card_no_data">Peso. Sem dados.</string>
-  <string name="tb_manage_home">Aqui você pode remover ou reorganizar os cartões exibidos na página inicial.</string>
-  <string name="tb_mens_month_date_selected">%1$s selecionado.</string>
-  <string name="tb_mens_month_date_unselected">%1$s. Toque para selecionar a data.</string>
-  <string name="tb_mens_month_expected_date_selected">%1$s. Dia %2$d do ciclo previsto. Selecionado.</string>
-  <string name="tb_mens_month_expected_date_unselected">%1$s. Dia %2$d do ciclo previsto. Toque para selecionar a data.</string>
-  <string name="tb_mens_month_forecast">%1$s. Período esperado.</string>
-  <string name="tb_mens_month_future_date">%1$s. Não é possível selecionar datas futuras.</string>
   <string name="tb_mens_month_history">Duração média do período em dias: %1$d. Duração média do ciclo em dias: %2$d.</string>
   <string name="tb_mens_month_marked">%1$s. O ciclo menstrual está marcado.</string>
   <string name="tb_mens_month_no_marks">%1$s. O status não está marcado</string>
