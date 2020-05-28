@@ -5,6 +5,38 @@
     <string name="enable_gpu_debug_layers">Ativar cam. depur. da GPU</string>
     <string name="fsg_demo_back">Voltar</string>
     <string name="fsg_demo_go_on">Aprender</string>
+    <string name="input_pin_code">Inserir PIN</string>
+    <string name="input_puk_code">Inserir PUK</string>
+    <string name="install_other_apps">Instalar aplicativos desconhecidos</string>
+    <string name="installer_cd_button_title">Instale o aplicativo Android File Transfer para Mac</string>
+    <string name="instant_apps">Aplicativos instantâneos</string>
+    <string name="instant_apps_message">Aplicativos instantâneos não exigem instalação.</string>
+    <string name="interruption_level_alarms">Apenas alarmes</string>
+    <string name="interruption_level_alarms_twoline">"Apenas
+alarmes"</string>
+    <string name="interruption_level_none">Silêncio total</string>
+    <string name="interruption_level_none_twoline">"Silêncio total"</string>
+    <string name="interruption_level_none_with_warning">Silêncio total. Isto também silenciará leitores de tela.</string>
+    <string name="interruption_level_priority">Apenas prioridades</string>
+    <string name="interruption_level_priority_twoline">"Apenas
+prioridades"</string>
+    <string name="invalid_charger">"Carregamento USB não suportado.
+Use somente o carregador fornecido."</string>
+    <string name="invalid_charger_text">Use apenas o carregador fornecido.</string>
+    <string name="invalid_charger_title">Carregamento USB não suportado.</string>
+    <string name="invalid_confirm_pin_hint">Os PINs não correspondem</string>
+    <string name="invalid_sim_pin_hint">O PIN deve conter de 4 a 8 números</string>
+    <string name="invalid_sim_puk_hint">O PUK deve conter no mínimo 8 números</string>
+    <string name="keep_screen_on">Permanecer ativo</string>
+    <string name="keep_screen_on_summary">A tela nunca entrará em inatividade enquanto estiver carregando</string>
+    <string name="keyboard_key_back">Voltar</string>
+    <string name="keyboard_key_backspace">Backspace</string>
+    <string name="keyboard_key_button_template">Botão %1$s</string>
+    <string name="keyboard_key_dpad_center">Centro</string>
+    <string name="keyboard_key_dpad_down">Baixo</string>
+    <string name="keyboard_key_dpad_left">Esquerda</string>
+    <string name="keyboard_key_dpad_right">Direita</string>
+    <string name="keyboard_key_dpad_up">Cima</string>
     <string name="keyboard_key_enter">Enter</string>
     <string name="keyboard_key_forward_del">Delete</string>
     <string name="keyboard_key_home">Início</string>
