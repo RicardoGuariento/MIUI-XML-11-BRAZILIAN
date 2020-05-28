@@ -5,6 +5,21 @@
     <string name="enable_gpu_debug_layers">Ativar cam. depur. da GPU</string>
     <string name="fsg_demo_back">Voltar</string>
     <string name="fsg_demo_go_on">Aprender</string>
+    <string name="guest_wipe_session_title">Bem-vindo novamente, convidado!</string>
+    <string name="guest_wipe_session_wipe">Começar do zero</string>
+	<string name="gxzw_area">Leitor de impressão digital</string>
+    <string name="gxzw_press_harder">Pressione um pouco mais forte</string>
+    <string name="gxzw_try_again">Tente novamente</string>
+    <string name="gxzw_try_more_again">Tente novamente</string>
+    <string name="gxzw_use_password">Use sua senha para desbloquear</string>
+    <string name="hdcp_checking_dialog_title">Config. a verificação HDCP</string>
+    <string name="hdcp_checking_title">Verificação HDCP</string>
+    <string name="headset">Headset</string>
+    <string name="help_feedback_label">Ajuda e feedback</string>
+    <string name="hidden_notifications_cancel">Não, obrigado</string>
+    <string name="hidden_notifications_setup">Configurar</string>
+    <string name="hidden_notifications_text">Veja-as antes de desbloquear</string>
+    <string name="hidden_notifications_title">Obtenha notificações mais rápido</string>
     <string name="high_temp_dialog_message">"Seu telefone tentará ser resfriado automaticamente. Você ainda pode usar o telefone, mas ele poderá funcionar mais lentamente.
 
 Assim que ele tiver resfriado, ele voltará ao normal."</string>

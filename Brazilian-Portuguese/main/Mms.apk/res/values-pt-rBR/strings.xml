@@ -2,6 +2,19 @@
 <resources>
     <string name="search_empty">Nenhum resultado</string>
     <string name="title_collapse_sp_messages">Agrupar informativos</string>
+    <string name="toast_pending_hangup_msg">A mensagem será enviada quando a chamada for encerrada</string>
+    <string name="today">Hoje</string>
+    <string name="too_many_attachments">Não é possível exceder %1$s anexos. Apenas os primeiros %2$s serão adicionados.</string>
+    <string name="too_many_recipients">A mensagem tem muitos destinatários (%1$s). Você não pode ter mais de %2$s destinatários.</string>
+    <string name="too_many_unsent_mms">Não é possível enviar a mensagem no momento. Há muitas mensagens multimídia não enviadas.</string>
+    <string name="try_to_send">Tentar enviar</string>
+    <string name="type_attachment">anexo</string>
+    <string name="type_audio">áudio</string>
+    <string name="type_picture">imagem</string>
+    <string name="type_to_compose_text_enter_to_send">Digitar mensagem</string>
+    <string name="type_to_compose_text_or_leave_blank">Digite uma mensagem, ou deixe-a em branco</string>
+    <string name="type_vcard">vCard</string>
+    <string name="type_video">vídeo</string>
     <string name="undelivered_msg_dialog_body">"Não foi possível enviar esta mensagem.
 Tentativas efetuadas: %s."</string>
     <string name="undelivered_msg_dialog_title">Mensagem não entregue</string>

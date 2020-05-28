@@ -4,7 +4,13 @@
     <string name="app_launch_other_defaults_title">Outros padrões</string>
     <string name="auto_brightness_high_title">Alto</string>
     <string name="background_data">Dados de segundo plano</string>
+    <string name="background_data_summary">Aplicat. sincronizam, enviam e recebem dados a qualquer hora</string>
+    <string name="background_process_stop_description">Este é um processo de aplicativo antigo que ainda está em execução caso seja necessário novamente. Geralmente, não há motivo para interrompê-lo.</string>
+    <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em segundo plano para este aplicativo pode fazer com este aplicativo não funcione normalmente, receba mensagens, faça download de conteúdos, etc. Restringir mesmo assim?</string>
+    <string name="background_traffic">%s em segundo plano</string>
+    <string name="backtouch_enable_title">Ajustar volume na traseira</string>
     <string name="backup_configure_account_default_summary">Nenhuma conta está armazenando o backup dos dados</string>
+    <string name="backup_configure_account_title">Conta de backup</string>
     <string name="backup_data_summary">Fazer backup de dados de aplicativos, senhas de redes Wi-Fi e outras configurações nos servidores do Google</string>
     <string name="backup_data_title">Fazer backup</string>
     <string name="backup_disabled">Backup desativado</string>
